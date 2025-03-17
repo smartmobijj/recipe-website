@@ -1,0 +1,37 @@
+{
+    "title": "Easy Turkish Delight",
+    "file_name": "easy-turkish-delight",
+    "url": "https://www.allrecipes.com/recipe/242237/easy-turkish-delight/",
+    "cuisine": "Turkish",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Turkey",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "35",
+        "calories": "87 Calories"
+    },
+    "ingredients": [
+        "3 cups water",
+        "2 cups white sugar",
+        "¼ cup unflavored gelatin",
+        "1 ½ cups confectioners' sugar, sifted",
+        "⅔ cup corn flour",
+        "¼ teaspoon cream of tartar",
+        "½ teaspoon rose water",
+        "3 drops pink food coloring, or as desired",
+        "¾ cup confectioners' sugar, sifted"
+    ],
+    "method": [
+        "Step 1: Combine water, white sugar, and gelatin in a large microwave-safe bowl; heat in microwave on high for 7 minutes. Stir sugar mixture and cook in microwave for 7 minutes more.",
+        "Step 2: Mix 1 1/2 cups confectioners' sugar, corn flour, and cream of tartar together in a bowl; stir into sugar mixture. Heat mixture in microwave on high for 6 minutes more. Stir rose water and food coloring into mixture.",
+        "Step 3: Lightly grease a 7x11-inch baking dish. Pour mixture into the greased dish; refrigerate until firm, about 30 minutes.",
+        "Step 4: Cut Turkish delight into small squares using a wet knife.",
+        "Step 5: Place 3/4 cup confectioners' sugar in a bowl. Roll Turkish delight in the confectioners' sugar until evenly coated. Store in an airtight container in the refrigerator."
+    ],
+    "image": "images/easy-turkish-delight.jpg"
+}

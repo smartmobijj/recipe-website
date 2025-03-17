@@ -1,0 +1,40 @@
+{
+    "title": "Chinese Lion's Head Soup",
+    "file_name": "chinese-lion's-head-soup",
+    "url": "https://www.allrecipes.com/recipe/135367/chinese-lions-head-soup/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "431 Calories"
+    },
+    "ingredients": [
+        "1 pound ground pork",
+        "1  egg",
+        "1 tablespoon cornstarch",
+        "2 teaspoons sesame oil",
+        "1 tablespoon minced fresh ginger root",
+        "¼ teaspoon monosodium glutamate (MSG) (Optional)",
+        "1 teaspoon salt",
+        "2  green onions, chopped and divided",
+        "1 tablespoon vegetable oil",
+        "1 head napa cabbage, cored and cut into chunks",
+        "2 cups low-sodium chicken broth",
+        "2 cups water, or as needed",
+        "1 tablespoon soy sauce",
+        "2 teaspoons sesame oil"
+    ],
+    "method": [
+        "Step 1: Mix the ground pork, egg, cornstarch, 2 teaspoons of sesame oil, ginger, monosodium glutamate, salt, and half of the chopped green onions together in a bowl. Use your hands to mix until the ingredients are evenly distributed. Set aside.",
+        "Step 2: Heat the vegetable oil in a wok or large skillet over high heat. When the oil is hot, fry the napa cabbage, stirring constantly, until cabbage begins to wilt, 2 to 3 minutes. Pour in the chicken broth, water, and soy sauce. Bring to a boil, then lower the heat to medium.",
+        "Step 3: Use a spoon to form the meat mixture into 1 inch balls. Drop them into the boiling soup. When the last ball has been added, cover with a lid and simmer for 10 minutes. Taste, and adjust salt before serving. Garnish with remaining green onions and a drizzle of sesame oil."
+    ],
+    "image": "images/chinese-lion's-head-soup.jpg"
+}

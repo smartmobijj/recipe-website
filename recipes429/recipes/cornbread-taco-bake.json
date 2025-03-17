@@ -1,0 +1,37 @@
+{
+    "title": "Cornbread Taco Bake",
+    "file_name": "cornbread-taco-bake",
+    "url": "https://www.allrecipes.com/cornbread-taco-bake-recipe-8623032",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "724 Calories"
+    },
+    "ingredients": [
+        "1 pound ground beef",
+        "3 tablespoons taco seasoning",
+        "1 (10 ounce) tomatoes with green chilies",
+        "1 (8.75 ounce) can corn, drained",
+        "1 (15.5 ounce) can chili beans",
+        "4 ounces heddar cheese, shredded",
+        "1 (8.5 ounce) cornbread mix",
+        "1 large egg",
+        "1/3 cup milk",
+        "sour cream"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: In a deep cast iron skillet, cook beef over medium heat until no longer pink, breaking it into crumbles, 5 to 7 minutes. Drain off excess grease. Stir in taco seasoning, tomatoes with green chilies, corn, and chili beans. Stir in Cheddar cheese.",
+        "Step 3: Stir cornbread mix, egg, and milk together in a bowl. Spread batter over beef mixture.",
+        "Step 4: Bake in the preheated oven until a toothpick inserted near the center of cornbread comes out clean, about 25 minutes. Garnish each serving with sour cream and chopped green onions. Serve immediately."
+    ],
+    "image": "images/cornbread-taco-bake.jpg"
+}

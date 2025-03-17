@@ -1,0 +1,39 @@
+{
+    "title": "New Year Black-Eyed Peas",
+    "file_name": "new-year-black-eyed-peas",
+    "url": "https://www.allrecipes.com/recipe/213029/new-year-black-eyed-peas/",
+    "cuisine": "Kenyan",
+    "difficulty": "Easy",
+    "cooking_time": "35 minutes",
+    "country": "Kenya",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "3 hrs",
+        "total_time": "11 hrs 15 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "307 Calories"
+    },
+    "ingredients": [
+        "1 pound dry black-eyed peas",
+        "2 tablespoons olive oil",
+        "1 large yellow onion, diced",
+        "2 cloves garlic, minced",
+        "2 (32 ounce) cartons chicken broth",
+        "8 cups water",
+        "1 pound smoked ham hocks",
+        "1 (14.5 ounce) can diced tomatoes",
+        "5  pepperoncini peppers",
+        "1  bay leaf",
+        "½ teaspoon garlic powder",
+        "¼ teaspoon ground thyme",
+        "salt and pepper to taste"
+    ],
+    "method": [
+        "Step 1: Place black-eyed peas into a large container and cover with several inches of cool water; let soak at room temperature, 8 hours to overnight. Drain and rinse; set aside.",
+        "Step 2: Heat olive oil in a large stockpot over medium heat. Add onion and garlic; cook and stir until onion becomes translucent, about 5 minutes. Pour in broth and water; bring to a boil, then reduce heat to a simmer. Stir in black-eyed peas, ham hocks, tomatoes, pepperoncini, bay leaf, garlic powder, thyme, salt, and pepper.",
+        "Step 3: Cover and simmer until peas are tender, ham meat is falling off the bones, and broth is thickened, about 3 hours."
+    ],
+    "image": "images/new-year-black-eyed-peas.jpg"
+}

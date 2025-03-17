@@ -1,0 +1,36 @@
+{
+    "title": "Mac and Cheese Pizza",
+    "file_name": "mac-and-cheese-pizza",
+    "url": "https://www.allrecipes.com/recipe/228416/mac-n-cheese-pizza/",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "30 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "411 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "1 ½ cups elbow macaroni",
+        "¼ cup unsalted butter",
+        "1 tablespoon all-purpose flour",
+        "1 cup milk, or as needed",
+        "12 ounces processed cheese food (such as Velveeta), cubed",
+        "1 (11 ounce) package refrigerated pizza crust",
+        "½ cup shredded mozzarella cheese"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C). Coat a 10x15-inch baking sheet with cooking spray.",
+        "Step 2: Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes. Drain.",
+        "Step 3: Melt butter in a large saucepan over medium heat. Add flour; cook and stir until slightly toasted and fragrant, about 2 minutes. Whisk in enough milk to reach desired consistency; simmer until thickened, whisking constantly, 2 minutes. Stir in processed cheese cubes until melted and smooth, stirring often.",
+        "Step 4: Unroll pizza crust; place on the prepared baking sheet. Spread about 3/4 cup cheese sauce on crust. Stir cooked macaroni into remaining cheese sauce; spoon onto crust in an even layer. Sprinkle pizza with mozzarella cheese.",
+        "Step 5: Bake in the preheated oven until crust is lightly browned and mozzarella is golden brown, about 15 minutes."
+    ],
+    "image": "images/mac-and-cheese-pizza.jpg"
+}

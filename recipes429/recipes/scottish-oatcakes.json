@@ -1,0 +1,39 @@
+{
+    "title": "Scottish Oatcakes",
+    "file_name": "scottish-oatcakes",
+    "url": "https://www.allrecipes.com/recipe/264561/scottish-oatcakes/",
+    "cuisine": "Nigerian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "1 hr 40 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "289 Calories"
+    },
+    "ingredients": [
+        "1 cup rolled oats",
+        "1 cup heavy cream",
+        "1 teaspoon lemon zest",
+        "2 teaspoons lemon juice",
+        "1 teaspoon honey, or to taste",
+        "1 large egg",
+        "¼ teaspoon fine salt",
+        "¼ teaspoon baking soda",
+        "¼ cup self-rising flour",
+        "¼ cup melted butter"
+    ],
+    "method": [
+        "Step 1: Bring oats and heavy cream to a simmer in a pot over medium-high heat. Stir and cook for 1 minute and turn off the heat. Let cool to room temperature, at least 10 minutes.",
+        "Step 2: Transfer oat mixture into a bowl. Add lemon zest and lemon juice. Drizzle in honey and crack in an egg. Add salt and baking soda. Mix thoroughly with a spatula. Stir in flour until no dry spots remain. Cover and let rest for at least 1 hour.",
+        "Step 3: Heat butter in a skillet over medium heat. Scoop spoonfuls of oat mixture into the hot skillet and flatten to your desired thickness. Cook until browned and tops spring back when touched, 3 to 4 minutes per side.",
+        "Step 4: I used the regular rolled oats, but if you have to use the instant ones, I probably wouldn't cook them. I'd just mix them with the cream, and let it sit until the mixture thickened up. By the way, this is just a theory, as I haven't attempted this switch.",
+        "Step 5: If you don't have self-rising flour, just add 1/4 cup of all-purpose flour, plus 1/2 teaspoon of baking powder, and an extra pinch of salt.",
+        "Step 6: Feel free to cook the oat mixture immediately or refrigerate it overnight before cooking. The longer you wait, the creamier the insides of the oatcakes will be."
+    ],
+    "image": "images/scottish-oatcakes.jpg"
+}

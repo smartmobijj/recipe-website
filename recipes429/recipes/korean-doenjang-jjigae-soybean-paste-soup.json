@@ -1,0 +1,33 @@
+{
+    "title": "Korean Doenjang-Jjigae (Soybean Paste Soup)",
+    "file_name": "korean-doenjang-jjigae-soybean-paste-soup",
+    "url": "https://www.allrecipes.com/recipe/212699/quick-and-simple-korean-doenjang-chigae-bean-pastetofu-soup/",
+    "cuisine": "Korean",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "South Korea",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "59 Calories"
+    },
+    "ingredients": [
+        "3 cups vegetable stock",
+        "3 cups water",
+        "2 cloves garlic, coarsely chopped",
+        "2 tablespoons Korean soy bean paste (doenjang)",
+        "½ (16 ounce) package firm tofu, drained and cubed",
+        "4  green onions, chopped",
+        "1  zucchini, halved and cut into 1/2-inch slices",
+        "1  jalapeno pepper, sliced"
+    ],
+    "method": [
+        "Step 1: Bring vegetable stock and water to a boil in a saucepan over high heat. Stir in garlic and soybean paste, stirring until the paste dissolves.",
+        "Step 2: Stir in tofu, green onion, zucchini, and jalapeño. Allow soup to return to a boil, then reduce heat to low and simmer for 15 minutes."
+    ],
+    "image": "images/korean-doenjang-jjigae-soybean-paste-soup.jpg"
+}

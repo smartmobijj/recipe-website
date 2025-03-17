@@ -1,0 +1,37 @@
+{
+    "title": "Halloween Popcorn Pumpkins",
+    "file_name": "halloween-popcorn-pumpkins",
+    "url": "https://www.allrecipes.com/recipe/127501/halloween-popcorn-pumpkins/",
+    "cuisine": "Russian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "5 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "328 Calories"
+    },
+    "ingredients": [
+        "5 cups popped popcorn",
+        "1 cup candy corn",
+        "1 cup chopped salted peanuts",
+        "½ cup butter or margarine",
+        "3 cups miniature marshmallows",
+        "4 drops red food coloring",
+        "3 drops yellow food coloring",
+        "4 sticks red or black licorice, cut into thirds"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Grease a muffin pan and set aside.",
+        "Step 2: Place popcorn, candy corn and peanuts into a large bowl and set aside.",
+        "Step 3: Melt the butter in a large saucepan over medium heat. Stir in marshmallows, red food coloring and yellow food coloring, adjusting color if needed to get a nice shade of orange.",
+        "Step 4: When the marshmallows are completely melted, pour over the popcorn and stir to evenly distribute the candy, nuts and marshmallow.",
+        "Step 5: Use a greased spoon to fill the muffin cups. Insert a piece of licorice to act as the stem, and mold the popcorn around it.",
+        "Step 6: Let stand until firm, 10 to 15 minutes, and then pull the pumpkins out by their stems and admire your pumpkin patch!"
+    ],
+    "image": "images/halloween-popcorn-pumpkins.jpg"
+}

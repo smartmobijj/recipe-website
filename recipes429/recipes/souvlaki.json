@@ -1,0 +1,39 @@
+{
+    "title": "Souvlaki",
+    "file_name": "souvlaki",
+    "url": "https://www.allrecipes.com/recipe/14713/souvlaki/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "10 mins",
+        "total_time": "2 hrs 40 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "189 Calories"
+    },
+    "ingredients": [
+        "¼ cup olive oil",
+        "¼ cup soy sauce",
+        "1 medium lemon, juiced",
+        "3 cloves garlic, crushed",
+        "1 teaspoon dried oregano",
+        "3 pounds pork tenderloin, cut into 1 inch cubes",
+        "2 medium yellow onions, cut into 1 inch pieces",
+        "2 medium green bell peppers, cut into 1 inch pieces",
+        "skewers"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Mix oil, soy sauce, lemon juice, garlic, and oregano together in a large glass bowl.",
+        "Step 3: Add pork, onions, and bell peppers, and stir until coated. Cover and refrigerate for 2 to 3 hours.",
+        "Step 4: Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Step 5: Remove pork and vegetables from marinade and shake off excess; thread onto skewers. Discard remaining marinade.",
+        "Step 6: Cook on the preheated grill, turning frequently, until pork is no longer pink in the middle, 10 to 15 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C).",
+        "Step 7: Nutrition data for this recipe includes the full amount of marinade ingredients. The actual amount consumed will vary."
+    ],
+    "image": "images/souvlaki.jpg"
+}

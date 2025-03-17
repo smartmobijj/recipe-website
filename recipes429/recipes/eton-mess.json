@@ -1,0 +1,29 @@
+{
+    "title": "Eton Mess",
+    "file_name": "eton-mess",
+    "url": "https://www.allrecipes.com/easy-eton-mess-recipe-7485220",
+    "cuisine": "British",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "Unknown",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "399 Calories"
+    },
+    "ingredients": [
+        "1 cup heavy cream",
+        "4  store-bought meringue cookies",
+        "12 ounces ripe raspberries"
+    ],
+    "method": [
+        "Step 1: Beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form.",
+        "Step 2: Break meringue cookies into bite-sized chunks and add to whipped cream; fold in berries lightly with a metal spoon until you see streaks of dark pink but still retain some chunks of meringue.",
+        "Step 3: Spoon Eton mess into four glass dishes and serve."
+    ],
+    "image": "images/eton-mess.jpg"
+}

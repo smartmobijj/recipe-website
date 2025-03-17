@@ -1,0 +1,42 @@
+{
+    "title": "Spinatstrudel (Spinach Strudel)",
+    "file_name": "spinatstrudel-spinach-strudel",
+    "url": "https://www.allrecipes.com/recipe/246443/spinatstrudel-spinach-strudel/",
+    "cuisine": "German",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Germany",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "620 Calories"
+    },
+    "ingredients": [
+        "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+        "1 cup grated Parmesan cheese",
+        "½ cup cottage cheese",
+        "½ cup sour cream",
+        "2  shallots, minced",
+        "1  egg",
+        "2 cloves garlic, minced",
+        "1 teaspoon salt",
+        "ground black pepper to taste",
+        "1 pinch ground nutmeg, or to taste",
+        "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "1  egg"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper.",
+        "Step 2: Mix spinach, Parmesan cheese, cottage cheese, sour cream, shallots, 1 egg, garlic, salt, black pepper, and nutmeg together in a bowl until filling is well-mixed.",
+        "Step 3: Roll puff pastry onto a clean work surface, a little thinner at the edges. Transfer to the prepared baking sheet.",
+        "Step 4: Spoon the filling down the middle length of the pastry sheet. Crack 1 egg into a cup but do not beat it. Brush the edges of the puff pastry with egg white and close the pastry around the filling. Close the ends of the roll and carefully turn it over so the seam is on the bottom.",
+        "Step 5: Beat what remains of the egg; brush over the top of puff pastry and cut a few slits in the pastry.",
+        "Step 6: Bake in the preheated oven until the strudel is golden brown, about 30 minutes.",
+        "Step 7: Parmesan cheese is not truly vegetarian, as it contains animal rennet. To make this dish 100% vegetarian, omit the cheese or find a suitable vegetarian substitute made without animal rennet. In supermarkets look for the 'Parmesan-style hard cheeses' which are suitable for vegetarians."
+    ],
+    "image": "images/spinatstrudel-spinach-strudel.jpg"
+}

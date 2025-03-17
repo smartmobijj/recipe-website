@@ -1,0 +1,44 @@
+{
+    "title": "Filipino Beef Stir-Fry",
+    "file_name": "filipino-beef-stir-fry",
+    "url": "https://www.allrecipes.com/recipe/212910/filipino-beef-stir-fry/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "25 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "20 mins",
+        "total_time": "2 hrs 45 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "348 Calories"
+    },
+    "ingredients": [
+        "1 pound New York strip steak, thinly sliced",
+        "2 tablespoons cornstarch",
+        "2 tablespoons soy sauce",
+        "1 ½ teaspoons white sugar",
+        "3 tablespoons olive oil, divided",
+        "1 medium sweet onion, chopped",
+        "2 cloves garlic, crushed",
+        "1 tablespoon oyster sauce",
+        "salt and ground black pepper to taste",
+        "1 pound snow peas",
+        "¾ cup green peas",
+        "1 medium carrot, sliced",
+        "2 stalks celery, sliced",
+        "1 medium red bell pepper, seeded and cut into chunks"
+    ],
+    "method": [
+        "Step 1: Place sliced steak in a large bowl; sprinkle cornstarch over top and toss to coat.",
+        "Step 2: Whisk soy sauce and sugar together in a small bowl until sugar dissolves; pour over the steak. Mix and marinate in the refrigerator for at least 2 hours or overnight.",
+        "Step 3: Heat 1 tablespoon oil in a large skillet over medium heat. Add onion and garlic to the hot oil; cook and stir until tender, 5 to 7 minutes. Stir in oyster sauce and season with salt and pepper.",
+        "Step 4: Add snow peas, green peas, carrot, celery, and bell pepper; cook and stir until vegetables are crisp-tender, 7 to 10 minutes. Remove vegetables from the skillet.",
+        "Step 5: Remove steak from the marinade, shaking off any excess moisture; discard the marinade.",
+        "Step 6: Heat remaining 2 tablespoons oil in the same skillet. Fry steak in the hot skillet to your desired degree of doneness, 3 to 5 minutes per side for medium. Add the vegetables back to the skillet; mix well and cook until just heated through. Serve hot.",
+        "Step 7: The magazine version of this recipe (called Beef Stir-Fry with Snow Peas) may be slightly different than the online version. Please follow directions carefully for whichever version you are using."
+    ],
+    "image": "images/filipino-beef-stir-fry.jpg"
+}

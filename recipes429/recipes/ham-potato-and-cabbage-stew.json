@@ -1,0 +1,37 @@
+{
+    "title": "Ham, Potato, and Cabbage Stew",
+    "file_name": "ham-potato-and-cabbage-stew",
+    "url": "https://www.allrecipes.com/recipe/8354680/ham-potato-and-cabbage-stew/",
+    "cuisine": "Ethiopian",
+    "difficulty": "Easy",
+    "cooking_time": "45 minutes",
+    "country": "Ethiopia",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "35 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "276 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons unsalted butter",
+        "1 medium onion, chopped",
+        "1 cup matchstick carrots",
+        "2 teaspoons minced fresh garlic",
+        "6 cups chopped cabbage",
+        "2 cups chopped cooked ham",
+        "2 cups diced potatoes",
+        "2 cups chicken stock",
+        "salt to taste",
+        "½ teaspoon ground black pepper, or to taste",
+        "½ teaspoon ground mustard"
+    ],
+    "method": [
+        "Step 1: Melt butter in a Dutch oven over medium heat. Add onion and cook until it begins to turn clear, 2 to 5 minutes. Stir in carrots and garlic and cook until fragrant, about 1 minute.",
+        "Step 2: Stir in cabbage, ham, and potatoes, then add stock, pepper, mustard, and salt. Bring to a boil. Reduce heat to low and cook, stirring occasionally, until cabbage is tender and potatoes are cooked, about 20 minutes.",
+        "Step 3: You can use ham stock instead of chicken stock."
+    ],
+    "image": "images/ham-potato-and-cabbage-stew.png"
+}

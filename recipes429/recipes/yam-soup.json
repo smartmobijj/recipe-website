@@ -1,0 +1,35 @@
+{
+    "title": "Yam Soup",
+    "file_name": "yam-soup",
+    "url": "https://www.allrecipes.com/recipe/58485/yam-soup/",
+    "cuisine": "Malaysian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "45 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "286 Calories"
+    },
+    "ingredients": [
+        "3 cups chicken broth",
+        "2 pounds yams, diced",
+        "1 medium onion, chopped",
+        "1 tablespoon curry powder",
+        "¼ teaspoon black pepper",
+        "½ teaspoon salt",
+        "½ cup uncooked wild rice",
+        "½ teaspoon onion powder",
+        "½ teaspoon garlic powder"
+    ],
+    "method": [
+        "Step 1: Pour chicken broth into a saucepan with curry powder, salt, pepper, onion powder, and garlic powder. Bring to a boil over medium heat.",
+        "Step 2: Add yams and onion and simmer for about 20 minutes.",
+        "Step 3: Add rice and cook until rice is tender, another 20 minutes."
+    ],
+    "image": "images/yam-soup.jpg"
+}

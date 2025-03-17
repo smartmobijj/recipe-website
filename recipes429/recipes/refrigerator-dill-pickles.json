@@ -1,0 +1,35 @@
+{
+    "title": "Refrigerator Dill Pickles",
+    "file_name": "refrigerator-dill-pickles",
+    "url": "https://www.allrecipes.com/recipe/233542/refrigerator-dill-pickles/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "3 days 20 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "13 Calories"
+    },
+    "ingredients": [
+        "3 ½ cups water",
+        "1 ¼ cups white vinegar",
+        "1 tablespoon white sugar",
+        "1 tablespoon sea salt",
+        "4 cups cucumber spears",
+        "2 cloves garlic, whole",
+        "2 heads fresh dill"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Stir water, vinegar, sugar, and sea salt together in a saucepan over high heat; bring to a boil. Remove from the heat and cool completely.",
+        "Step 3: Combine cucumber spears, garlic cloves, and fresh dill in a large glass or plastic lidded container.",
+        "Step 4: Pour cooled vinegar mixture over cucumbers, garlic, and dill.",
+        "Step 5: Seal container with lid and refrigerate for at least 3 days."
+    ],
+    "image": "images/refrigerator-dill-pickles.jpg"
+}

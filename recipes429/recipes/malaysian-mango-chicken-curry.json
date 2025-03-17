@@ -1,0 +1,40 @@
+{
+    "title": "Malaysian Mango Chicken Curry",
+    "file_name": "malaysian-mango-chicken-curry",
+    "url": "https://www.allrecipes.com/recipe/208612/malaysian-mango-chicken-curry/",
+    "cuisine": "Malaysian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "361 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "½ pound skinless, boneless chicken breast, cubed",
+        "½ cup chicken stock",
+        "1 ½ tablespoons brown sugar",
+        "1 tablespoon soy sauce",
+        "1 tablespoon cider vinegar",
+        "1 tablespoon cornstarch",
+        "1 teaspoon curry powder",
+        "½  onion, diced",
+        "1  green bell pepper, sliced",
+        "1  red bell pepper, sliced",
+        "2 teaspoons minced fresh ginger root",
+        "1  mango, peeled and cubed"
+    ],
+    "method": [
+        "Step 1: Heat oil in a large skillet over medium-high heat and stir in chicken breast. Cook and stir chicken in hot oil until no longer pink in the center. Transfer cooked chicken to a plate.",
+        "Step 2: Meanwhile, whisk together chicken stock, brown sugar, soy sauce, vinegar, cornstarch, and curry powder in a small bowl until well combined. Set aside.",
+        "Step 3: Cook and stir onion in the same skillet over medium heat until onion is softened and turns translucent, about 5 minutes. Stir in green and red bell peppers and cook for 2 minutes. Add ginger and cook for 1 more minute.",
+        "Step 4: Stir in chicken stock mixture and cooked chicken. Cook until sauce is thickened. Add mango and cook until mango is heated through."
+    ],
+    "image": "images/malaysian-mango-chicken-curry.jpg"
+}

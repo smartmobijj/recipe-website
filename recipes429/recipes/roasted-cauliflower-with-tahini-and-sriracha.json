@@ -1,0 +1,37 @@
+{
+    "title": "Roasted Cauliflower with Tahini and Sriracha",
+    "file_name": "roasted-cauliflower-with-tahini-and-sriracha",
+    "url": "https://www.allrecipes.com/recipe/280165/roasted-cauliflower-with-tahini-and-sriracha/",
+    "cuisine": "Israeli",
+    "difficulty": "Easy",
+    "cooking_time": "35 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "20 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "221 Calories"
+    },
+    "ingredients": [
+        "1 pound cauliflower florets",
+        "1 tablespoon grapeseed oil",
+        "1 pinch ground cumin",
+        "salt and ground black pepper to taste",
+        "2 tablespoons tahini",
+        "1 tablespoon Sriracha sauce",
+        "2 teaspoons water, or as needed",
+        "1 tablespoon chopped cilantro",
+        "1 teaspoon sesame seeds"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 425 degrees F (220 degrees C). Place a rimmed baking sheet inside to preheat for 5 minutes.",
+        "Step 2: Toss cauliflower with oil, cumin, salt, and pepper in a large bowl. Spread cauliflower carefully on the hot baking sheet. Set the bowl aside.",
+        "Step 3: Roast in the preheated oven until tender and starting to brown, about 15 minutes. Stir and continue roasting until evenly browned, about 5 minutes longer.",
+        "Step 4: Meanwhile, stir tahini and Sriracha sauce together in the bowl. Thin with a little water. Add hot cauliflower and stir gently to coat.",
+        "Step 5: Plate cauliflower and garnish with cilantro and sesame seeds."
+    ],
+    "image": "images/roasted-cauliflower-with-tahini-and-sriracha.jpg"
+}

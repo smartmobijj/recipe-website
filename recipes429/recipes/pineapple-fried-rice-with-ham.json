@@ -1,0 +1,40 @@
+{
+    "title": "Pineapple Fried Rice with Ham",
+    "file_name": "pineapple-fried-rice-with-ham",
+    "url": "https://www.allrecipes.com/recipe/265489/pineapple-fried-rice-with-ham/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "391 Calories"
+    },
+    "ingredients": [
+        "3 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "½ teaspoon ground ginger",
+        "¼ teaspoon white pepper",
+        "2 tablespoons olive oil",
+        "1  onion, diced",
+        "2 cloves garlic, minced",
+        "2  carrots, peeled and grated",
+        "½ cup frozen corn",
+        "½ cup frozen peas",
+        "3 cups cooked brown rice",
+        "2 cups diced pineapple",
+        "½ cup diced ham",
+        "2  green onions, sliced"
+    ],
+    "method": [
+        "Step 1: Whisk soy sauce, sesame oil, ground ginger, and white pepper together in a bowl.",
+        "Step 2: Heat olive oil in a large skillet or wok over medium-high heat. Add onion and cook, stirring often, until soft and translucent, 3 to 4 minutes. Add garlic and cook for an additional 30 seconds. Stir in carrots, corn, and peas and stir-fry until vegetables are tender, 3 to 4 minutes.",
+        "Step 3: Stir in brown rice, pineapple, ham, green onions, and soy sauce mixture. Cook, stirring constantly, until heated through, about 2 minutes. Serve immediately."
+    ],
+    "image": "images/pineapple-fried-rice-with-ham.jpg"
+}

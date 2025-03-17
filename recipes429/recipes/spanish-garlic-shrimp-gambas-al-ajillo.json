@@ -1,0 +1,36 @@
+{
+    "title": "Spanish Garlic Shrimp (Gambas al Ajillo)",
+    "file_name": "spanish-garlic-shrimp-gambas-al-ajillo",
+    "url": "https://www.allrecipes.com/recipe/266085/spanish-garlic-shrimp-gambas-al-ajillo/",
+    "cuisine": "Spanish",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "5 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "227 Calories"
+    },
+    "ingredients": [
+        "1 pound frozen large shrimp (21-25 count) - thawed, peeled, and deveined",
+        "1 teaspoon hot smoked paprika (Optional)",
+        "kosher salt to taste",
+        "4 cloves garlic",
+        "¼ cup extra-virgin olive oil",
+        "2 tablespoons dry sherry",
+        "1 tablespoon chopped Italian flat-leaf parsley"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Place shrimp in a large bowl and season with paprika and kosher salt; mix well to coat.",
+        "Step 3: Slice garlic into thin slices. Heat oil in a skillet over medium heat; add garlic and cook until golden, about 2 minutes.",
+        "Step 4: Add shrimp and increase heat to high. Toss and turn shrimp with tongs until starting to curl but still undercooked, about 2 minutes.",
+        "Step 5: Pour in sherry. Cook, stirring continuously, until sauce comes up to a boil and shrimp is cooked through, about 1 minute more.",
+        "Step 6: Remove from heat. Stir in parsley."
+    ],
+    "image": "images/spanish-garlic-shrimp-gambas-al-ajillo.jpg"
+}

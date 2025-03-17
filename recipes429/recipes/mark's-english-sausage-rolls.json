@@ -1,0 +1,35 @@
+{
+    "title": "Mark's English Sausage Rolls",
+    "file_name": "mark's-english-sausage-rolls",
+    "url": "https://www.allrecipes.com/recipe/58593/marks-english-sausage-rolls/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "360 Calories"
+    },
+    "ingredients": [
+        "1 (17.3 ounce) package frozen puff pastry sheets, thawed",
+        "¼ cup Dijon mustard",
+        "1 (16 ounce) package pork sausage meat or ground pork",
+        "1 large egg, beaten"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Unfold puff pastry sheets. Cut along the fold lines of each sheet to form 6 equal squares for a total of 12 squares.",
+        "Step 3: Brush each square with mustard.",
+        "Step 4: Divide sausage into 12 equal pieces and roll into small logs. Place one log onto each square.",
+        "Step 5: Roll dough around sausage and lightly brush dough with beaten egg to seal.",
+        "Step 6: Place rolls onto an ungreased baking sheet. Brush the tops with remaining beaten egg.",
+        "Step 7: Bake in the preheated oven for 10 minutes. Check to ensure they aren't burning, then continue to bake until puffed and golden, about 10 more minutes. An instant-read thermometer inserted into the center of a roll should read at least 160 degrees F (70 degrees C).",
+        "Step 8: Serve and enjoy!"
+    ],
+    "image": "images/mark's-english-sausage-rolls.jpg"
+}

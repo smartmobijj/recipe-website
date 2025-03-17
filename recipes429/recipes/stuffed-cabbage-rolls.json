@@ -1,0 +1,44 @@
+{
+    "title": "Stuffed Cabbage Rolls",
+    "file_name": "stuffed-cabbage-rolls",
+    "url": "https://www.allrecipes.com/recipe/26661/stuffed-cabbage-rolls/",
+    "cuisine": "Russian",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "223 Calories"
+    },
+    "ingredients": [
+        "⅔ cup water",
+        "⅓ cup uncooked white rice",
+        "8  cabbage leaves",
+        "1 pound lean ground beef",
+        "¼ cup chopped onion",
+        "1 large egg, slightly beaten",
+        "1 (10.5 ounce) can condensed tomato soup, divided",
+        "1 teaspoon salt",
+        "¼ teaspoon ground black pepper"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Bring water and rice to a boil in a saucepan.",
+        "Step 3: Reduce heat to low, cover, and simmer until rice is tender and liquid has been absorbed, about 20 minutes.",
+        "Step 4: Meanwhile, bring a large, wide saucepan of lightly salted water to a boil. Add cabbage leaves and cook for 2 to 4 minutes or until softened; drain.",
+        "Step 5: Combine ground beef, 1 cup of cooked rice, onion, beaten egg, 2 tablespoons of tomato soup, salt, and pepper in a large bowl; mix thoroughly.",
+        "Step 6: Spoon about 2 tablespoons of beef mixture onto each cabbage leaf.",
+        "Step 7: Bring one end of the cabbage leaf over the mixture.",
+        "Step 8: Roll and tuck in the ends to prevent the filling from falling out.",
+        "Step 9: Place cabbage rolls in a large skillet over medium heat.",
+        "Step 10: Pour remaining tomato soup on top",
+        "Step 11: Cover and bring to a boil; reduce heat to low and simmer for about 40 minutes, stirring and basting with the liquid often.",
+        "Step 12: Serve and enjoy!"
+    ],
+    "image": "images/stuffed-cabbage-rolls.jpg"
+}

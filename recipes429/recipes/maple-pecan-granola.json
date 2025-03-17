@@ -1,0 +1,39 @@
+{
+    "title": "Maple Pecan Granola",
+    "file_name": "maple-pecan-granola",
+    "url": "https://www.allrecipes.com/recipe/220814/maple-pecan-granola/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "40 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "18",
+        "calories": "202 Calories"
+    },
+    "ingredients": [
+        "4 cups old-fashioned oats",
+        "½ cup chopped pecans",
+        "½ cup chopped walnuts",
+        "½ cup ground flax seed",
+        "2 teaspoons ground cinnamon",
+        "⅓ cup canola oil",
+        "⅔ cup pure maple syrup",
+        "1 teaspoon maple flavoring",
+        "¼ teaspoon salt"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 300 degrees F (150 degrees C).",
+        "Step 2: Line a baking sheet with parchment paper.",
+        "Step 3: Mix oats, pecans, walnuts, flax seed, and cinnamon in a large bowl.",
+        "Step 4: Stir canola oil, maple syrup, maple flavoring, and salt together in a small bowl; pour over the oat mixture and stir to coat evenly.",
+        "Step 5: Spread the resulting mixture evenly onto the prepared baking sheet.",
+        "Step 6: Bake in the preheated oven until lightly browned, about 40 minutes.",
+        "Step 7: Set granola aside to cool completely before breaking into chunks. Store in an air-tight container."
+    ],
+    "image": "images/maple-pecan-granola.jpg"
+}

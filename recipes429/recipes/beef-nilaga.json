@@ -1,0 +1,37 @@
+{
+    "title": "Beef Nilaga",
+    "file_name": "beef-nilaga",
+    "url": "https://www.allrecipes.com/recipe/212912/beef-nilaga/",
+    "cuisine": "Filipino",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "1 hr 40 mins",
+        "total_time": "2 hrs 10 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "983 Calories"
+    },
+    "ingredients": [
+        "4 ½ pounds beef short ribs",
+        "1 quart water",
+        "2  onions, chopped",
+        "1 tablespoon black peppercorns, crushed",
+        "2  beef bouillon cubes",
+        "2  potatoes, quartered",
+        "1  chayote squash, peeled and quartered",
+        "2  carrots, cut into chunks",
+        "2 stalks celery, quartered",
+        "salt to taste",
+        "¼ head cabbage, cut into wedges"
+    ],
+    "method": [
+        "Step 1: Place short ribs into a large pot with enough water to cover. Bring to a boil over high heat, then boil for 5 minutes; the ribs will not be fully cooked. Drain and discard cooking water.",
+        "Step 2: Return ribs to the pot. Pour in 1 quart water, then add onions, peppercorns, and bouillon cubes. Bring to a boil, then cover, reduce the heat, and simmer for 1 hour.",
+        "Step 3: Skim any fat floating on the surface. Stir in potatoes, chayote squash, carrots, and celery. Cover and simmer until potatoes are tender, about 20 minutes. Season with salt, then add cabbage and cook for 5 more minutes."
+    ],
+    "image": "images/beef-nilaga.jpg"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Pastel de Choclo",
+    "file_name": "pastel-de-choclo",
+    "url": "https://www.allrecipes.com/recipe/268354/pastel-de-choclo/",
+    "cuisine": "Argentinian",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "55 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "435 Calories"
+    },
+    "ingredients": [
+        "2  eggs",
+        "1 tablespoon vegetable oil",
+        "2  onions, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon salt, divided",
+        "½ teaspoon paprika, divided",
+        "ground black pepper to taste",
+        "1 pound ground beef",
+        "½  broiled chicken, chopped",
+        "2 tablespoons raisins, or to taste",
+        "1 ½ tablespoons chopped Kalamata olives, or to taste",
+        "3 (15.25 ounce) cans sweet corn, drained",
+        "2 teaspoons dried basil",
+        "1 tablespoon unsalted butter",
+        "1 cup milk",
+        "2 teaspoons white sugar and more for sprinkling",
+        "salt to taste"
+    ],
+    "method": [
+        "Step 1: Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes.",
+        "Step 2: Meanwhile, heat oil in a skillet over medium heat. Add onions, garlic, 1 pinch salt, 1/4 teaspoon paprika, and black pepper; cook until fragrant, about 2 minutes. Add beef, remaining 1 teaspoon salt, remaining 1/4 teaspoon paprika, and black pepper; cook and stir until beef mostly browned, about 5 minutes. Add chicken, raisins, and olives.",
+        "Step 3: Remove eggs from hot water, cool under cold running water, and peel. Roughly chop; add to beef mixture. Keep pino warm.",
+        "Step 4: Combine corn and basil in a blender or food processor; blend until smooth. Pour into a saucepan over medium heat. Add butter; cook and stir until thickened, 7 to 10 minutes. Stir in milk, 2 teaspoons sugar, and salt; cook until thickened to a paste, about 15 minutes more.",
+        "Step 5: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 6: Spread pino into a baking dish. Cover with corn paste; sprinkle a little sugar on top.",
+        "Step 7: Bake in the preheated oven until golden brown on top, about 20 minutes.",
+        "Step 8: I add a little vanilla extract to the paste to enhance the flavor."
+    ],
+    "image": "images/pastel-de-choclo.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Puto",
+    "file_name": "puto",
+    "url": "https://www.allrecipes.com/recipe/142132/puto/",
+    "cuisine": "Filipino",
+    "difficulty": "Easy",
+    "cooking_time": "45 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "18",
+        "calories": "290 Calories"
+    },
+    "ingredients": [
+        "4 cups all-purpose flour",
+        "2 cups white sugar",
+        "1 tablespoon baking powder",
+        "6  eggs",
+        "1 (12 fluid ounce) can evaporated milk",
+        "1 ½ cups water",
+        "2 ¼ cups Edam cheese, shredded"
+    ],
+    "method": [
+        "Step 1: Grease small cake molds or ramekins that will fit in a steamer basket.",
+        "Step 2: Mix flour, sugar, and baking powder together in a bowl. In a separate large bowl, scramble eggs with evaporated milk and water. Fold dry mixture into eggs until evenly blended. Fill the prepared molds 2/3 of the way up with batter and top with shredded cheese.",
+        "Step 3: Fill a wok or a saucepan that will hold a steamer basket with a few inches of water. Bring water to a boil over medium-high heat. Place the molds into a steamer basket, place over boiling water, and cover.",
+        "Step 4: Steam until a toothpick inserted in the center of one of the putos comes out clean, about 30 minutes. Cool on a wire rack and serve warm or at room temperature.",
+        "Step 5: If you do not have access to a steamer: Preheat the oven to 350 degrees F (175 degrees C) oven. Pour your batter into the greased muffin tins and place the tins into a large high-sided pan; place them onto the rack of the preheated oven. Carefully pour boiling water into the large pan so that it reaches halfway up the sides of the muffin tin. Bake until a toothpick inserted in the center comes out clean, about 35 minutes."
+    ],
+    "image": "images/puto.jpg"
+}

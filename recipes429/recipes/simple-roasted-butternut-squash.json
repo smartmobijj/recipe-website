@@ -1,0 +1,33 @@
+{
+    "title": "Simple Roasted Butternut Squash",
+    "file_name": "simple-roasted-butternut-squash",
+    "url": "https://www.allrecipes.com/recipe/229733/simple-roasted-butternut-squash/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "40 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "177 Calories"
+    },
+    "ingredients": [
+        "1 medium butternut squash",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Peel butternut squash with a sharp vegetable peeler. Cut in half lengthwise; scoop out and discard seeds.",
+        "Step 3: Cut halves into 1-inch slices, then cut slices into 1-inch cubes.",
+        "Step 4: Combine butternut squash cubes, olive oil, and garlic in a large bowl and toss until well coated. Season with salt and pepper.",
+        "Step 5: Arrange in a single layer on a baking sheet.",
+        "Step 6: Roast in the preheated oven until squash is lightly browned and tender when pierced with a fork, 25 to 35 minutes."
+    ],
+    "image": "images/simple-roasted-butternut-squash.jpg"
+}

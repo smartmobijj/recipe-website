@@ -1,0 +1,35 @@
+{
+    "title": "Polvorones de Canele (Cinnamon Cookies)",
+    "file_name": "polvorones-de-canele-cinnamon-cookies",
+    "url": "https://www.allrecipes.com/recipe/10848/polvorones-de-canele-cinnamon-cookies/",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "126 Calories"
+    },
+    "ingredients": [
+        "1 cup butter",
+        "½ cup confectioners' sugar",
+        "½ teaspoon ground cinnamon",
+        "¼ teaspoon salt",
+        "1 teaspoon vanilla extract",
+        "1 ½ cups all-purpose flour",
+        "1 cup confectioners' sugar",
+        "1 teaspoon ground cinnamon"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 350 degrees F (175 degrees C). Grease two cookie sheets.",
+        "Step 2: Beat butter and 1/2 cup confectioners' sugar in a bowl using an electric mixer until smooth. Stir in vanilla. Combine flour, salt, and 1/2 teaspoon of cinnamon; stir into butter mixture to form a stiff dough. Shape dough into 1-inch balls.",
+        "Step 3: Mix 1 cup confectioners' sugar and 1 teaspoon cinnamon together in a shallow bowl. Roll balls in cinnamon mixture to coat; transfer cookies to prepared cookie sheets.",
+        "Step 4: Bake in the preheated oven until nicely browned, about 15 to 20 minutes. Cool cookies on wire racks."
+    ],
+    "image": "images/polvorones-de-canele-cinnamon-cookies.png"
+}

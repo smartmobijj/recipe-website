@@ -1,0 +1,35 @@
+{
+    "title": "Buffalo Chicken Dip",
+    "file_name": "buffalo-chicken-dip",
+    "url": "https://www.allrecipes.com/recipe/68461/buffalo-chicken-dip/",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "20",
+        "calories": "284 Calories"
+    },
+    "ingredients": [
+        "2 (10 ounce) cans chunk chicken, drained",
+        "¾ cup hot pepper sauce (such as Frank's RedHot)",
+        "2 (8 ounce) packages cream cheese, softened",
+        "1 cup ranch dressing",
+        "1 ½ cups shredded Cheddar cheese",
+        "1 bunch celery, cut into 4-inch pieces",
+        "1 (8 ounce) box chicken-flavored crackers"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Heat chicken and hot pepper sauce in a skillet over medium heat until heated through, 3 to 5 minutes. Stir in cream cheese and ranch dressing. Cook and stir until well blended and warm, 3 to 5 minutes.",
+        "Step 3: Mix in 1/2 of the Cheddar cheese, and transfer the mixture to a slow cooker. Sprinkle the remaining cheese over top.",
+        "Step 4: Cover and cook on Low until dip is hot and bubbly, about 35 minutes.",
+        "Step 5: Serve with celery sticks and crackers."
+    ],
+    "image": "images/buffalo-chicken-dip.jpg"
+}

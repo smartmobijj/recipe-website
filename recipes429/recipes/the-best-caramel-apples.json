@@ -1,0 +1,39 @@
+{
+    "title": "The Best Caramel Apples",
+    "file_name": "the-best-caramel-apples",
+    "url": "https://www.allrecipes.com/recipe/228210/the-best-caramel-apples/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "2 hrs 15 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "799 Calories"
+    },
+    "ingredients": [
+        "8 large tart apples",
+        "8  wooden chopsticks for handles",
+        "2 cups packed brown sugar",
+        "1 (14 ounce) can sweetened condensed milk",
+        "1 cup light corn syrup",
+        "1 cup butter",
+        "2 teaspoons vanilla extract"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Bring a large saucepan of water to a boil. Dip apples in boiling water for a few seconds, using a slotted spoon, then dry with paper towels to remove any wax from the peels. Set apples aside to cool completely, about 30 minutes.",
+        "Step 3: Insert sticks into the bottom of each cooled apple through the core for a handle.",
+        "Step 4: Line a baking sheet with parchment paper. Stir brown sugar, sweetened condensed milk, corn syrup, and butter together in a saucepan over medium-high heat.",
+        "Step 5: Bring to a boil, stirring constantly, then reduce heat to medium. Cook until a candy thermometer reads 248 degrees F (120 degrees C), stirring constantly to prevent burning, about 25 to 30 minutes. A teaspoon of caramel dropped in a glass of cold water, should form a firm ball.",
+        "Step 6: Remove caramel from heat and stir in vanilla extract.",
+        "Step 7: Working quickly, dip each apple into the hot caramel to completely coat the apple and about 1/2 inch of the wooden handle.",
+        "Step 8: Sprinkle apples with any desired toppings while still hot.",
+        "Step 9: Let caramel apples cool on the prepared baking sheet, about 1 hour. Use caution, caramel is very hot."
+    ],
+    "image": "images/the-best-caramel-apples.jpg"
+}

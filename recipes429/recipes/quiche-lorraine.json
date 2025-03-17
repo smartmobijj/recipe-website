@@ -1,0 +1,38 @@
+{
+    "title": "Quiche Lorraine",
+    "file_name": "quiche-lorraine",
+    "url": "https://www.allrecipes.com/recipe/17515/quiche-lorraine-i/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "55 mins",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "761 Calories"
+    },
+    "ingredients": [
+        "12 slices bacon",
+        "1 cup shredded Swiss cheese",
+        "⅓ cup minced onion",
+        "1 (9-inch) prepared pie crust",
+        "2 cups light cream",
+        "4 large eggs, beaten",
+        "¾ teaspoon salt or to taste",
+        "¼ teaspoon white sugar or to taste",
+        "⅛ teaspoon cayenne pepper"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 2: Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels, then chop coarsely.",
+        "Step 3: Sprinkle bacon, Swiss cheese, and onion into prepared pastry crust.",
+        "Step 4: Whisk cream, eggs, salt, sugar, and cayenne pepper in a medium bowl; pour mixture into pastry shell.",
+        "Step 5: Bake in the preheated oven for 15 minutes. Reduce heat to 300 degrees F (150 degrees C) and continue baking until a knife inserted 1 inch from the edge comes out clean, about 30 minutes.",
+        "Step 6: Allow quiche to sit 10 minutes before cutting into wedges and serving."
+    ],
+    "image": "images/quiche-lorraine.jpg"
+}

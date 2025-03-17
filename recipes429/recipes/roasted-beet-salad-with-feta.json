@@ -1,0 +1,36 @@
+{
+    "title": "Roasted Beet Salad with Feta",
+    "file_name": "roasted-beet-salad-with-feta",
+    "url": "https://www.allrecipes.com/recipe/149559/roasted-beets-with-feta/",
+    "cuisine": "Israeli",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "149 Calories"
+    },
+    "ingredients": [
+        "4  beets, trimmed, leaving 1 inch of stems attached",
+        "¼ cup minced shallot",
+        "2 tablespoons minced fresh parsley",
+        "2 tablespoons extra-virgin olive oil",
+        "1 tablespoon balsamic vinegar",
+        "1 tablespoon red wine vinegar",
+        "salt and pepper to taste",
+        "¼ cup crumbled feta cheese"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Wrap each beet individually in aluminum foil and place onto a baking sheet.",
+        "Step 3: Bake beets in preheated oven until easily pierced with a fork, 45 minutes to 1 hour. Allow beets to cool until you can handle them. Peel beets and cut into 1/4-inch slices.",
+        "Step 4: While beets are roasting, whisk shallots, parsley, olive oil, balsamic vinegar, and red wine vinegar together in a bowl until blended; season with salt and pepper and set aside.",
+        "Step 5: Place warm, sliced beets onto a serving dish; pour vinaigrette over the beets and sprinkle with feta cheese."
+    ],
+    "image": "images/roasted-beet-salad-with-feta.png"
+}

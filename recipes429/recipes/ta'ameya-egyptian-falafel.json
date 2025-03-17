@@ -1,0 +1,40 @@
+{
+    "title": "Ta'ameya (Egyptian Falafel)",
+    "file_name": "ta'ameya-egyptian-falafel",
+    "url": "https://www.allrecipes.com/recipe/254743/taameya-egyptian-falafel/",
+    "cuisine": "Egyptian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "8 hrs 35 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "814 Calories"
+    },
+    "ingredients": [
+        "2 cups dried split fava beans",
+        "1  red onion, quartered",
+        "½ cup fresh parsley",
+        "½ cup fresh cilantro",
+        "½ cup fresh dill",
+        "3 cloves garlic",
+        "1 ½ teaspoons ground coriander",
+        "1 ½ teaspoons salt",
+        "1 teaspoon ground cumin",
+        "1 cup sesame seeds (Optional)",
+        "1 quart vegetable oil for frying, or as needed"
+    ],
+    "method": [
+        "Step 1: Place fava beans into large bowl and cover with several inches of water. Let soak, 8 hours to overnight. Drain.",
+        "Step 2: Combine soaked fava beans, red onion, parsley, cilantro, dill, garlic, coriander, salt, and cumin in a food processor; process to a dough-like consistency.",
+        "Step 3: Heat a skillet over medium heat. Add sesame seeds; cook, stirring occasionally, until toasted, about 5 minutes. Transfer to a large plate.",
+        "Step 4: Shape fava bean mixture into about 50 balls. Roll balls in sesame seeds to coat.",
+        "Step 5: Fill a large saucepan 1/4 full with oil; heat over medium heat. Fry fava bean balls in batches until golden brown, 3 to 5 minutes per batch. Drain on paper towels.",
+        "Step 6: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. Amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+    ],
+    "image": "images/ta'ameya-egyptian-falafel.jpg"
+}

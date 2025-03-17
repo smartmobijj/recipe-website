@@ -1,0 +1,37 @@
+{
+    "title": "Fasolia (Green Bean Stew)",
+    "file_name": "fasolia-green-bean-stew",
+    "url": "https://www.allrecipes.com/recipe/235179/fasolia-green-bean-stew/",
+    "cuisine": "South African",
+    "difficulty": "Medium",
+    "cooking_time": "80 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "1 hr 20 mins",
+        "total_time": "1 hr 30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "178 Calories"
+    },
+    "ingredients": [
+        "1 (17.5 ounce) package lamb neck",
+        "1 tablespoon butter",
+        "½ cup chopped onion",
+        "4 cloves garlic, chopped",
+        "3 cups water",
+        "1 ½ cups tomato sauce",
+        "1 teaspoon salt",
+        "½ teaspoon ground allspice",
+        "¼ teaspoon ground black pepper",
+        "1 pound green beans",
+        "2  potatoes (or to taste), thinly sliced (Optional)"
+    ],
+    "method": [
+        "Step 1: Melt butter in a large skillet over medium heat; cook and stir lamb neck bones in hot butter until browned, 7 to 10 minutes. Add onion and garlic; cook and stir until browned, 7 to 10 minutes.",
+        "Step 2: Stir water, tomato sauce, salt, allspice, and pepper together in a small bowl; pour into the skillet and bring to a boil. Reduce heat to medium-low, place a cover on the skillet, and cook until the meat pulls away from the neck bones, about 45 minutes.",
+        "Step 3: Put green beans and potatoes into the skillet so they are in liquid, replace cover, and continue cooking until the beans are tender and the potatoes are cooked through, about 15 minutes. Remove and discard bones before serving."
+    ],
+    "image": "images/fasolia-green-bean-stew.jpg"
+}

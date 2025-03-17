@@ -1,0 +1,36 @@
+{
+    "title": "Perfect Ten Baked Cod",
+    "file_name": "perfect-ten-baked-cod",
+    "url": "https://www.allrecipes.com/recipe/228319/perfect-ten-baked-cod/",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "280 Calories"
+    },
+    "ingredients": [
+        "4 tablespoons butter, divided",
+        "½ sleeve buttery round crackers (such as Ritz®), crushed",
+        "1 pound thick-cut cod loin",
+        "½ medium lemon, juiced",
+        "¼ cup dry white wine",
+        "1 tablespoon chopped fresh parsley",
+        "1 tablespoon chopped green onion",
+        "1 medium lemon, cut into wedges"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Place 2 tablespoons butter in a microwave-safe bowl. Melt in the microwave on high, about 30 seconds. Stir buttery round crackers into melted butter.",
+        "Step 3: Place remaining 2 tablespoons butter in a 7x11-inch baking dish. Melt in the preheated oven, 1 to 3 minutes. Remove dish from oven. Coat both sides of cod in melted butter in the baking dish.",
+        "Step 4: Bake cod in the preheated oven for 10 minutes. Remove from oven; top with lemon juice, wine, and cracker mixture. Return to the oven and bake until fish is opaque and flakes easily with a fork, about 10 more minutes.",
+        "Step 5: Garnish with parsley and green onion and serve with lemon wedges."
+    ],
+    "image": "images/perfect-ten-baked-cod.jpg"
+}

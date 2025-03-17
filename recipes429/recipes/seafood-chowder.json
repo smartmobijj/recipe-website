@@ -1,0 +1,44 @@
+{
+    "title": "Seafood Chowder",
+    "file_name": "seafood-chowder",
+    "url": "https://www.allrecipes.com/recipe/81112/seafood-chowder/",
+    "cuisine": "New Zealand",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "New Zealand",
+    "continent": "Australia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "314 Calories"
+    },
+    "ingredients": [
+        "1 (8 ounce) container fat-free cream cheese",
+        "1 ½ cups fat-free milk",
+        "2 cloves garlic, minced",
+        "1 (23 ounce) can fat-free condensed cream of mushroom soup",
+        "1 (15.25 ounce) can whole kernel corn, undrained",
+        "1 ½ cups potatoes, chopped into small cubes",
+        "1 cup chopped green onions",
+        "1 cup diced carrots",
+        "1 teaspoon dried parsley",
+        "½ teaspoon ground black pepper",
+        "½ teaspoon ground cayenne pepper",
+        "½ pound shrimp",
+        "½ pound bay scallops",
+        "½ pound crabmeat",
+        "½ pound calamari tubes",
+        "1 (6.5 ounce) can chopped clams"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine cream cheese, 1/2 cup milk, and garlic in a large pot over low heat; cook and stir until blended, about 3 minutes.",
+        "Step 3: Mix in condensed soup, undrained corn, remaining 1 cup milk, potatoes, green onions, carrots, parsley, black pepper, and cayenne pepper.",
+        "Step 4: Simmer for 25 minutes, stirring occasionally, without letting the chowder boil.",
+        "Step 5: Add shrimp, scallops, crab, calamari, and clams; cook until seafood is opaque, about 10 minutes."
+    ],
+    "image": "images/seafood-chowder.jpg"
+}

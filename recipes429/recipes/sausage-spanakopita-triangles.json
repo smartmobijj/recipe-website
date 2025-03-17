@@ -1,0 +1,39 @@
+{
+    "title": "Sausage Spanakopita Triangles",
+    "file_name": "sausage-spanakopita-triangles",
+    "url": "https://www.allrecipes.com/recipe/282294/sausage-spanakopita-triangles/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "45 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "200 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package Jimmy Dean® Premium Pork Regular Sausage",
+        "1 (10 ounce) box frozen chopped spinach",
+        "1 bunch green onions, chopped",
+        "1 teaspoon red pepper flakes",
+        "5 ounces ricotta cheese",
+        "4 ounces feta cheese, crumbled",
+        "salt and ground black pepper to taste",
+        "16 sheets phyllo dough, thawed",
+        "1 cup unsalted butter, melted"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper.",
+        "Step 2: Add sausage to a large skillet over medium-high heat. Cook and stir with a spatula, breaking apart sausage until cooked, 5 to 7 minutes. Reduce the heat to medium. Add spinach, green onions, and red pepper flakes. Continue cooking until spinach is thawed, 3 to 5 minutes.",
+        "Step 3: Remove from the heat and stir in ricotta cheese and feta cheese. Season with salt and pepper.",
+        "Step 4: Unwrap phyllo dough and cover with a damp towel to keep from drying out.",
+        "Step 5: Working one sheet at a time, brush 1/2 of the sheet with melted butter. Fold in half lengthwise. Place 1/4 to 1/2 cup of filling in top-left corner. Fold bottom-left corner over into a triangle shape. Continue folding edge over edge to end of dough, and a triangle is formed. Place triangle on the baking sheet. Repeat with remaining ingredients.",
+        "Step 6: Brush triangles with melted butter.",
+        "Step 7: Bake in the preheated oven until golden brown, about 25 minutes."
+    ],
+    "image": "images/sausage-spanakopita-triangles.jpg"
+}

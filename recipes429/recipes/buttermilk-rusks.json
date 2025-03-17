@@ -1,0 +1,38 @@
+{
+    "title": "Buttermilk Rusks",
+    "file_name": "buttermilk-rusks",
+    "url": "https://www.allrecipes.com/recipe/284526/buttermilk-rusks/",
+    "cuisine": "South African",
+    "difficulty": "Medium",
+    "cooking_time": "80 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "1 hr",
+        "cook_time": "3 hrs",
+        "total_time": "4 hrs",
+        "active_time": "Unknown",
+        "servings": "200",
+        "calories": "54 Calories"
+    },
+    "ingredients": [
+        "2 ½ sticks butter",
+        "2 ½ cups white sugar",
+        "2 cups buttermilk",
+        "2 large eggs",
+        "8 cups self-rising flour",
+        "5 cups granola",
+        "5 teaspoons baking powder",
+        "1 ½ teaspoons salt"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (180 degrees C). Grease cake pans. You can use 9x13-inch pans, round cake pans, or loaf pans.",
+        "Step 2: Melt butter in a saucepan over medium-low heat. Remove from heat and mix in sugar, buttermilk, and eggs.",
+        "Step 3: Combine self-rising flour, granola, baking powder, and salt in a bowl. Add to the butter mixture and mix until well combined. Batter will be sloppy. Divide into thirds, and then divide each third into small balls. Place into the prepared cake pans side by side.",
+        "Step 4: Bake in the preheated oven until cooked fully through, 45 to 60 minutes. Remove from oven and gently place on baking sheets.",
+        "Step 5: Reduce oven temperature to 200 degrees F (95 degrees C). Bake rusks on low temperature until dry and crunchy, 2 to 3 hours. Depending on the size of your rusks this can take several hours.",
+        "Step 6: You can use margarine instead of butter and muesli instead of granola.",
+        "Step 7: The original recipe is in metric. If you have a scale, the metric measurements are as follows: 500 grams sugar, 300 grams butter, 1 kilograms self-raising flour, 10 milligrams salt and 25 milligrams baking powder."
+    ],
+    "image": "images/buttermilk-rusks.jpg"
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Cauliflower Custard",
+    "file_name": "cauliflower-custard",
+    "url": "https://www.allrecipes.com/recipe/221125/cauliflower-custard/",
+    "cuisine": "Japanese",
+    "difficulty": "Hard",
+    "cooking_time": "60 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "155 Calories"
+    },
+    "ingredients": [
+        "1 teaspoon butter for greasing, or as needed",
+        "1 head cauliflower, separated into small florets",
+        "½ teaspoon salt",
+        "2 tablespoons butter",
+        "3 tablespoons all-purpose flour",
+        "½ teaspoon salt",
+        "1 tablespoon minced fresh parsley",
+        "1 cup milk",
+        "3  eggs, beaten",
+        "1 cup milk",
+        "½ teaspoon salt",
+        "¼ teaspoon ground white pepper"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 350 degrees F (175 degrees C).",
+        "Step 2: Butter a 1 1/2-quart casserole dish.",
+        "Step 3: Place cauliflower in a saucepan and cover with water and 1/2 teaspoon salt. Bring to a boil, reduce heat, and simmer until cauliflower is tender, 10 to 15 minutes; drain and transfer cauliflower to prepared casserole dish.",
+        "Step 4: Melt 2 tablespoons butter in a saucepan over medium heat. Whisk flour, 1/2 teaspoon salt, and parsley in the melted butter until smooth, 2 to 3 minutes.",
+        "Step 5: Slowing pour 1 cup milk into flour mixture. Cook and stir milk mixture until thickened, 3 to 5 minutes; pour over cauliflower.",
+        "Step 6: Whisk eggs, 1 cup milk, 1/2 teaspoon salt, and white pepper in a bowl; pour over cauliflower mixture.",
+        "Step 7: Bake in the preheated oven until the custard is set, 30 to 35 minutes. Serve hot."
+    ],
+    "image": "images/cauliflower-custard.jpg"
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Pot Roast with Vegetables",
+    "file_name": "pot-roast-with-vegetables",
+    "url": "https://www.allrecipes.com/recipe/229953/pot-roast-with-vegetables/",
+    "cuisine": "Malaysian",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "5 hrs 35 mins",
+        "total_time": "6 hrs 5 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "567 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1 (3 1/2) pound boneless beef chuck roast",
+        "salt and ground black pepper to taste",
+        "1 large onion, finely chopped",
+        "1 clove garlic, chopped, or to taste",
+        "2 ½ cups beef stock",
+        "1 (14.5 ounce) can diced tomatoes",
+        "¼ cup red wine vinegar",
+        "1 tablespoon brown sugar",
+        "2  bay leaves",
+        "carrots, cut diagonally into 1-inch-thick slices",
+        "1 pound small red potatoes, quartered lengthwise",
+        "1 (6 ounce) jar mushrooms, or more to taste",
+        "1 ½ tablespoons cornstarch",
+        "1 ½ tablespoons cold water",
+        "1 pinch celery salt, or to taste",
+        "1 pinch dried basil, or to taste",
+        "1 pinch dried thyme, or to taste"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 300 degrees F (150 degrees C).",
+        "Step 2: Heat vegetable oil in a large, heavy pot or cast-iron Dutch oven over medium heat. Add chuck roast; brown completely, 5 to 8 minutes per side. Season with salt and black pepper; transfer to a platter. Reserve oil in pot.",
+        "Step 3: Add onion and garlic to pot; cook and stir until onion golden, about 15 minutes. Stir in beef stock, tomatoes, red wine vinegar, brown sugar, and bay leaves; bring to a boil. Return roast to pot; cover.",
+        "Step 4: Cook in the preheated oven until roast very tender, 4 to 4 1/2 hours.",
+        "Step 5: Scatter carrot slices around roast; bring to a boil on stovetop over medium heat. Return roast to oven 30 minutes more. Distribute potatoes around roast; bring to a boil on stovetop over medium heat. Return roast to oven until potatoes tender, about 30 minutes more.",
+        "Step 6: Transfer roast to a serving platter, cover loosely with aluminum foil; set aside to rest for 10 minutes.",
+        "Step 7: Stir mushrooms into drippings in pot; bring to a simmer on stovetop over low heat. Whisk cornstarch into cold water in a small bowl; stir into drippings. Season with celery salt, basil, and thyme; simmer gravy until thickened, about 5 minutes. Remove and discard bay leaves. Slice roast; arrange on a platter surrounded by vegetables. Serve with gravy."
+    ],
+    "image": "images/pot-roast-with-vegetables.jpg"
+}

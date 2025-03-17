@@ -1,0 +1,30 @@
+{
+    "title": "Homemade Clotted Cream",
+    "file_name": "homemade-clotted-cream",
+    "url": "https://www.allrecipes.com/recipe/257734/chef-johns-clotted-cream/",
+    "cuisine": "British",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "12 hrs",
+        "total_time": "20 hrs 5 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "411 Calories"
+    },
+    "ingredients": [
+        "4 cups heavy cream (not ultra-pasteurized)"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 175 to 180 degrees F (80 degrees C).",
+        "Step 2: Pour cream into a shallow glass or ceramic baking dish (an 8- or 9-inch square pan is ideal). Cream should be about 1 1/2 to 2 inches deep.",
+        "Step 3: Bake in the preheated oven for 12 hours. Do not stir. Carefully remove from the oven and let cool to room temperature. Cover with plastic wrap and refrigerate until completely chilled, 8 hours to overnight.",
+        "Step 4: Push aside a corner of the top layer of thickened cream.",
+        "Step 5: Carefully pour liquid into a container for baking.",
+        "Step 6: Pack thickened (clotted) cream into a ceramic crock or canning jar. Cover and refrigerate for up to 5 days."
+    ],
+    "image": "images/homemade-clotted-cream.jpg"
+}

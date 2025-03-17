@@ -1,0 +1,41 @@
+{
+    "title": "Creamy Italian White Bean Soup",
+    "file_name": "creamy-italian-white-bean-soup",
+    "url": "https://www.allrecipes.com/recipe/13287/creamy-italian-white-bean-soup/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "245 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "1  onion, chopped",
+        "1 rib celery, chopped",
+        "1 clove garlic, minced",
+        "2 (16 ounce) cans white cannellini beans, rinsed and drained",
+        "1 (14 ounce) can chicken broth",
+        "¼ teaspoon ground black pepper",
+        "⅛ teaspoon dried thyme",
+        "2 cups water",
+        "1 bunch fresh spinach, rinsed and thinly sliced",
+        "1 tablespoon lemon juice"
+    ],
+    "method": [
+        "Step 1: Heat oil in a large soup pot over medium-low heat. Add onion and celery; cook and stir until tender, about 5 to 8 minutes. Add garlic, and cook for 30 seconds, continually stirring.",
+        "Step 2: Stir in beans, chicken broth, pepper, thyme, and 2 cups water. Bring to a boil, reduce heat, and simmer for 15 minutes.",
+        "Step 3: Use a slotted spoon to remove 2 cups of bean and vegetable mixture from soup; set aside.",
+        "Step 4: Blend remaining soup in small batches in a blender at low speed until smooth — it helps to remove the center piece of the blender lid to allow steam to escape.",
+        "Step 5: Pour blended soup back into pot; stir in reserved beans.",
+        "Step 6: Bring soup to a boil, occasionally stirring. Stir in spinach and until spinach is wilted, about 1 minute.",
+        "Step 7: Stir in lemon juice and remove from heat. Serve soup with freshly grated Parmesan cheese on top."
+    ],
+    "image": "images/creamy-italian-white-bean-soup.jpg"
+}

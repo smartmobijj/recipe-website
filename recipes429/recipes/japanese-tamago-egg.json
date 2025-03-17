@@ -1,0 +1,37 @@
+{
+    "title": "Japanese Tamago Egg",
+    "file_name": "japanese-tamago-egg",
+    "url": "https://www.allrecipes.com/recipe/221923/japanese-tamago-egg/",
+    "cuisine": "Japanese",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "63 Calories"
+    },
+    "ingredients": [
+        "4  eggs",
+        "1/4 cup prepared dashi stock",
+        "1 tablespoon white sugar",
+        "1 teaspoon mirin (Japanese sweet wine)",
+        "1/2 teaspoon soy sauce",
+        "1/2 teaspoon vegetable oil, or more as needed"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Beat eggs thoroughly in a bowl; whisk in dashi stock, sugar, mirin, and soy sauce until sugar has dissolved. Lightly grease a nonstick skillet and heat over medium heat.",
+        "Step 3: Pour a thin layer of egg mixture into the hot pan and swirl to coat the pan. Cook until egg layer is firm on the bottom but still slightly liquid on top, about 1 minute.",
+        "Step 4: Then lift up one edge using a spatula and roll up the egg layer.",
+        "Step 5: Push omelet roll to one side of the skillet. Oil the skillet again and pour in another thin layer of egg, lifting the first omelet roll up slightly to allow the egg to flow underneath.",
+        "Step 6: Roll up the first omelet in the new layer of egg and push omelet to the edge of the skillet as before.",
+        "Step 7: Repeat the process with the remaining egg mixture, oiling the pan each time if needed.",
+        "Step 8: Remove rolled omelet to a serving platter and cut into 6 equal pieces to serve."
+    ],
+    "image": "images/japanese-tamago-egg.png"
+}

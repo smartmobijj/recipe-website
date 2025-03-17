@@ -1,0 +1,40 @@
+{
+    "title": "Italian Eggplant Tomato Bake",
+    "file_name": "italian-eggplant-tomato-bake",
+    "url": "https://www.allrecipes.com/recipe/87627/italian-eggplant-tomato-bake/",
+    "cuisine": "Iranian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "Unknown",
+        "cook_time": "Unknown",
+        "total_time": "Unknown",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "619 Calories"
+    },
+    "ingredients": [
+        "½ cup all-purpose flour",
+        "½ cup dry bread crumbs",
+        "2 tablespoons Italian seasoning",
+        "2  eggs",
+        "2 tablespoons water",
+        "1 small eggplant, sliced into 1/4 inch rounds",
+        "1 tablespoon peanut oil",
+        "1 (14 ounce) jar spaghetti sauce",
+        "1 cup ricotta cheese",
+        "1 cup grated Parmesan cheese",
+        "1  tomato, thinly sliced",
+        "1 (8 ounce) package angel hair pasta"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: In a plastic bag, combine the flour, bread crumbs and Italian seasoning. Shake to mix. In a shallow bowl, whisk together the eggs and water. Heat the oil in a large skillet over medium-high heat. There should be enough oil to thinly coat the bottom of the skillet. Dip the eggplant slices in egg, then place in the bag and shake to coat. Fry the slices in the skillet until golden brown on each side. Remove, and drain on paper towels.",
+        "Step 3: Spread a thin layer of spaghetti sauce in the bottom of a 9 inch square baking dish. Cover with the eggplant slices, then top with more sauce. Mix together the ricotta cheese and Parmesan cheese; spread over the eggplant. Spread sauce over the cheese, and top with tomato slices. Cover with more sauce, and spread remaining cheese over the top.",
+        "Step 4: Bake for 30 minutes in the preheated oven, or until cheese is melted and sauce is bubbling.",
+        "Step 5: Meanwhile, bring a large pot of lightly salted water to a boil. Add the pasta, and cook for about 3 minutes, or until tender. Drain. Serve the eggplant tomato bake over pasta."
+    ],
+    "image": "images/italian-eggplant-tomato-bake.jpg"
+}

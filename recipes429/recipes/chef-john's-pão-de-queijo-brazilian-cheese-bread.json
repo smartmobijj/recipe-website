@@ -1,0 +1,38 @@
+{
+    "title": "Chef John's Pão de Queijo (Brazilian Cheese Bread)",
+    "file_name": "chef-john's-pão-de-queijo-brazilian-cheese-bread",
+    "url": "https://www.allrecipes.com/recipe/270110/chef-johns-brazilian-cheese-bread-pao-de-queijo/",
+    "cuisine": "Brazilian",
+    "difficulty": "Easy",
+    "cooking_time": "50 minutes",
+    "country": "Brazil",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "109 Calories"
+    },
+    "ingredients": [
+        "2 ¼ cups tapioca flour, or more as needed",
+        "⅔ cup milk",
+        "½ cup mild olive oil",
+        "1 teaspoon kosher salt",
+        "2 large eggs, beaten",
+        "2 ounces freshly grated mozzarella cheese",
+        "2 ounces finely grated Parmigiano-Reggiano cheese",
+        "1 pinch cayenne pepper"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with a silicone mat.",
+        "Step 2: Place tapioca flour in a mixing bowl; set aside.",
+        "Step 3: Combine milk, olive oil, and salt in a pan. Bring to a simmer over medium-high heat. Immediately remove from heat and pour into tapioca in the bowl. Mix until a shaggy dough starts to form. Let rest for 5 minutes.",
+        "Step 4: Add eggs, mozzarella and Parmesan cheeses, and cayenne to the bowl; stir with a fork until thoroughly combined. Use a medium ice cream scoop to portion dough onto the prepared baking sheet. Poke down any jagged bits using a wet finger if desired.",
+        "Step 5: Bake in the preheated oven until rolls are puffed and golden, about 20 minutes. Let cool for 5 minutes and serve warm.",
+        "Step 6: Substitute vegetable oil for olive oil, if desired.",
+        "Step 7: Instead of using an ice cream scoop, you can add more flour to the dough and roll it into balls or add more liquid, pour it into muffin cups, and bake these like popovers. The taste will be the same, but the texture will change."
+    ],
+    "image": "images/chef-john's-pão-de-queijo-brazilian-cheese-bread.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Bacon Ranch Chicken Skewers",
+    "file_name": "bacon-ranch-chicken-skewers",
+    "url": "https://www.allrecipes.com/recipe/221139/bacon-ranch-chicken-skewers/",
+    "cuisine": "Turkish",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "Turkey",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "15 mins",
+        "total_time": "2 hrs 45 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "441 Calories"
+    },
+    "ingredients": [
+        "⅓ cup ranch dressing, plus more for dipping, if desired",
+        "1 teaspoon hot chile paste",
+        "4  skinless, boneless chicken breasts, cut into 1-inch cubes",
+        "24  (1-inch) pieces red onion",
+        "12 slices thick-cut bacon",
+        "salt and black pepper, to taste",
+        "12 (6-inch) bamboo skewers, soaked in water for 2 hours"
+    ],
+    "method": [
+        "Step 1: Whisk 1/3 cup ranch dressing and hot chile paste together in a large glass or ceramic bowl. Add chicken cubes and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 1 to 3 hours.",
+        "Step 2: Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Step 3: Remove chicken from marinade and shake off excess; transfer to a plate or baking sheet lined with paper towels. Pat chicken cubes dry with paper towels. Discard remaining marinade.",
+        "Step 4: Thread one piece of onion about 1 1/2-inches down one skewer.",
+        "Step 5: Thread one strip of bacon onto skewer at one end so the rest of the strip is hanging down. Thread one cube chicken onto skewer, then loop the bacon over chicken cube to form an \"S\" shape and thread the next portion of bacon onto the skewer. Continue to thread the bacon and chicken onto the skewer until entire strip of bacon is threaded, using 4 to 5 cubes of chicken.",
+        "Step 6: Thread one piece of onion onto the end of the same skewer.",
+        "Step 7: Repeat steps 4 through 6 for all twelve skewers. Season skewers with salt and pepper.",
+        "Step 8: Cook skewers on the preheated grill, turning every 3 to 4 minutes, until nicely browned on all sides and meat is no longer pink in the center, 12 to 16 minutes total per skewer. Serve with ranch dressing as a dipping sauce.",
+        "Step 9: Nutrition data for this recipe includes the full amount of marinade ingredients. The actual amount consumed will vary."
+    ],
+    "image": "images/bacon-ranch-chicken-skewers.jpg"
+}

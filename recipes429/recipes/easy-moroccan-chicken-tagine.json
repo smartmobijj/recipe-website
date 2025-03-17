@@ -1,0 +1,39 @@
+{
+    "title": "Easy Moroccan Chicken Tagine",
+    "file_name": "easy-moroccan-chicken-tagine",
+    "url": "https://www.allrecipes.com/recipe/69633/stovetop-moroccan-tagine/",
+    "cuisine": "Moroccan",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Morocco",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "266 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "2  skinless, boneless chicken breast halves - cut into chunks",
+        "½ medium onion, chopped",
+        "3 cloves garlic, minced",
+        "1 small butternut squash, peeled and chopped",
+        "1 (15.5 ounce) can chickpeas, drained and rinsed",
+        "1 (14.5 ounce) can diced tomatoes, undrained",
+        "1 (14 ounce) can vegetable broth",
+        "1 medium carrot, peeled and chopped",
+        "1 tablespoon sugar",
+        "1 tablespoon lemon juice",
+        "1 teaspoon salt",
+        "1 teaspoon ground coriander",
+        "1 pinch cayenne pepper"
+    ],
+    "method": [
+        "Step 1: Heat oil in a large skillet over medium heat. Add chicken, onion, and garlic; cook and stir until onion is translucent and chicken is browned, about 15 minutes.",
+        "Step 2: Add squash, chickpeas, undrained tomatoes, broth, carrot, sugar, lemon juice, salt, coriander, and cayenne pepper to the skillet. Bring mixture to a boil, then lower the heat slightly and simmer until vegetables are tender, about 30 minutes."
+    ],
+    "image": "images/easy-moroccan-chicken-tagine.jpg"
+}

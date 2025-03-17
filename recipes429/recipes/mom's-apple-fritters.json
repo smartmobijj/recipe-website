@@ -1,0 +1,40 @@
+{
+    "title": "Mom's Apple Fritters",
+    "file_name": "mom's-apple-fritters",
+    "url": "https://www.allrecipes.com/recipe/90295/moms-apple-fritters/",
+    "cuisine": "Russian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "118 Calories"
+    },
+    "ingredients": [
+        "1 quart vegetable oil for deep-frying",
+        "1 ½ cups all-purpose flour",
+        "1 tablespoon white sugar",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "2/3 cup milk",
+        "2 large eggs, beaten",
+        "1 tablespoon vegetable oil",
+        "3 cups apples - peeled, cored and chopped",
+        "1 cup cinnamon-sugar"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients. Heat oil in a deep fryer or electric skillet to 375 degrees F (190 degrees C).",
+        "Step 2: Stir flour, sugar, baking powder, and salt together in a large bowl. Pour in milk, eggs, and oil; stir until well blended.",
+        "Step 3: Mix in apples until evenly distributed.",
+        "Step 4: Working in small batches to prevent overcrowding, drop spoonfuls of batter into the deep fryer and fry in hot oil until golden all over, about 5 minutes.",
+        "Step 5: Use a slotted spoon to transfer fritters to a paper towel-lined plate.",
+        "Step 6: Toss warm fritters with cinnamon sugar in a bowl until well coated.",
+        "Step 7: Enjoy!"
+    ],
+    "image": "images/mom's-apple-fritters.jpg"
+}

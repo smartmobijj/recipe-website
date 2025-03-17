@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate Tart",
+    "file_name": "chocolate-tart",
+    "url": "https://www.allrecipes.com/recipe/283455/classic-chocolate-tart/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "3 hrs 10 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "322 Calories"
+    },
+    "ingredients": [
+        "1 ¼ cups all-purpose flour",
+        "1 tablespoon white sugar",
+        "¼ teaspoon salt",
+        "½ cup cold butter",
+        "2 teaspoons water",
+        "1 cup heavy whipping cream",
+        "2 cups semisweet chocolate chips"
+    ],
+    "method": [
+        "Step 1: Combine flour, sugar, and salt in a food processor; pulse to combine. Add cold butter and pulse until crumbly. Slowly add water to food processor until dough comes together. Wrap dough and refrigerate for 1 hour.",
+        "Step 2: Preheat the oven to 425 degrees F (220 degrees C). Grease an 8-inch tart pan.",
+        "Step 3: Flour a work surface and a rolling pin; roll out dough into a 10-inch disc.",
+        "Step 4: Carefully place dough into the prepared tart pan. Trim dough from the edges of the pan. Prick holes in the dough on the bottom and along the sides of the pan.",
+        "Step 5: Bake in the preheated oven until lightly browned, 20 to 23 minutes. Remove from oven and allow to cool completely, about 1 hour.",
+        "Step 6: Pour heavy whipping cream into a microwave-safe bowl. Microwave for 2 minutes or until bubbles start to form along outside of the bowl. Add chocolate chips and let sit for 15 to 20 seconds. Whisk until smooth. Pour chocolate ganache into cooled crust. Let cool at room temperature until set, about 30 minutes. Keep refrigerated until ready to serve."
+    ],
+    "image": "images/chocolate-tart.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Sticky Toffee Pudding",
+    "file_name": "sticky-toffee-pudding",
+    "url": "https://www.allrecipes.com/recipe/8148/sticky-toffee-pudding-cake/",
+    "cuisine": "British",
+    "difficulty": "Medium",
+    "cooking_time": "80 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "9",
+        "calories": "433 Calories"
+    },
+    "ingredients": [
+        "1 ¾ cups pitted, chopped dates",
+        "1 teaspoon baking soda",
+        "¾ cup boiling water",
+        "⅓ cup butter",
+        "¾ cup white sugar",
+        "2 large eggs",
+        "1 ⅛ cups self-rising flour",
+        "¾ cup packed brown sugar",
+        "⅓ cup butter",
+        "⅔ cup evaporated milk",
+        "1 teaspoon vanilla extract"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch square baking dish.",
+        "Step 2: In a small bowl combine the dates and baking soda. Pour enough boiling water over the dates to just cover them.",
+        "Step 3: Beat 1/3 cup of butter with white sugar in a bowl with an electric mixer until light and frothy. Beat in eggs and mix well to combine.",
+        "Step 4: Add flour and date mixture (including water) to the egg mixture and fold to combine. Pour cake batter into the prepared baking dish.",
+        "Step 5: Bake in the preheated oven until a tester comes out clean, 30 to 40 minutes. Let cake cool slightly while you prepare the toffee sauce.",
+        "Step 6: To make the toffee sauce: Combine brown sugar, 1/3 cup butter, and evaporated milk in a small saucepan; cook over medium heat and bring to boil. Turn heat down and simmer for 5 minutes, stirring occasionally. Remove from heat and stir in vanilla. Pour toffee sauce over individual servings of warm cake."
+    ],
+    "image": "images/sticky-toffee-pudding.jpg"
+}

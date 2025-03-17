@@ -1,0 +1,39 @@
+{
+    "title": "Light and Easy Greek Potato Salad",
+    "file_name": "light-and-easy-greek-potato-salad",
+    "url": "https://www.allrecipes.com/recipe/223380/light-and-easy-greek-potato-salad/",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "25 mins",
+        "total_time": "1 hr 25 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "105 Calories"
+    },
+    "ingredients": [
+        "12 medium red potatoes",
+        "¼ cup chopped green onion",
+        "¼ cup olive oil",
+        "¼ cup red wine vinegar",
+        "1 ½ teaspoons fresh lemon juice",
+        "½ teaspoon garlic powder",
+        "½ teaspoon onion powder",
+        "½ teaspoon coarse salt, or to taste",
+        "½ teaspoon ground black pepper, or to taste",
+        "¼ teaspoon dried oregano",
+        "¼ teaspoon white sugar",
+        "¼ teaspoon dried rosemary, crumbled",
+        "1 pinch ground red pepper"
+    ],
+    "method": [
+        "Step 1: Place red potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 25 minutes. Drain and chill in freezer until cold, about 30 minutes.",
+        "Step 2: Slice potatoes into chunks and place in a large salad bowl; toss potatoes with green onion.",
+        "Step 3: Whisk olive oil, red wine vinegar, lemon juice, garlic powder, onion powder, salt, black pepper, oregano, sugar, rosemary, and red pepper in a bowl. Pour dressing over potatoes and toss to caot. Serve immediately or chill until serving time."
+    ],
+    "image": "images/light-and-easy-greek-potato-salad.jpg"
+}

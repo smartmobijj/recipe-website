@@ -1,0 +1,34 @@
+{
+    "title": "Rice Pudding with Saffron and Cardamom",
+    "file_name": "rice-pudding-with-saffron-and-cardamom",
+    "url": "https://www.allrecipes.com/recipe/258442/rice-pudding-with-saffron-and-cardamom/",
+    "cuisine": "Iranian",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "214 Calories"
+    },
+    "ingredients": [
+        "2 cups water",
+        "1 cup rice flour",
+        "½ cup white sugar",
+        "2 cups milk",
+        "2 tablespoons rose water",
+        "½ teaspoon saffron",
+        "½ teaspoon ground cardamom",
+        "18  shelled pistachio nuts"
+    ],
+    "method": [
+        "Step 1: Combine water, rice flour, and sugar in a saucepan over medium heat. Cook, stirring constantly, until the mixture thickens, about 5 minutes.",
+        "Step 2: Mix milk, rose water. saffron, and cardamom together in a bowl; add to rice mixture. Bring to a boil and stir until there are no clumps, about 5 minutes.",
+        "Step 3: Carefully ladle hot mixture into 6 cups; garnish each with 3 pistachios. Refrigerate for at least 1 hour."
+    ],
+    "image": "images/rice-pudding-with-saffron-and-cardamom.jpg"
+}

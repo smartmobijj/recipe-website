@@ -1,0 +1,49 @@
+{
+    "title": "Spring Roll Bowl",
+    "file_name": "spring-roll-bowl",
+    "url": "https://www.allrecipes.com/spring-roll-bowl-recipe-8732587",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "Unknown",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "574 Calories"
+    },
+    "ingredients": [
+        "4 ounces vermicelli noodles",
+        "1 pound large shrimp -",
+        "1 head butterhead lettuce, torn into bite-sized pieces",
+        "2  carrots, peeled and julienned",
+        "1  nglish cucumber, julienned",
+        "1  avocado, sliced",
+        "2  green onions, sliced on a bias",
+        "1/2 cups mint leaves (or torn large leaves)",
+        "1/4 cup salted peanuts",
+        "1/4 cup creamy peanut butter",
+        "1/4 cup light coconut milk",
+        "2 tablespoons hoisin sauce",
+        "1 tablespoon lime juice",
+        "1 tablespoon roasted peanuts",
+        "1 teaspoon sambal oelek (optional)",
+        "6 tablespoons rice vinegar",
+        "2 tablespoons fish sauce",
+        "1 tablespoon lime juice",
+        "1 tablespoon ginger",
+        "1  birds eye chile, thinly sliced (optional)"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Cook vermicelli noodles according to package directions. Run under cold water to cool. Divide noodles among four bowls.",
+        "Step 3: Add one fourth of the cooked shrimp to each bowl. On the side of the noodles arrange 1 cup of lettuce, 1/4  cup carrots, 1/4  cup cucumber, and 1/4  an avocado to each bowl.",
+        "Step 4: Meanwhile for Nam Chom combine rice vinegar, fish sauce, lime juice, ginger, and birds eye chile (optional) in a small bowl.",
+        "Step 5: For the peanut sauce combine peanut butter, coconut milk, hoisin sauce, lime juice, peanuts and sambal oelec in a small bowl; whisk until smooth.",
+        "Step 6: Top bowls with green onions, mint leaves and peanuts. Serve with peanut sauce and/or Nam Choc."
+    ],
+    "image": "images/spring-roll-bowl.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Easy Pavlova",
+    "file_name": "easy-pavlova",
+    "url": "https://www.allrecipes.com/recipe/12126/easy-pavlova/",
+    "cuisine": "New Zealand",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "New Zealand",
+    "continent": "Australia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "1 hr",
+        "total_time": "2 hrs",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "373 Calories"
+    },
+    "ingredients": [
+        "4 large egg whites",
+        "1 ¼ cups white sugar",
+        "2 teaspoons cornstarch",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon lemon juice",
+        "1 pint heavy cream",
+        "6  kiwi, peeled and sliced"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 300 degrees F (150 degrees C).",
+        "Step 2: Line a baking sheet with parchment paper; draw a 9-inch circle on the parchment paper.",
+        "Step 3: Beat egg whites in a glass, metal, or ceramic bowl until stiff but not dry. Gradually add sugar, about 1 tablespoon at a time, beating well after each addition. Continue beating until meringue is thick, white, and glossy.",
+        "Step 4: Gently fold in cornstarch, vanilla extract, and lemon juice.",
+        "Step 5: Spoon mixture inside the circle drawn on the parchment paper. Working from the center, spread mixture toward the outside edge and build the edge slightly. This should leave a slight depression in the center.",
+        "Step 6: Bake in the preheated oven until meringue is dry and sounds hollow when tapped, about 1 hour. Cool on a wire rack.",
+        "Step 7: Beat heavy cream in a medium bowl until stiff peaks form; set aside. Remove meringue from the parchment paper and place on a flat serving plate.",
+        "Step 8: Fill center of meringue with whipped cream and top with kiwi slices.",
+        "Step 9: Top with fruit and enjoy!",
+        "Step 10: Please note the different recipe name, differences in ingredient amounts and yield, as well as the addition of papaya and blood orange when using the magazine version of this recipe."
+    ],
+    "image": "images/easy-pavlova.jpg"
+}

@@ -1,0 +1,30 @@
+{
+    "title": "Shuku Shuku",
+    "file_name": "shuku-shuku",
+    "url": "https://www.allrecipes.com/recipe/89698/shuku-shuku/",
+    "cuisine": "Nigerian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "14",
+        "calories": "85 Calories"
+    },
+    "ingredients": [
+        "1 cup unsweetened flaked coconut",
+        "¼ cup castor sugar or superfine sugar",
+        "3  egg yolks",
+        "½ cup self-rising flour"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: In a medium bowl, mix together the coconut, sugar and egg yolks to form a stiff dough. Squeeze into 1 inch balls, and roll each ball in flour to coat. Place on a baking sheet, spacing about 2 inches apart.",
+        "Step 3: Bake for 20 minutes in the preheated oven, or until golden."
+    ],
+    "image": "images/shuku-shuku.jpg"
+}

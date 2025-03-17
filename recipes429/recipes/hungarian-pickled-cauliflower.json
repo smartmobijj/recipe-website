@@ -1,0 +1,41 @@
+{
+    "title": "Hungarian Pickled Cauliflower",
+    "file_name": "hungarian-pickled-cauliflower",
+    "url": "https://www.allrecipes.com/recipe/239942/hungarian-hot-and-spicy-pickled-cauliflower/",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "India",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "20 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "24 Calories"
+    },
+    "ingredients": [
+        "4 cups distilled white vinegar",
+        "4 cups water",
+        "½ cup sea salt",
+        "1 head cauliflower, broken into florets",
+        "3  hot chile peppers, sliced lengthwise",
+        "3 cloves garlic, minced",
+        "3 teaspoons mustard seed",
+        "3 teaspoons whole black peppercorns",
+        "3 teaspoons coriander seeds",
+        "3 teaspoon dill seeds",
+        "3 teaspoons allspice berries",
+        "1 ½ teaspoons red pepper flakes",
+        "3  bay leaves"
+    ],
+    "method": [
+        "Step 1: Inspect three quart-sized jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water for at least 5 minutes.",
+        "Step 2: Meanwhile, combine vinegar, water, and salt in a pot over medium heat; bring to a simmer.",
+        "Step 3: Pack each sterilized jar with equal amounts of cauliflower, chile peppers, garlic, mustard seed, peppercorns, coriander seeds, dill seeds, allspice berries, red pepper flakes, and bay leaves. Pour vinegar mixture into jars, filling to within 1/2 inch of the top. Run a clean knife or thin spatula around the insides of the jars to remove any air bubbles. Wipe the rims with a moist paper towel to remove any residue. Top with lids and screw rings on tightly.",
+        "Step 4: Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars 2 inches apart into the boiling water using a holder. Pour in more boiling water to cover jars by at least 1 inch. Bring to a rolling boil, cover, and process for 10 minutes.",
+        "Step 5: Remove the jars from the stockpot and place onto a cloth-covered or wood surface, several inches apart, until cool. Press the center of each lid with a finger to ensure the lid does not move up or down. Remove the rings for storage and store in a cool, dark area."
+    ],
+    "image": "images/hungarian-pickled-cauliflower.jpg"
+}

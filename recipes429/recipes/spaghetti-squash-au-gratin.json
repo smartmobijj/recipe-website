@@ -1,0 +1,37 @@
+{
+    "title": "Spaghetti Squash Au Gratin",
+    "file_name": "spaghetti-squash-au-gratin",
+    "url": "https://www.allrecipes.com/recipe/262495/spaghetti-squash-au-gratin/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "115 Calories"
+    },
+    "ingredients": [
+        "1  spaghetti squash, halved and seeded",
+        "3 tablespoons light margarine",
+        "1 small yellow onion, thinly sliced",
+        "1 teaspoon red pepper flakes",
+        "¼ teaspoon garlic powder",
+        "salt and freshly ground black pepper to taste",
+        "¾ cup fat-free sour cream",
+        "1 cup shredded light Cheddar cheese",
+        "cooking spray"
+    ],
+    "method": [
+        "Step 1: Place spaghetti squash in a covered dish and add 1/4 inch of water. Microwave for 10 to 12 minutes. Scrape insides of squash with a fork and transfer to a small bowl.",
+        "Step 2: Heat margarine in a medium skillet over medium heat while spaghetti squash is cooking and cook onion, red pepper flakes, garlic powder, salt, and pepper until the onion is browned, 5 to 10 minutes.",
+        "Step 3: Preheat the oven to 375 degrees F (190 degrees C). Grease a baking dish with nonstick cooking spray.",
+        "Step 4: Mix spaghetti squash, onion mixture, sour cream, and 1/2 of the Cheddar cheese together. Transfer to the prepared baking dish and top with remaining Cheddar cheese.",
+        "Step 5: Bake in the preheated oven for 20 to 25 minutes. Turn on broiler for the last 2 to 3 minutes and broil until gratin is golden brown on top."
+    ],
+    "image": "images/spaghetti-squash-au-gratin.jpg"
+}

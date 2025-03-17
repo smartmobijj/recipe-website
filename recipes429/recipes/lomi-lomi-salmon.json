@@ -1,0 +1,30 @@
+{
+    "title": "Lomi Lomi Salmon",
+    "file_name": "lomi-lomi-salmon",
+    "url": "https://www.allrecipes.com/recipe/84860/lomi-lomi/",
+    "cuisine": "Hawaiian",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "44 Calories"
+    },
+    "ingredients": [
+        "2 cups diced salted salmon",
+        "6 medium tomatoes, diced",
+        "1  white onion, chopped",
+        "½ cup chopped green onion",
+        "sea salt to taste",
+        "cayenne pepper to taste (Optional)"
+    ],
+    "method": [
+        "Step 1: Stir salted salmon, tomatoes, white onion, green onion, sea salt, and cayenne pepper in a medium bowl. Chill for at least 30 minutes before serving. Serve chilled."
+    ],
+    "image": "images/lomi-lomi-salmon.jpg"
+}

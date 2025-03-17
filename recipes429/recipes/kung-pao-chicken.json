@@ -1,0 +1,43 @@
+{
+    "title": "Kung Pao Chicken",
+    "file_name": "kung-pao-chicken",
+    "url": "https://www.allrecipes.com/recipe/9027/kung-pao-chicken/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr 30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "437 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons cornstarch, dissolved in 2 tablespoons water",
+        "2 tablespoons white wine, divided",
+        "2 tablespoons soy sauce, divided",
+        "2 tablespoons sesame oil, divided",
+        "1 pound skinless, boneless chicken breast halves - cut into chunks",
+        "1 ounce hot chili paste",
+        "2 teaspoons brown sugar",
+        "1 teaspoon distilled white vinegar",
+        "1 (8 ounce) can water chestnuts",
+        "4 ounces chopped peanuts",
+        "4  green onions, chopped",
+        "1 tablespoon chopped garlic"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine water and cornstarch in a cup; set aside.",
+        "Step 3: Combine 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon sesame oil, and 1 tablespoon cornstarch/water mixture in a large glass bowl. Add chicken pieces and toss to coat. Cover the dish and refrigerate for about 30 minutes.",
+        "Step 4: Combine remaining 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon sesame oil, and remaining cornstarch/water mixture in a medium bowl. Whisk in chili paste, brown sugar, and vinegar. Add water chestnuts, peanuts, green onions, and garlic and toss to coat.",
+        "Step 5: Transfer water chestnut mixture to a medium skillet. Heat slowly over medium heat until aromatic.",
+        "Step 6: Meanwhile, transfer chicken from marinade into a large skillet; cook over medium-high heat, stirring, until chicken is cooked through and juices run clear.",
+        "Step 7: Combine water chestnut mixture and sautéed chicken together in one skillet. Adjust heat and simmer together until sauce thickens.",
+        "Step 8: The nutrition data for this recipe includes information for the full amount of the marinade ingredients. Depending on marinating time, ingredients, cooking method, etc., the actual amount of the marinade consumed will vary."
+    ],
+    "image": "images/kung-pao-chicken.jpg"
+}

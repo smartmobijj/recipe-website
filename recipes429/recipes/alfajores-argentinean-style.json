@@ -1,0 +1,42 @@
+{
+    "title": "Alfajores Argentinean Style",
+    "file_name": "alfajores-argentinean-style",
+    "url": "https://www.allrecipes.com/recipe/187786/alfajores-argentinean-style/",
+    "cuisine": "Argentinian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "10 mins",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "36",
+        "calories": "157 Calories"
+    },
+    "ingredients": [
+        "2 ½ cups cornstarch",
+        "1 ⅔ cups unbleached all-purpose flour",
+        "2 teaspoons baking powder",
+        "½ teaspoon baking soda",
+        "1 cup unsalted butter, softened",
+        "¾ cup white sugar",
+        "3  egg yolks",
+        "2 teaspoons lemon zest",
+        "1 teaspoon vanilla rum",
+        "½ teaspoon vanilla extract",
+        "½ teaspoon lemon extract",
+        "1 (11.5 ounce) jar dulce de leche",
+        "½ cup unsweetened shredded coconut"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Line baking sheets with parchment paper.",
+        "Step 2: Whisk cornstarch, flour, baking powder, and baking soda together; set aside.",
+        "Step 3: Beat butter and sugar with an electric mixer in a large bowl until light and fluffy. Beat in 2 egg yolks, one at a time, beating well after each addition; beat in third yolk along with lemon zest, vanilla rum, vanilla extract, and lemon extract. Gently fold in cornstarch mixture with a spoon, making a crumbly dough, until cohesive enough; press into a ball. Wrap dough in plastic wrap; chill 30 to 60 minutes.",
+        "Step 4: Roll dough out, using as little flour as possible, until about 1/4-inch thick. (The dough will have an unusual consistency.) Cut dough using a small round cookie cutter. Continue pressing dough together, rolling, and cutting until all dough used. Place cookies 1/2-inch apart on the prepared cookie sheets.",
+        "Step 5: Bake in the preheated oven until set but not browned, 7 to 10 minutes. Remove cookies immediately; cool on a wire rack.",
+        "Step 6: Spread 1 teaspoon dulce de leche onto underside of 1 cooled cookie; sandwich with second cookie until caramel oozes out sides. Roll sides in shredded coconut. Repeat with remaining cookies."
+    ],
+    "image": "images/alfajores-argentinean-style.jpg"
+}

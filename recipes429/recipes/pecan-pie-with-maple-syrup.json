@@ -1,0 +1,33 @@
+{
+    "title": "Pecan Pie with Maple Syrup",
+    "file_name": "pecan-pie-with-maple-syrup",
+    "url": "https://www.allrecipes.com/recipe/277210/pecan-pie-with-maple-syrup/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "35 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "451 Calories"
+    },
+    "ingredients": [
+        "1 cup pure maple syrup",
+        "½ cup packed light brown sugar",
+        "3 large eggs",
+        "2 tablespoons unsalted butter, melted",
+        "1 teaspoon vanilla extract",
+        "1 ¼ cups pecan halves or pieces",
+        "1 (9 inch) unbaked pie shell"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Place a rack in the lowest position.",
+        "Step 2: Mix maple syrup, brown sugar, eggs, melted butter, and vanilla in a large bowl until well blended. Stir in pecans until coated, then pour batter into the pie shell.",
+        "Step 3: Bake on the lower rack of the preheated oven until the pie shell is golden brown and the filling is set, 35 to 40 minutes."
+    ],
+    "image": "images/pecan-pie-with-maple-syrup.jpg"
+}

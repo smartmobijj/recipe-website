@@ -1,0 +1,38 @@
+{
+    "title": "Prawn Saganaki",
+    "file_name": "prawn-saganaki",
+    "url": "https://www.allrecipes.com/recipe/242449/prawn-saganaki/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "35 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "341 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1  red onion, halved and thinly sliced",
+        "3 cloves garlic, thinly sliced",
+        "2 tablespoons tomato paste",
+        "½ cup white wine",
+        "1 (13.5 ounce) jar tomato and olive pasta sauce (such as Papayiannides® Tomato & Olive & Ouzo Sauce)",
+        "1 ½ pounds prawns, peeled and deveined, tail on",
+        "½ cup crumbled Greek feta cheese",
+        "2 tablespoons chopped fresh flat-leaf parsley"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 400 degrees F (200 degrees C).",
+        "Step 2: Heat olive oil in a large skillet over medium heat; cook and stir onion until soft, about 5 minutes. Stir in garlic and cook until fragrant, about 1 minute. Stir tomato paste into onion mixture; cook and stir for 1 minute.",
+        "Step 3: Pour wine into tomato mixture; simmer until liquid is reduced by about half, about 5 minutes. Stir tomato sauce into wine mixture and simmer until mixture is thick, about 10 minutes.",
+        "Step 4: Spread tomato mixture into the base of a 6-cup baking dish; top with prawns and sprinkle evenly with feta cheese.",
+        "Step 5: Bake in the preheated oven until prawns are bright pink on the outside and the meat is no longer transparent in the center, about 10 minutes; top with parsley.",
+        "Step 6: Substitution: for tomato and olive and ouzo sauce, you can stir 2 tablespoons ouzo and 2 tablespoons chopped kalamata olives into plain marinara sauce before using."
+    ],
+    "image": "images/prawn-saganaki.jpg"
+}

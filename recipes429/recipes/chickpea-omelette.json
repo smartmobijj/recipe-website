@@ -1,0 +1,43 @@
+{
+    "title": "Chickpea Omelette",
+    "file_name": "chickpea-omelette",
+    "url": "https://www.allrecipes.com/recipe/267677/chickpea-omelette/",
+    "cuisine": "Lebanese",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "452 Calories"
+    },
+    "ingredients": [
+        "1 cup chickpea flour",
+        "¾ cup water",
+        "¼ cup olive oil, divided",
+        "1 tablespoon dried oregano",
+        "1 teaspoon ground black pepper",
+        "½ teaspoon cayenne pepper",
+        "½ teaspoon ground kala namak (Indian black salt) (Optional)",
+        "¼ cup chopped onion",
+        "¼ cup diced carrot",
+        "¼ cup thinly sliced red bell pepper",
+        "½  zucchini, sliced into rounds",
+        "¼ head radicchio, cut into thin strips",
+        "1 tablespoon minced fresh parsley"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Mix chickpea flour and water with a fork until there are no lumps. Add 2 tablespoons olive oil and mix until combined. Add oregano, pepper, cayenne, and black salt; mix well and set aside.",
+        "Step 3: Heat 1 tablespoon olive oil in an oven-proof, nonstick skillet over medium-high heat. Add onion, carrot, and red bell pepper. Cook and stir until onion is translucent and carrot and bell pepper have begun to soften, about 5 minutes.",
+        "Step 4: Add 1 tablespoon oil and reduce heat to medium. Add zucchini; cook and stir until softened and browned on both sides, 2 to 3 minutes. Make sure zucchini is evenly distributed in a single layer. Sprinkle radicchio evenly on top. Cover and cook until radicchio begins to wilt, about 1 minute. Do not stir vegetables during this time.",
+        "Step 5: Give the chickpea mixture a stir and evenly pour into the skillet in a circular motion, starting in the middle and moving outwards over the vegetables. Cook over medium heat until edges begin to firm, 3 to 5 minutes.",
+        "Step 6: Transfer skillet to the preheated oven. Cook until top is firm and edges begin to pull away from the sides, about 20 minutes. Turn on broiler and broil omelette until browned, about 2 minutes.",
+        "Step 7: Remove from the oven and let sit, uncovered, for about 1 minute. Loosen edges with a rubber scraper or spatula. Place a large plate over the skillet and invert omelette onto the plate. Allow to cool for 2 to 3 minutes before sprinkling parsley on top. Serve warm."
+    ],
+    "image": "images/chickpea-omelette.jpg"
+}

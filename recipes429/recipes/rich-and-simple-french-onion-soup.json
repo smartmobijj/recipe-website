@@ -1,0 +1,40 @@
+{
+    "title": "Rich and Simple French Onion Soup",
+    "file_name": "rich-and-simple-french-onion-soup",
+    "url": "https://www.allrecipes.com/recipe/13309/rich-and-simple-french-onion-soup/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "586 Calories"
+    },
+    "ingredients": [
+        "½ cup unsalted butter",
+        "2 tablespoons olive oil",
+        "4 cups sliced onions",
+        "5 cups beef broth",
+        "2 tablespoons dry sherry",
+        "1 teaspoon dried thyme",
+        "1 pinch salt and pepper to taste",
+        "4 slices French bread",
+        "4 slices provolone cheese",
+        "2 slices Swiss cheese, diced",
+        "¼ cup grated Parmesan cheese"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Melt butter with olive oil in an 8-quart stock pot over medium heat. Add onions to butter and continually stir until tender and translucent. Do not brown the onions.",
+        "Step 3: Add beef broth, sherry, and thyme. Season with salt and pepper. Let simmer for 30 minutes. Meanwhile, preheat the oven's broiler.",
+        "Step 4: Ladle soup into oven-safe serving bowls and place one slice of bread on top of each (bread may be broken into pieces if you prefer). Layer each slice of bread with a slice of provolone, 1/2 slice diced Swiss and 1 tablespoon Parmesan cheese.",
+        "Step 5: Place bowls on a cookie sheet and broil in the preheated oven until cheese bubbles and browns slightly, 2 to 3 minutes.",
+        "Step 6: Serve hot and enjoy!"
+    ],
+    "image": "images/rich-and-simple-french-onion-soup.jpg"
+}

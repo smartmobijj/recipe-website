@@ -1,0 +1,33 @@
+{
+    "title": "Quick and Easy Baked Fish Fillet",
+    "file_name": "quick-and-easy-baked-fish-fillet",
+    "url": "https://www.allrecipes.com/recipe/256348/quick-and-easy-baked-fish-fillet/",
+    "cuisine": "French",
+    "difficulty": "Easy",
+    "cooking_time": "40 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "3",
+        "calories": "165 Calories"
+    },
+    "ingredients": [
+        "1 pound flounder fillets",
+        "½ teaspoon salt",
+        "ground black pepper to taste",
+        "1 tablespoon lemon juice",
+        "2 teaspoons melted butter",
+        "1 teaspoon minced onion"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Place flounder in a baking dish; season with salt and pepper.",
+        "Step 3: Mix together lemon juice, melted butter, and onion in a small bowl; pour over flounder.",
+        "Step 4: Bake in the preheated oven until fish is opaque and flakes easily with a fork, 25 to 30 minutes."
+    ],
+    "image": "images/quick-and-easy-baked-fish-fillet.jpg"
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Cuban-Style Yuca",
+    "file_name": "cuban-style-yuca",
+    "url": "https://www.allrecipes.com/recipe/150114/cuban-style-yuca/",
+    "cuisine": "Cuban",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "268 Calories"
+    },
+    "ingredients": [
+        "2 pounds yuca, peeled and sliced lengthwise",
+        "½ teaspoon salt",
+        "¼ cup olive oil",
+        "½  onion, diced",
+        "4 cloves garlic, minced",
+        "½ teaspoon fresh lemon juice"
+    ],
+    "method": [
+        "Step 1: Place yuca into a pan and fill with enough water to cover. Stir in salt. Bring to a boil over medium-high heat, cover, and cook until tender, about 15 minutes. Drain; place yuca on a serving plate.",
+        "Step 2: Meanwhile, place olive oil, onion, garlic, and lemon juice into a pan. Cook over medium heat for about 5 minutes.",
+        "Step 3: Pour the hot olive oil mixture over the yuca; serve immediately."
+    ],
+    "image": "images/cuban-style-yuca.jpg"
+}

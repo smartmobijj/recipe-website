@@ -1,0 +1,44 @@
+{
+    "title": "French Onion Potato Gratin",
+    "file_name": "french-onion-potato-gratin",
+    "url": "https://www.allrecipes.com/french-onion-potato-gratin-recipe-8779306",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "1 hr 30 mins",
+        "total_time": "2 hrs 15 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "404 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon butter, plus more for greasing",
+        "1 tablespoon olive oil",
+        "2  sweet onions, peeled and cut into thin wedges",
+        "3 cloves garlic, minced",
+        "1 1/4 teaspoons salt",
+        "1/2 teaspoon ground black pepper",
+        "1 1/2 cups whipping cream",
+        "1/2 cup milk",
+        "1 tablespoon fresh thyme",
+        "3 pounds yukon gold potatoes, thinly sliced",
+        "2 1/2 cups shredded Gruyere cheese,",
+        "1 cup French fried onions",
+        "2 cups garlic and herb croutons, coarsely crushed"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Lightly grease a 3-quart rectangular or oval baking dish.",
+        "Step 3: Heat butter and olive oil in a large skillet over medium heat. Stir in onion wedges. Cook, covered, until onions are tender, stirring occasionally, about 20 minutes. (If necessary, reduce heat to medium-low to prevent overbrowning before onions are tender.) Increase heat to medium-high and cook, uncovered, until onions are golden, stirring frequently, about 5 minutes more. Add garlic and cook 30 seconds more. Remove from heat and season with 1/4 teaspoon each salt and pepper. Set aside.",
+        "Step 4: Preheat the oven to 350 degrees F (180 degrees C).",
+        "Step 5: Stir together whipping cream, milk, thyme, remaining 1 teaspoon salt, and 1/4 teaspoon pepper; in a bowl; set aside.",
+        "Step 6: Arrange half of the potatoes in the prepared dish, overlapping as necessary. Sprinkle with caramelized onions. Sprinkle with 1 cup Gruyere cheese. Layer remaining potatoes over cheese. Pour cream mixture over potatoes and top with 1 cup Gruyere cheese.",
+        "Step 7: Bake in the preheated oven for 50 minutes.",
+        "Step 8: Top with French friend onions, crushed croutons, and remaining 1/2 cup cheese. Bake until potatoes are tender and cheese is melted, 10 to 15 minutes more. Let stand for 15 minutes before serving."
+    ],
+    "image": "images/french-onion-potato-gratin.jpg"
+}

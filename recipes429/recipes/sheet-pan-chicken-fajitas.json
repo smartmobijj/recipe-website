@@ -1,0 +1,44 @@
+{
+    "title": "Sheet Pan Chicken Fajitas",
+    "file_name": "sheet-pan-chicken-fajitas",
+    "url": "https://www.allrecipes.com/recipe/255038/sheet-pan-chicken-fajitas/",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "cooking_time": "35 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "200 Calories"
+    },
+    "ingredients": [
+        "⅓ cup vegetable oil",
+        "2 teaspoons chili powder",
+        "1 teaspoon dried oregano",
+        "½ teaspoon garlic powder",
+        "½ teaspoon onion powder",
+        "½ teaspoon ground cumin",
+        "½ teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        "1 pinch ground cayenne pepper",
+        "1 ½ pounds chicken tenders, quartered",
+        "4 cups sliced bell peppers, any color",
+        "1  onion, sliced",
+        "¼ cup chopped fresh cilantro",
+        "½  lime, juiced"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine oil, chili powder, oregano, garlic powder, onion powder, cumin, salt, black pepper, and cayenne pepper in a large resealable plastic bag. Add chicken tenders, bell peppers, and onion; seal the bag and shake to mix. Marinate in the refrigerator, 30 minutes to 2 hours.",
+        "Step 3: Preheat the oven to 400 degrees F (200 degrees C). Line a rimmed sheet pan with aluminum foil.",
+        "Step 4: Spread chicken mixture onto the prepared pan.",
+        "Step 5: Roast in the preheated oven, stirring halfway, until chicken is no longer pink and bell peppers are softened, 15 to 20 minutes. An instant-read thermometer inserted into the center of chicken should read at least 165 degrees F (74 degrees C).",
+        "Step 6: Sprinkle cilantro and pour lime juice over chicken mixture; stir to distribute.",
+        "Step 7: The magazine version of this recipe uses 1 teaspoon each chili powder, salt, and cumin and adds 2 jalapeño peppers, thinly sliced."
+    ],
+    "image": "images/sheet-pan-chicken-fajitas.jpg"
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Thai Sticky Black Rice Pudding",
+    "file_name": "thai-sticky-black-rice-pudding",
+    "url": "https://www.allrecipes.com/recipe/268074/thai-sticky-black-rice-pudding/",
+    "cuisine": "British",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "1 hr 20 mins",
+        "total_time": "1 hr 25 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "375 Calories"
+    },
+    "ingredients": [
+        "3 ½ cups water",
+        "1 cup black rice",
+        "¾ teaspoon salt",
+        "1 cup unsweetened coconut milk",
+        "½ cup white sugar"
+    ],
+    "method": [
+        "Step 1: Combine water, black rice, and salt in a saucepan; bring to a boil. Reduce heat; cover and simmer for 40 minutes.",
+        "Step 2: Stir in coconut milk and sugar; bring to a boil. Reduce heat; simmer, uncovered, until rice reaches a sticky consistency, about 30 minutes.",
+        "Step 3: Cool. Stir and serve."
+    ],
+    "image": "images/thai-sticky-black-rice-pudding.jpg"
+}

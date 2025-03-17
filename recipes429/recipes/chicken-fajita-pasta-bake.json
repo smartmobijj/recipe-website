@@ -1,0 +1,41 @@
+{
+    "title": "Chicken Fajita Pasta Bake",
+    "file_name": "chicken-fajita-pasta-bake",
+    "url": "https://www.allrecipes.com/recipe/254812/chicken-fajita-pasta-bake/",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "836 Calories"
+    },
+    "ingredients": [
+        "1 pound ziti pasta",
+        "1 tablespoon vegetable oil",
+        "1 medium onion, sliced",
+        "1 medium green bell pepper, sliced",
+        "1 pound boneless chicken breast, cubed",
+        "1 (16 ounce) jar salsa",
+        "2 (8 ounce) packages cream cheese, softened",
+        "1 (1 ounce) package taco seasoning",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 (15 ounce) can corn, drained",
+        "1 (16 ounce) package shredded Cheddar cheese, divided"
+    ],
+    "method": [
+        "Step 1: Fill a large pot with lightly salted water and bring to a rolling boil. Add ziti and return to a boil. Cook, stirring occasionally, until tender yet firm to the bite, about 10 minutes. Drain.",
+        "Step 2: Meanwhile, heat oil in a skillet over medium heat. Add onion and green pepper; cook and stir until soft, 5 to 7 minutes. Transfer to a bowl.",
+        "Step 3: Cook chicken in the same skillet until no longer pink in the center, 7 to 10 minutes.",
+        "Step 4: Combine salsa, cream cheese, and taco seasoning in a saucepan over low heat; cook and stir until cream cheese is melted, about 5 minutes.",
+        "Step 5: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 6: Combine ziti, chicken, salsa mixture, onion mixture, black beans, and corn in a large bowl. Add 1/2 of the Cheddar cheese and mix until combined. Pour into a baking pan.",
+        "Step 7: Bake in the preheated oven for 20 minutes. Sprinkle remaining Cheddar over top. Continue to bake until cheese is melted, about 10 minutes."
+    ],
+    "image": "images/chicken-fajita-pasta-bake.jpg"
+}

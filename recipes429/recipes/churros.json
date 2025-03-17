@@ -1,0 +1,38 @@
+{
+    "title": "Churros",
+    "file_name": "churros",
+    "url": "https://www.allrecipes.com/recipe/24700/churros/",
+    "cuisine": "Spanish",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "364 Calories"
+    },
+    "ingredients": [
+        "1 cup water",
+        "2 ½ tablespoons white sugar",
+        "½ teaspoon salt",
+        "2 tablespoons vegetable oil",
+        "1 cup all-purpose flour",
+        "2 quarts oil for frying",
+        "½ cup white sugar, or to taste",
+        "1 teaspoon ground cinnamon"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine water, 2 ½ tablespoons sugar, salt, and 2 tablespoons vegetable oil in a small saucepan and place over medium heat. Bring to a boil and remove from the heat.",
+        "Step 3: Stir in flour, stirring until mixture forms a ball.",
+        "Step 4: Heat oil for frying in a deep fryer or deep pot to 375 degrees F (190 degrees C). Transfer dough to a sturdy pastry bag fitted with a medium star tip.",
+        "Step 5: Carefully pipe a few 5- to 6-inch strips of dough into the hot oil; work in batches so you don't crowd the fryer.",
+        "Step 6: Cook until golden; use a spider or slotted spoon to transfer churros to paper towels to drain.",
+        "Step 7: Combine 1/2 cup sugar and cinnamon. Roll drained churros in cinnamon and sugar mixture."
+    ],
+    "image": "images/churros.jpg"
+}

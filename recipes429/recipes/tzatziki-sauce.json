@@ -1,0 +1,33 @@
+{
+    "title": "Tzatziki Sauce",
+    "file_name": "tzatziki-sauce",
+    "url": "https://www.allrecipes.com/recipe/20242/tzatziki-sauce/",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "Unknown",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "75 Calories"
+    },
+    "ingredients": [
+        "2 medium cucumbers",
+        "1 (16 ounce) container plain Greek yogurt",
+        "3 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "1 tablespoon chopped fresh dill",
+        "½ medium lemon, juiced",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Peel cucumbers; remove seeds with a spoon. Grate cucumber on the large holes of a box grater, then squeeze to drain excess liquid.",
+        "Step 2: In a food processor combine the grated cucumber with Greek yogurt, garlic, olive oil, dill, lemon juice, salt, and pepper. Blend until smooth.",
+        "Step 3: Serve immediately or for best flavor cover and refrigerate for at least 1 hour before serving."
+    ],
+    "image": "images/tzatziki-sauce.jpg"
+}

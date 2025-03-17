@@ -1,0 +1,37 @@
+{
+    "title": "Kare Kare (Oxtail Stew)",
+    "file_name": "kare-kare-oxtail-stew",
+    "url": "https://www.allrecipes.com/recipe/212983/kare-kare-pata-oxtail-stew/",
+    "cuisine": "Filipino",
+    "difficulty": "Hard",
+    "cooking_time": "150 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "2 hrs 15 mins",
+        "total_time": "2 hrs 35 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "1071 Calories"
+    },
+    "ingredients": [
+        "4 ½ pounds beef oxtails",
+        "3 cups water, or more as needed",
+        "2  beef bouillon cubes",
+        "½ pound bok choy, chopped",
+        "½ pound long beans, cut into bite-sized pieces",
+        "½ pound eggplant, cubed",
+        "2 tablespoons olive oil",
+        "1 medium onion, chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon achiote powder",
+        "3 tablespoons smooth peanut butter"
+    ],
+    "method": [
+        "Step 1: Bring oxtails and water to a boil in a large pot. Reduce the heat to medium-low and simmer until tender, at least 2 hours, adding more water as necessary. Skim as much fat from the top of the liquid as possible.",
+        "Step 2: Transfer oxtails to a plate. Crumble beef bouillon cubes into the pot and stir to dissolve. Add bok choy, beans, and eggplant and simmer until tender, 10 to 15 minutes.",
+        "Step 3: While the vegetables are simmering, heat olive oil in a large pot over medium heat. Add onion and garlic; cook and stir until tender, about 5 minutes. Stir in achiote powder. Stir in peanut butter until melted. Add about 1/2 of the simmering broth and simmer for 5 minutes. Add oxtails and cook for 5 minutes. Transfer remaining broth and vegetables to the pot and stir to combine. Serve hot."
+    ],
+    "image": "images/kare-kare-oxtail-stew.jpg"
+}

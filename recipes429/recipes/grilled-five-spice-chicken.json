@@ -1,0 +1,44 @@
+{
+    "title": "Grilled Five Spice Chicken",
+    "file_name": "grilled-five-spice-chicken",
+    "url": "https://www.allrecipes.com/recipe/221089/grilled-five-spice-chicken/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "50 mins",
+        "total_time": "7 hrs",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "484 Calories"
+    },
+    "ingredients": [
+        "1 (5 pound) whole chicken, cut in half",
+        "½  lime, juiced",
+        "1 tablespoon fish sauce",
+        "3 cloves garlic, crushed",
+        "1 tablespoon seasoned rice vinegar",
+        "1 tablespoon Chinese five-spice powder",
+        "2 teaspoons hot chile paste (such as sambal oelek)",
+        "2 teaspoons grated fresh ginger",
+        "1 teaspoon soy sauce",
+        "⅓ cup seasoned rice vinegar",
+        "½  lime, juiced",
+        "1 teaspoon fish sauce",
+        "1 teaspoon hot chile paste (such as sambal oelek)"
+    ],
+    "method": [
+        "Step 1: Score the skin side of each piece of chicken 2 to 3 times, about 1/8-inch deep. Set aside.",
+        "Step 2: To make the marinade: Whisk juice of 1/2 lime, 1 tablespoon fish sauce, garlic, 1 tablespoon rice vinegar, Chinese five-spice powder, 2 teaspoons hot chile paste, ginger, and soy sauce together in a medium bowl until well combined. Pour marinade into a resealable plastic bag; add chicken, coat evenly with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 6 hours.",
+        "Step 3: Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Step 4: Remove chicken halves from the bag and transfer to a plate or baking sheet lined with paper towels. Pat chicken pieces dry with more paper towels. Reserve marinade mixture in a small bowl.",
+        "Step 5: Whisk together 1/3 cup rice vinegar, juice of 1/2 lime, 1 teaspoon fish sauce, and 1 teaspoon hot chile paste in a small bowl until well combined. Set aside.",
+        "Step 6: Grill chicken, skin-side down, on the preheated grill for 2 minutes. Turn each piece, brush with reserved marinade mixture, and move to indirect heat.",
+        "Step 7: Grill, brushing with marinade and turning every 10 to 15 minutes, until browned and meat is no longer pink in the center, about 45 minutes total. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 180 degrees F (82 degrees C).",
+        "Step 8: Drizzle vinegar-lime juice mixture over chicken and serve."
+    ],
+    "image": "images/grilled-five-spice-chicken.jpg"
+}

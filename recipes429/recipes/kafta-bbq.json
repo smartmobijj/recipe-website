@@ -1,0 +1,34 @@
+{
+    "title": "Kafta (BBQ)",
+    "file_name": "kafta-bbq",
+    "url": "https://www.allrecipes.com/recipe/64519/kafta/",
+    "cuisine": "Lebanese",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "227 Calories"
+    },
+    "ingredients": [
+        "1 ½ pounds lean ground beef",
+        "1 medium onion, grated",
+        "½ cup finely chopped fresh parsley",
+        "¼ teaspoon cayenne pepper",
+        "¼ teaspoon ground allspice",
+        "1 teaspoon salt, or to taste",
+        "¼ teaspoon black pepper",
+        "6 wooden or metal skewers"
+    ],
+    "method": [
+        "Step 1: Preheat an outdoor grill for high heat. If using wooden skewers, soak in water.",
+        "Step 2: In a large bowl, mix together the ground beef, onion, parsley, cayenne, allspice, salt and pepper until evenly blended. Divide into 6 portions, and press around one end of the skewers to form a log shape approximately 1 inch thick and 6 inches long.",
+        "Step 3: Grill for 10 to 15 minutes, turning occasionally, until meat is no longer pink."
+    ],
+    "image": "images/kafta-bbq.jpg"
+}

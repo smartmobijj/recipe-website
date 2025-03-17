@@ -1,0 +1,34 @@
+{
+    "title": "Skillet Chicken Bulgogi",
+    "file_name": "skillet-chicken-bulgogi",
+    "url": "https://www.allrecipes.com/recipe/240400/skillet-chicken-bulgogi/",
+    "cuisine": "Filipino",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "269 Calories"
+    },
+    "ingredients": [
+        "¼ cup chopped onion",
+        "5 tablespoons soy sauce",
+        "2 ½ tablespoons brown sugar",
+        "2 tablespoons minced garlic",
+        "2 tablespoons sesame oil",
+        "1 tablespoon sesame seeds",
+        "½ teaspoon cayenne",
+        "salt and ground black pepper to taste",
+        "1 pound skinless, boneless chicken breasts, cut into thin strips"
+    ],
+    "method": [
+        "Step 1: Whisk onion, soy sauce, brown sugar, garlic, sesame oil, sesame seeds, cayenne pepper, salt, and black pepper together in a bowl until marinade is smooth.",
+        "Step 2: Cook and stir chicken and marinade together in a large skillet over medium-high heat until chicken is cooked through, about 15 minutes."
+    ],
+    "image": "images/skillet-chicken-bulgogi.jpg"
+}

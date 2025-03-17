@@ -1,0 +1,30 @@
+{
+    "title": "Lahanosalata (Greek Cabbage Salad)",
+    "file_name": "lahanosalata-greek-cabbage-salad",
+    "url": "https://www.allrecipes.com/recipe/283322/lahanosalata-greek-cabbage-salad/",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "10 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "73 Calories"
+    },
+    "ingredients": [
+        "4 cups shredded white cabbage",
+        "1 cup finely shredded carrot",
+        "2 tablespoons olive oil, or more to taste",
+        "1 1/2 tablespoons red wine vinegar, or more to taste",
+        "salt and freshly ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Combine cabbage, carrots, olive oil, vinegar, salt, and pepper in a bowl; toss well. Taste and add up to 2 tablespoons more olive oil and 1 1/2 tablespoons more vinegar as desired.",
+        "Step 2: Serve immediately or chill until ready to serve."
+    ],
+    "image": "images/lahanosalata-greek-cabbage-salad.jpg"
+}

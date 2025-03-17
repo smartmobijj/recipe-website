@@ -1,0 +1,34 @@
+{
+    "title": "Simple Deep Fried Turkey",
+    "file_name": "simple-deep-fried-turkey",
+    "url": "https://www.allrecipes.com/recipe/215412/simple-deep-fried-turkey/",
+    "cuisine": "Kenyan",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Kenya",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "568 Calories"
+    },
+    "ingredients": [
+        "3 ½ gallons peanut oil for frying",
+        "1 (10 pound) whole turkey, neck and giblets removed",
+        "1 tablespoon salt, or to taste",
+        "1 tablespoon ground black pepper, or to taste"
+    ],
+    "method": [
+        "Step 1: Heat oil in a large stockpot or turkey fryer to 350 degrees F (175 degrees C). Make sure the fryer is located outdoors in a safe area, preferably on dirt or pavement, and far away from buildings, wooden decks, or other objects. Keep a fire extinguisher handy, just in case.",
+        "Step 2: Ensure that the turkey is completely thawed. Cut any extra skin away from the neck area and make sure neck hole is at least 1 inch in diameter.",
+        "Step 3: Pat the bird completely dry with paper towels, then rub liberally with salt and pepper on both the outside and the inside.",
+        "Step 4: Place turkey into a drain basket, neck-side first. Working slowly and carefully, gently lower the basket into the hot oil to completely cover the turkey.",
+        "Step 5: Maintain the temperature of the oil at 350 degrees F (175 degrees C), and cook turkey for 3 1/2 minutes per pound, about 35 minutes.",
+        "Step 6: Carefully remove basket from oil, and drain turkey. Insert a meat thermometer into the thickest part of the thigh; the internal temperature must be 180 degrees F (80 degrees C). Allow to rest for 15 minutes before slicing.",
+        "Step 7: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount may vary depending on cook time and temperature, ingredient density, and the specific type of oil used."
+    ],
+    "image": "images/simple-deep-fried-turkey.jpg"
+}

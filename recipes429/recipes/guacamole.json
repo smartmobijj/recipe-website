@@ -1,0 +1,34 @@
+{
+    "title": "Guacamole",
+    "file_name": "guacamole",
+    "url": "https://www.allrecipes.com/recipe/14231/guacamole/",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "Unknown",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "262 Calories"
+    },
+    "ingredients": [
+        "3  avocados - peeled, pitted, and mashed",
+        "1  lime, juiced",
+        "1 teaspoon salt or to taste",
+        "2  roma (plum) tomatoes, diced",
+        "½ cup diced onion",
+        "3 tablespoons chopped fresh cilantro",
+        "1 teaspoon minced garlic",
+        "1 pinch ground cayenne pepper (Optional)"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Mash avocados, lime juice, and salt together in a medium bowl; mix in tomatoes, onion, cilantro, and garlic.",
+        "Step 3: Stir in cayenne pepper. Serve immediately, or cover and refrigerate for 1 hour for improved flavor."
+    ],
+    "image": "images/guacamole.jpg"
+}

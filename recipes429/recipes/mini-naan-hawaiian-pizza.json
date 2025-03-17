@@ -1,0 +1,36 @@
+{
+    "title": "Mini Naan Hawaiian Pizza",
+    "file_name": "mini-naan-hawaiian-pizza",
+    "url": "https://www.allrecipes.com/recipe/281041/mini-naan-hawaiian-pizza/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "331 Calories"
+    },
+    "ingredients": [
+        "½ cup pizza sauce",
+        "4 small naan breads",
+        "1 ½ cups shredded mozzarella cheese",
+        "⅓ cup pineapple tidbits, well drained",
+        "2 slices deli ham, cut into bite-sized pieces",
+        "2 slices cooked bacon, crumbled",
+        "1 thin slice red onion, peeled and cut into chunks"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.",
+        "Step 2: Spread pizza sauce on naan; sprinkle with mozzarella cheese. Top with pineapple tidbits, ham, bacon, and red onion; place on the prepared baking sheet.",
+        "Step 3: Bake in the preheated oven until crust is golden brown and cheese has melted, about 10 minutes.",
+        "Step 4: Use mini naan breads that are about 5 to 6 inches in size.",
+        "Step 5: You can use fresh or canned pineapple. As another option, you can also marinate the pineapple in hot sauce (such as Sriracha) for about 30 minutes, drain, and then proceed with the preparation.",
+        "Step 6: Please note the slight difference in recipe name when using the magazine version of this recipe."
+    ],
+    "image": "images/mini-naan-hawaiian-pizza.jpg"
+}

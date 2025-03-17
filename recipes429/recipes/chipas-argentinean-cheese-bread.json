@@ -1,0 +1,33 @@
+{
+    "title": "Chipas (Argentinean Cheese Bread)",
+    "file_name": "chipas-argentinean-cheese-bread",
+    "url": "https://www.allrecipes.com/recipe/66504/chipas-argentinean-cheese-bread/",
+    "cuisine": "Argentinian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "285 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "1 large egg",
+        "⅔ cup milk",
+        "6 ounces shredded Italian cheese blend",
+        "3 tablespoons butter, melted",
+        "1 ¾ cups tapioca starch",
+        "1 cup self-rising flour"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Oil a baking sheet with cooking spray and set aside.",
+        "Step 2: Stir together egg, milk, cheese, and butter in a large bowl. Sprinkle in tapioca starch and flour; stir in to form a dough. Knead dough for 2 minutes on a lightly floured surface, then roll into golf ball-sized pieces and place onto the prepared baking sheet.",
+        "Step 3: Bake in the preheated oven until golden brown, 10 to 15 minutes."
+    ],
+    "image": "images/chipas-argentinean-cheese-bread.jpg"
+}

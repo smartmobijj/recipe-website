@@ -1,0 +1,35 @@
+{
+    "title": "Simple Beef Stroganoff",
+    "file_name": "simple-beef-stroganoff",
+    "url": "https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "15 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "679 Calories"
+    },
+    "ingredients": [
+        "1 (8 ounce) package egg noodles",
+        "1 pound ground beef",
+        "1 (10.5 ounce) can fat-free condensed cream of mushroom soup",
+        "1 tablespoon garlic powder, or to taste",
+        "½ cup sour cream",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Sauté ground beef in a large skillet over medium heat until browned and crumbly; 5 to 10 minutes.",
+        "Step 3: Meanwhile, fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain and set aside.",
+        "Step 4: Drain and discard any fat from the cooked beef. Stir condensed soup and garlic powder into the beef. Simmer for 10 minutes, stirring occasionally.",
+        "Step 5: Remove beef from the heat. Add egg noodles and stir to combine. Stir in sour cream and season with salt and pepper.",
+        "Step 6: Serve hot and enjoy!"
+    ],
+    "image": "images/simple-beef-stroganoff.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Maple Salmon",
+    "file_name": "maple-salmon",
+    "url": "https://www.allrecipes.com/recipe/51283/maple-salmon/",
+    "cuisine": "Canadian",
+    "difficulty": "Medium",
+    "cooking_time": "25 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "265 Calories"
+    },
+    "ingredients": [
+        "¼ cup maple syrup",
+        "2 tablespoons soy sauce",
+        "1 clove garlic, minced",
+        "¼ teaspoon garlic salt",
+        "⅛ teaspoon ground black pepper",
+        "1 pound salmon"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Stir maple syrup, soy sauce, garlic, garlic salt, and pepper together in a small bowl.",
+        "Step 3: Cut salmon into 4 equal-sized fillets; place in a shallow glass baking dish and coat with maple syrup mixture. Cover the dish and marinate salmon in the refrigerator for 30 minutes, turning once halfway.",
+        "Step 4: Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 5: Place the baking dish in the preheated oven and bake salmon uncovered until flesh easily flakes with a fork, about 20 minutes.",
+        "Step 6: Enjoy!",
+        "Step 7: The nutrition data for this recipe includes information for the full amount of the marinade ingredients. Depending on marinating time, ingredients, cooking method, etc., the actual amount of the marinade consumed will vary."
+    ],
+    "image": "images/maple-salmon.jpg"
+}

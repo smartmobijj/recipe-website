@@ -1,0 +1,43 @@
+{
+    "title": "Vegan Mapo Tofu",
+    "file_name": "vegan-mapo-tofu",
+    "url": "https://www.allrecipes.com/recipe/262363/vegan-mapo-tofu/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "5 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "255 Calories"
+    },
+    "ingredients": [
+        "½ cup vegetable broth",
+        "1 tablespoon maple syrup",
+        "2 teaspoons reduced-sodium soy sauce",
+        "1 teaspoon cornstarch",
+        "1 tablespoon peanut oil",
+        "1 cup shiitake mushrooms, sliced",
+        "3 tablespoons fermented black beans, roughly chopped",
+        "2  green onions, white parts only, chopped",
+        "6 cloves garlic, minced",
+        "1 tablespoon fresh ginger, minced",
+        "1 teaspoon Sichuan peppercorns",
+        "2 tablespoons chili bean paste (doubanjiang)",
+        "1 (14 ounce) container silken tofu, cut into 1-inch cubes",
+        "1 tablespoon chile oil",
+        "1 tablespoon sesame oil",
+        "3 tablespoons peanuts, chopped"
+    ],
+    "method": [
+        "Step 1: Mix vegetable broth, maple syrup, soy sauce, and cornstarch in a bowl.",
+        "Step 2: Heat peanut oil in a wok over medium-high heat. Add mushrooms, black beans, green onions, garlic, ginger, and Sichuan peppercorns. Saute until aromatic, about 1 minute. Add chili bean paste and the soy sauce mixture. Cook and stir until thick, 3 to 5 minutes. Add tofu; cook until heated through, about 1 minute more.",
+        "Step 3: Transfer cooked tofu to a serving dish; drizzle chile oil and sesame oil on top. Top with chopped peanuts.",
+        "Step 4: For a non-vegan version, substitute honey for the maple syrup."
+    ],
+    "image": "images/vegan-mapo-tofu.jpg"
+}

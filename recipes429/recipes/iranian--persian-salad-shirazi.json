@@ -1,0 +1,34 @@
+{
+    "title": "Iranian / Persian Salad Shirazi",
+    "file_name": "iranian--persian-salad-shirazi",
+    "url": "https://www.allrecipes.com/recipe/239818/iranian-persian-salad-shirazi/",
+    "cuisine": "Iranian",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "Unknown",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "145 Calories"
+    },
+    "ingredients": [
+        "4  ripe tomatoes, seeded and diced",
+        "1  red onion, diced",
+        "2 small English cucumbers, peeled and diced",
+        "3 tablespoons olive oil",
+        "lemon, juiced",
+        "1 tablespoon dried mint",
+        "1 teaspoon dried dill",
+        "1 teaspoon ground sumac",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Mix tomatoes, red onion, cucumbers, olive oil, lemon juice, mint, dill, sumac, salt, and pepper together in a bowl.",
+        "Step 2: To remove seeds from the tomatoes, slice them in half and squeeze."
+    ],
+    "image": "images/iranian--persian-salad-shirazi.jpg"
+}

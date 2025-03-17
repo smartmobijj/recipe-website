@@ -1,0 +1,44 @@
+{
+    "title": "Challah Bread",
+    "file_name": "challah-bread",
+    "url": "https://www.allrecipes.com/recipe/6760/challah-i/",
+    "cuisine": "Jewish",
+    "difficulty": "Medium",
+    "cooking_time": "180 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "40 mins",
+        "total_time": "3 hrs 40 mins",
+        "active_time": "Unknown",
+        "servings": "30",
+        "calories": "165 Calories"
+    },
+    "ingredients": [
+        "2 ½ cups warm water (110 degrees F/45 degrees C)",
+        "1 tablespoon active dry yeast",
+        "½ cup honey",
+        "4 tablespoons vegetable oil",
+        "3 large eggs, divided",
+        "1 tablespoon salt",
+        "8 cups unbleached all-purpose flour",
+        "1 tablespoon poppy seeds (Optional)"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Pour warm water into a large bowl; sprinkle yeast over water. Let stand until yeast softens and begins to form a creamy foam, about 5 minutes.",
+        "Step 3: Beat in honey, oil, 2 eggs, and salt. Add flour, 1 cup at a time, beating after each addition until dough has pulled together.",
+        "Step 4: Turn it out onto a lightly floured surface and knead until smooth and elastic.",
+        "Step 5: Place dough in a large, lightly-oiled bowl and turn to coat.",
+        "Step 6: Cover with a towel and let rise in a warm place until doubled in volume, about 1 ½ hours.",
+        "Step 7: Punch down dough and turn onto a lightly floured surface. Divide in half and knead each half for 5 minutes or so, adding flour as needed to keep it from getting sticky.",
+        "Step 8: Divide each half into thirds and roll into a long snake about 1 ½ inches in diameter.",
+        "Step 9: Pinch the ends of the three snakes together firmly and braid from middle. Either leave as a braid or form into a round braided loaf by bringing ends together, curving the braid into a circle, and pinching ends together.",
+        "Step 10: Grease two baking trays and place the finished braid or round on each. Cover with a towel and let rise for about 1 hour. Preheat the oven to 375 degrees F (190 degrees C).",
+        "Step 11: Beat the remaining egg and brush a generous amount over each braid; sprinkle with poppy seeds.",
+        "Step 12: Bake in preheated oven until golden brown, about 40 minutes. Cool on a wire rack for at least one hour before slicing.",
+        "Step 13: Serve and enjoy!"
+    ],
+    "image": "images/challah-bread.jpg"
+}

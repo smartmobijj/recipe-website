@@ -1,0 +1,45 @@
+{
+    "title": "Meat Pie",
+    "file_name": "meat-pie",
+    "url": "https://www.allrecipes.com/recipe/76296/meat-pie/",
+    "cuisine": "Australian",
+    "difficulty": "Hard",
+    "cooking_time": "90 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "25 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "381 Calories"
+    },
+    "ingredients": [
+        "1 medium potato, peeled and cubed",
+        "½ pound ground beef",
+        "½ pound ground pork",
+        "½ cup chopped onion",
+        "⅓ clove garlic, chopped",
+        "½ teaspoon mustard powder",
+        "½ teaspoon dried thyme",
+        "¼ teaspoon dried sage",
+        "¼ teaspoon ground cloves",
+        "1 teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        "¼ cup water",
+        "1 (15 ounce) package refrigerated pie crusts"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 2: Place potato in a saucepan with enough water to cover. Bring to a boil, and cook until tender, about 5 minutes.",
+        "Step 3: Drain, mash, and set aside.",
+        "Step 4: Meanwhile, crumble ground beef and pork into a large saucepan. Add onion, garlic, mustard powder, thyme, sage, cloves, salt, and black pepper. Stir in water. Cook over medium heat, stirring, until meat is evenly browned.",
+        "Step 5: Remove from the heat and mix in mashed potato.",
+        "Step 6: Ease one pie crust into a 9-inch pie plate. Fill with meat mixture, then top with the remaining pie crust.",
+        "Step 7: Trim any excess dough, then crimp the edges with the tines of a fork to seal.",
+        "Step 8: Prick top crust a few times with a knife to vent steam. Cover the edges of the crust with aluminum foil.",
+        "Step 9: Bake in the preheated oven until crust is browned, about 25 minutes."
+    ],
+    "image": "images/meat-pie.jpg"
+}

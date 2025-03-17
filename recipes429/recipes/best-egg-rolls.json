@@ -1,0 +1,42 @@
+{
+    "title": "Best Egg Rolls",
+    "file_name": "best-egg-rolls",
+    "url": "https://www.allrecipes.com/recipe/14704/best-egg-rolls/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "15 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "334 Calories"
+    },
+    "ingredients": [
+        "1 pound ground pork",
+        "1 teaspoon ground ginger, or more to taste",
+        "1 teaspoon garlic powder, or more to taste",
+        "2 cups shredded cabbage",
+        "2 ounces shredded carrots",
+        "2 tablespoons all-purpose flour",
+        "2 tablespoons water",
+        "1 quart peanut oil for frying, or as needed",
+        "8 (7 inch square) egg roll wrappers",
+        "2 tablespoons sesame seeds (Optional)"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: Season pork with ginger and garlic powder in a large bowl; mix until thoroughly combined. Place pork in a medium skillet over medium heat. Cook and stir until pork is browned and crumbly, 5 to 7 minutes.",
+        "Step 3: Combine cooked pork, cabbage, and carrots in a large bowl; mix until egg roll filling is well combined. Mix four and water together in a small bowl until a paste forms.",
+        "Step 4: Heat oil in a large skillet to about 375 degrees F (190 degrees C) or medium high heat. While oil is heating, prepare egg rolls: Lay one egg roll wrapper on a work surface with one corner pointed toward you like a diamond. Place about 1/4 to 1/3 cup of the filling in the center of the wrapper.",
+        "Step 5: Fold the bottom corner up and over the filling. Fold the left and right corners in toward the center. Push the egg roll away from you and roll toward the top corner.",
+        "Step 6: Brush a bit of the flour paste over the inside of that corner to help seal the egg roll.",
+        "Step 7: Fry egg rolls in the hot oil, turning occasionally, until golden brown and crispy, 5 to 8 minutes. Remove from oil and drain on paper towels or rack.",
+        "Step 8: Place egg rolls on a serving plate and sprinkle sesame seeds over top.",
+        "Step 9: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and the specific type of oil used."
+    ],
+    "image": "images/best-egg-rolls.jpg"
+}

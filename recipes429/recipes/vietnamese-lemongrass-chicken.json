@@ -1,0 +1,36 @@
+{
+    "title": "Vietnamese Lemongrass Chicken",
+    "file_name": "vietnamese-lemongrass-chicken",
+    "url": "https://www.allrecipes.com/recipe/241607/vietnamese-grilled-lemongrass-chicken/",
+    "cuisine": "Malaysian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "308 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons canola oil",
+        "2 tablespoons finely chopped lemongrass",
+        "1 tablespoon lemon juice",
+        "2 teaspoons soy sauce",
+        "2 teaspoons light brown sugar",
+        "2 teaspoons minced garlic",
+        "1 teaspoon fish sauce",
+        "1 ½ pounds chicken thighs, or more to taste, pounded to an even thickness"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Mix together canola oil, lemongrass, lemon juice, soy sauce, brown sugar, garlic, and fish sauce in a glass bowl until sugar is dissolved",
+        "Step 3: Add chicken and turn to coat in marinade. Marinate chicken in the refrigerator for 20 minutes to 1 hour.",
+        "Step 4: Preheat grill for medium heat and lightly oil the grate. Remove chicken thighs from marinade; shake to remove excess. Discard remaining marinade.",
+        "Step 5: Cook chicken on the preheated grill until no longer pink in the center and juices run clear, 3 to 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+    ],
+    "image": "images/vietnamese-lemongrass-chicken.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "title": "The Best Rolled Sugar Cookies",
+    "file_name": "the-best-rolled-sugar-cookies",
+    "url": "https://www.allrecipes.com/recipe/10402/the-best-rolled-sugar-cookies/",
+    "cuisine": "German",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Germany",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "1 hr 30 mins",
+        "active_time": "Unknown",
+        "servings": "60",
+        "calories": "110 Calories"
+    },
+    "ingredients": [
+        "2 cups white sugar",
+        "1 ½ cups butter, softened",
+        "4 large eggs",
+        "1 teaspoon vanilla extract",
+        "5 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 teaspoon salt"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Beat sugar and softened butter together in a large bowl with an electric mixer until smooth.",
+        "Step 3: Beat in eggs and vanilla. Stir in flour, baking powder, and salt. Cover, and chill dough for at least 1 hour (or overnight).",
+        "Step 4: Preheat the oven to 400 degrees F (200 degrees C). Lightly dust a work surface with flour. Roll out dough to 1/4 to 1/2 inch thickness.",
+        "Step 5: Cut into shapes with any cookie cutter. Place cookies 1 inch apart on ungreased baking sheets.",
+        "Step 6: Bake in the preheated oven until cookies are lightly browned, 6 to 8 minutes. Carefully transfer cookies to a wire rack and cool completely before decorating.",
+        "Step 7: Enjoy!"
+    ],
+    "image": "images/the-best-rolled-sugar-cookies.jpg"
+}

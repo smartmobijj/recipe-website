@@ -1,0 +1,52 @@
+{
+    "title": "Christmas Cake",
+    "file_name": "christmas-cake",
+    "url": "https://www.allrecipes.com/recipe/9265/christmas-cake/",
+    "cuisine": "British",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "3 hrs",
+        "total_time": "5 hrs 30 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "645 Calories"
+    },
+    "ingredients": [
+        "2 (8 ounce) containers candied cherries",
+        "1 (8 ounce) container candied mixed citrus peel",
+        "2 (2.25 ounce) packages blanched slivered almonds",
+        "2 cups raisins",
+        "1 cup dried currants",
+        "1 cup dates, pitted and chopped",
+        "½ cup brandy",
+        "2 ½ cups all-purpose flour, divided",
+        "1 teaspoon ground cloves",
+        "1 teaspoon ground allspice",
+        "1 teaspoon ground cinnamon",
+        "½ teaspoon baking soda",
+        "½ teaspoon salt",
+        "¾ cup molasses",
+        "¾ cup apple juice",
+        "1 cup unsalted butter, softened",
+        "2 cups packed brown sugar",
+        "6 large eggs"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine candied cherries, citrus peel, and almonds in a medium bowl. Add raisins, currants, and dates; pour in brandy and stir to combine. Cover and let sit for 2 hours or overnight.",
+        "Step 3: When ready to bake, preheat the oven to 275 degrees F (135 degrees C). Grease a deep 8-inch fruitcake pan, line it with parchment paper, and grease again.",
+        "Step 4: Dredge brandy-soaked fruit with 1/2 cup flour.",
+        "Step 5: Whisk together remaining 2 cups flour, cloves, allspice, cinnamon, baking soda, and salt in a medium bowl.",
+        "Step 6: Stir molasses and apple juice together in a separate bowl until combined.",
+        "Step 7: Cream butter in a large bowl until light and fluffy. Gradually blend in brown sugar and eggs.",
+        "Step 8: Add flour mixture in 4 batches, alternating with molasses mixture.",
+        "Step 9: Fold in floured fruit, then turn batter into the prepared pan.",
+        "Step 10: Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 3 to 3 1/2 hours.",
+        "Step 11: Remove cake from the pan, and lift off the parchment paper. Cool cake completely, then wrap loosely in waxed paper. Store in an airtight container in a cool, dry place for up to 2 months, or in the refrigerator for longer."
+    ],
+    "image": "images/christmas-cake.jpg"
+}

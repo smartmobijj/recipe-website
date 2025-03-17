@@ -1,0 +1,36 @@
+{
+    "title": "Poached Chicken Breast",
+    "file_name": "poached-chicken-breast",
+    "url": "https://www.allrecipes.com/recipe/238684/poached-chicken-breast/",
+    "cuisine": "Pacific Islands",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Pacific Islands",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "322 Calories"
+    },
+    "ingredients": [
+        "1 (32 fluid ounce) container chicken stock",
+        "32 fluid ounces water, or more if needed",
+        "1  yellow onion, peeled and slits cut into it",
+        "1 bunch celery, stalks (including leaves) separated",
+        "3  carrots",
+        "2 tablespoons tomato paste, or more to taste",
+        "1 tablespoon salt",
+        "5  whole black peppercorns",
+        "1  bay leaf",
+        "2 pounds skinless, boneless chicken breast halves, each cut in half"
+    ],
+    "method": [
+        "Step 1: Combine chicken stock, water, yellow onion, celery, carrots, tomato paste, salt, peppercorns, and bay leaf in a large pot; bring to a gentle simmer. Decrease heat to medium-low and simmer, checking flavor occasionally, until vegetables are slightly tender, 30 to 45 minutes.",
+        "Step 2: Bring stock to a boil and add chicken, pouring in more water if chicken isn't completely covered in liquid. Bring poaching liquid to a boil; remove pot from heat and cover tightly with a lid until chicken is no longer pink in center, about 15 minutes. An instant-read thermometer inserted into center should read at least 165 degrees F (74 degrees C).",
+        "Step 3: The nutrition data for this recipe includes the full amount of the stock ingredients. The actual amount of the stock consumed will vary."
+    ],
+    "image": "images/poached-chicken-breast.jpg"
+}

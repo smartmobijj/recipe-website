@@ -1,0 +1,49 @@
+{
+    "title": "Yaki Mandu (Korean Dumplings)",
+    "file_name": "yaki-mandu-korean-dumplings",
+    "url": "https://www.allrecipes.com/recipe/245124/yaki-mandu/",
+    "cuisine": "Korean",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "South Korea",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "15 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "25",
+        "calories": "125 Calories"
+    },
+    "ingredients": [
+        "1 pound ground beef",
+        "½ cup finely chopped green onions",
+        "½ cup finely chopped cabbage",
+        "½ cup finely chopped carrot",
+        "4 cloves garlic, minced",
+        "4 teaspoons sesame oil, divided",
+        "1 tablespoon toasted sesame seeds",
+        "½ teaspoon monosodium glutamate",
+        "salt and ground black pepper to taste",
+        "2 large eggs",
+        "1 ½ cups vegetable oil for frying",
+        "1 (16 ounce) package wonton wrappers",
+        "3 tablespoons soy sauce",
+        "2 teaspoons rice wine vinegar",
+        "1 teaspoon toasted sesame seeds, or more to taste"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Heat a large skillet over medium-high heat. Add beef; cook and stir until browned and crumbly, 5 to 7 minutes. Drain and discard grease.",
+        "Step 3: Mix green onions, cabbage, carrot, garlic, 1 tablespoon sesame oil, 1 tablespoon sesame seeds, monosodium glutamate, salt, and pepper into ground beef mixture; cook and stir until liquid is evaporated and vegetables are tender, 5 to 10 minutes.",
+        "Step 4: Transfer beef mixture to a bowl and mix in 1 egg. Meanwhile, heat vegetable oil in a separate skillet over medium heat.",
+        "Step 5: Crack the second egg into a bowl and beat well.",
+        "Step 6: Hold 1 wonton wrapper in the palm of your hand and brush a thin layer of beaten egg on 1 edge. Scoop about 1 teaspoon beef mixture into the center of the wrapper.",
+        "Step 7: Fold wrapper in half, corner to corner, to make a triangle and pinch the edges shut, crimping with your fingers to make a seal.",
+        "Step 8: Press the air out by cupping your fingers over the dumpling in your palm and pressing lightly.",
+        "Step 9: Fry wontons in the hot oil until 1 side is browned, about 1 or 2 minutes. Flip and cook until other side is browned, 1 or 2 minutes. Transfer wontons to a paper towel-lined plate to drain using a slotted spoon.",
+        "Step 10: To make the dipping sauce: Whisk soy sauce, rice wine vinegar, 1 teaspoon sesame oil, and 1 teaspoon sesame seeds together in a bowl until smooth.",
+        "Step 11: Serve alongside wontons."
+    ],
+    "image": "images/yaki-mandu-korean-dumplings.jpg"
+}

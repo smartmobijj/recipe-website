@@ -1,0 +1,39 @@
+{
+    "title": "Mexican Green Spaghetti",
+    "file_name": "mexican-green-spaghetti",
+    "url": "https://www.allrecipes.com/recipe/269259/mexican-green-spaghetti/",
+    "cuisine": "Peruvian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Peru",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "397 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package spaghetti",
+        "4 large green bell peppers, stemmed and seeded",
+        "1 cup water, or more as needed",
+        "2 cubes chicken bouillon",
+        "1 clove garlic, peeled",
+        "1 tablespoon butter, or more to taste",
+        "1 (16 ounce) container sour cream",
+        "1 cup shredded mozzarella cheese, or more to taste"
+    ],
+    "method": [
+        "Step 1: Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain and set aside.",
+        "Step 2: Combine bell peppers, water, chicken bouillon, and garlic in a medium pot. Bring to a boil, reduce heat, and cook until peppers are soft, 7 to 10 minutes. Remove from heat and let cool for a few minutes.",
+        "Step 3: Preheat the oven to 350 degrees F (175 degrees C). Coat the bottom of a 9x13-inch baking dish with butter.",
+        "Step 4: Fill blender halfway with the pepper-broth mixture. Cover and hold lid down with a potholder; pulse a few times before leaving on to blend. Pour into a bowl. Repeat with any remaining mixture. Stir in sour cream.",
+        "Step 5: Line the bottom of the baking dish with a layer of the spaghetti. Spread a portion of the pepper puree on top and add a layer of mozzarella cheese. Repeat layering spaghetti, pepper puree, and cheese until all ingredients are used up.",
+        "Step 6: Bake in the preheated oven until cheese is melted, about 20 minutes.",
+        "Step 7: Use any kind of bell peppers you like. Seeding is optional. If not making this for kids, you can boil a jalapeno pepper with the bell peppers.",
+        "Step 8: You can also cover the dish with aluminum foil while it bakes to keep the noodles from crisping and burning. In that case, I wouldn't advise putting cheese on top; whenever I do that it doesn't taste as good..."
+    ],
+    "image": "images/mexican-green-spaghetti.jpg"
+}

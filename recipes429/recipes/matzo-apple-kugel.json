@@ -1,0 +1,36 @@
+{
+    "title": "Matzo Apple Kugel",
+    "file_name": "matzo-apple-kugel",
+    "url": "https://www.allrecipes.com/recipe/31399/matzo-apple-kugel/",
+    "cuisine": "Jewish",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "181 Calories"
+    },
+    "ingredients": [
+        "4  matzo crackers, crushed",
+        "3 large eggs, beaten",
+        "⅓ cup applesauce",
+        "1/2 cup white sugar, divided",
+        "1 teaspoon salt",
+        "½ teaspoon lemon juice",
+        "3  Granny Smith apples - cored, peeled and chopped",
+        "½ cup dried cranberries",
+        "1 teaspoon ground cinnamon"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Place crushed matzo crackers in a medium bowl and add enough water to cover. Let stand for 2 minutes, then drain off excess water. Do not squeeze.",
+        "Step 2: Add beaten eggs, applesauce, 1/4 cup sugar, salt, and lemon juice to soaked crackers; stir to combine. Mix in apples and dried cranberries until incorporated. Spread evenly into a 2-quart casserole dish.",
+        "Step 3: Mix together remaining 1/4 cup sugar and cinnamon in a small bowl until well combined; sprinkle over the top.",
+        "Step 4: Bake in the preheated oven until the top is golden and apples are soft, about 45 minutes."
+    ],
+    "image": "images/matzo-apple-kugel.jpg"
+}

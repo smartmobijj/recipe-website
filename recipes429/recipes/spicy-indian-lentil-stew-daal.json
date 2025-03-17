@@ -1,0 +1,42 @@
+{
+    "title": "Spicy Indian Lentil Stew (Daal)",
+    "file_name": "spicy-indian-lentil-stew-daal",
+    "url": "https://www.allrecipes.com/recipe/282533/spicy-indian-lentil-stew-daal/",
+    "cuisine": "Ethiopian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Ethiopia",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "236 Calories"
+    },
+    "ingredients": [
+        "½ cup dry yellow lentils",
+        "¼ cup dry red lentils",
+        "¼ cup split mung beans",
+        "5 cups water",
+        "1 ¼ teaspoons salt",
+        "1 teaspoon ground turmeric",
+        "4 teaspoons ghee (clarified butter), divided",
+        "1 teaspoon cumin seeds",
+        "1 medium onion, thinly sliced",
+        "2  green chile peppers, chopped",
+        "2 teaspoons grated fresh ginger",
+        "2 tablespoons chopped fresh cilantro",
+        "½ teaspoon cayenne pepper",
+        "1 tablespoon lemon juice"
+    ],
+    "method": [
+        "Step 1: Rinse the yellow lentils, red lentils, and mung beans and put them in a medium saucepan with 5 cups water, salt, turmeric, and 1 teaspoon ghee. Bring to a boil. Reduce heat and simmer until lentils are easily mashed, about 30 minutes.",
+        "Step 2: Heat remaining ghee in a frying pan over medium heat. Add cumin seeds and cook until they sputter. Add onion, chile peppers, and ginger; stir-fry until onions are soft, 5 to 7 minutes. Remove from heat and add cilantro and cayenne. Transfer mixture to lentils.",
+        "Step 3: Let mixture simmer for 3 minutes. Remove from heat and stir in lemon juice.",
+        "Step 4: Any type of spicy pepper can be used in place of the chiles. For a milder dish, adjust or leave out the chiles and cayenne.",
+        "Step 5: This recipe is quite forgiving, and you can substitute types of lentils or spices according to what you have on hand. You can use oil instead of ghee."
+    ],
+    "image": "images/spicy-indian-lentil-stew-daal.jpg"
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Emily's Excellent Taco Casserole",
+    "file_name": "emily's-excellent-taco-casserole",
+    "url": "https://www.allrecipes.com/recipe/71179/emilys-excellent-taco-casserole/",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "477 Calories"
+    },
+    "ingredients": [
+        "6 cups corn tortilla chips",
+        "2 cups vegetarian chili with beans",
+        "1 cup shredded Cheddar cheese",
+        "2 cups shredded lettuce",
+        "2  roma (plum) tomatoes, chopped",
+        "½ cup salsa",
+        "¼ cup sour cream"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Place chips in the bottom of a 9x9-inch baking dish. Pour chili straight from the can over chips. Sprinkle shredded cheese over top.",
+        "Step 3: Bake for 20 to 25 minutes in the preheated oven, until chili is bubbling and cheese is melted. Top with lettuce, tomato, sour cream, and salsa in the pan, or after serving if people are picky."
+    ],
+    "image": "images/emily's-excellent-taco-casserole.jpg"
+}

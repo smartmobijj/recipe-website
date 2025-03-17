@@ -1,0 +1,40 @@
+{
+    "title": "Wonton Soup",
+    "file_name": "wonton-soup",
+    "url": "https://www.allrecipes.com/recipe/13199/wonton-soup/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "10 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "195 Calories"
+    },
+    "ingredients": [
+        "½ pound boneless pork loin, coarsely chopped",
+        "2 ounces peeled shrimp, finely chopped",
+        "1 tablespoon Chinese rice wine",
+        "1 tablespoon light soy sauce",
+        "1 teaspoon brown sugar",
+        "1 teaspoon finely chopped green onions",
+        "1 teaspoon chopped fresh ginger root",
+        "24 (3.5 inch square) wonton wrappers",
+        "3 cups chicken stock",
+        "2 tablespoons finely chopped green onions"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: To make the wontons: Mix pork, shrimp, rice wine, soy sauce, brown sugar, green onions, and ginger together in a large bowl until well combined. Let stand for 25 to 30 minutes.",
+        "Step 3: Spoon about 1 teaspoon filling onto the center of a wonton wrapper. Moisten all four wrapper edges with water and fold over filling to make a triangle; press the edges firmly to seal.",
+        "Step 4: Bring left and right corners together above filling; overlap the tips of these corners, moisten with water, and press together to seal. Repeat until all wrappers have been filled and sealed.",
+        "Step 5: To make the soup: Bring chicken stock to a rolling boil in a pot. Gently drop in wontons and cook for 5 minutes.",
+        "Step 6: Ladle into bowls and garnish with green onions.",
+        "Step 7: Enjoy!"
+    ],
+    "image": "images/wonton-soup.jpg"
+}

@@ -1,0 +1,31 @@
+{
+    "title": "White Sauce",
+    "file_name": "white-sauce",
+    "url": "https://www.allrecipes.com/recipe/21171/white-sauce/",
+    "cuisine": "Egyptian",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "48 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "1 cup milk, or more as needed"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: Melt butter in a small saucepan over medium-low heat.",
+        "Step 3: Whisk in flour to form a thick paste; cook and stir until golden in color, about 5 to 7 minutes.",
+        "Step 4: Whisk in 1 cup milk; cook and stir until thickened, about 5 minutes more. Add more milk to reach desired consistency.",
+        "Step 5: Enjoy!"
+    ],
+    "image": "images/white-sauce.jpg"
+}

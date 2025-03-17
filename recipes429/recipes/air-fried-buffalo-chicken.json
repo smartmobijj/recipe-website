@@ -1,0 +1,37 @@
+{
+    "title": "Air-Fried Buffalo Chicken",
+    "file_name": "air-fried-buffalo-chicken",
+    "url": "https://www.allrecipes.com/recipe/257093/air-fried-buffalo-chicken/",
+    "cuisine": "Filipino",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "16 mins",
+        "total_time": "36 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "234 Calories"
+    },
+    "ingredients": [
+        "½ cup plain fat-free Greek yogurt",
+        "¼ cup egg substitute",
+        "1 tablespoon hot sauce (such as Frank's®)",
+        "1 teaspoon hot sauce (such as Frank's®)",
+        "1 cup panko bread crumbs",
+        "1 tablespoon sweet paprika",
+        "1 tablespoon garlic pepper seasoning",
+        "1 tablespoon cayenne pepper",
+        "1 pound skinless, boneless chicken breasts, cut into 1-inch strips"
+    ],
+    "method": [
+        "Step 1: Whisk Greek yogurt, egg substitute, and 1 tablespoon plus 1 teaspoon hot sauce in a bowl.",
+        "Step 2: Mix panko bread crumbs, paprika, garlic pepper, and cayenne pepper in a separate bowl.",
+        "Step 3: Dip chicken strips into yogurt mixture; coat with panko bread crumb mixture.",
+        "Step 4: Arrange coated chicken strips in a single layer in an air fryer. Cook until evenly browned, about 8 minutes per side.",
+        "Step 5: Substitute egg whites for the egg substitute if preferred."
+    ],
+    "image": "images/air-fried-buffalo-chicken.jpg"
+}

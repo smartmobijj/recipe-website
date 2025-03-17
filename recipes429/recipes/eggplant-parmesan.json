@@ -1,0 +1,37 @@
+{
+    "title": "Eggplant Parmesan",
+    "file_name": "eggplant-parmesan",
+    "url": "https://www.allrecipes.com/recipe/25321/eggplant-parmesan-ii/",
+    "cuisine": "Israeli",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "487 Calories"
+    },
+    "ingredients": [
+        "3 large eggplant, peeled and thinly sliced",
+        "2 large eggs, beaten",
+        "4 cups Italian seasoned bread crumbs",
+        "6 cups spaghetti sauce, divided",
+        "1 (16 ounce) package mozzarella cheese, shredded and divided",
+        "½ cup grated Parmesan cheese, divided",
+        "½ teaspoon dried basil"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Dip eggplant slices in beaten egg, then in bread crumbs to coat. Place in a single layer on a baking sheet.",
+        "Step 3: Bake in the preheated oven for 5 minutes. Flip and bake for 5 more minutes.",
+        "Step 4: Spread spaghetti sauce to cover the bottom of a 9x13-inch baking dish. Place a layer of eggplant slices in the sauce. Sprinkle with mozzarella and Parmesan cheeses.",
+        "Step 5: Repeat layers with remaining sauce, eggplant, and cheese, ending with a cheese layer. Sprinkle basil on top.",
+        "Step 6: Bake in the preheated oven until golden brown, about 35 minutes.",
+        "Step 7: Serve hot and enjoy!"
+    ],
+    "image": "images/eggplant-parmesan.jpg"
+}

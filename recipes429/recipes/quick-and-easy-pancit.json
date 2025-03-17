@@ -1,0 +1,37 @@
+{
+    "title": "Quick and Easy Pancit",
+    "file_name": "quick-and-easy-pancit",
+    "url": "https://www.allrecipes.com/recipe/47015/quick-and-easy-pancit/",
+    "cuisine": "Filipino",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "369 Calories"
+    },
+    "ingredients": [
+        "1 (12 ounce) package dried rice noodles",
+        "1 teaspoon vegetable oil",
+        "1  onion, finely diced",
+        "3 cloves garlic, minced",
+        "2 cups diced cooked chicken breast meat",
+        "1 small head cabbage, thinly sliced",
+        "4  carrot, thinly sliced",
+        "¼ cup soy sauce",
+        "2  lemons - cut into wedges, for garnish"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Place rice noodles in a large bowl; cover with warm water and let soften for 8 to 10 minutes. Drain and set aside.",
+        "Step 3: Meanwhile, heat oil in a wok or large skillet over medium-low heat. Add onion and garlic; cook and stir until onion is tender, about 3 to 5 minutes. Stir in chicken, cabbage, carrots, and soy sauce. Cook until cabbage begins to soften.",
+        "Step 4: Toss in noodles and cook, stirring constantly, until heated through.",
+        "Step 5: Transfer pancit to a serving dish and garnish with lemon wedges."
+    ],
+    "image": "images/quick-and-easy-pancit.jpg"
+}

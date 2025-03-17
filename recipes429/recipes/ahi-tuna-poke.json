@@ -1,0 +1,33 @@
+{
+    "title": "Ahi Tuna Poke",
+    "file_name": "ahi-tuna-poke",
+    "url": "https://www.allrecipes.com/recipe/12870/ahi-poke-basic/",
+    "cuisine": "Pacific Islands",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "Pacific Islands",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "2 hrs 10 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "396 Calories"
+    },
+    "ingredients": [
+        "2 pounds fresh tuna steaks, cubed",
+        "1 cup soy sauce",
+        "¾ cup chopped green onions",
+        "2 tablespoons sesame oil",
+        "2 tablespoons finely chopped macadamia nuts",
+        "1 tablespoon toasted sesame seeds",
+        "1 tablespoon crushed red pepper (Optional)"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Place tuna in a medium non-reactive bowl. Add soy sauce, green onions, sesame oil, sesame seeds, macadamia nuts, and red pepper flakes; mix well. Cover and refrigerate at least 2 hours before serving.",
+        "Step 3: Serve over rice."
+    ],
+    "image": "images/ahi-tuna-poke.jpg"
+}

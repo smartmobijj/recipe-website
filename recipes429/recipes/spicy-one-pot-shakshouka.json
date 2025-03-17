@@ -1,0 +1,36 @@
+{
+    "title": "Spicy One-Pot Shakshouka",
+    "file_name": "spicy-one-pot-shakshouka",
+    "url": "https://www.allrecipes.com/recipe/268948/spicy-one-pot-shakshouka/",
+    "cuisine": "Moroccan",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "Morocco",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "203 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1  onion, halved and finely chopped",
+        "1  green bell pepper, finely chopped",
+        "1  red bell pepper, finely chopped",
+        "1  red chile pepper, seeded and finely chopped",
+        "2 cloves garlic, minced",
+        "1 (14 ounce) can diced tomatoes",
+        "1 teaspoon white sugar",
+        "salt and freshly ground black pepper to taste",
+        "4 large eggs",
+        "2  green onions, finely chopped"
+    ],
+    "method": [
+        "Step 1: Heat olive oil in a heavy-bottomed frying pan. Saute onion and bell peppers in the hot oil for 2 to 3 minutes. Add chile pepper and garlic; cook and stir the peppers start to caramelize, 2 to 3 minutes. Add tomatoes and sugar. Cook over medium heat for 3 to 4 minutes. Season with salt and pepper.",
+        "Step 2: Make indentations in the sauce using a wooden spoon. Crack eggs into indentations in the sauce. Cover and cook until whites are firm and yolks reach desired doneness, 5 to 8 minutes. Uncover and garnish with green onions."
+    ],
+    "image": "images/spicy-one-pot-shakshouka.jpg"
+}

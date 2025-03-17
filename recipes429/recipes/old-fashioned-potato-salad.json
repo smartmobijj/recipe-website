@@ -1,0 +1,40 @@
+{
+    "title": "Old-Fashioned Potato Salad",
+    "file_name": "old-fashioned-potato-salad",
+    "url": "https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/",
+    "cuisine": "Japanese",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "206 Calories"
+    },
+    "ingredients": [
+        "5 medium potatoes",
+        "3 large eggs",
+        "1 cup chopped celery",
+        "½ cup chopped onion",
+        "½ cup sweet pickle relish",
+        "¼ cup mayonnaise",
+        "1 tablespoon prepared mustard",
+        "¼ teaspoon garlic salt",
+        "¼ teaspoon celery salt",
+        "ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes.",
+        "Step 3: Drain, cool, peel, and chop potatoes.",
+        "Step 4: While potatoes cook, place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes.",
+        "Step 5: Remove from hot water, cool, peel, and chop eggs.",
+        "Step 6: Combine the potatoes, eggs, celery, onion, relish, mayonnaise, mustard, garlic salt, celery salt, and pepper in a large bowl. Mix together well and refrigerate until chilled.",
+        "Step 7: Enjoy!"
+    ],
+    "image": "images/old-fashioned-potato-salad.jpg"
+}

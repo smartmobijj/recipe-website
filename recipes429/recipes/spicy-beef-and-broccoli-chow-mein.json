@@ -1,0 +1,41 @@
+{
+    "title": "Spicy Beef and Broccoli Chow Mein",
+    "file_name": "spicy-beef-and-broccoli-chow-mein",
+    "url": "https://www.allrecipes.com/recipe/244605/spicy-beef-and-broccoli-chow-mein/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "4 hrs 20 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "672 Calories"
+    },
+    "ingredients": [
+        "¼ cup soy sauce",
+        "2 tablespoons oyster sauce",
+        "2 tablespoons hoisin sauce",
+        "1 tablespoon red wine vinegar",
+        "1 tablespoon sesame oil",
+        "1 tablespoon garlic powder",
+        "1 tablespoon honey",
+        "2 teaspoons chile sauce (Optional)",
+        "1 teaspoon freshly ground black pepper",
+        "½ pound thinly-cut flat iron steaks",
+        "1 cup broccoli florets",
+        "6 ounces dried chow mein noodles",
+        "1 tablespoon olive oil, or more as needed",
+        "¼  white onion, chopped",
+        "4 cloves garlic, minced, or more to taste"
+    ],
+    "method": [
+        "Step 1: Whisk soy sauce, oyster sauce, hoisin sauce, red wine vinegar, sesame oil, garlic powder, honey, chile sauce, and black pepper together in a bowl until marinade is smooth. Brush marinade onto steak strips and broccoli, reserving some for the noodles. Refrigerate for 4 hours to overnight.",
+        "Step 2: Bring a large pot of lightly salted water to a boil. Cook chow mein noodles in the boiling water, stirring occasionally until tender yet firm to the bite, about 3 minutes. Drain.",
+        "Step 3: Heat oil in a wok or deep skillet over medium heat; cook and stir onion for 3 minutes. Add garlic and beef-broccoli mixture; cook and stir until beef is cooked through, 1 to 2 minutes. Add noodles and reserved marinade; toss using tongs and cook until heated through, 1 to 2 minutes."
+    ],
+    "image": "images/spicy-beef-and-broccoli-chow-mein.jpg"
+}

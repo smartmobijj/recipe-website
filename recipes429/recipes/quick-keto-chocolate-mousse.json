@@ -1,0 +1,32 @@
+{
+    "title": "Quick Keto Chocolate Mousse",
+    "file_name": "quick-keto-chocolate-mousse",
+    "url": "https://www.allrecipes.com/recipe/270598/quick-keto-chocolate-mousse/",
+    "cuisine": "French",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "10 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "373 Calories"
+    },
+    "ingredients": [
+        "3 ounces cream cheese, softened",
+        "½ cup heavy cream",
+        "1 teaspoon vanilla extract",
+        "¼ cup powdered zero-calorie sweetener (such as Swerve)",
+        "2 tablespoons cocoa powder",
+        "1 pinch salt"
+    ],
+    "method": [
+        "Step 1: Beat cream cheese in a large bowl with an electric mixer until light and fluffy.",
+        "Step 2: Turn mixer to low speed and slowly mix in heavy cream and vanilla. Mix in sweetener, cocoa powder and salt until well incorporated. Turn mixer to high and mix until light and fluffy, 1 to 2 minutes more.",
+        "Step 3: Serve immediately, or refrigerate for later."
+    ],
+    "image": "images/quick-keto-chocolate-mousse.jpg"
+}

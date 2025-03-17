@@ -1,0 +1,40 @@
+{
+    "title": "Greek Baklava",
+    "file_name": "greek-baklava",
+    "url": "https://www.allrecipes.com/recipe/9454/greek-baklava/",
+    "cuisine": "Moroccan",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Morocco",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "18",
+        "calories": "393 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package phyllo dough",
+        "1 pound chopped nuts",
+        "1 cup butter, melted",
+        "1 teaspoon ground cinnamon",
+        "1 cup water",
+        "1 cup white sugar",
+        "1 teaspoon vanilla extract",
+        "½ cup honey"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 350 degrees F(175 degrees C). Butter the bottoms and sides of a 9x13-inch pan.",
+        "Step 2: Chop nuts and toss with cinnamon. Set aside.",
+        "Step 3: Unroll phyllo dough. Cut whole stack in half to fit pan. Cover phyllo with a dampened cloth to keep from drying out as you work. Place two sheets of dough in pan, butter thoroughly with a pastry brush. Repeat until you have 8 sheets layered.",
+        "Step 4: Sprinkle 2 to 3 tablespoons of nut mixture on top. Top with two sheets of dough, melted butter, nuts, layering as you go. The top layer should be about 6 to 8 sheets deep.",
+        "Step 5: Using a sharp knife cut into diamond or square shapes all the way to the bottom of the pan. You may cut into 4 long rows then make diagonal cuts. Bake for about 50 minutes until baklava is golden and crisp.",
+        "Step 6: Make sauce while baklava is baking. Boil sugar and water until sugar is melted. Add vanilla and honey. Simmer for about 20 minutes.",
+        "Step 7: Remove baklava from the oven and immediately spoon sauce over it. Let cool.",
+        "Step 8: Serve in cupcake papers. This freezes well. Leave it uncovered as it gets soggy if it is wrapped up.",
+        "Step 9: Enjoy!"
+    ],
+    "image": "images/greek-baklava.jpg"
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Almond Milk Chocolate Pudding",
+    "file_name": "almond-milk-chocolate-pudding",
+    "url": "https://www.allrecipes.com/recipe/246265/almond-milk-chocolate-pudding/",
+    "cuisine": "Israeli",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "213 Calories"
+    },
+    "ingredients": [
+        "1 cup white sugar, or to taste",
+        "½ cup unsweetened cocoa powder",
+        "⅓ cup cornstarch",
+        "¼ teaspoon salt (Optional)",
+        "3 cups unsweetened almond milk",
+        "1 teaspoon unsalted butter (Optional)",
+        "1 teaspoon vanilla extract (Optional)"
+    ],
+    "method": [
+        "Step 1: Whisk sugar, cocoa powder, cornstarch, and salt together in a saucepan off the stove. Add 1/4 cup almond milk; whisk until smooth and foamy. Continue adding almond milk, 1/4 cup at a time, whisking after each addition.",
+        "Step 2: Place the saucepan over medium-high heat and cook, stirring constantly, until mixture comes to a simmer and starts to thicken, about 5 minutes.",
+        "Step 3: Remove from the heat and stir in butter until melted and smooth. Stir in vanilla, then pour pudding into a serving bowl. Cover and refrigerate until chilled, at least 30 minutes."
+    ],
+    "image": "images/almond-milk-chocolate-pudding.jpg"
+}

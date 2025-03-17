@@ -1,0 +1,43 @@
+{
+    "title": "Moroccan Harira (Bean Soup)",
+    "file_name": "moroccan-harira-bean-soup",
+    "url": "https://www.allrecipes.com/recipe/238523/moroccan-harira-bean-soup/",
+    "cuisine": "Egyptian",
+    "difficulty": "Medium",
+    "cooking_time": "55 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "261 Calories"
+    },
+    "ingredients": [
+        "6 cups beef stock",
+        "1 cup dry lentils",
+        "1 tablespoon olive oil, or to taste",
+        "1  onion, chopped",
+        "1  cinnamon stick",
+        "1 teaspoon minced fresh ginger root",
+        "1 teaspoon ground turmeric",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground black pepper",
+        "1 (15 ounce) can garbanzo beans, drained",
+        "1 (15 ounce) can red kidney beans, rinsed and drained",
+        "1 (14 ounce) can diced tomatoes",
+        "1 cup cooked quinoa (Optional)",
+        "1 bunch flat-leaf parsley leaves and thinner stems, chopped",
+        "1 bunch cilantro leaves and thinner stems, chopped",
+        "1  lemon, or to taste, juiced"
+    ],
+    "method": [
+        "Step 1: Stir together beef stock and lentils in a large pot. Bring to a boil, reduce heat to low, and keep at a simmer while preparing onion.",
+        "Step 2: Heat olive oil in a large skillet over medium heat. Cook and stir onion, cinnamon stick, ginger, turmeric, cumin, and black pepper in hot oil until onion is translucent, about 5 minutes; add to stock mixture.",
+        "Step 3: Pour garbanzo beans, kidney beans, tomatoes, and quinoa into stock mixture; stir and bring to a boil. Stir in parsley and cilantro; reduce heat to low and cook at a simmer until lentils are tender, about 45 minutes.",
+        "Step 4: Drizzle lemon juice over soup to serve."
+    ],
+    "image": "images/moroccan-harira-bean-soup.jpg"
+}

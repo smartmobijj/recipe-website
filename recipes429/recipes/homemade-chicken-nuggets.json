@@ -1,0 +1,37 @@
+{
+    "title": "Homemade Chicken Nuggets",
+    "file_name": "homemade-chicken-nuggets",
+    "url": "https://www.allrecipes.com/recipe/8849/baked-chicken-nuggets/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "308 Calories"
+    },
+    "ingredients": [
+        "3  skinless, boneless chicken breasts",
+        "1 cup Italian seasoned bread crumbs",
+        "½ cup grated Parmesan cheese",
+        "1 tablespoon dried basil",
+        "1 teaspoon dried thyme",
+        "1 teaspoon salt",
+        "½ cup butter, melted"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Cut chicken breasts into 1 1/2-inch pieces.",
+        "Step 3: Mix the bread crumbs, Parmesan, basil, thyme, and salt together well in a medium bowl. Put melted butter in a bowl or dish for dipping.",
+        "Step 4: Dip chicken pieces into the melted butter first, then coat with the bread crumb mixture.",
+        "Step 5: Place the well-coated chicken nuggets on a lightly greased cookie sheet in a single layer.",
+        "Step 6: Bake nuggets in the preheated oven until browned and chicken is cooked through, about 20 minutes.",
+        "Step 7: Serve and enjoy!"
+    ],
+    "image": "images/homemade-chicken-nuggets.jpg"
+}

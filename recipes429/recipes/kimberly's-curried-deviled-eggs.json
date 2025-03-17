@@ -1,0 +1,33 @@
+{
+    "title": "Kimberly's Curried Deviled Eggs",
+    "file_name": "kimberly's-curried-deviled-eggs",
+    "url": "https://www.allrecipes.com/recipe/214054/kimberlys-curried-deviled-eggs/",
+    "cuisine": "Malaysian",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "73 Calories"
+    },
+    "ingredients": [
+        "6  eggs",
+        "¼ cup mayonnaise",
+        "1 tablespoon stone-ground mustard, or to taste",
+        "1 teaspoon curry powder",
+        "½ teaspoon dried parsley",
+        "1 tablespoon sweet pickle relish",
+        "¼ teaspoon ground black pepper",
+        "1 pinch paprika for garnish"
+    ],
+    "method": [
+        "Step 1: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch. Cover the saucepan and bring the water to a boil over high heat. Remove from the heat and let the eggs stand in the hot water for 15 minutes. Drain. Cool the eggs under cold running water. Peel once cold. Halve the eggs lengthwise and scoop the yolks into a bowl. Mash the yolks with a fork.",
+        "Step 2: Stir the mayonnaise, mustard, curry powder, parsley, pickle relish, and pepper into the egg yolks until combined; spoon into the egg white halves. Garnish with paprika. Chill before serving."
+    ],
+    "image": "images/kimberly's-curried-deviled-eggs.jpg"
+}

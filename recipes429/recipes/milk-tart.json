@@ -1,0 +1,42 @@
+{
+    "title": "Milk Tart",
+    "file_name": "milk-tart",
+    "url": "https://www.allrecipes.com/recipe/16738/milk-tart/",
+    "cuisine": "South African",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "20 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "241 Calories"
+    },
+    "ingredients": [
+        "½ cup butter, softened",
+        "1 cup white sugar",
+        "1  egg",
+        "2 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 pinch salt",
+        "4 cups milk",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon butter",
+        "2 ½ tablespoons all-purpose flour",
+        "2 ½ tablespoons cornstarch",
+        "½ cup white sugar",
+        "2  eggs, beaten",
+        "½ teaspoon ground cinnamon"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 350 degrees F (175 degrees C).",
+        "Step 2: In a medium mixing bowl, cream together 1/2 cup butter or margarine and 1 cup sugar. Add 1 egg and beat until mixture is smooth. In a separate bowl, mix together 2 cups flour, baking powder, and salt. Stir flour mixture into sugar mixture just until ingredients are thoroughly combined. Press mixture into bottom and sides of two 9-inch pie pans.",
+        "Step 3: Bake in preheated oven for 10 to 15 minutes, until golden brown.",
+        "Step 4: In a large saucepan, combine milk, vanilla extract, and 1 tablespoon butter or margarine. Bring to a boil over medium heat, then remove from burner.",
+        "Step 5: In a separate bowl, mix together 2 1/2 tablespoons flour, cornstarch, and 1/2 cup sugar. Add beaten eggs to sugar mixture and whisk until smooth. Slowly whisk mixture into milk. Return pan to heat and bring to a boil, stirring constantly. Boil and stir 5 minutes. Pour half of mixture into each pastry shell. Sprinkle with cinnamon. Chill before serving."
+    ],
+    "image": "images/milk-tart.jpg"
+}

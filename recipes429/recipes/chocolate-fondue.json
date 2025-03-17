@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate Fondue",
+    "file_name": "chocolate-fondue",
+    "url": "https://www.allrecipes.com/recipe/21307/chocolate-bar-fondue/",
+    "cuisine": "Russian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "15 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "48",
+        "calories": "122 Calories"
+    },
+    "ingredients": [
+        "32 ounces milk chocolate, grated",
+        "1 ¼ cups heavy cream",
+        "⅓ cup hot water",
+        "1 tablespoon instant coffee powder",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon white sugar"
+    ],
+    "method": [
+        "Step 1: Combine chocolate and heavy cream in a nonstick saucepan over medium heat. Stir until chocolate is melted and mixture is smooth.",
+        "Step 2: Mix in hot water, coffee powder, vanilla, and sugar. Continue to heat, stirring frequently, until fondue is smooth."
+    ],
+    "image": "images/chocolate-fondue.jpg"
+}

@@ -1,0 +1,36 @@
+{
+    "title": "French Tartiflette",
+    "file_name": "french-tartiflette",
+    "url": "https://www.allrecipes.com/recipe/176334/french-tartiflette/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "35 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "549 Calories"
+    },
+    "ingredients": [
+        "3 large potatoes, peeled and sliced",
+        "7 strips bacon, chopped",
+        "1 tablespoon unsalted butter",
+        "1 large onion, sliced",
+        "¼ cup white wine",
+        "2 tablespoons crème fraîche",
+        "1 (8 ounce) round Reblochon cheese",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Bring a large pot of salted water to a boil over high heat; add potatoes, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain; steam dry, 1 to 2 minutes.",
+        "Step 2: Preheat the oven to 425 degrees F (220 degrees C). Grease an 8-inch square baking dish.",
+        "Step 3: Cook bacon in a skillet over medium-high heat for about 5 minutes. Transfer bacon to a plate; discard grease. Melt butter in the same skillet; add onions. Cook and stir until translucent, about 5 minutes. Return bacon to the skillet. Add wine; simmer until nearly evaporated. Remove from heat.",
+        "Step 4: Place 1/2 potatoes into the prepared dish; spread 1/2 bacon mixture over top. Layer in remaining potatoes, spread crème fraîche over top, then add remaining 1/2 bacon mixture. Remove and discard rind from Reblochon. Cut cheese into thin slices; layer evenly over top of casserole.",
+        "Step 5: Bake in the preheated oven until cheese is melted and slightly browned, about 15 minutes. Season with salt and black pepper. Serve hot."
+    ],
+    "image": "images/french-tartiflette.jpg"
+}

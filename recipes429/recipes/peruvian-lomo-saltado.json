@@ -1,0 +1,39 @@
+{
+    "title": "Peruvian Lomo Saltado",
+    "file_name": "peruvian-lomo-saltado",
+    "url": "https://www.allrecipes.com/recipe/40083/peruvian-lomo-saltado/",
+    "cuisine": "Peruvian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Peru",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "498 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package frozen French fries",
+        "2 tablespoons vegetable oil",
+        "1 pound beef tri tip, sliced 1/8 to 1/4 inch thick",
+        "salt and pepper to taste",
+        "1 large onion, sliced into strips",
+        "3 large tomatoes, peeled, seeded, and sliced into strips",
+        "1  yellow chili pepper (preferably Peruvian aji amarillo)",
+        "¼ cup distilled white vinegar",
+        "1 dash soy sauce to taste",
+        "2 tablespoons chopped fresh parsley"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 2: Arrange frozen French fries in a single layer on an ungreased cookie sheet.",
+        "Step 3: Bake in the preheated oven until light golden, 22 to 24 minutes.",
+        "Step 4: Meanwhile, heat 2 tablespoons oil in a frying pan over medium-high heat. Season sliced beef with salt and pepper. Cook and stir beef in hot oil until just cooked and the juices release. Use a slotted spoon to transfer beef to a plate.",
+        "Step 5: Cook and stir onions in beef drippings in the pan until translucent, 3 to 4 minutes. Stir in tomato and aji amarillo; cook until tomato softens. Pour in vinegar and soy sauce.",
+        "Step 6: Add French fries and beef to the pan. Cover and cook until beef is cooked through, about 3 minutes. Season with salt and pepper; sprinkle with chopped parsley to serve."
+    ],
+    "image": "images/peruvian-lomo-saltado.jpg"
+}

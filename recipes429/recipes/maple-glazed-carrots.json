@@ -1,0 +1,29 @@
+{
+    "title": "Maple Glazed Carrots",
+    "file_name": "maple-glazed-carrots",
+    "url": "https://www.allrecipes.com/recipe/235735/maple-glazed-carrots/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "120 Calories"
+    },
+    "ingredients": [
+        "1 ½ pounds baby carrots",
+        "¼ cup butter",
+        "⅓ cup maple syrup",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Place carrots into a pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 15 to 20 minutes. Drain and transfer carrots to a serving bowl.",
+        "Step 2: Melt butter in a saucepan over medium-low heat. Stir maple syrup into melted butter and cook until warmed, 1 to 2 minutes. Pour over carrots and toss to coat; season with salt and pepper."
+    ],
+    "image": "images/maple-glazed-carrots.jpg"
+}

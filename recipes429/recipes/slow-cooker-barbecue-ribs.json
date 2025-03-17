@@ -1,0 +1,36 @@
+{
+    "title": "Slow-Cooker Barbecue Ribs",
+    "file_name": "slow-cooker-barbecue-ribs",
+    "url": "https://www.allrecipes.com/recipe/22230/slow-cooker-barbecue-ribs/",
+    "cuisine": "American",
+    "difficulty": "Hard",
+    "cooking_time": "120 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "6 hrs 30 mins",
+        "total_time": "6 hrs 40 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "497 Calories"
+    },
+    "ingredients": [
+        "4 pounds pork baby back ribs",
+        "salt and ground black pepper to taste",
+        "2 cups ketchup",
+        "1 cup chili sauce",
+        "½ cup packed brown sugar",
+        "1/4 cup vinegar",
+        "2 teaspoons dried oregano",
+        "2 teaspoons Worcestershire sauce",
+        "1 dash hot sauce"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 2: Season ribs with salt and black pepper; place in a shallow baking pan. Brown in the preheated oven for 15 minutes; flip. Brown 15 minutes more; drain fat. Transfer ribs to a slow cooker.",
+        "Step 3: Combine ketchup, chili sauce, brown sugar, vinegar, oregano, Worcestershire sauce, hot sauce, salt, and black pepper in a medium bowl. Pour sauce over ribs; flip to coat.",
+        "Step 4: Cover slow cooker. Cook on Low until ribs are tender, 6 to 8 hours."
+    ],
+    "image": "images/slow-cooker-barbecue-ribs.jpg"
+}

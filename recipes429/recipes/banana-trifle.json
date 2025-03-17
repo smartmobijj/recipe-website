@@ -1,0 +1,34 @@
+{
+    "title": "Banana Trifle",
+    "file_name": "banana-trifle",
+    "url": "https://www.allrecipes.com/recipe/191787/banana-trifle/",
+    "cuisine": "British",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "Unknown",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "612 Calories"
+    },
+    "ingredients": [
+        "1 quart cold milk",
+        "2 (3.5 ounce) packages instant banana pudding mix",
+        "2  bananas, chopped",
+        "4 cups heavy cream",
+        "1 cup confectioners' sugar",
+        "4 teaspoons vanilla extract",
+        "1 (12 ounce) package prepared pound cake, cubed",
+        "½ (12 ounce) box vanilla wafers (such as Nilla), crushed"
+    ],
+    "method": [
+        "Step 1: Whisk milk and pudding mix together in a bowl until smooth; stir in chopped bananas. Set aside.",
+        "Step 2: Beat cream in a large chilled glass or metal bowl until stiff peaks are just about to form. Beat in sugar and vanilla until stiff peaks form, making sure not to overbeat, or whipped cream will become lumpy and butter-like.",
+        "Step 3: Layer 1/2 each pound cake cubes, pudding, whipped cream, and crushed vanilla wafers in a trifle bowl. Repeat layering with remaining 1/2 each cake, pudding, and whipped cream; top with remaining 1/2 crushed vanilla wafers. Refrigerate until chilled and ready to serve."
+    ],
+    "image": "images/banana-trifle.png"
+}

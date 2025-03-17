@@ -1,0 +1,41 @@
+{
+    "title": "Bread Machine Hawaiian Sweet Rolls",
+    "file_name": "bread-machine-hawaiian-sweet-rolls",
+    "url": "https://www.allrecipes.com/recipe/280526/bread-machine-hawaiian-sweet-rolls/",
+    "cuisine": "Polynesian",
+    "difficulty": "Medium",
+    "cooking_time": "75 minutes",
+    "country": "Polynesia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "2 hrs 40 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "212 Calories"
+    },
+    "ingredients": [
+        "1 cup pineapple juice",
+        "⅓ cup milk",
+        "1 large egg",
+        "4 tablespoons unsalted butter",
+        "1 teaspoon coconut extract",
+        "3 ½ cups bread flour",
+        "½ cup dry potato flakes",
+        "⅓ cup white sugar",
+        "1 teaspoon salt",
+        "⅓ teaspoon ground ginger",
+        "1 ½ teaspoons active dry yeast"
+    ],
+    "method": [
+        "Step 1: Place pineapple juice, milk, egg, butter, coconut extract, bread flour, potato flakes, sugar, salt, ginger, and yeast in a bread machine in the order listed, or according to manufacturer's instructions. Run Dough cycle. Remove dough after cycle has ended, about 1 hour.",
+        "Step 2: Form dough into rolls; place on a baking sheet and let rise for 1 hour.",
+        "Step 3: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 4: Bake in the preheated oven until golden, about 20 minutes.",
+        "Step 5: You can use vanilla extract instead of coconut extract.",
+        "Step 6: You can freeze individual rolls before baking. Simply thaw frozen rolls and let rise, then bake as instructed.",
+        "Step 7: We discovered that we like these rolls to be baked apart rather than squished in a pan like in my photo."
+    ],
+    "image": "images/bread-machine-hawaiian-sweet-rolls.jpg"
+}

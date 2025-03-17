@@ -1,0 +1,42 @@
+{
+    "title": "Brazilian Shrimp Stew",
+    "file_name": "brazilian-shrimp-stew",
+    "url": "https://www.allrecipes.com/recipe/284990/brazilian-shrimp-stew/",
+    "cuisine": "Brazilian",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Brazil",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "436 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons butter",
+        "1 tablespoon grapeseed oil",
+        "2 medium shallots, minced",
+        "2 cloves garlic, minced",
+        "1 tablespoon red curry paste",
+        "1 (14.5 ounce) can diced tomatoes, drained",
+        "1 cup coconut milk",
+        "¼ cup chopped roasted red bell pepper",
+        "¼ cup chopped cilantro",
+        "1 tablespoon lime juice, or to taste",
+        "1 teaspoon ground cayenne pepper",
+        "1 pinch salt",
+        "1 teaspoon cornstarch",
+        "1 pound uncooked medium shrimp, peeled and deveined",
+        "2 cups cooked jasmine rice"
+    ],
+    "method": [
+        "Step 1: Melt butter in a large saucepan and add oil. Add shallots, garlic, and curry paste. Saute until fragrant, and garlic is browned, about 1 minute. Stir in tomatoes, coconut milk, roasted red bell pepper, and cilantro; bring to a simmer.",
+        "Step 2: Add lime juice (go sparingly, adjusting to taste), cayenne, and salt. Add cornstarch and stir to thicken. Add in shrimp; simmer until shrimp are pink and opaque, about 3 minutes.",
+        "Step 3: Serve stew with cooked jasmine rice.",
+        "Step 4: Use red Argentine shrimp if you can. Serving with jasmine rice is optional."
+    ],
+    "image": "images/brazilian-shrimp-stew.jpg"
+}

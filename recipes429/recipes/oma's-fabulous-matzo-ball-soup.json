@@ -1,0 +1,36 @@
+{
+    "title": "Oma's Fabulous Matzo Ball Soup",
+    "file_name": "oma's-fabulous-matzo-ball-soup",
+    "url": "https://www.allrecipes.com/recipe/17110/omas-fabulous-matzo-ball-soup/",
+    "cuisine": "Jewish",
+    "difficulty": "Medium",
+    "cooking_time": "120 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "25 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "448 Calories"
+    },
+    "ingredients": [
+        "2 (10-ounce) packages matzo crackers",
+        "½ cup oil or butter (See Cook's Note.)",
+        "6 large eggs, or more if needed, beaten",
+        "2  onions, minced",
+        "3 tablespoons minced fresh parsley",
+        "salt and ground black pepper to taste",
+        "5 ounces matzo meal",
+        "3 (32-ounce) cartons chicken broth"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients. Bring a large pot of lightly salted water to a boil.",
+        "Step 2: Meanwhile, break matzo crackers into small pieces; place in a large bowl. Add tap water to cover; allow to soak until soft, a few minutes. Drain off excess water.",
+        "Step 3: Heat oil in a large skillet over medium heat. Add drained matzo crackers; stir until dry and slightly brown. Remove from heat; stir in eggs, onion, parsley, salt, and pepper. Stir in just enough matzo meal until mixture holds together.",
+        "Step 4: Roll mixture into one 2-inch matzo ball; place in the boiling water to test consistency. The ball must rise to the top of the water and not break apart. If it doesn't rise, too much matzo meal was added; add another beaten egg to the mixture and test again. When desired consistency is reached, roll mixture into 2-inch balls.",
+        "Step 5: Bring chicken broth in a large saucepan to a lively simmer over medium heat. Carefully add matzo balls; simmer until balls are cooked through and rise to the top of the broth. Serve."
+    ],
+    "image": "images/oma's-fabulous-matzo-ball-soup.jpg"
+}

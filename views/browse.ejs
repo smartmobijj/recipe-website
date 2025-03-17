@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browse Recipes</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Find Recipes</h1>
+
+        <!-- 🌍 Continent Dropdown -->
+        <select id="continent-select" onchange="loadCountries()">
+            <option value="">Select Continent</option>
+            <option value="North America">North America</option>
+            <option value="Europe">Europe</option>
+            <option value="Asia">Asia</option>
+            <option value="South America">South America</option>
+            <option value="Africa">Africa</option>
+            <option value="Oceania">Oceania</option>
+        </select>
+
+        <!-- 🏳 Country Dropdown -->
+        <select id="country-select" disabled>
+            <option value="">Select Country</option>
+        </select>
+
+        <button onclick="browseRecipes()">Find Recipes</button>
+    </div>
+
+    <script>
+        async function loadCountries() {
+            const continent = document.getElementById('continent-select').value;
+            if (!continent) return;
+
+            const response = await fetch(`/getCountries?continent=${encodeURIComponent(continent)}`);
+            const countries = await response.json();
+            const countrySelect = document.getElementById('country-select');
+            countrySelect.innerHTML = '<option value="">Select Country</option>';
+
+            countries.forEach(country => {
+                countrySelect.innerHTML += `<option value="${country}">${country}</option>`;
+            });
+
+            countrySelect.disabled = false;
+        }
+
+        function browseRecipes() {
+            const continent = document.getElementById('continent-select').value;
+            const country = document.getElementById('country-select').value;
+            if (continent && country) {
+                window.location.href = `/recipes/${encodeURIComponent(continent)}/${encodeURIComponent(country)}`;
+            }
+        }
+    </script>
+</body>
+</html>

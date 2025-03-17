@@ -1,0 +1,44 @@
+{
+    "title": "Lamingtons",
+    "file_name": "lamingtons",
+    "url": "https://www.allrecipes.com/recipe/17201/lamingtons/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "40 mins",
+        "cook_time": "30 mins",
+        "total_time": "9 hrs 45 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "249 Calories"
+    },
+    "ingredients": [
+        "2 cups all-purpose flour",
+        "4 teaspoons baking powder",
+        "⅛ teaspoon salt",
+        "¾ cup white sugar",
+        "½ cup unsalted butter, at room temperature",
+        "2 large eggs, room temperature",
+        "1 teaspoon vanilla extract",
+        "½ cup milk",
+        "4 cups confectioners' sugar, sifted",
+        "⅓ cup cocoa powder, sifted",
+        "½ cup warm milk",
+        "2 tablespoons unsalted butter, melted",
+        "2 cups dessicated, unsweetened coconut, or as needed"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 375 degrees F (190 degrees C). Grease and flour an 8x12-inch pan.",
+        "Step 2: Make the cake: Sift flour, baking powder, and salt together into a bowl.",
+        "Step 3: Beat sugar and butter in a large bowl with an electric mixer until light, fluffy, and noticeably lighter in color. Mix in one egg until fully incorporated; mix in remaining egg and vanilla. Add flour mixture in two batches, alternating with milk, beating until just incorporated after each addition. Pour into the prepared pan.",
+        "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 40 minutes. Remove from the oven and let stand in the pan for 5 minutes, then turn out onto a wire rack and let cool completely, about 30 minutes.",
+        "Step 5: Wrap cooled cake with plastic wrap. Place onto your counter at room temperature to let firm up, 8 hours to overnight.",
+        "Step 6: When ready to finish the lamingtons, make the icing: Place confectioners' sugar and cocoa into a mixing bowl. Mix in warm milk and melted butter until icing is fluid but not too runny.",
+        "Step 7: Unwrap the cake and cut into 24 squares. Cover a work surface with parchment or waxed paper, then set a wire rack over top. Pour coconut into a shallow bowl.",
+        "Step 8: Using a fork, dip each cake square into icing, turn until all sides are coated, then roll in coconut. Place onto the rack to dry."
+    ],
+    "image": "images/lamingtons.jpg"
+}

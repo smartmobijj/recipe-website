@@ -1,0 +1,35 @@
+{
+    "title": "Peruvian Locro (Butternut Squash)",
+    "file_name": "peruvian-locro-butternut-squash",
+    "url": "https://www.allrecipes.com/recipe/242071/peruvian-locro-butternut-squash/",
+    "cuisine": "Argentinian",
+    "difficulty": "Hard",
+    "cooking_time": "120 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "673 Calories"
+    },
+    "ingredients": [
+        "1 large butternut squash, peeled and cut into chunks",
+        "water to cover",
+        "salt to taste",
+        "¾ (12 ounce) can evaporated milk (such as PET®)",
+        "½ cup butter",
+        "1 (16 ounce) package frozen corn",
+        "1 (16 ounce) package frozen sweet peas",
+        "2 cups grated Cheddar cheese",
+        "3 cups cooked basmati rice"
+    ],
+    "method": [
+        "Step 1: Place squash in a large pot and add enough water to cover; season with salt. Bring water to a boil and cook until squash is tender, about 20 minutes. Drain squash and return to pot.",
+        "Step 2: Mash squash with a potato masher; add evaporated milk, butter, and salt and beat with an electric mixer until smooth and creamy. Stir corn, peas, and Cheddar cheese into squash mixture; cook and stir over medium-low heat until cheese is melted, about 10 minutes. Serve squash mixture over rice.",
+        "Step 3: If squash mixture is too thick, add remaining evaporated milk."
+    ],
+    "image": "images/peruvian-locro-butternut-squash.jpg"
+}

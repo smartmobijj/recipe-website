@@ -1,0 +1,45 @@
+{
+    "title": "Tuna Fish Patties",
+    "file_name": "tuna-fish-patties",
+    "url": "https://www.allrecipes.com/recipe/222291/tuna-fish-patties/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "43 Calories"
+    },
+    "ingredients": [
+        "3 slices hearty country bread",
+        "3 cups water",
+        "1 tablespoon olive oil",
+        "1  onion, chopped",
+        "¼ cup fresh spinach leaves (Optional)",
+        "3 cloves garlic, chopped",
+        "2 (5 ounce) cans tuna, drained and flaked",
+        "6  mushrooms, diced (Optional)",
+        "1  zucchini, diced (Optional)",
+        "1 stalk celery, diced (Optional)",
+        "2  eggs",
+        "1 tablespoon chopped fresh dill, or more to taste (Optional)",
+        "1 teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        "¼ teaspoon dried basil",
+        "¼ teaspoon oregano",
+        "1 tablespoon olive oil, or as needed"
+    ],
+    "method": [
+        "Step 1: Soak bread in water in a large shallow dish until softened completely; remove from dish and squeeze as much water from bread as possible.",
+        "Step 2: Heat 1 tablespoon olive oil in a non-stick skillet over medium heat; cook and stir onion, spinach, and garlic in the hot oil until the onion softens, about 5 minutes.",
+        "Step 3: Mix the onion mixture with softened bread, tuna, mushrooms, zucchini, celery, eggs, dill, salt, pepper, basil, and oregano in a large bowl until combined. Form the mixture into about 24 thin, palm-size patties.",
+        "Step 4: Heat 1 tablespoon olive oil in a large skillet over medium heat; cook the patties in the skillet until cooked through, 2 to 3 minutes per side.",
+        "Step 5: If you have pre-sliced bread from the store, that can be used as well; you just have to use more of it, so probably about 5 or 6 slices."
+    ],
+    "image": "images/tuna-fish-patties.jpg"
+}

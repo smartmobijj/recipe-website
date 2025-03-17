@@ -1,0 +1,39 @@
+{
+    "title": "Chef John's Cuban Sandwich",
+    "file_name": "chef-john's-cuban-sandwich",
+    "url": "https://www.allrecipes.com/recipe/256968/chef-johns-cuban-sandwich/",
+    "cuisine": "Cuban",
+    "difficulty": "Medium",
+    "cooking_time": "25 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "1473 Calories"
+    },
+    "ingredients": [
+        "¼ cup mayonnaise",
+        "¼ cup mustard",
+        "1 pinch cayenne pepper",
+        "1 (8 ounce) loaf Cuban bread",
+        "8 slices Swiss cheese",
+        "6 thin slices smoked fully-cooked ham",
+        "1 ½ cups cooked pulled pork, heated",
+        "1 large dill pickle, sliced thinly lengthwise",
+        "2 tablespoons butter, or as needed"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Mix mayonnaise, mustard, and cayenne together in a bowl to make sauce.",
+        "Step 3: Trim off ends of bread. Cut loaf in half and evenly split bread to make tops and bottoms of two sandwiches.",
+        "Step 4: Spread each half on both sides generously with mayo-mustard sauce.",
+        "Step 5: Divide sandwich ingredients between the two bottom halves in this order: 2 slices Swiss cheese, 3 slices ham, hot cooked pork, pickle slices, and 2 more slices Swiss cheese. Place tops on sandwiches.",
+        "Step 6: Melt butter in a heavy skillet over medium heat. Place sandwiches in the skillet and press down with a heavy weight, such as another skillet or foil-wrapped bricks. Toast sandwiches until bread is crisp and filling is heated through, 3 or 4 minutes per side.",
+        "Step 7: Serve hot and enjoy!"
+    ],
+    "image": "images/chef-john's-cuban-sandwich.jpg"
+}

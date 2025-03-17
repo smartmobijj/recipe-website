@@ -1,0 +1,43 @@
+{
+    "title": "Steak and Kidney Pie",
+    "file_name": "steak-and-kidney-pie",
+    "url": "https://www.allrecipes.com/recipe/12477/steak-and-kidney-pie-ii/",
+    "cuisine": "British",
+    "difficulty": "Hard",
+    "cooking_time": "150 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "2 hrs 30 mins",
+        "total_time": "3 hrs",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "658 Calories"
+    },
+    "ingredients": [
+        "1 pound fresh beef or lamb kidneys",
+        "2 tablespoons butter or lard",
+        "2 pounds round steak, cubed",
+        "2  onions, chopped",
+        "2 teaspoons salt or to taste",
+        "2 teaspoons Worcestershire sauce",
+        "½ teaspoon dried thyme",
+        "¼ teaspoon ground black pepper",
+        "1  bay leaf",
+        "2 cups water, divided",
+        "4 cups diced potatoes",
+        "6 tablespoons all-purpose flour",
+        "1 package pastry for a single crust 9-inch pie"
+    ],
+    "method": [
+        "Step 1: Remove fat and membrane from the kidneys; cut them in half and remove any white tissue in the center; dice into chunky pieces.",
+        "Step 2: Heat butter or lard in a large pot over medium heat. Add diced kidney and steak; cook and stir until beef is browned. Stir in onions and season with salt, Worcestershire sauce, pepper, thyme, and bay leaf. Stir in 1 ½ cups water; simmer until beef is almost tender, about 1 hour.",
+        "Step 3: Add potatoes and continue simmering until potatoes are tender, about 30 minutes.",
+        "Step 4: Whisk remaining 1/2 cup water and flour together until smooth; stir into beef mixture. Continue cooking and stirring until mixture thickens; transfer into a 3-quart casserole dish.",
+        "Step 5: Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 6: Roll out pastry slightly larger than top of casserole dish; place pastry over beef mixture, and trim to leave a 1-inch overhang on all sides. Fold under, and flute against inside edge of casserole, then cut several slits in the crust to allow steam to escape.",
+        "Step 7: Bake pie in the preheated oven until golden brown on top and filling is bubbling, about 30 minutes."
+    ],
+    "image": "images/steak-and-kidney-pie.jpg"
+}

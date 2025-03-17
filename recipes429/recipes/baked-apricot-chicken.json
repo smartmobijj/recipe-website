@@ -1,0 +1,32 @@
+{
+    "title": "Baked Apricot Chicken",
+    "file_name": "baked-apricot-chicken",
+    "url": "https://www.allrecipes.com/recipe/8840/baked-apricot-chicken/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "342 Calories"
+    },
+    "ingredients": [
+        "1 cup apricot preserves",
+        "1 cup French dressing",
+        "1 (1 ounce) package dry onion soup mix",
+        "12  chicken thighs"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Stir apricot preserves, dressing, and soup mix together in a medium bowl until combined.",
+        "Step 3: Place chicken thighs in a 9x13-inch baking dish. Pour apricot mixture over chicken.",
+        "Step 4: Bake uncovered in the preheated oven until an instant-read thermometer inserted near the bone reads 165 degrees F (74 degrees C), 50 to 60 minutes.",
+        "Step 5: Enjoy!"
+    ],
+    "image": "images/baked-apricot-chicken.jpg"
+}

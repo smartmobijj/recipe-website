@@ -1,0 +1,38 @@
+{
+    "title": "Sharlotka",
+    "file_name": "sharlotka",
+    "url": "https://www.allrecipes.com/recipe/271047/sharlotka/",
+    "cuisine": "Russian",
+    "difficulty": "Easy",
+    "cooking_time": "60 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "231 Calories"
+    },
+    "ingredients": [
+        "2  Granny Smith apples - peeled, cored, and chopped",
+        "5  eggs",
+        "1 cup white sugar",
+        "1 cup all-purpose flour",
+        "¼ cup sour cream (Optional)",
+        "1 teaspoon salt",
+        "½ teaspoon baking powder",
+        "1 teaspoon vanilla extract (Optional)"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Grease an oversized, deep, glass pie dish and spread apples inside.",
+        "Step 2: Combine eggs and sugar in the bowl of a stand mixer fitted with the wire whisk attachment. Mix on the highest setting until eggs are foamy and change in color, 5 to 7 minutes. The goal is to achieve a consistency something close to meringue.",
+        "Step 3: Turn stand mixer off and switch the attachment to the standard mixing paddle. With the machine on its lowest setting, add flour, sour cream, salt, baking powder, and vanilla extract. Mix until just incorporated. Batter should be thick, fluffy, and airy. Do not overmix, as it will deflate the batter. Pour batter over apples in the pie dish.",
+        "Step 4: Bake in the preheated oven until the top turns golden brown and a knife comes out clean, about 40 minutes. Let cool just until it is safe to handle the pan; loosen edges and flip the cake onto a serving platter.",
+        "Step 5: You can use a hand mixer or a regular beater attachment on a stand mixer if you need to, but it will take a lot longer with a hand mixer.",
+        "Step 6: Sour cream adds moisture, as the cake can sometimes feel a bit dry. Vanilla extract is to taste and adds extra flavor. The cake is good with or without it. If I am making cupcakes, I sprinkle the apples on top of the batter.",
+        "Step 7: For the optional brown sugar glaze, smash 1/2 cup of softened butter with a silicone spatula into the baking pan, smearing it evenly over the bottom and up the sides. Crumble 1 cup of brown sugar evenly over the butter and sprinkle with cinnamon to taste."
+    ],
+    "image": "images/default.jpg"
+}

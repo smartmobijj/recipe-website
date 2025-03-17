@@ -1,0 +1,42 @@
+{
+    "title": "Cuban-Style Mojo Shrimp",
+    "file_name": "cuban-style-mojo-shrimp",
+    "url": "https://www.allrecipes.com/recipe/281466/cuban-style-mojo-shrimp/",
+    "cuisine": "Cuban",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "10 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "372 Calories"
+    },
+    "ingredients": [
+        "½ cup lime juice",
+        "¼ cup orange juice",
+        "¼ cup grapefruit juice",
+        "¼ cup lemon juice",
+        "¼ cup vinegar",
+        "¼ cup extra-virgin olive oil",
+        "5 cloves garlic, peeled and chopped",
+        "½ teaspoon dried Mexican oregano",
+        "¼ teaspoon red pepper flakes, or to taste",
+        "¼ teaspoon ground cumin",
+        "1 pinch salt and ground black pepper to taste",
+        "1 pound fresh shrimp, peeled, deveined, and tails removed",
+        "2 tablespoons chopped fresh cilantro (Optional)"
+    ],
+    "method": [
+        "Step 1: Combine lime juice, orange juice, grapefruit juice, and lemon juice in a blender or the bowl of a food processor; add vinegar, oil, garlic, Mexican oregano, pepper flakes, and cumin. Pulse several times, then blend until garlic puréed, about 1 minute. Season with salt and black pepper; pulse once more.",
+        "Step 2: Pour marinade into a 1-gallon resealable plastic bag. Add shrimp, coat with marinade, squeeze out excess air, and seal the bag. Refrigerate for 15 minutes, making sure shrimp are in a single layer. Remove shrimp from marinade and shake off excess. Reserve marinade.",
+        "Step 3: Heat a nonstick skillet over medium heat. Add shrimp in a single layer; cook 1 to 1 1/2 minutes per side. Shrimp are done when they are opaque, pink and white, and curled into a \"C\" shape. Transfer shrimp to a plate; set aside.",
+        "Step 4: Pour reserved marinade into the same skillet; bring to a boil and boil until reduced to about 2/3 cup, about 6 minutes.",
+        "Step 5: Serve shrimp with sauce on the side for dipping, or toss shrimp with sauce; garnish with cilantro.",
+        "Step 6: Extra time in the marinade can cause the shrimp proteins to toughen up."
+    ],
+    "image": "images/cuban-style-mojo-shrimp.jpg"
+}

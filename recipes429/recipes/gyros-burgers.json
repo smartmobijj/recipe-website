@@ -1,0 +1,37 @@
+{
+    "title": "Gyros Burgers",
+    "file_name": "gyros-burgers",
+    "url": "https://www.allrecipes.com/recipe/47407/gyros-burgers/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "338 Calories"
+    },
+    "ingredients": [
+        "½ pound lean ground beef",
+        "½ pound lean ground lamb",
+        "½  onion, grated",
+        "2 cloves garlic, pressed",
+        "1 slice bread, toasted and crumbled",
+        "½ teaspoon dried savory",
+        "½ teaspoon ground allspice",
+        "½ teaspoon ground coriander",
+        "½ teaspoon salt",
+        "½ teaspoon ground black pepper",
+        "1 dash ground cumin"
+    ],
+    "method": [
+        "Step 1: Preheat an outdoor grill for medium-high heat, and lightly oil grate.",
+        "Step 2: In large bowl, combine ground beef, ground lamb, onion, garlic, and bread crumbs. Season with savory, allspice, coriander, salt, pepper, and cumin. Knead until mixture is stiff. Shape into 4 very thin patties (1/8-inch to 1/4-inch thick).",
+        "Step 3: Grill patties for 5 to 7 minutes on each side, or until cooked through."
+    ],
+    "image": "images/gyros-burgers.jpg"
+}

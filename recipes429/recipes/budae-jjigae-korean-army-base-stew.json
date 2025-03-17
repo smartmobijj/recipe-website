@@ -1,0 +1,40 @@
+{
+    "title": "Budae Jjigae (Korean Army Base Stew)",
+    "file_name": "budae-jjigae-korean-army-base-stew",
+    "url": "https://www.allrecipes.com/recipe/255397/budae-jjigae-korean-army-base-stew/",
+    "cuisine": "Korean",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "South Korea",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "27 mins",
+        "total_time": "57 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "697 Calories"
+    },
+    "ingredients": [
+        "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), sliced",
+        "14 ounces smoked sausage (such as Eckrich®), sliced",
+        "1 large onion, sliced",
+        "6 ounces kimchi",
+        "¼ cup Korean red pepper powder",
+        "3 tablespoons soy sauce",
+        "3 tablespoons gochujang (Korean hot pepper paste)",
+        "5 cloves garlic, minced",
+        "1 pinch ground black pepper",
+        "1 bunch green onions, chopped",
+        "2 (32 ounce) containers chicken broth",
+        "7 ¾ ounces ramen noodles (such as Ottogi Ramyonsari®)",
+        "1 slice American cheese (Optional)"
+    ],
+    "method": [
+        "Step 1: Divide luncheon meat into 2 piles on either side of a stock pot. Layer sausage, onion, and kimchi on top, leaving an empty space in the center of the pot.",
+        "Step 2: Mix red pepper powder, soy sauce, gochujang, garlic, and black pepper together in a small bowl. Pour into the center of the pot. Sprinkle in green onion. Pour in chicken broth. Bring to a boil. Reduce heat to low and simmer, stirring occasionally, until flavors combine, about 10 minutes.",
+        "Step 3: Bring a pot of water to a boil. Add ramen noodles. Cook, stirring until partially cooked and softened, about 2 minutes. Drain, and transfer to the pot with meat-kimchi mixture. Cook, stirring until ramen noodles are tender but firm to the bite, about 5 minutes. Top stew with American cheese.",
+        "Step 4: Anchovy broth can be substituted for the chicken broth if desired."
+    ],
+    "image": "images/budae-jjigae-korean-army-base-stew.jpg"
+}

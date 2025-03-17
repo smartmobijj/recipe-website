@@ -1,0 +1,35 @@
+{
+    "title": "Scotch Eggs",
+    "file_name": "scotch-eggs",
+    "url": "https://www.allrecipes.com/recipe/9482/scotch-eggs/",
+    "cuisine": "Scottish",
+    "difficulty": "Hard",
+    "cooking_time": "90 minutes",
+    "country": "Scotland (United Kingdom)",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "1489 Calories"
+    },
+    "ingredients": [
+        "1 quart oil for frying",
+        "4 large eggs",
+        "2 pounds bulk pork sausage",
+        "1 cup all-purpose flour",
+        "4 large eggs, beaten",
+        "4 cups dried bread crumbs, seasoned"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Heat oil in a deep-fryer to 375 degrees F (190 degrees C).",
+        "Step 2: Place eggs in a saucepan and cover with water. Bring to boil. Cover, remove from heat, and let eggs sit in hot water for 10 to 12 minutes. Remove from hot water, cool, and peel.",
+        "Step 3: Flatten sausage and make a patty to surround each egg. Very lightly flour the outer sausage layer then coat with beaten egg. Roll in bread crumbs to cover evenly.",
+        "Step 4: Deep-fry prepared eggs until golden brown while making sure each side is well cooked. Bake in the preheated oven for 10 minutes.",
+        "Step 5: Cut in half and serve.",
+        "Step 6: Nutrition data for this recipe includes the full amount of breading ingredients. The actual amount of breading consumed will vary. We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+    ],
+    "image": "images/scotch-eggs.jpg"
+}

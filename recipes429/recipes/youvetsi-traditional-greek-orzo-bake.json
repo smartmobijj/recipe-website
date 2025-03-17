@@ -1,0 +1,37 @@
+{
+    "title": "Youvetsi (Traditional Greek Orzo Bake)",
+    "file_name": "youvetsi-traditional-greek-orzo-bake",
+    "url": "https://www.allrecipes.com/recipe/269634/youvetsi-traditional-greek-orzo-bake/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "55 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "2 hrs 10 mins",
+        "total_time": "2 hrs 30 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "576 Calories"
+    },
+    "ingredients": [
+        "½ cup olive oil",
+        "3 pounds cubed lamb stew meat",
+        "1 (28 ounce) can whole peeled tomatoes, pureed in a food processor",
+        "4 cloves garlic, roughly chopped",
+        "½ teaspoon white sugar",
+        "salt and pepper to taste",
+        "½ cup butter",
+        "1 pound uncooked orzo pasta",
+        "3 cups hot water"
+    ],
+    "method": [
+        "Step 1: Heat olive oil in a large saucepan over medium heat; cook meat until browned on all sides, about 5 minutes. Add pureed tomatoes, garlic, sugar, salt, and pepper. Cover and simmer for 1 hour, stirring occasionally. Set aside.",
+        "Step 2: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 3: Melt butter in a medium skillet over medium heat and add the orzo. Saute until slightly brown, 3 to 5 minutes. Transfer orzo to a baking pan, spreading it out evenly. Remove meat from the saucepan and place on top of the orzo. Pour tomato sauce evenly over meat. Add hot water. Cover with aluminum foil.",
+        "Step 4: Bake in the preheated oven until all water is absorbed and orzo is soft, about 1 hour. If the dish becomes too dry, add more water during baking.",
+        "Step 5: You can use veal stewing meat or chicken parts (legs, thighs, or breast with bone) instead of the lamb."
+    ],
+    "image": "images/youvetsi-traditional-greek-orzo-bake.jpg"
+}

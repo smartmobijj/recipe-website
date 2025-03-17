@@ -1,0 +1,42 @@
+{
+    "title": "Tex-Mex Chicken Casserole",
+    "file_name": "tex-mex-chicken-casserole",
+    "url": "https://www.allrecipes.com/recipe/233686/tex-mex-chicken-casserole/",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr 5 mins",
+        "total_time": "1 hr 30 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "480 Calories"
+    },
+    "ingredients": [
+        "1 (10 ounce) bag nacho cheese-flavored corn chips (such as Doritos), crushed into crumbs",
+        "1 tablespoon unsalted butter",
+        "1 small onion, finely chopped",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 (10.5 ounce) can condensed cream of chicken soup",
+        "1 (10.5 ounce) can cream of mushroom soup",
+        "1 (4.5 ounce) can chopped green chiles",
+        "⅓ cup milk",
+        "2 tablespoons sour cream",
+        "1 teaspoon chili powder",
+        "1 teaspoon ground cumin",
+        "2 ½ cups chopped cooked chicken",
+        "1 (8 ounce) package shredded sharp Cheddar cheese"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Step 2: Spread corn chip crumbs over bottom of the baking dish; press crumbs into place.",
+        "Step 3: Melt butter in a large skillet over medium-high heat. Add onion; cook and stir until tender, 6 to 7 minutes.",
+        "Step 4: Combine diced tomatoes, cream of chicken soup. cream of mushroom soup, green chiles, milk, sour cream, chili powder, and cumin in a large bowl. Stir in chicken and onion to combine; pour over corn chips. Top with Cheddar cheese.",
+        "Step 5: Bake in the preheated oven until bubbly and cheese is melted, 55 to 60 minutes. Let stand for 10 minutes before serving.",
+        "Step 6: Feel free to use Cool Ranch Doritos in place of Nacho Cheese Doritos and Rotel tomatoes in place of canned diced tomatoes and canned green chiles."
+    ],
+    "image": "images/tex-mex-chicken-casserole.jpg"
+}

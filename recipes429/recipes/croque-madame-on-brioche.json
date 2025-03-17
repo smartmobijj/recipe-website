@@ -1,0 +1,43 @@
+{
+    "title": "Croque Madame on Brioche",
+    "file_name": "croque-madame-on-brioche",
+    "url": "https://www.allrecipes.com/recipe/282252/croque-madame-on-brioche/",
+    "cuisine": "French",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "826 Calories"
+    },
+    "ingredients": [
+        "4 tablespoons salted butter, divided",
+        "1 tablespoon all-purpose flour",
+        "1 cup whole milk",
+        "2 teaspoons Dijon mustard",
+        "⅛ teaspoon freshly grated nutmeg",
+        "salt and ground black pepper to taste",
+        "2 teaspoons white vinegar",
+        "2 large eggs",
+        "2 (1 inch) thick slices brioche bread",
+        "2 slices deli ham",
+        "2 slices Gruyere cheese",
+        "1 teaspoon chopped fresh chives, or to taste",
+        "¼ teaspoon smoked paprika",
+        "2 slices plum tomato"
+    ],
+    "method": [
+        "Step 1: Melt 2 tablespoons butter in a small saucepan over medium-low heat. Whisk in flour and cook for 1 minute. Whisk in milk and bring to a boil. Reduce heat to low. Season with Dijon, nutmeg, salt, and pepper. Cook until sauce coats the back of a spoon, about 3 to 5 minutes. Remove sauce from the heat.",
+        "Step 2: Fill a large saucepan with 2 to 3 inches of water and bring to a boil. Reduce the heat to medium-low, pour in vinegar, and keep the water at a gentle simmer. Crack an egg into a small bowl then gently slip egg into the simmering water, holding the bowl just above the surface of water. Repeat with the remaining egg. Cook eggs until the whites are firm and the yolks have thickened but are not hard, 2 1/2 to 3 minutes. Remove the eggs from the water with a slotted spoon, dab on a kitchen towel to remove excess water, and place onto a warm plate.",
+        "Step 3: Melt remaining butter in a skillet over medium heat. Add bread and toast in melted butter on both sides. Top bread slices liberally with warm sauce, then top with ham and Gruyere cheese. Place poached eggs on top.",
+        "Step 4: Cover the pan with foil or a lid and turn off heat. Let stand until cheese has melted and sauce and eggs have set, about 5 minutes.",
+        "Step 5: Serve immediately, spooning any leftover sauce on top of eggs. Season with salt and pepper and sprinkle with chives and paprika.",
+        "Step 6: You can use French bread or any white bread for the brioche, and smoked Gruyere, Fontina, or Emmentaler cheese. For garnish, you can use fresh parsley instead of chives, or dried parsley, chives, or thyme, or a combination of all of them."
+    ],
+    "image": "images/croque-madame-on-brioche.jpg"
+}

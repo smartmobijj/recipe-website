@@ -1,0 +1,31 @@
+{
+    "title": "Guava Cuban Pastry (Pastelito de Guayaba)",
+    "file_name": "guava-cuban-pastry-pastelito-de-guayaba",
+    "url": "https://www.allrecipes.com/recipe/284228/guava-cuban-pastry-pastelito-de-guayaba/",
+    "cuisine": "Cuban",
+    "difficulty": "Easy",
+    "cooking_time": "45 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "18",
+        "calories": "189 Calories"
+    },
+    "ingredients": [
+        "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "1 (8 ounce) jar guava paste",
+        "1 large egg, beaten",
+        "sugar (optional)"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.",
+        "Step 2: Cut guava paste into 18 thin slices.",
+        "Step 3: Unroll puff pastry and cut into 18 squares. Place a thin slice of guava paste onto each square and fold pastry piece over to make a triangle. Using a fork, pinch the edges of the triangle together. Brush with beaten egg and sprinkle with sugar if you like.",
+        "Step 4: Bake in the preheated oven until puffed and golden, 20 to 25 minutes."
+    ],
+    "image": "images/guava-cuban-pastry-pastelito-de-guayaba.jpg"
+}

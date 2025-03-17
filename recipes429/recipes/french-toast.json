@@ -1,0 +1,35 @@
+{
+    "title": "French Toast",
+    "file_name": "french-toast",
+    "url": "https://www.allrecipes.com/recipe/7016/french-toast-i/",
+    "cuisine": "French",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "3",
+        "calories": "240 Calories"
+    },
+    "ingredients": [
+        "⅔ cup milk",
+        "2 large eggs",
+        "1 teaspoon vanilla extract (Optional)",
+        "¼ teaspoon ground cinnamon (Optional)",
+        "salt to taste",
+        "6 thick slices bread",
+        "1 tablespoon unsalted butter, or more as needed"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Whisk milk, eggs, vanilla, cinnamon, and salt together in a shallow bowl.",
+        "Step 3: Lightly butter a griddle or skillet and heat over medium-high heat. Dunk bread in the egg mixture, soaking both sides.",
+        "Step 4: Transfer to the hot skillet and cook until golden, 3 to 4 minutes per side.",
+        "Step 5: Serve hot."
+    ],
+    "image": "images/french-toast.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Natasha's Chicken Burgers",
+    "file_name": "natasha's-chicken-burgers",
+    "url": "https://www.allrecipes.com/recipe/232375/natashas-chicken-burgers/",
+    "cuisine": "Indonesian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "238 Calories"
+    },
+    "ingredients": [
+        "1 pound extra-lean ground chicken",
+        "½ cup Italian-seasoned bread crumbs, divided",
+        "½ small onion, finely grated",
+        "1  egg",
+        "2 cloves garlic, minced",
+        "salt and ground black pepper to taste",
+        "2 teaspoons olive oil"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Mix ground chicken, 1/4 cup bread crumbs, onion, egg, and garlic in a bowl. Season with salt and pepper.",
+        "Step 3: Moisten hands and shape chicken mixture, 2 tablespoons at a time, into flat, oval-shaped patties.",
+        "Step 4: Spread remaining 1/4 cup bread crumbs in a shallow dish. Dip patties in bread crumbs to coat.",
+        "Step 5: Heat olive oil in a large skillet over medium-high heat.",
+        "Step 6: Cook patties in hot oil until deeply browned on the bottoms, 5 to 6 minutes.",
+        "Step 7: Turn patties and cook until other sides are browned, 3 to 4 minutes more. Serve and enjoy!"
+    ],
+    "image": "images/natasha's-chicken-burgers.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Cheese Fondue",
+    "file_name": "cheese-fondue",
+    "url": "https://www.allrecipes.com/recipe/13714/cheese-fondue/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "670 Calories"
+    },
+    "ingredients": [
+        "1 cup dry white wine",
+        "2 tablespoons all-purpose flour or cornstarch",
+        "¼ teaspoon ground nutmeg",
+        "½ pound shredded Swiss cheese",
+        "½ pound shredded Gruyère cheese",
+        "¼ teaspoon salt",
+        "1 (1 pound) loaf French bread, cut into 1 inch cubes"
+    ],
+    "method": [
+        "Step 1: Bring wine to a simmer in a fondue pot over medium-low.",
+        "Step 2: Stir in flour and nutmeg until well combined.",
+        "Step 3: Add Swiss and Gruyère cheeses, 1/4 pound at a time, mixing after each addition until cheese is melted. Season with salt.",
+        "Step 4: Serve with cut-up French bread.",
+        "Step 5: Enjoy!"
+    ],
+    "image": "images/cheese-fondue.jpg"
+}

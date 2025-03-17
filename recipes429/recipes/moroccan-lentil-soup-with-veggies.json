@@ -1,0 +1,42 @@
+{
+    "title": "Moroccan Lentil Soup with Veggies",
+    "file_name": "moroccan-lentil-soup-with-veggies",
+    "url": "https://www.allrecipes.com/recipe/238522/moroccan-lentil-soup-with-veggies/",
+    "cuisine": "Moroccan",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Morocco",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "1 hr 5 mins",
+        "total_time": "1 hr 25 mins",
+        "active_time": "Unknown",
+        "servings": "7",
+        "calories": "390 Calories"
+    },
+    "ingredients": [
+        "¼ cup olive oil",
+        "4 large carrots, chopped",
+        "1 large white onion, finely chopped",
+        "2 teaspoons kosher salt",
+        "2 teaspoons chopped fresh parsley",
+        "1 teaspoon ground black pepper",
+        "½ teaspoon ground ginger",
+        "½ teaspoon dried tarragon",
+        "½ teaspoon cumin",
+        "1 (16 ounce) package dry lentils",
+        "1 cup crushed tomatoes",
+        "2 quarts vegetable broth",
+        "1 (10 ounce) package spinach",
+        "1 large zucchini, cut into small pieces",
+        "salt to taste",
+        "1 teaspoon olive oil, or to taste"
+    ],
+    "method": [
+        "Step 1: Heat 1/4 cup olive oil in a large pot over medium heat. Add carrots, onion, kosher salt, parsley, black pepper, ginger, tarragon, and cumin; cook, stirring occasionally, until onion is translucent, 5 to 7 minutes.",
+        "Step 2: Stir in lentils and tomatoes. Pour vegetable broth over all vegetables and stir to combine. Bring to a boil, then reduce the heat to low, cover, and simmer until lentils are tender, 45 to 50 minutes.",
+        "Step 3: Stir in spinach and zucchini; simmer until zucchini is tender, about 7 minutes. Remove from the heat and season to taste with salt. Drizzle 1 teaspoon olive oil over the soup before serving."
+    ],
+    "image": "images/moroccan-lentil-soup-with-veggies.jpg"
+}

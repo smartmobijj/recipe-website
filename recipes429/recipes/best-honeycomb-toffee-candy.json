@@ -1,0 +1,34 @@
+{
+    "title": "Best Honeycomb Toffee Candy",
+    "file_name": "best-honeycomb-toffee-candy",
+    "url": "https://www.allrecipes.com/recipe/268587/honeycomb-toffee/",
+    "cuisine": "New Zealand",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "New Zealand",
+    "continent": "Australia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "71 Calories"
+    },
+    "ingredients": [
+        "1 teaspoon baking soda",
+        "½ cup white sugar",
+        "2 tablespoons corn syrup",
+        "2 tablespoons water",
+        "1 tablespoon honey"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Line a baking dish with parchment paper, measure out baking soda in a small bowl, and have a heat-proof spatula ready before starting.",
+        "Step 3: Whisk sugar, corn syrup, water, and honey together in a saucepan with a candy thermometer attached. Heat over medium heat until the mixture is thinner but still cloudy. Let bubble until the mixture is clear and the thermometer registers 300 degrees F (149 degrees C).",
+        "Step 4: Remove from heat. Whisk in baking soda until just incorporated.",
+        "Step 5: Switch to a spatula and very carefully pour into the lined dish. Do not spread it out with your spatula or compress the mixture at all, or the bubbles will deflate. Let cool completely, at least 30 minutes.",
+        "Step 6: Remove candy from the pan by lifting out the parchment paper. Rap against the counter and use your fingers to break it into individual pieces."
+    ],
+    "image": "images/best-honeycomb-toffee-candy.jpg"
+}

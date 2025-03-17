@@ -1,0 +1,40 @@
+{
+    "title": "Japanese-Style Rolled Omelet (Tamagoyaki)",
+    "file_name": "japanese-style-rolled-omelet-tamagoyaki",
+    "url": "https://www.allrecipes.com/japanese-style-rolled-omelet-tamagoyaki-recipe-8644676",
+    "cuisine": "Japanese",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "192 Calories"
+    },
+    "ingredients": [
+        "4 large eggs",
+        "4 teaspoons water",
+        "1 teaspoon soy sauce",
+        "1 teaspoon mirin",
+        "1/4 teaspoon kosher salt",
+        "1/4 teaspoon white sugar",
+        "1 pinch cayenne pepper (optional)",
+        "1/2 teaspoon sesame oil",
+        "1 1/2 teaspoons vegetable oil",
+        "1 teaspoon furikake (optional)"
+    ],
+    "method": [
+        "Step 1: Add eggs to a bowl, along with water, soy sauce, mirin, salt, sugar, and cayenne. Use a fork to beat eggs until whites are completely incorporated. Transfer egg mixture into a pourable measuring cup.",
+        "Step 2: Set a 10-inch non-stick pan over medium heat. Mix sesame and vegetable oil in a small bowl, and use a brush to oil the pan.",
+        "Step 3: Pour in 1/3 of egg mixture. Tilt the pan to cover the bottom with eggs. Cook until omelet is about halfway set, then use a spatula to turn over about 1 inch of edge toward the center on 3 sides to square the shape on those 3 sides. If eggs seem to be cooking too fast, reduce heat to medium-low. Use a spatula to roll the omelet toward the rounder side, to form a rectangular roll, about 2 inches wide by 8 inches long.",
+        "Step 4: Slide omelet over to about 3 inches from the edge of the pan, and brush more oil over the pan surface. Pour the second 1/3 of eggs around the omelet. Lift omelet slightly with the spatula so that some eggs flow underneath. Raise heat back to medium, if it was reduced. When egg layer is halfway set, use a spatula to roll this layer up and over the already-folded omelet in the pan, and continue to roll into a rectangle.",
+        "Step 5: Add remaining 1/3 of egg mixture, and repeat cooking and rolling steps to make the final layer.",
+        "Step 6: Transfer omelet onto plastic wrap, and use it to shape the omelet, before wrapping and rolling it into a tight package; cover with a towel and let rest for 5 minutes.",
+        "Step 7: Unwrap, slice into 6 or 8 pieces, and serve on a warm plate. Sprinkle with furikake."
+    ],
+    "image": "images/japanese-style-rolled-omelet-tamagoyaki.jpg"
+}

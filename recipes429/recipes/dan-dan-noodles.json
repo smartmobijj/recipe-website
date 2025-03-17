@@ -1,0 +1,40 @@
+{
+    "title": "Dan Dan Noodles",
+    "file_name": "dan-dan-noodles",
+    "url": "https://www.allrecipes.com/recipe/284238/dan-dan-noodles/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "540 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package egg noodles",
+        "2 tablespoons canola oil",
+        "⅔ cup dry-roasted peanuts",
+        "6 tablespoons low-sodium soy sauce",
+        "2 tablespoons sambal oelek (chile paste)",
+        "2 teaspoons white sugar",
+        "5 cloves garlic, peeled",
+        "1 (1 inch) piece fresh ginger, peeled",
+        "8 ounces ground pork",
+        "⅛ teaspoon salt",
+        "1 ¼ cups cucumber - peeled, seeded, and chopped",
+        "¾ cup thinly sliced green onion",
+        "⅓ cup chopped fresh cilantro",
+        "3 tablespoons lime juice"
+    ],
+    "method": [
+        "Step 1: Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain in a colander over a bowl, reserving 3/4 cup cooking liquid. Place noodles in a large bowl.",
+        "Step 2: Heat oil in a large wok over medium-high heat. Add peanuts to pan; saute until fragrant, about 2 minutes. Remove from heat; cool slightly. Combine peanuts, soy sauce, sambal oelek, sugar, garlic, and ginger in a mini food chopper; process until finely ground.",
+        "Step 3: Cook pork and salt in a wok over medium-high heat until no longer pink, stirring to crumble, about 8 minutes. Add peanut mixture and 3/4 cup cooking liquid to pork; bring to a boil. Cook for 1 minute, stirring frequently. Add pork mixture, cucumber, green onions, cilantro, and lime juice to noodles; toss well. Serve."
+    ],
+    "image": "images/dan-dan-noodles.jpg"
+}

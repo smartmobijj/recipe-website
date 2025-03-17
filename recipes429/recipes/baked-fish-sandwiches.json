@@ -1,0 +1,35 @@
+{
+    "title": "Baked Fish Sandwiches",
+    "file_name": "baked-fish-sandwiches",
+    "url": "https://www.allrecipes.com/recipe/67628/baked-fish-sandwiches/",
+    "cuisine": "Lebanese",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "313 Calories"
+    },
+    "ingredients": [
+        "1 pound cod fillets",
+        "1 clove garlic, minced",
+        "1  lemon, cut into wedges",
+        "2 tablespoons butter, softened",
+        "salt and ground black pepper to taste",
+        "2 tablespoons steak sauce",
+        "4  hamburger buns, split and toasted",
+        "2 tablespoons ranch-style salad dressing"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Place fish fillets in a shallow baking dish. Sprinkle with garlic, then squeeze lemon juice over the top. Dot with butter.",
+        "Step 3: Bake in the preheated oven until fish flakes easily with a fork, 20 to 25 minutes.",
+        "Step 4: Spread steak sauce on the cut-side of the bottoms of buns. Top each with fish, then drizzle with ranch dressing. Cover with top buns to serve."
+    ],
+    "image": "images/baked-fish-sandwiches.jpg"
+}

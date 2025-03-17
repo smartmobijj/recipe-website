@@ -1,0 +1,36 @@
+{
+    "title": "Ecuadorian Seco de Pollo",
+    "file_name": "ecuadorian-seco-de-pollo",
+    "url": "https://www.allrecipes.com/recipe/257313/ecuadorian-seco-de-pollo/",
+    "cuisine": "Peruvian",
+    "difficulty": "Medium",
+    "cooking_time": "75 minutes",
+    "country": "Peru",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "254 Calories"
+    },
+    "ingredients": [
+        "6  chicken thighs",
+        "1 clove garlic, minced",
+        "1 teaspoon ground black pepper",
+        "1 teaspoon ground cumin",
+        "1 teaspoon oregano",
+        "2 tablespoons vegetable oil",
+        "¾ (12 fluid ounce) can or bottle beer",
+        "1  tomato, quartered",
+        "1  red onion, quartered",
+        "1 bunch cilantro"
+    ],
+    "method": [
+        "Step 1: Season chicken thighs with garlic, black pepper, cumin, and oregano.",
+        "Step 2: Heat oil in a deep saucepan over medium-high heat; cook seasoned chicken until browned on both sides, about 5 minutes.",
+        "Step 3: Combine beer, tomato, red onion, and cilantro in a blender; blend until a smooth sauce forms. Pour sauce over chicken and reduce heat to low; simmer until chicken is very tender, 45 minutes to 1 hour."
+    ],
+    "image": "images/ecuadorian-seco-de-pollo.jpg"
+}

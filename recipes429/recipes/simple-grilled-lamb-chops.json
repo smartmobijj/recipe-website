@@ -1,0 +1,35 @@
+{
+    "title": "Simple Grilled Lamb Chops",
+    "file_name": "simple-grilled-lamb-chops",
+    "url": "https://www.allrecipes.com/recipe/137917/simple-grilled-lamb-chops/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "6 mins",
+        "total_time": "2 hrs 16 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "519 Calories"
+    },
+    "ingredients": [
+        "1  onion, thinly sliced",
+        "¼ cup distilled white vinegar",
+        "2 tablespoons olive oil",
+        "1 tablespoon minced garlic",
+        "2 teaspoons salt",
+        "½ teaspoon black pepper",
+        "6 (6 ounce) lamb chops"
+    ],
+    "method": [
+        "Step 1: Mix together onion, vinegar, oil, garlic, salt, and pepper in a large resealable bag. Add lamb, seal bag, and toss to coat. Marinate in the refrigerator for 2 hours.",
+        "Step 2: Preheat an outdoor grill for medium-high heat.",
+        "Step 3: Remove lamb from marinade and leave any onions on that stick to meat; discard marinade. Wrap exposed ends of bones with aluminum foil to keep them from burning.",
+        "Step 4: Cook on the preheated grill to desired doneness, about 3 minutes per side for medium. An instant-read thermometer inserted into the center should read at least 130 degrees F (54 degrees C).",
+        "Step 5: Serve hot and enjoy!"
+    ],
+    "image": "images/simple-grilled-lamb-chops.jpg"
+}

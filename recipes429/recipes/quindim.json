@@ -1,0 +1,33 @@
+{
+    "title": "Quindim",
+    "file_name": "quindim",
+    "url": "https://www.allrecipes.com/recipe/190357/quindim/",
+    "cuisine": "Brazilian",
+    "difficulty": "Easy",
+    "cooking_time": "45 minutes",
+    "country": "Brazil",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "187 Calories"
+    },
+    "ingredients": [
+        "1 cup white sugar",
+        "1 cup shredded coconut",
+        "1 tablespoon butter, softened",
+        "5 large egg yolks",
+        "1 large egg white"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Mix sugar, coconut, and butter in a bowl with an electric mixer until well combined. Add egg yolks and egg white; beat until well combined. Pour mixture into a 9-inch pie plate.",
+        "Step 3: Place the pie plate into a large roasting pan; pour enough boiling water into the bottom of the roasting pan to reach about halfway up the side of the pie plate.",
+        "Step 4: Place the roasting pan in the preheated oven and bake until custard is golden brown on top, about 30 minutes.",
+        "Step 5: Remove from the oven and let cool to room temperature, about 30 minutes. Serve immediately or refrigerate until serving."
+    ],
+    "image": "images/quindim.jpg"
+}

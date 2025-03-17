@@ -1,0 +1,46 @@
+{
+    "title": "Sweet and Sour Chicken",
+    "file_name": "sweet-and-sour-chicken",
+    "url": "https://www.allrecipes.com/recipe/8536/sweet-and-sour-chicken-i/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "20 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "639 Calories"
+    },
+    "ingredients": [
+        "1 ¾ cups water, divided",
+        "1 (8 ounce) can pineapple chunks, drained (juice reserved)",
+        "¾ cup white sugar",
+        "½ cup distilled white vinegar",
+        "2 drops orange food color",
+        "¼ cup cornstarch",
+        "2 ¼ cups self-rising flour",
+        "2 tablespoons vegetable oil",
+        "2 tablespoons cornstarch",
+        "1 large egg",
+        "½ teaspoon salt",
+        "¼ teaspoon ground white pepper",
+        "1 ½ cups water",
+        "8  skinless, boneless chicken breast halves - cut into 1-inch cubes",
+        "1 quart vegetable oil for frying",
+        "2  green bell pepper, cut into 1-inch pieces"
+    ],
+    "method": [
+        "Step 1: Combine 1 ½ cups of water, reserved pineapple juice, sugar, vinegar, and orange food coloring in a medium saucepan. Bring to a boil over medium heat; set aside.",
+        "Step 2: Mix 1/4 cup cornstarch and 1/4 cup water together in a small bowl until smooth; pour into the sauce, stirring continuously, until slightly thickened.",
+        "Step 3: Place flour, 2 tablespoons oil, 2 tablespoons cornstarch, egg, salt, and white pepper in a large bowl; gradually whisk in 1 1/2 cups water to make a thick batter.",
+        "Step 4: Add chicken pieces; stir until well coated.",
+        "Step 5: Heat oil in a large, deep skillet or wok to 360 degrees F (180 degrees C). Fry chicken pieces in preheated oil until golden, about 10 minutes; remove and drain on paper towels.",
+        "Step 6: Layer green peppers, pineapple chunks, and cooked chicken pieces on a platter; pour hot sweet and sour sauce over top.",
+        "Step 7: Serve hot and enjoy!"
+    ],
+    "image": "images/sweet-and-sour-chicken.jpg"
+}

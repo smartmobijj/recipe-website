@@ -1,0 +1,36 @@
+{
+    "title": "Rice Cooker Spanish Rice",
+    "file_name": "rice-cooker-spanish-rice",
+    "url": "https://www.allrecipes.com/recipe/261374/rice-cooker-spanish-rice/",
+    "cuisine": "Spanish",
+    "difficulty": "Easy",
+    "cooking_time": "50 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "280 Calories"
+    },
+    "ingredients": [
+        "1 (14.5 ounce) can diced tomatoes",
+        "2 cups uncooked white rice",
+        "1 cup tomato sauce",
+        "1 cup chicken broth",
+        "1 cup canned corn, drained (Optional)",
+        "½ cup crumbled cooked bacon (Optional)",
+        "½ cup chopped onion",
+        "½ cup chopped red bell pepper",
+        "½ cup chopped black olives (Optional)",
+        "⅓ cup salsa",
+        "2 teaspoons chili powder",
+        "1 teaspoon cumin"
+    ],
+    "method": [
+        "Step 1: Combine tomatoes, rice, tomato sauce, chicken broth, corn, bacon, onion, red bell pepper, olives, salsa, and chili powder in a rice cooker. Seal the cooker and select rice setting according to manufacturer's instructions; cook until tender, 20 to 25 minutes."
+    ],
+    "image": "images/rice-cooker-spanish-rice.jpg"
+}

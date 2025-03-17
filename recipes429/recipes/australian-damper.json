@@ -1,0 +1,32 @@
+{
+    "title": "Australian Damper",
+    "file_name": "australian-damper",
+    "url": "https://www.allrecipes.com/recipe/16726/australian-damper/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "15",
+        "calories": "133 Calories"
+    },
+    "ingredients": [
+        "4 cups self-rising flour",
+        "1 teaspoon salt",
+        "1 tablespoon butter, softened",
+        "1 cup milk",
+        "½ cup water"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 425 degrees F (220 degrees C). Grease a baking sheet.",
+        "Step 2: Stir flour and salt together in a large bowl. Rub in butter until mixture resembles coarse crumbs. Make a well in the center; pour in milk and water, then stir until dough comes together.",
+        "Step 3: Turn dough out onto a lightly floured surface and form into an 8-inch-diameter round loaf. Place loaf onto the prepared pan; cut a cross in the top using a sharp knife.",
+        "Step 4: Bake in the preheated oven for 25 minutes; lower the temperature to 350 degrees F (175 degrees C) and continue to bake for an additional 5 to 10 minutes. The loaf should be golden brown and the bottom should sound hollow when tapped."
+    ],
+    "image": "images/australian-damper.jpg"
+}

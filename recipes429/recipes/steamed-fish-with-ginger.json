@@ -1,0 +1,36 @@
+{
+    "title": "Steamed Fish with Ginger",
+    "file_name": "steamed-fish-with-ginger",
+    "url": "https://www.allrecipes.com/recipe/140570/steamed-fish-with-ginger/",
+    "cuisine": "Malaysian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "361 Calories"
+    },
+    "ingredients": [
+        "1 pound halibut fillet",
+        "1 teaspoon coarse sea salt or kosher salt",
+        "1 tablespoon minced fresh ginger",
+        "3 tablespoons thinly sliced green onion",
+        "1 tablespoon dark soy sauce",
+        "1 tablespoon light soy sauce",
+        "1 tablespoon peanut oil",
+        "2 teaspoons toasted sesame oil",
+        "¼ cup lightly packed fresh cilantro sprigs"
+    ],
+    "method": [
+        "Step 1: Pat halibut dry with paper towels. Rub both sides of fillet with salt. Scatter the ginger over the top of the fish and place onto a heatproof ceramic dish.",
+        "Step 2: Place into a bamboo steamer set over several inches of gently boiling water, and cover. Gently steam for 10 to 12 minutes.",
+        "Step 3: Pour accumulated water out of the dish and sprinkle the fillet with green onion. Drizzle both soy sauces over the surface of the fish.",
+        "Step 4: Heat peanut and sesame oils in a small skillet over medium-high heat until they begin to smoke. When the oil is hot, carefully pour on top of the halibut fillet. The very hot oil will cause the green onions and water on top of the fish to pop and spatter all over; be careful. Garnish with cilantro sprigs and serve immediately."
+    ],
+    "image": "images/steamed-fish-with-ginger.jpg"
+}

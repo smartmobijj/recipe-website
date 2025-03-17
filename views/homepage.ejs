@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Explorer</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body onload="loadContinents()">
+    <div class="container">
+        <h1 class="recipe-title">Discover Recipes</h1>
+        <br>
+        
+
+        <!-- 🔍 Search Bar -->
+        <input type="text" id="search" placeholder="Search for a recipe..." oninput="searchRecipes()">
+        <div id="search-results-container" class="recipe-grid"></div>
+
+        <!-- 🌍 Dropdown for Continent & Country Selection -->
+        <select id="continent-select" onchange="loadCountries()">
+            <option value="">Select Continent</option>
+        </select>
+
+        <select id="country-select" disabled>
+            <option value="">Select Country</option>
+        </select>
+
+        <button onclick="filterRecipes()">Find Recipes</button>
+
+        <!-- ✅ "Create Your Own Meal" Button -->
+        <a href="/select-ingredients"><button>🔍 Create Your Own Meal</button></a>
+
+        <!-- ✅ "About Us" Button -->
+        <a href="/about"><button>📖 About Us</button></a>
+
+
+        <!-- ✅ "Our Random Ten Recipes" Section -->
+        <section class="random-recipes">
+            <h2 class="recipe-title">🍽️ Our Random Ten Recipes</h2>
+            <div class="recipe-grid">
+                <% if (recipes.length > 0) { %>
+                    <% recipes.forEach(recipe => { %>
+                        <div class="recipe-card">
+                            <a href="<%= recipe.url %>">
+                                <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+                                <h3 class="recipe-title"><%= recipe.title %></h3>
+                            </a>
+                        </div>
+                    <% }) %>
+                <% } else { %>
+                    <p>No recipes available.</p>
+                <% } %>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        // ✅ Load Continents from API
+        async function loadContinents() {
+            try {
+                const response = await fetch('/getContinents');
+                const continents = await response.json();
+                const continentSelect = document.getElementById('continent-select');
+
+                continentSelect.innerHTML = '<option value="">Select Continent</option>';
+                continents.forEach(continent => {
+                    const option = document.createElement('option');
+                    option.value = continent;
+                    option.textContent = continent;
+                    continentSelect.appendChild(option);
+                });
+            } catch (error) {
+                console.error("❌ Error loading continents:", error);
+            }
+        }
+
+        // ✅ Load Countries from API
+        async function loadCountries() {
+            const continent = document.getElementById('continent-select').value;
+            if (!continent) return;
+
+            try {
+                const response = await fetch(`/getCountries?continent=${encodeURIComponent(continent)}`);
+                const countries = await response.json();
+                const countrySelect = document.getElementById('country-select');
+
+                countrySelect.innerHTML = '<option value="">Select Country</option>';
+                countries.forEach(country => {
+                    const option = document.createElement('option');
+                    option.value = country;
+                    option.textContent = country;
+                    countrySelect.appendChild(option);
+                });
+
+                countrySelect.disabled = false;
+            } catch (error) {
+                console.error("❌ Error loading countries:", error);
+            }
+        }
+
+        // ✅ Redirect to filtered recipe results
+        function filterRecipes() {
+            const continent = document.getElementById('continent-select').value;
+            const country = document.getElementById('country-select').value;
+
+            if (!continent || !country) {
+                alert("Please select a continent and a country.");
+                return;
+            }
+
+            window.location.href = `/recipes/${encodeURIComponent(continent)}/${encodeURIComponent(country)}`;
+        }
+
+        // ✅ Fetch and Display Search Results
+        async function searchRecipes() {
+            const query = document.getElementById('search').value.trim();
+            const resultsContainer = document.getElementById('search-results-container');
+            resultsContainer.innerHTML = '';
+
+            if (!query) return;
+
+            const response = await fetch('/search?query=' + encodeURIComponent(query));
+            const recipes = await response.json();
+
+            console.log(`✅ Search Results:`, recipes); // Debugging log
+
+            if (recipes.length === 0) {
+                resultsContainer.innerHTML = '<p>No recipes found.</p>';
+                return;
+            }
+
+            const grid = document.createElement('div');
+            grid.className = 'recipe-grid';
+
+            recipes.forEach(recipe => {
+                const card = document.createElement('div');
+                card.className = 'recipe-card';
+                card.innerHTML = `
+                    <a href="${recipe.url}">
+                        <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                        <h3 class="recipe-title">${recipe.title}</h3>
+                    </a>
+                `;
+                grid.appendChild(card);
+            });
+
+            resultsContainer.appendChild(grid);
+        }
+    </script>
+    <script>
+        // ✅ Fetch and Display Search Results
+        async function searchRecipes() {
+            const query = document.getElementById('search').value.trim();
+            const resultsContainer = document.getElementById('search-results-container');
+            resultsContainer.innerHTML = '';
+    
+            if (!query) return;
+    
+            const response = await fetch('/search?query=' + encodeURIComponent(query));
+            const recipes = await response.json();
+    
+            console.log(`✅ Search Results:`, recipes); // Debugging log
+    
+            if (recipes.length === 0) {
+                resultsContainer.innerHTML = '<p>No recipes found.</p>';
+                return;
+            }
+    
+            const grid = document.createElement('div');
+            grid.className = 'recipe-grid';
+    
+            recipes.forEach(recipe => {
+                const card = document.createElement('div');
+                card.className = 'recipe-card';
+                card.innerHTML = `
+                    <a href="${recipe.url}">
+                        <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                        <h3 class="recipe-title">${recipe.title}</h3>
+                    </a>
+                `;
+                grid.appendChild(card);
+            });
+    
+            resultsContainer.appendChild(grid);
+        }
+    </script>
+    
+</body>
+</html>

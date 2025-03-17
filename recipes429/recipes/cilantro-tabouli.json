@@ -1,0 +1,36 @@
+{
+    "title": "Cilantro Tabouli",
+    "file_name": "cilantro-tabouli",
+    "url": "https://www.allrecipes.com/recipe/214609/cilantro-tabouli/",
+    "cuisine": "Lebanese",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "5 mins",
+        "total_time": "3 hrs 35 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "94 Calories"
+    },
+    "ingredients": [
+        "2 ¼ cups water",
+        "1 cup bulgur wheat",
+        "2  tomatoes, seeded and finely chopped",
+        "2  green onions, sliced into thin slivers",
+        "¾ cup coarsely chopped fresh cilantro",
+        "2 cloves garlic, minced, or to taste",
+        "2  lemons, juiced",
+        "2 tablespoons olive oil",
+        "1 teaspoon ground cumin",
+        "½ teaspoon freshly cracked pepper",
+        "salt to taste"
+    ],
+    "method": [
+        "Step 1: Bring water to a boil in a saucepan, turn off the heat, and stir in bulgur wheat. Cover and let sit for 30 minutes to absorb water. Strain off any liquid left unabsorbed, if necessary.",
+        "Step 2: Place bulgur wheat in a large salad bowl, and lightly toss with tomatoes, green onions, cilantro, garlic, lemon juice, olive oil, cumin, pepper, and salt until thoroughly combined. Refrigerate salad for at least 3 hours to blend flavors; serve cold."
+    ],
+    "image": "images/cilantro-tabouli.jpg"
+}

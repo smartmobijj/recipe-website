@@ -1,0 +1,44 @@
+{
+    "title": "Pumpkin Pancakes",
+    "file_name": "pumpkin-pancakes",
+    "url": "https://www.allrecipes.com/recipe/17036/pumpkin-pancakes/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "268 Calories"
+    },
+    "ingredients": [
+        "1 ½ cups milk",
+        "1 cup pumpkin puree",
+        "1 large egg",
+        "2 tablespoons vegetable oil",
+        "2 tablespoons vinegar",
+        "2 cups all-purpose flour",
+        "3 tablespoons brown sugar",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 teaspoon ground allspice",
+        "1 teaspoon ground cinnamon",
+        "½ teaspoon ground ginger",
+        "½ teaspoon salt",
+        "cooking spray"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Stir milk, pumpkin, egg, oil, and vinegar together in a large bowl until well combined.",
+        "Step 3: Whisk flour, brown sugar, baking powder, baking soda, allspice, cinnamon, ginger, and salt together in a separate bowl. Add to pumpkin mixture; whisk just until combined.",
+        "Step 4: Spray a griddle or frying pan with cooking spray; heat over medium-high heat. Pour 3 to 4 tablespoons batter for each pancake onto the hot griddle and flatten batter slightly with a spoon.",
+        "Step 5: Cook until small bubbles appear, about 2 minutes.",
+        "Step 6: Flip and cook until golden brown, about 2 more minutes. Repeat with remaining batter.",
+        "Step 7: Serve hot and enjoy!"
+    ],
+    "image": "images/pumpkin-pancakes.jpg"
+}

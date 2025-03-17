@@ -1,0 +1,38 @@
+{
+    "title": "Shrimp Stir-Fry With Snap Peas and Baby Corn",
+    "file_name": "shrimp-stir-fry-with-snap-peas-and-baby-corn",
+    "url": "https://www.allrecipes.com/shrimp-stir-fry-with-snap-peas-and-baby-corn-recipe-8753997",
+    "cuisine": "Indonesian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "150 Calories"
+    },
+    "ingredients": [
+        "1/4 cup soy sauce",
+        "2 tablespoons honey",
+        "2 tablespoons lemon juice",
+        "1 tablespoon cornstarch",
+        "1 clove garlic,",
+        "1 teaspoon hoisin sauce",
+        "1/4 teaspoon crushed red pepper flakes",
+        "1 tablespoon sesame oil",
+        "1 (15 ounce) can baby corn",
+        "8 ounces snap peas",
+        "1 (6 1/2 ounce) can sliced mushrooms",
+        "1 pound raw shrimp,"
+    ],
+    "method": [
+        "Step 1: Whisk soy sauce, honey, lemon juice, cornstarch, garlic, Hoisin, and red pepper flakes in a bowl. Set aside.",
+        "Step 2: Heat sesame oil in a wok over medium-high heat. Add corn, snap peas, and mushrooms. Stir-fry for 4 minutes. Add shrimp and stir-fry 2 minutes more.",
+        "Step 3: Stir in reserved sauce and cook until shrimp is opaque, about 2 minutes more. Serve over rice."
+    ],
+    "image": "images/shrimp-stir-fry-with-snap-peas-and-baby-corn.jpg"
+}

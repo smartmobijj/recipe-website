@@ -1,0 +1,39 @@
+{
+    "title": "Lumpia (Shanghai Version)",
+    "file_name": "lumpia-shanghai-version",
+    "url": "https://www.allrecipes.com/recipe/40351/lumpia-shanghai-version/",
+    "cuisine": "Filipino",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "1 hr",
+        "cook_time": "20 mins",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "20",
+        "calories": "262 Calories"
+    },
+    "ingredients": [
+        "1 pound ground pork",
+        "1 pound ground beef",
+        "1  medium onion, finely chopped",
+        "1  carrot, grated",
+        "¼ cup soy sauce",
+        "2 tablespoons salt",
+        "1 ½ tablespoons garlic powder",
+        "2 ½ teaspoons black pepper",
+        "1 (16 ounce) package spring roll wrappers",
+        "¼ cup water, or as needed",
+        "1 ½ quarts oil for frying"
+    ],
+    "method": [
+        "Step 1: Combine ground pork, ground beef, onion, and carrot in a large bowl; mix well with hands. Gradually blend in soy sauce, salt, garlic powder, and pepper until incorporated.",
+        "Step 2: Working one at a time, lay a wrapper on a flat surface with a corner pointing at you. Place about 2 tablespoons filling in a line, no thicker than your thumb, across the center of the wrapper. Moisten the edges of wrapper with water. Fold the bottom edge of wrapper snugly over filling. Fold in the left and right sides of wrapper towards the center. Roll up tightly to seal in filling.",
+        "Step 3: Heat oil in a deep fryer or heavy skillet to 375 degrees F (190 degrees C).",
+        "Step 4: Working in batches, fry lumpia in hot oil, turning once, until golden brown, 3 to 4 minutes. Drain on a paper towel-lined plate. Cut lumpia in half, or serve as-is with dipping sauce.",
+        "Step 5: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount may vary depending on cook time and temperature, ingredient density, and the specific type of oil used."
+    ],
+    "image": "images/lumpia-shanghai-version.jpg"
+}

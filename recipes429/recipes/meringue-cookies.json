@@ -1,0 +1,32 @@
+{
+    "title": "Meringue Cookies",
+    "file_name": "meringue-cookies",
+    "url": "https://www.allrecipes.com/recipe/9847/meringue-cookies/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "52 Calories"
+    },
+    "ingredients": [
+        "2 large egg whites",
+        "⅛ teaspoon salt",
+        "⅛ teaspoon cream of tartar",
+        "1 teaspoon vanilla extract",
+        "¾ cup white sugar",
+        "1 cup semisweet chocolate chips (Optional)"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 300 degrees F (150 degrees C). Line cookie sheets with parchment paper.",
+        "Step 2: Beat egg whites, salt, cream of tartar, and vanilla in a clean bowl until soft peaks form. Gradually add sugar while continuing to whip until stiff peaks form, about 5 minutes. Fold in chocolate chips if using.",
+        "Step 3: Drop by heaping teaspoonfuls, one inch apart onto the prepared cookie sheets. Bake in the preheated oven until just lightly browned, about 25 minutes. Cool on baking sheets."
+    ],
+    "image": "images/meringue-cookies.jpg"
+}

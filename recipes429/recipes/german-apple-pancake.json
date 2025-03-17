@@ -1,0 +1,42 @@
+{
+    "title": "German Apple Pancake",
+    "file_name": "german-apple-pancake",
+    "url": "https://www.allrecipes.com/recipe/23900/german-apple-pancake/",
+    "cuisine": "German",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Germany",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "517 Calories"
+    },
+    "ingredients": [
+        "4 large eggs",
+        "½ cup unbleached all-purpose flour",
+        "1 tablespoon sugar",
+        "½ teaspoon baking powder",
+        "1 pinch salt",
+        "1 cup milk",
+        "1 teaspoon vanilla extract",
+        "2 tablespoons unsalted butter, melted",
+        "½ teaspoon ground nutmeg",
+        "¼ cup unsalted butter",
+        "½ cup white sugar, divided",
+        "½ teaspoon ground cinnamon",
+        "½ teaspoon ground nutmeg",
+        "1 large tart apple - peeled, cored and sliced"
+    ],
+    "method": [
+        "Step 1: Combine eggs, flour, 1 tablespoon sugar, baking powder, and salt in a large bowl; gradually mix in milk, stirring constantly. Add vanilla, melted butter, and 1/2 teaspoon nutmeg. Let batter stand for 30 minutes or overnight.",
+        "Step 2: Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 3: Melt butter in a 10-inch oven-proof skillet, brushing butter up on the sides of the pan. Combine 1/4 cup sugar, cinnamon, and 1/2 teaspoon nutmeg in a small bowl; sprinkle sugar mixture over the butter. Line the pan with apple slices. Sprinkle the remaining 1/4 cup sugar over apples. Place pan over medium-high heat until the mixture bubbles, then gently pour batter mixture over apples.",
+        "Step 4: Bake in the preheated oven for 15 minutes. Reduce heat to 375 degrees F (190 degrees C) and bake for 10 minutes more. Slide pancake onto a serving platter and cut into wedges.",
+        "Step 5: This recipe appeared in Allrecipes Magazine as \"Strawberry Dutch Baby Pancake,\" and used strawberries instead of apples."
+    ],
+    "image": "images/german-apple-pancake.jpg"
+}

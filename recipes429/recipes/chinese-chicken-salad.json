@@ -1,0 +1,37 @@
+{
+    "title": "Chinese Chicken Salad",
+    "file_name": "chinese-chicken-salad",
+    "url": "https://www.allrecipes.com/recipe/8914/chinese-chicken-salad/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "Unknown",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "517 Calories"
+    },
+    "ingredients": [
+        "3 ½  boneless chicken breast halves, cooked and diced",
+        "1 head lettuce, torn into small pieces",
+        "4  green onions, sliced",
+        "4 stalks celery, sliced thin",
+        "6 ounces Chinese noodles, heated briefly to crisp",
+        "½ cup walnuts, chopped",
+        "2 tablespoons sesame seeds, toasted",
+        "6 tablespoons seasoned rice vinegar",
+        "4 tablespoons white sugar",
+        "1 teaspoon salt",
+        "½ cup peanut oil"
+    ],
+    "method": [
+        "Step 1: Prepare salad: Combine chicken, lettuce, green onion, celery, noodles, nuts, and sesame seeds in a large salad bowl. Mix all together. Set aside.",
+        "Step 2: Make dressing: Put vinegar in a small bowl. Dissolve sugar and salt in vinegar before adding oil. Shake, or beat, well.",
+        "Step 3: Add dressing to salad, toss to coat, and serve."
+    ],
+    "image": "images/chinese-chicken-salad.jpg"
+}

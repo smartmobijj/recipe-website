@@ -1,0 +1,41 @@
+{
+    "title": "Jajangmyeon (Vegetarian Korean Black Bean Noodles)",
+    "file_name": "jajangmyeon-vegetarian-korean-black-bean-noodles",
+    "url": "https://www.allrecipes.com/recipe/267271/jajangmyeon-vegetarian-korean-black-bean-noodles/",
+    "cuisine": "Korean",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "South Korea",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "315 Calories"
+    },
+    "ingredients": [
+        "½ tablespoon canola oil",
+        "1 clove garlic, minced, or more to taste",
+        "½ cup cubed carrots",
+        "½ cup peeled and cubed potatoes",
+        "salt and ground black pepper to taste",
+        "½ cup peeled and cubed zucchini",
+        "½ cup chopped onion",
+        "1 tablespoon cornstarch",
+        "1 tablespoon water",
+        "1 cup water",
+        "4 tablespoons black bean paste (chunjang)",
+        "1 tablespoon white sugar, or to taste",
+        "½ (7 ounce) package jaa jang myun noodles"
+    ],
+    "method": [
+        "Step 1: Heat oil in a wok over medium heat. Add garlic, carrot, and potato. Stir and add salt and pepper. Cook until softened, 5 to 7 minutes. Add zucchini and onion; stir.",
+        "Step 2: Combine cornstarch and water together in a bowl until fully mixed.",
+        "Step 3: Add water, black bean paste, and sugar to the wok and stir. Add starch mixture to wok slowly while stirring; cook until sauce thickens, 3 to 5 minutes.",
+        "Step 4: Bring a large pot of lightly salted water to a boil. Cook noodles in boiling water, stirring occasionally, until noodles are tender yet firm to the bite, about 3 minutes. Drain.",
+        "Step 5: Serve noodles in a large pasta bowl and add black bean mixture on top. Mix well."
+    ],
+    "image": "images/jajangmyeon-vegetarian-korean-black-bean-noodles.jpg"
+}

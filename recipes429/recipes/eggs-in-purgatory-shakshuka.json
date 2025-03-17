@@ -1,0 +1,39 @@
+{
+    "title": "Eggs in Purgatory (Shakshuka)",
+    "file_name": "eggs-in-purgatory-shakshuka",
+    "url": "https://www.allrecipes.com/recipe/245881/eggs-in-purgatory-shakshuka/",
+    "cuisine": "Egyptian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "30 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "291 Calories"
+    },
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 medium onion, diced",
+        "1  red bell pepper, cored, seeded, and diced",
+        "2  garlic cloves, minced",
+        "1 teaspoon ground cumin",
+        "⅛ teaspoon hot pepper sauce (such as Tabasco)",
+        "1 (28 ounce) can crushed tomatoes",
+        "1 (4.5 ounce) can chopped green chiles, drained",
+        "½ teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        "6  large eggs",
+        "1 tablespoon chopped fresh parsley"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (205 degrees C).",
+        "Step 2: Heat oil in a 12-inch oven-proof or cast-iron skillet over medium heat. Add onion, bell pepper, and garlic; cook until crisp-tender, about 5 minutes, stirring occasionally. Stir in cumin and hot pepper sauce; cook 1 minute.",
+        "Step 3: Add crushed tomatoes, green chiles, salt, and black pepper; bring to a boil over high heat. Simmer until mixture has thickened and flavors are blended, 6 to 8 minutes.",
+        "Step 4: Make 6 indentations in tomato sauce; gently crack eggs into indentations. Place skillet in the oven; bake until eggs are just set, 5 to 10 minutes. Sprinkle with chopped parsley."
+    ],
+    "image": "images/eggs-in-purgatory-shakshuka.jpg"
+}

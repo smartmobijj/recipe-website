@@ -1,0 +1,34 @@
+{
+    "title": "Russian Beet and Potato Salad",
+    "file_name": "russian-beet-and-potato-salad",
+    "url": "https://www.allrecipes.com/recipe/213106/russian-beet-and-potato-salad/",
+    "cuisine": "Russian",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr 50 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "145 Calories"
+    },
+    "ingredients": [
+        "2  beets",
+        "4 small potatoes",
+        "2 small carrots",
+        "3 small dill pickles, diced",
+        "¼ cup vegetable oil",
+        "2 tablespoons champagne vinegar",
+        "salt to taste",
+        "3  green onions, chopped"
+    ],
+    "method": [
+        "Step 1: Bring a large pot of water to a boil; add beets and cook until tender, about 30 minutes. Drain beets; cool and remove skins. Dice and place in a large bowl.",
+        "Step 2: Meanwhile, bring a separate pot of water to a boil; add potatoes and carrots and cook until tender, about 20 minutes. Drain potatoes and carrots; cool and remove skins. Dice and place vegetables in the same large bowl.",
+        "Step 3: Add diced pickles to the bowl with vegetables. Drizzle in oil and vinegar; toss to coat. Season with salt; sprinkle with green onions. Chill completely before serving."
+    ],
+    "image": "images/russian-beet-and-potato-salad.jpg"
+}

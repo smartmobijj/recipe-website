@@ -1,0 +1,38 @@
+{
+    "title": "Filipino Beef Steak",
+    "file_name": "filipino-beef-steak",
+    "url": "https://www.allrecipes.com/recipe/212911/filipino-beef-steak/",
+    "cuisine": "Filipino",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "1 hr 25 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "756 Calories"
+    },
+    "ingredients": [
+        "4 pounds New York strip steak, sliced thin",
+        "1  lemon, juiced",
+        "3 tablespoons soy sauce",
+        "1 teaspoon white sugar",
+        "salt and pepper to taste",
+        "1 tablespoon cornstarch",
+        "¼ cup vegetable oil",
+        "3 tablespoons olive oil",
+        "1  onion, chopped",
+        "2 cloves garlic, chopped"
+    ],
+    "method": [
+        "Step 1: Place sliced beef in a large bowl. Whisk together lemon juice, soy sauce, sugar, salt, and pepper in a small bowl; pour over beef and toss to coat. Stir in cornstarch. Cover and refrigerate for 1 hour to overnight.",
+        "Step 2: Heat vegetable oil in a large skillet over medium heat.",
+        "Step 3: Remove beef slices from marinade, shaking to remove any excess liquid. Discard marinade.",
+        "Step 4: Working in batches, fry beef slices in hot oil until they start to firm and are reddish-pink and juicy in the center, 2 to 4 minutes per side. Transfer beef slices to a serving platter.",
+        "Step 5: Heat olive oil in a small skillet over medium heat. Cook and stir onion and garlic in hot oil until onion is golden brown, 5 to 7 minutes; spoon over beef slices."
+    ],
+    "image": "images/filipino-beef-steak.jpg"
+}

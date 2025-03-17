@@ -1,0 +1,44 @@
+{
+    "title": "Poblano Corn Chowder",
+    "file_name": "poblano-corn-chowder",
+    "url": "https://www.allrecipes.com/recipe/39463/poblano-corn-chowder/",
+    "cuisine": "Peruvian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Peru",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "881 Calories"
+    },
+    "ingredients": [
+        "3 stalks celery, chopped",
+        "½ cup chopped onion",
+        "2 tablespoons margarine",
+        "1  fresh poblano chile pepper, seeded and diced",
+        "1 quart heavy cream",
+        "1 quart half-and-half",
+        "⅓ cup white sugar",
+        "1 tablespoon lobster base (Optional)",
+        "1 teaspoon ground black pepper",
+        "1 pinch ground dried chile de árbol",
+        "½ cup margarine",
+        "½ cup all-purpose flour",
+        "1 (15 ounce) can cream-style corn",
+        "1 (15 ounce) can whole kernel corn, drained",
+        "8 ounces shrimp, peeled, deveined, and diced",
+        "salt to taste",
+        "white sugar to taste"
+    ],
+    "method": [
+        "Step 1: Purée celery and onion in a blender or food processor; drain.",
+        "Step 2: Melt 2 tablespoons margarine in a large saucepan over medium heat. Add puréed celery-onion mixture and poblano; stir and cook until tender, about 5 minutes. Stir in heavy cream, half-and-half, sugar, and lobster base. Season with black pepper and chile de árbol; bring to a gentle boil, stirring often.",
+        "Step 3: Melt 1/2 cup margarine in a medium saucepan over medium heat. Stir in flour, stirring constantly, until thickened. Remove from heat; gradually stir into cream mixture. Cook and stir until thickened and well blended.",
+        "Step 4: Stir cream-style corn and whole kernel corn into chowder. Stir in shrimp; cook until opaque, about 2 minutes. Season with salt and sugar."
+    ],
+    "image": "images/poblano-corn-chowder.jpg"
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Mom's Best Peanut Brittle",
+    "file_name": "mom's-best-peanut-brittle",
+    "url": "https://www.allrecipes.com/recipe/15987/moms-best-peanut-brittle/",
+    "cuisine": "Indonesian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "144 Calories"
+    },
+    "ingredients": [
+        "1 cup white sugar",
+        "½ cup light corn syrup",
+        "¼ cup water",
+        "¼ teaspoon salt",
+        "1 cup peanuts",
+        "2 tablespoons unsalted butter, softened",
+        "1 teaspoon baking soda"
+    ],
+    "method": [
+        "Step 1: Have all ingredients measured out before starting.",
+        "Step 2: Grease a large rimmed baking sheet. Set aside.",
+        "Step 3: Combine sugar, corn syrup, water, and salt in a heavy, 2-quart saucepan over medium heat.",
+        "Step 4: Stir until sugar is dissolved and the mixture comes to a boil, about 5 minutes.",
+        "Step 5: Stir in peanuts and set a candy thermometer in place. Continue cooking, stirring occasionally, until the temperature reaches 300 to 310 degrees F (150 to 155 degrees C)",
+        "Step 6: Remove from the heat. Quickly stir in butter and baking soda, then immediately pour mixture onto the prepared baking sheet. Quickly use 2 forks to lift and pull the mixture into a 12x14-inch rectangle. Let cool until completely firm, at least 30 minutes.",
+        "Step 7: Use a mallet to break peanut brittle into pieces.",
+        "Step 8: Enjoy!"
+    ],
+    "image": "images/mom's-best-peanut-brittle.jpg"
+}

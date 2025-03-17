@@ -1,0 +1,32 @@
+{
+    "title": "Best Date Balls",
+    "file_name": "best-date-balls",
+    "url": "https://www.allrecipes.com/recipe/11218/skillet-cookies-i/",
+    "cuisine": "Egyptian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "125 Calories"
+    },
+    "ingredients": [
+        "1/2 cup unsalted butter",
+        "8 ounces dates, pitted and chopped",
+        "¾ cup white sugar",
+        "2 large egg yolks",
+        "1 cup crisp rice cereal",
+        "1 cup chopped pecans",
+        "1 teaspoon vanilla extract"
+    ],
+    "method": [
+        "Step 1: Stir butter, dates, sugar, and egg yolks together in a saucepan over medium heat; bring to a boil. Cook for 2 minutes, then remove from the heat.",
+        "Step 2: Stir in rice cereal, pecans, and vanilla. Let rest until cool enough to handle, 5 to 10 minutes. Roll cooled mixture into 24 small balls. Roll each ball in confectioners' sugar."
+    ],
+    "image": "images/best-date-balls.jpg"
+}

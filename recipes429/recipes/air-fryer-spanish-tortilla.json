@@ -1,0 +1,36 @@
+{
+    "title": "Air Fryer Spanish Tortilla",
+    "file_name": "air-fryer-spanish-tortilla",
+    "url": "https://www.allrecipes.com/recipe/279529/air-fryer-spanish-tortilla/",
+    "cuisine": "Spanish",
+    "difficulty": "Easy",
+    "cooking_time": "35 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "40 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "222 Calories"
+    },
+    "ingredients": [
+        "1 large potato, peeled and cut into 1-inch cubes",
+        "1 tablespoon extra-virgin olive oil",
+        "⅛ cup leek, sliced into 1/4-inch pieces",
+        "5  eggs",
+        "¼ cup grated Pecorino Romano cheese",
+        "salt and ground black pepper to taste",
+        "⅛ cup chopped fresh flat-leaf parsley"
+    ],
+    "method": [
+        "Step 1: Rinse potato cubes and put them into a bowl with cold water to soak for about 10 minutes.",
+        "Step 2: Preheat an air fryer to 325 degrees F (160 degrees C).",
+        "Step 3: Drain potatoes and pat dry. Transfer to a bowl and toss with olive oil. Put them into the air fryer basket.",
+        "Step 4: Cook for 18 minutes. Raise the temperature to 350 degrees F (180 degrees C). Shake the basket. Add leek and shake basket again. Cook until leek has softened, about 3 minutes.",
+        "Step 5: Meanwhile, whisk eggs, Pecorino Romano cheese, salt, and pepper together in a bowl and pour into a 6-inch, nonstick cake pan. Mix in cooked potatoes and leek. Set cake pan into the air fryer basket. Cook until tortilla has browned on top and the middle no longer jiggles, about 15 minutes.",
+        "Step 6: Remove from the air fryer and cool for 5 minutes. Sprinkle with Italian parsley before serving."
+    ],
+    "image": "images/air-fryer-spanish-tortilla.jpg"
+}

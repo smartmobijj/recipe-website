@@ -1,0 +1,45 @@
+{
+    "title": "Chicken Teriyaki Rice Bowls",
+    "file_name": "chicken-teriyaki-rice-bowls",
+    "url": "https://www.allrecipes.com/chicken-teriyaki-rice-bowls-recipe-7372857",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "4 hrs 45 mins",
+        "active_time": "Unknown",
+        "servings": "4 servings",
+        "calories": "498 Calories"
+    },
+    "ingredients": [
+        "1/2 cup teriyaki marinade (such as Kikkoman",
+        "2 tablespoons prepared horseradish",
+        "1 tablespoon chili oil",
+        "1 pound boneless skinless chicken breast halves",
+        "1 bunch broccoli, cut into florets",
+        "1  red bell pepper, cut into strips",
+        "2 tablespoons sesame oil",
+        "1 1/2 teaspoons garlic powder",
+        "1/4 teaspoon ground black pepper",
+        "1/8 teaspoon salt",
+        "1 pinch red pepper flakes",
+        "1  pineapple - peeled, cored, and cut into 6 wedges",
+        "2 cups cooked white rice",
+        "1 teaspoon sesame seeds (optional)",
+        "1  green onion, thinly sliced (optional)"
+    ],
+    "method": [
+        "Step 1: Pour teriyaki marinade, horseradish, and chili oil into a resealable plastic bag. Add chicken, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, at least 4 hours.",
+        "Step 2: Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Step 3: Coat chicken in teriyaki marinade and cook on the prepared grill until no longer pink and juices run clear, 10 to 15 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Step 4: Meanwhile place broccoli florets and red pepper strips in a large bowl. Drizzle with sesame oil and toss to coat. Add garlic powder, black pepper, salt, and crushed red pepper and toss to coat again.",
+        "Step 5: Place broccoli and red pepper strips in a grill basket and grill, turning occasionally, until tender-crisp, about 10 minutes.",
+        "Step 6: Grill pineapple until soft and heated through, 2 to 3 minutes per side.",
+        "Step 7: Slice pineapple and chicken into 1-inch cubes. In 4 separate bowls layer rice, chicken, pineapple, broccoli, and red peppers. Garnish each bowl with sliced green onions and sesame seeds. Drizzle extra teriyaki sauce over each bowl if desired."
+    ],
+    "image": "images/chicken-teriyaki-rice-bowls.jpg"
+}

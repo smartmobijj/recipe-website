@@ -1,0 +1,34 @@
+{
+    "title": "Air Fryer Sweet Potato Fries",
+    "file_name": "air-fryer-sweet-potato-fries",
+    "url": "https://www.allrecipes.com/recipe/264825/air-fried-sweet-potato-fries/",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "114 Calories"
+    },
+    "ingredients": [
+        "1 medium sweet potato, peeled",
+        "1 tablespoon canola oil",
+        "½ teaspoon kosher salt",
+        "¼ teaspoon pepper",
+        "⅛ teaspoon garlic powder",
+        "⅛ teaspoon ground sweet paprika"
+    ],
+    "method": [
+        "Step 1: Preheat the air fryer to 400 degrees F (200 degrees C).",
+        "Step 2: Cut sweet potato into 1/2-inch wide fries. Place in a bowl with canola oil; toss to coat. Season with salt, pepper, garlic powder, and paprika; mix until all fries are evenly coated.",
+        "Step 3: Working in batches if necessary, place an even layer of fries in the air fryer basket.",
+        "Step 4: Cook in the preheated air fryer until golden, about 10 minutes. Repeat to cook remaining fries.",
+        "Step 5: Serve hot and enjoy!"
+    ],
+    "image": "images/air-fryer-sweet-potato-fries.jpg"
+}

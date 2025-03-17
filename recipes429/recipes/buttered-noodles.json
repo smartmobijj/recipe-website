@@ -1,0 +1,32 @@
+{
+    "title": "Buttered Noodles",
+    "file_name": "buttered-noodles",
+    "url": "https://www.allrecipes.com/recipe/244458/buttered-noodles/",
+    "cuisine": "Nigerian",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "15 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "294 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package fettuccine noodles",
+        "6 tablespoons butter, cut into pieces",
+        "⅓ cup grated Parmesan cheese",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Fill a large pot with lightly salted water and bring to a rolling boil.",
+        "Step 3: Stir in fettuccine, bring back to a boil, and cook pasta over medium heat until tender yet firm to the bite, 8 to 10 minutes.",
+        "Step 4: Drain and return pasta to pot. Mix butter, Parmesan cheese, salt, and pepper into pasta until evenly combined.",
+        "Step 5: Serve hot and enjoy!"
+    ],
+    "image": "images/buttered-noodles.jpg"
+}

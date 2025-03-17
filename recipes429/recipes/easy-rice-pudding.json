@@ -1,0 +1,32 @@
+{
+    "title": "Easy Rice Pudding",
+    "file_name": "easy-rice-pudding",
+    "url": "https://www.allrecipes.com/recipe/42214/easy-rice-pudding/",
+    "cuisine": "French",
+    "difficulty": "Easy",
+    "cooking_time": "50 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "1 hr 30 mins",
+        "total_time": "2 hrs 10 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "287 Calories"
+    },
+    "ingredients": [
+        "⅓ cup uncooked white rice",
+        "⅓ cup white sugar",
+        "1 pinch salt",
+        "1 quart whole milk",
+        "2 tablespoons vanilla extract",
+        "½ teaspoon ground cinnamon"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 300 degrees F (150 degrees C). Coat a 2-quart casserole dish with nonstick cooking spray.",
+        "Step 2: Place rice, sugar, and salt in the casserole dish; stir in milk and vanilla.",
+        "Step 3: Bake, uncovered, in preheated oven for 1 1/2 to 2 hours, stirring every 20 minutes. Let stand for 30 minutes. Sprinkle top with cinnamon."
+    ],
+    "image": "images/easy-rice-pudding.jpg"
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Blini (Russian Pancakes)",
+    "file_name": "blini-russian-pancakes",
+    "url": "https://www.allrecipes.com/recipe/215962/blini-russian-pancakes/",
+    "cuisine": "Russian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "525 Calories"
+    },
+    "ingredients": [
+        "4 ¼ cups milk",
+        "5 large eggs",
+        "2 tablespoons white sugar",
+        "⅓ teaspoon salt",
+        "½ teaspoon baking soda",
+        "⅛ teaspoon citric acid powder",
+        "4 cups all-purpose flour",
+        "3 tablespoons vegetable oil",
+        "1 cup boiling water",
+        "⅔ cup butter, divided"
+    ],
+    "method": [
+        "Step 1: Beat together milk and eggs in a large bowl until combined. Beat in sugar and salt. Mix in baking soda and citric acid until incorporated. Blend in flour, a little at a time, until combined. Beat in oil. Pour in boiling water, stirring constantly, until batter is thin and watery. Let rest for about 20 minutes.",
+        "Step 2: Melt 1 tablespoon butter in a small frying pan over medium-high heat. Pick the pan up off the heat. Pour in a ladleful of batter while you rotate your wrist, tilting the pan, so batter forms a circle and coats the bottom. The blini should be very thin.",
+        "Step 3: Return the pan to the heat. Cook blini for 90 seconds. Carefully lift up edge of blini to see if it's fully cooked: edges will be golden and bottom surface should have brown spots. Flip blini over and cook for 1 minute more.",
+        "Step 4: Transfer blini to a plate lined with a clean kitchen towel. Continue cooking remaining batter, adding 1 tablespoon butter to the pan for every 4 blinis. Stack blinis and cover with another kitchen towel to keep warm.",
+        "Step 5: Spread desired filling in the center of each blini. Fold 3 times to make a triangle shape or fold up all 4 sides, like a small burrito."
+    ],
+    "image": "images/blini-russian-pancakes.jpg"
+}

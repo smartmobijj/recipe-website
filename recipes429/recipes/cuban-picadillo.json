@@ -1,0 +1,35 @@
+{
+    "title": "Cuban Picadillo",
+    "file_name": "cuban-picadillo",
+    "url": "https://www.allrecipes.com/recipe/163866/cuban-picadillo/",
+    "cuisine": "Cuban",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "30 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "539 Calories"
+    },
+    "ingredients": [
+        "3 pounds ground beef",
+        "½  onion, chopped",
+        "2 tablespoons garlic, minced",
+        "1  red bell pepper, chopped",
+        "1  green bell pepper, chopped",
+        "2 cups raisins",
+        "2 (8 ounce) jars green olives, drained and chopped",
+        "2 (6 ounce) cans tomato paste",
+        "½ cup water",
+        "½ bunch cilantro"
+    ],
+    "method": [
+        "Step 1: Cook and stir ground beef in a Dutch oven or large pot over medium-high heat until crumbly and no longer pink, about 10 minutes. Pour off any excess grease.",
+        "Step 2: Stir onion and garlic into beef; cook for 2 minutes. Add bell peppers, raisins, olives, tomato paste, water, and cilantro; bring to a boil. Reduce heat to medium-low, cover, and simmer until peppers have cooked to your liking, about 10 minutes."
+    ],
+    "image": "images/cuban-picadillo.jpg"
+}

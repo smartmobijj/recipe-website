@@ -1,0 +1,34 @@
+{
+    "title": "Crab Rangoon with Water Chestnuts",
+    "file_name": "crab-rangoon-with-water-chestnuts",
+    "url": "https://www.allrecipes.com/recipe/25536/crab-rangoon-iii/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "15 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "15",
+        "calories": "203 Calories"
+    },
+    "ingredients": [
+        "1 quart oil for deep frying",
+        "1 (8 ounce) package cream cheese, softened",
+        "2 (6 ounce) cans crabmeat, drained and flaked",
+        "½ teaspoon garlic powder",
+        "¼ teaspoon paprika",
+        "2 tablespoons water chestnuts, drained and chopped",
+        "1 (14 ounce) package wonton wrappers"
+    ],
+    "method": [
+        "Step 1: Heat oil to 375 degrees F (190 degrees C) in a large, heavy saucepan.",
+        "Step 2: Mix cream cheese, crabmeat, water chestnuts, garlic powder, and paprika together in a medium bowl.",
+        "Step 3: Place about 1 teaspoon cream cheese mixture in the center of each wonton wrapper. Moisten wrapper edges with water, fold over the mixture, and pinch to seal.",
+        "Step 4: Working in small bathces, fry wontons until golden brown, 3 to 5 minutes."
+    ],
+    "image": "images/crab-rangoon-with-water-chestnuts.jpg"
+}

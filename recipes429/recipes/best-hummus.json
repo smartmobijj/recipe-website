@@ -1,0 +1,33 @@
+{
+    "title": "Best Hummus",
+    "file_name": "best-hummus",
+    "url": "https://www.allrecipes.com/recipe/231081/best-hummus/",
+    "cuisine": "Lebanese",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "10 mins",
+        "active_time": "Unknown",
+        "servings": "32",
+        "calories": "27 Calories"
+    },
+    "ingredients": [
+        "1 (15 ounce) can chickpeas, drained",
+        "3 tablespoons tahini",
+        "2 tablespoons olive oil",
+        "1 tablespoon fresh lemon juice",
+        "¼ cup water",
+        "3 cloves garlic, crushed",
+        "½ teaspoon ground cumin (Optional)",
+        "1 pinch paprika",
+        "1 sprig fresh parsley, chopped"
+    ],
+    "method": [
+        "Step 1: Place chickpeas, tahini, olive oil, lemon juice, water, garlic, and cumin into a food processor and process until smooth, about 1 minute. Transfer to a bowl and sprinkle top of hummus with paprika and fresh parsley."
+    ],
+    "image": "images/best-hummus.jpg"
+}

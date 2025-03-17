@@ -1,0 +1,43 @@
+{
+    "title": "Boursin Chicken Pot Pie",
+    "file_name": "boursin-chicken-pot-pie",
+    "url": "https://www.allrecipes.com/boursin-chicken-pot-pie-recipe-8732565",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "643 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons butter",
+        "1  leek, white and pale green parts, thinly sliced",
+        "8 ounces button mushrooms, thinly sliced",
+        "2 tablespoons flour",
+        "1 cup reduced-sodium chicken broth",
+        "1 (5.3-ounce) semi-soft cheese with garlic and fine herbs (siuch as Boursin®)",
+        "1/4 cup sour cream",
+        "1 tablespoon mustard",
+        "1 cup frozen mixed vegetables",
+        "3 cups shredded cooked chicken",
+        "1/2 (14.1-ounce) package rolled refrigerated unbaked pie crust"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 3: Melt butter in a large skillet over medium heat. Add leek and mushrooms; cook and stir until tender and any liquid has evaporated, about 5 minutes.",
+        "Step 4: Sprinkle flour over mushrooms and leeks. Whisk broth, Boursin, sour cream, and mustard together in a bowl; add to the skillet. Cook and stir until thickened and bubbly, about 2 minutes.",
+        "Step 5: Add frozen mixed vegetables and cook 3 minutes more. Stir in chicken and return to a simmer, about 1 minute.",
+        "Step 6: Transfer hot filling to a 9-inch pie plate or 10-inch quiche dish.",
+        "Step 7: Cut 3 slits in the center of the pie crust. Gently fold pie crust in quarters. Unfold pie crust atop the hot filling. Press edges of pastry to the inside edge of the pie plate, flute as desired.",
+        "Step 8: Bake in the preheated oven until golden brown and bubbly, about 20 minutes. Let stand 15 minutes before serving.",
+        "Step 9: Enjoy!"
+    ],
+    "image": "images/boursin-chicken-pot-pie.jpg"
+}

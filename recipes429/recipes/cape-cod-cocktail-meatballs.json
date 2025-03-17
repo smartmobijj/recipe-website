@@ -1,0 +1,39 @@
+{
+    "title": "Cape Cod Cocktail Meatballs",
+    "file_name": "cape-cod-cocktail-meatballs",
+    "url": "https://www.allrecipes.com/recipe/230537/cape-cod-cocktail-meatballs/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "20",
+        "calories": "168 Calories"
+    },
+    "ingredients": [
+        "2 pounds ground beef",
+        "1 cup bread crumbs",
+        "¼ cup chopped fresh parsley",
+        "2 large eggs",
+        "2 tablespoons grated onion",
+        "2 tablespoons soy sauce",
+        "¼ teaspoon garlic powder",
+        "1 (16 ounce) can jellied cranberry sauce (such as Ocean Spray®)",
+        "1 ½ cups ketchup",
+        "2 ½ tablespoons packed brown sugar",
+        "1 tablespoon fresh lemon juice"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 375 degrees F (190 degrees C).",
+        "Step 2: Mix ground beef, bread crumbs, parsley, eggs, onion, soy sauce, and garlic powder in a bowl until thoroughly combined. Pinch off about 2 teaspoons of meat mixture per meatball and roll into small meatballs. Arrange meatballs in a large, deep baking dish.",
+        "Step 3: Bake in the preheated oven until meatballs are browned, about 25 minutes. Drain excess grease.",
+        "Step 4: Combine cranberry sauce, ketchup, brown sugar, and lemon juice in a saucepan over medium heat. Stir until cranberry sauce melts and sugar dissolves.",
+        "Step 5: Pour sauce over meatballs and bake until sauce forms a glaze and meatballs are no longer pink inside, 25 to 30 minutes more."
+    ],
+    "image": "images/cape-cod-cocktail-meatballs.jpg"
+}

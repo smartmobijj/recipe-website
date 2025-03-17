@@ -1,0 +1,38 @@
+{
+    "title": "Fried Rice with Tofu",
+    "file_name": "fried-rice-with-tofu",
+    "url": "https://www.allrecipes.com/recipe/269920/fried-rice-with-tofu/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "313 Calories"
+    },
+    "ingredients": [
+        "½ cup tofu",
+        "3 tablespoons soy sauce, divided, or to taste",
+        "2 tablespoons vegetable oil",
+        "½  onion, finely chopped",
+        "1  carrot, peeled and finely chopped",
+        "2 ½ cups cooked rice, or to taste",
+        "3  eggs",
+        "1  tomato, chopped",
+        "1 teaspoon white sugar",
+        "salt to taste",
+        "ground white pepper to taste"
+    ],
+    "method": [
+        "Step 1: Combine tofu and 2 tablespoons soy sauce in a bowl and marinate while you prepare the rest of the ingredients.",
+        "Step 2: Heat oil in a skillet over medium heat. Add onions and carrot; cook until lightly browned, about 5 minutes. Add tofu and marinade and cook for 2 to 3 minutes, stirring occasionally. Stir in rice and cook for 3 minutes while stirring.",
+        "Step 3: Move all ingredients to one half of the skillet and crack eggs into the empty half. Cook for 2 minutes until eggs start to set. Mix eggs and the rest of the ingredients until well combined. Season with remaining soy sauce and sugar; mix well.",
+        "Step 4: Stir tomato into the skillet; cook and mix for 1 minute. Season with salt, white pepper, and more soy sauce if desired."
+    ],
+    "image": "images/fried-rice-with-tofu.jpg"
+}

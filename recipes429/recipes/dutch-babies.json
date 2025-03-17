@@ -1,0 +1,37 @@
+{
+    "title": "Dutch Babies",
+    "file_name": "dutch-babies",
+    "url": "https://www.allrecipes.com/recipe/23898/dutch-babies-ii/",
+    "cuisine": "British",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "349 Calories"
+    },
+    "ingredients": [
+        "2 large eggs",
+        "½ cup milk",
+        "½ cup sifted all-purpose flour",
+        "1 pinch ground nutmeg",
+        "1 pinch salt",
+        "2 tablespoons butter",
+        "2 tablespoons confectioners' sugar for dusting"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Place a 10-inch cast iron skillet into the oven and preheat to 475 degrees F (245 degrees C).",
+        "Step 3: Whisk eggs in a medium bowl until light. Whisk in milk, then gradually whisk in flour, nutmeg, and salt.",
+        "Step 4: Remove the skillet from the oven and reduce the heat to 425 degrees F (220 degrees C). Place butter into the hot skillet and swirl to melt over the bottom and sides.",
+        "Step 5: Pour batter into the skillet and return to the oven.",
+        "Step 6: Bake until puffed and lightly browned, about 12 minutes. Remove and immediately sift confectioners' sugar over top.",
+        "Step 7: Enjoy!"
+    ],
+    "image": "images/dutch-babies.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Tteokbokki (Korean Spicy Rice Cakes)",
+    "file_name": "tteokbokki-korean-spicy-rice-cakes",
+    "url": "https://www.allrecipes.com/recipe/265318/tteokbokki-korean-spicy-rice-cakes/",
+    "cuisine": "Korean",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "South Korea",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "25 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "183 Calories"
+    },
+    "ingredients": [
+        "3 cups water",
+        "2  dried anchovies, or more to taste",
+        "3 tablespoons chile paste",
+        "2 tablespoons white sugar",
+        "1 tablespoon soy sauce",
+        "1 tablespoon corn syrup",
+        "2  Korean fish cakes, sliced",
+        "1/2  o",
+        "1  spring onion, thickly sliced"
+    ],
+    "method": [
+        "Step 1: Combine water and anchovies in a saucepan and bring to a boil. Cook for 10 minutes. Remove and discard anchovies. Set anchovy water aside.",
+        "Step 2: Combine chile paste, sugar, soy sauce, and corn syrup in a bowl. Set chle paste mixture aside.",
+        "Step 3: Add rice cakes, onion, and chile paste mixture to anchovy water. Bring to a boil for 5 minutes, stirring occasionally. Add spring onion and boil 3 minutes more.",
+        "Step 4: This is quite spicy, so adjust the quantity of chile sauce for less heat.",
+        "Step 5: If you use frozen rice cakes, defrost them in the microwave for 30 seconds. Don't boil the rice cakes too long, or they'll get mushy. The texture should be chewy."
+    ],
+    "image": "images/tteokbokki-korean-spicy-rice-cakes.jpg"
+}

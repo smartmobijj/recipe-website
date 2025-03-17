@@ -1,0 +1,40 @@
+{
+    "title": "Chicken Tostadas",
+    "file_name": "chicken-tostadas",
+    "url": "https://www.allrecipes.com/recipe/273677/chicken-tostadas/",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "312 Calories"
+    },
+    "ingredients": [
+        "2  skinless, boneless chicken breasts, diced",
+        "½ (1 ounce) package taco seasoning mix",
+        "1 (16 ounce) can refried beans",
+        "6  corn tostada shells",
+        "1 cup shredded Mexican cheese blend",
+        "1  tomato, diced",
+        "¾  red onion, diced",
+        "¾  green bell pepper, diced",
+        "½ cup chopped fresh cilantro",
+        "¼ cup salsa, or to taste (Optional)",
+        "¼ cup sour cream, or to taste (Optional)"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 375 degrees F (190 degrees C).",
+        "Step 2: Place chicken into a frying pan over medium heat. Sprinkle with taco seasoning and cook until no longer pink in the center and juices run clear, 5 to 7 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Step 3: Spread a thin layer of refried beans onto each tostada shell; sprinkle each with Mexican cheese. Divide cooked chicken on top of cheese layer. Sprinkle tomato, red onion, and bell pepper evenly on top of each tostada. Place tostadas on a baking sheet.",
+        "Step 4: Bake in the preheated oven until crispy, 10 to 15 minutes.",
+        "Step 5: Remove tostadas from the oven. Sprinkle with cilantro and spread salsa and sour cream on top.",
+        "Step 6: You can use chicken thighs instead of chicken breasts, if you'd like."
+    ],
+    "image": "images/chicken-tostadas.jpg"
+}

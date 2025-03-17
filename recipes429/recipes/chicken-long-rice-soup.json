@@ -1,0 +1,35 @@
+{
+    "title": "Chicken Long Rice Soup",
+    "file_name": "chicken-long-rice-soup",
+    "url": "https://www.allrecipes.com/recipe/112818/chicken-long-rice-soup/",
+    "cuisine": "Hawaiian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hr 30 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "396 Calories"
+    },
+    "ingredients": [
+        "3 (32 ounce) cartons low-sodium chicken broth",
+        "3 pounds chicken leg quarters",
+        "1 tablespoon Hawaiian sea salt",
+        "1 (1/2 inch) piece fresh ginger root, sliced",
+        "1 (8 ounce) package uncooked bean threads (cellophane noodles)",
+        "1 large Maui sweet onion, cubed",
+        "1 bunch green onions, thinly sliced",
+        "1 small head bok choy, chopped"
+    ],
+    "method": [
+        "Step 1: Bring chicken broth, chicken, salt, and ginger to a boil in a large pot over high heat, then reduce heat to medium-low and simmer until chicken tender and no longer pink, about 35 minutes. Remove chicken; strain broth into a new pot. Discard remaining solids.",
+        "Step 2: Meanwhile, place noodles in a large bowl and cover with hot water. Set aside until noodles softened, about 30 minutes.",
+        "Step 3: Stir onion into broth; bring to a boil, then reduce heat to medium-low. Meanwhile, remove skin and bones from chicken; discard. Roughly chop chicken meat.",
+        "Step 4: After noodles sat 30 minutes, stir noodles, chicken, green onion, and bok choy into broth; simmer until noodles tender."
+    ],
+    "image": "images/chicken-long-rice-soup.jpg"
+}

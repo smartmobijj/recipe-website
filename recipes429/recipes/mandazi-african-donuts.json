@@ -1,0 +1,38 @@
+{
+    "title": "Mandazi (African Donuts)",
+    "file_name": "mandazi-african-donuts",
+    "url": "https://www.allrecipes.com/recipe/262205/mandazi-african-donuts/",
+    "cuisine": "Kenyan",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Kenya",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "1 hr 30 mins",
+        "active_time": "Unknown",
+        "servings": "18",
+        "calories": "160 Calories"
+    },
+    "ingredients": [
+        "1 cup warm milk",
+        "¼ cup vegetable oil",
+        "¼ cup fine white sugar",
+        "1 medium egg",
+        "2 teaspoons instant yeast",
+        "½ teaspoon salt",
+        "½ teaspoon ground cardamom",
+        "3 ½ cups all-purpose flour, sifted",
+        "2 quarts vegetable oil for frying, or as needed"
+    ],
+    "method": [
+        "Step 1: Combine milk, 1/4 cup vegetable oil, sugar, egg, instant yeast, salt, and cardamom in a large bowl. Mix in flour, 1 cup at a time, until dough comes together and is easily handled. Knead dough on a flat work surface until no longer sticky. Return dough to the bowl; cover and let rise in a warm place until doubled in size, about 1 hour.",
+        "Step 2: Press dough down gently. Knead briefly, then divide dough into 4 equal portions. Roll each portion into a ball; keep covered with a cloth to prevent dough from drying.",
+        "Step 3: Roll 1 dough ball into a 1/3-inch-thick circle on a floured work surface. Cut into 4 triangles using a pizza cutter; cover with a cloth. Repeat with remaining dough balls.",
+        "Step 4: Heat 2-inches oil in a deep fryer or large saucepan over medium heat.",
+        "Step 5: Working in batches, fry dough in hot oil until puffed, 1 to 2 minutes. Flip dough and continue frying until golden brown, 1 to 2 minutes more. Transfer to a paper towel-lined plate to drain.",
+        "Step 6: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. Amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+    ],
+    "image": "images/mandazi-african-donuts.jpg"
+}

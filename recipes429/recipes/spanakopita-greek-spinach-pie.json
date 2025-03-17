@@ -1,0 +1,44 @@
+{
+    "title": "Spanakopita (Greek Spinach Pie)",
+    "file_name": "spanakopita-greek-spinach-pie",
+    "url": "https://www.allrecipes.com/recipe/18417/spanakopita-greek-spinach-pie/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "494 Calories"
+    },
+    "ingredients": [
+        "3 tablespoons olive oil",
+        "1 large onion, chopped",
+        "1 bunch green onions, chopped",
+        "2 cloves garlic, minced",
+        "2 pounds spinach, rinsed and chopped",
+        "½ cup chopped fresh parsley",
+        "1 cup crumbled feta cheese",
+        "½ cup ricotta cheese",
+        "2 large eggs, lightly beaten",
+        "8 sheets phyllo dough",
+        "¼ cup olive oil, or as needed"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly oil a 9-inch square baking pan.",
+        "Step 2: Heat 3 tablespoons olive oil in a large skillet over medium heat. Saute chopped onion, green onions, and garlic in the hot oil until soft and lightly browned, about 5 minutes.",
+        "Step 3: Stir in spinach and parsley, adding spinach in batches if it doesn't all fit in the pan at once, and continue to saute until spinach is limp and excess liquid has evaporated, about 5 minutes. Remove from the heat and set aside to cool.",
+        "Step 4: Mix feta cheese, ricotta cheese, and eggs in a large bowl until well combined. Stir in spinach mixture. Lay one sheet of phyllo dough in the prepared baking pan, and brush lightly with olive oil. Lay another sheet of phyllo dough on top and brush with olive oil. Repeat the process with two more sheets of phyllo dough; the sheets will overlap the pan.",
+        "Step 5: Spread spinach and cheese mixture into the pan. Fold any overhanging dough over the filling. Brush with oil.",
+        "Step 6: Layer the remaining 4 sheets of phyllo dough, brushing each with oil. Tuck overhanging dough into the pan to seal the filling.",
+        "Step 7: Bake in the preheated oven until golden brown, 30 to 40 minutes.",
+        "Step 8: Cut into squares and serve while hot.",
+        "Step 9: Enjoy!",
+        "Step 10: "
+    ],
+    "image": "images/spanakopita-greek-spinach-pie.jpg"
+}

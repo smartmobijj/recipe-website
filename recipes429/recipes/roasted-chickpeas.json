@@ -1,0 +1,37 @@
+{
+    "title": "Roasted Chickpeas",
+    "file_name": "roasted-chickpeas",
+    "url": "https://www.allrecipes.com/recipe/81548/roasted-chickpeas/",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "India",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "2 hrs 30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "119 Calories"
+    },
+    "ingredients": [
+        "1 (15 ounce) can chickpeas, drained and rinsed",
+        "1 tablespoon olive oil",
+        "¼ teaspoon kosher salt, or to taste",
+        "¼ teaspoon smoked paprika",
+        "¼ teaspoon black pepper",
+        "1⁄8 teaspoon cayenne pepper, or to taste",
+        "1⁄8 teaspoon garlic powder"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Preheat the oven to 450 degrees F (220 degrees C).",
+        "Step 2: Place chickpeas in a bowl and blot with a paper towel to dry them.",
+        "Step 3: Toss chickpeas and olive oil in a bowl.",
+        "Step 4: Season to taste with garlic salt, cayenne, and salt and toss again.",
+        "Step 5: Spread chickpeas on a rimmed baking sheet.",
+        "Step 6: Roast in the preheated oven until browned and crunchy, 30 to 40 minutes; watch carefully to avoid burning them.",
+        "Step 7: Enjoy!"
+    ],
+    "image": "images/roasted-chickpeas.jpg"
+}

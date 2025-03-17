@@ -1,0 +1,41 @@
+{
+    "title": "Nasi Goreng (Indonesian Fried Rice)",
+    "file_name": "nasi-goreng-indonesian-fried-rice",
+    "url": "https://www.allrecipes.com/recipe/165963/indonesian-fried-rice-nasi-goreng/",
+    "cuisine": "Indonesian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "40 mins",
+        "total_time": "3 hrs",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "415 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "3 large eggs, beaten",
+        "1 tablespoon vegetable oil",
+        "1  onion, chopped",
+        "1  leek, chopped",
+        "2  green chile peppers, chopped",
+        "1 clove garlic, minced",
+        "½ pound skinless, boneless chicken breasts, cut into thin strips",
+        "½ pound peeled and deveined shrimp",
+        "1 teaspoon ground coriander",
+        "1 teaspoon ground cumin",
+        "3 cups cold cooked white rice",
+        "3 tablespoons kecap manis (sweet soy sauce)"
+    ],
+    "method": [
+        "Step 1: Heat a large nonstick skillet over medium heat. Coat with nonstick cooking spray.",
+        "Step 2: Pour eggs into the hot skillet and cook until the edges begin to set. Lift the edges to allow any uncooked egg to flow onto the hot pan, about 1 minute. Flip omelet in one piece and cook until fully set, about 30 seconds. Transfer omelet to a cutting board and slice into 1/2-inch strips. Set aside.",
+        "Step 3: Heat vegetable oil in a wok or large frying pan over high heat. Stir in onion, leek, chile peppers, and garlic. Cook and stir until onion is soft, 3 to 5 minutes. Stir in chicken, shrimp, coriander, and cumin; mix well. Cook and stir for about 5 minutes.",
+        "Step 4: Mix in cooked rice, sweet soy sauce, and omelet strips; cook until rice is heated through and chicken is no longer pink in the center, 3 to 5 minutes.",
+        "Step 5: To cook rice: Bring 2 cups of water and 1 cup white rice to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid is absorbed, 20 to 25 minutes. Spread onto a baking sheet, then refrigerate until cold, about 2 hours."
+    ],
+    "image": "images/nasi-goreng-indonesian-fried-rice.jpg"
+}

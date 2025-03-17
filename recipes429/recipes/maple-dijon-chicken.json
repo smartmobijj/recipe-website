@@ -1,0 +1,35 @@
+{
+    "title": "Maple Dijon Chicken",
+    "file_name": "maple-dijon-chicken",
+    "url": "https://www.allrecipes.com/recipe/269290/maple-dijon-chicken/",
+    "cuisine": "Canadian",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "291 Calories"
+    },
+    "ingredients": [
+        "2  skinless, boneless chicken breast halves",
+        "¼ cup Dijon mustard",
+        "¼ cup minced onion",
+        "3 tablespoons lemon juice",
+        "2 tablespoons maple syrup",
+        "1 tablespoon olive oil",
+        "2 teaspoons teriyaki sauce",
+        "2 teaspoons soy sauce",
+        "4 cloves garlic, minced",
+        "1 teaspoon dried rosemary"
+    ],
+    "method": [
+        "Step 1: Place chicken breasts in a slow cooker. Mix Dijon mustard, onion, lemon juice, maple syrup, olive oil, teriyaki sauce, soy sauce, garlic, and rosemary together in a bowl. Pour into the slow cooker. Ensure sauce covers the chicken.",
+        "Step 2: Cook on High until chicken is no longer pink in the center, 1 to 2 hours."
+    ],
+    "image": "images/maple-dijon-chicken.jpg"
+}

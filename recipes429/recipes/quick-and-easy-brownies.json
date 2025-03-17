@@ -1,0 +1,39 @@
+{
+    "title": "Quick and Easy Brownies",
+    "file_name": "quick-and-easy-brownies",
+    "url": "https://www.allrecipes.com/recipe/9599/quick-and-easy-brownies/",
+    "cuisine": "French",
+    "difficulty": "Easy",
+    "cooking_time": "35 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "268 Calories"
+    },
+    "ingredients": [
+        "2 cups white sugar",
+        "1 1/2 cups all-purpose flour",
+        "1 cup butter, melted",
+        "4  eggs",
+        "1/2 cup cocoa powder",
+        "1 teaspoon vanilla extract",
+        "1/2 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1/2 cup walnut halves"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch pan.",
+        "Step 3: Mix sugar, flour, melted butter, eggs, cocoa powder, vanilla, baking powder, and salt in a large bowl until combined.",
+        "Step 4: Spread the batter into the prepared pan.",
+        "Step 5: Decorate with walnut halves.",
+        "Step 6: Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, about 20 to 30 minutes.",
+        "Step 7: Cool before slicing into squares. Enjoy!"
+    ],
+    "image": "images/quick-and-easy-brownies.jpg"
+}

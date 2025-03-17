@@ -1,0 +1,41 @@
+{
+    "title": "Eggplant and Ground Beef Lasagna",
+    "file_name": "eggplant-and-ground-beef-lasagna",
+    "url": "https://www.allrecipes.com/recipe/220346/eggplant-and-ground-beef-lasagna/",
+    "cuisine": "Australian",
+    "difficulty": "Hard",
+    "cooking_time": "90 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr 10 mins",
+        "total_time": "1 hr 25 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "254 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "9  lasagna noodles",
+        "½ pound ground beef",
+        "1  onion, chopped",
+        "4  fresh mushrooms, sliced",
+        "2 cloves garlic, crushed",
+        "2 (14.5 ounce) cans Italian-flavored crushed tomatoes",
+        "1  eggplant, peeled and thinly sliced",
+        "2 cups mozzarella and cheddar cheese blend"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Grease the bottom and sides of a 9x13-inch baking dish.",
+        "Step 3: Bring a large pot of lightly salted water to a rolling boil. Cook lasagna noodles at a boil until tender yet firm to the bite, about 10 minutes; drain and set aside.",
+        "Step 4: Cook and stir ground beef, onion, mushrooms, and garlic in a skillet over medium heat until the beef is completely browned, about 10 minutes.",
+        "Step 5: Stir crushed tomatoes into ground beef; simmer until sauce has formed, 3 to 4 minutes.",
+        "Step 6: Pour about 1/4 of the sauce into the bottom of the prepared baking dish. Layer noodles on top of sauce. Spread a thin layer of sauce on top of noodles.",
+        "Step 7: Place a layer of eggplant slices on top of noodle and sauce layer. Sprinkle about 1/4 of the cheese on top of eggplant slices.",
+        "Step 8: Repeat layering with remaining ingredients, until ending with a layer of sauce topped with remaining cheese.",
+        "Step 9: Bake in the preheated oven until cheese is bubbly and brown on top, about 40 minutes."
+    ],
+    "image": "images/eggplant-and-ground-beef-lasagna.jpg"
+}

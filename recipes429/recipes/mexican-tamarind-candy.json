@@ -1,0 +1,35 @@
+{
+    "title": "Mexican Tamarind Candy",
+    "file_name": "mexican-tamarind-candy",
+    "url": "https://www.allrecipes.com/recipe/278646/mexican-tamarind-candy/",
+    "cuisine": "Nigerian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "45 mins",
+        "total_time": "4 hrs 45 mins",
+        "active_time": "Unknown",
+        "servings": "50",
+        "calories": "86 Calories"
+    },
+    "ingredients": [
+        "1 pound tamarind pods, peeled",
+        "1 cup water",
+        "1  orange, peeled and segmented",
+        "4 cups white sugar",
+        "4 tablespoons chile-lime seasoning (such as Tajin®), or more to taste",
+        "1 tablespoon butter"
+    ],
+    "method": [
+        "Step 1: Bring tamarind pulp, water, and orange to a boil in a pot; continue to boil for 30 minutes. Remove from heat and let cool for 30 minutes.",
+        "Step 2: Pour tamarind mixture into a colander placed over a large bowl. Mash and scrape against the side of the colander until all the juice and pulp drips into the bowl. Dump remaining seeds into a strainer and repeat the process; remove the outer casing around the seeds by hand and toss out the seeds.",
+        "Step 3: Blend outer casings with juicy pulp in an electric blender.",
+        "Step 4: Return mixture to the large pot and add sugar, Tajin®, and butter. Bring to a soft boil, stirring constantly. Heat to 240 degrees F (115 degrees C) or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from water and placed on a flat surface.",
+        "Step 5: Remove from heat and let cool, about 2 hours.",
+        "Step 6: Fill a pastry or plastic sandwich bag with the candy mixture and squeeze onto plastic spoons. Place plastic spoons onto a cookie sheet and chill until firm, about 1 hour. Coat with more Tajin® if desired, wrap with plastic, and close with a twist tie."
+    ],
+    "image": "images/mexican-tamarind-candy.jpg"
+}

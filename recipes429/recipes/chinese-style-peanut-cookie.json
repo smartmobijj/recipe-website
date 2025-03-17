@@ -1,0 +1,32 @@
+{
+    "title": "Chinese-Style Peanut Cookie",
+    "file_name": "chinese-style-peanut-cookie",
+    "url": "https://www.allrecipes.com/recipe/95205/chinese-style-peanut-cookie/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "12 mins",
+        "cook_time": "8 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "48",
+        "calories": "59 Calories"
+    },
+    "ingredients": [
+        "¾ cup roasted peanuts, finely ground",
+        "1 cup all-purpose flour",
+        "¼ cup corn flour",
+        "1 ¼ cups confectioners' sugar",
+        "½ cup vegetable oil",
+        "1  egg yolk, beaten (Optional)"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 350 degrees F (175 degrees C). Line baking sheets with parchment paper.",
+        "Step 2: Stir together the peanuts, flour, corn flour, and confectioners' sugar in a large bowl until well-combined. Make a well in the center of the peanut mixture. Slowly pour in the vegetable oil and mix with the peanut mixture to make a wet, slightly sticky dough. Pinch off about 2 teaspoons of dough per cookie, and roll into balls about 1/2-inch in diameter. Place the balls on the prepared baking sheets, and brush each with egg yolk, if desired.",
+        "Step 3: Bake in the preheated oven until the cookies are golden brown, 6 to 8 minutes. Let cool on racks."
+    ],
+    "image": "images/chinese-style-peanut-cookie.jpg"
+}

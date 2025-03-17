@@ -1,0 +1,33 @@
+{
+    "title": "Ploughman’s Sandwich",
+    "file_name": "ploughman’s-sandwich",
+    "url": "https://www.allrecipes.com/ploughman-s-sandwich-recipe-8737059",
+    "cuisine": "British",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "10 mins",
+        "active_time": "Unknown",
+        "servings": "1",
+        "calories": "615 Calories"
+    },
+    "ingredients": [
+        "2 slices bread",
+        "1 teaspoon butter",
+        "arugula",
+        "2  sweet gherkin pickles",
+        "3 slices smoked ham",
+        "2 slices white Cheddar cheese",
+        "1 small tomato",
+        "1 teaspoon mustard"
+    ],
+    "method": [
+        "Step 1: Lightly butter both slices of bread.",
+        "Step 2: Layer the arugula, pickles, ham, Cheddar, and tomatoes on one slice of buttered bread. Spread the mustard on the remaining buttered bread slice, and place on top. Cut sandwich in half, and serve."
+    ],
+    "image": "images/ploughman’s-sandwich.jpg"
+}

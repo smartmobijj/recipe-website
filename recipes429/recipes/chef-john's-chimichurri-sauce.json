@@ -1,0 +1,36 @@
+{
+    "title": "Chef John's Chimichurri Sauce",
+    "file_name": "chef-john's-chimichurri-sauce",
+    "url": "https://www.allrecipes.com/recipe/236375/chef-johns-chimichurri-sauce/",
+    "cuisine": "Argentinian",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "Unknown",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "255 Calories"
+    },
+    "ingredients": [
+        "1 bunch flat-leaf Italian parsley, stems removed",
+        "½ cup fresh cilantro leaves",
+        "½ cup olive oil",
+        "¼ cup fresh oregano leaves",
+        "4 cloves garlic, chopped, or more to taste",
+        "3 tablespoons white wine vinegar, or more to taste",
+        "½ teaspoon salt, or to taste",
+        "¼ teaspoon ground cumin",
+        "¼ teaspoon red pepper flakes",
+        "¼ teaspoon freshly ground black pepper"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine parsley, cilantro, oil, oregano, garlic, vinegar, salt, cumin, red pepper flakes, and black pepper in a blender.",
+        "Step 3: Pulse 2 to 3 times; scrape down the sides with a rubber spatula. Repeat pulsing and scraping until a thick sauce forms, about 12 times."
+    ],
+    "image": "images/chef-john's-chimichurri-sauce.jpg"
+}

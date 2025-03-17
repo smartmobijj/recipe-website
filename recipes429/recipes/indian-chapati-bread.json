@@ -1,0 +1,35 @@
+{
+    "title": "Indian Chapati Bread",
+    "file_name": "indian-chapati-bread",
+    "url": "https://www.allrecipes.com/recipe/85469/indian-chapati-bread/",
+    "cuisine": "Kenyan",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Kenya",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "110 Calories"
+    },
+    "ingredients": [
+        "1 cup whole wheat flour",
+        "1 cup all-purpose flour",
+        "1 teaspoon salt",
+        "¾ cup hot water or as needed",
+        "2 tablespoons olive oil or vegetable oil"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Mix whole wheat flour, all-purpose flour, and salt in a large bowl. Use a wooden spoon to stir in water and oil. Mix until a soft, elastic dough forms and add more water, if needed.",
+        "Step 3: Knead dough on a lightly floured surface until smooth.",
+        "Step 4: Divide dough into 10 equal portions, or less if you want larger chapatis. Roll each piece into a ball and let rest for a few minutes.",
+        "Step 5: Heat a lightly greased skillet over medium heat. Use a rolling pin to roll dough balls out on a lightly floured surface until very thin.",
+        "Step 6: When the skillet starts to smoke, place a chapati in it. Cook until bottom has brown spots, about 30 seconds, then flip and cook 30 seconds more.",
+        "Step 7: Repeat to cook remaining chapatis."
+    ],
+    "image": "images/indian-chapati-bread.jpg"
+}

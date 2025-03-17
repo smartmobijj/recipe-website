@@ -1,0 +1,31 @@
+{
+    "title": "Classic Hash Browns",
+    "file_name": "classic-hash-browns",
+    "url": "https://www.allrecipes.com/recipe/220520/classic-hash-browns/",
+    "cuisine": "Peruvian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Peru",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "334 Calories"
+    },
+    "ingredients": [
+        "2  russet potatoes, peeled",
+        "3 tablespoons clarified butter",
+        "1 pinch cayenne pepper, or to taste",
+        "1 pinch paprika, or to taste",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Shred potatoes into a large bowl filled with cold water. Stir until water is cloudy; drain and cover potatoes again with fresh cold water. Stir again to dissolve excess starch. Drain potatoes well, pat dry with paper towels, and squeeze out any excess moisture.",
+        "Step 2: Heat clarified butter in a large nonstick pan over medium heat. Sprinkle shredded potatoes into hot butter in an even layer; season with cayenne pepper, paprika, salt, and black pepper.",
+        "Step 3: Cook potatoes until a brown crust forms on the bottom, about 5 minutes. Flip or stir and continue to cook until potatoes are browned and crusty all over, about 5 more minutes."
+    ],
+    "image": "images/classic-hash-browns.jpg"
+}

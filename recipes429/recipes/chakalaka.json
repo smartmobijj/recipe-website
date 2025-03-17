@@ -1,0 +1,36 @@
+{
+    "title": "Chakalaka",
+    "file_name": "chakalaka",
+    "url": "https://www.allrecipes.com/recipe/284143/chakalaka/",
+    "cuisine": "South African",
+    "difficulty": "Easy",
+    "cooking_time": "40 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "101 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon oil, or as needed",
+        "3 medium onions, diced",
+        "2 medium green bell peppers, diced",
+        "3 medium carrots, diced",
+        "3 medium tomatoes, diced",
+        "2 small Thai green chiles, chopped",
+        "¼ cup water",
+        "1 cube vegetable bouillon",
+        "1 teaspoon curry powder, or to taste",
+        "1 teaspoon chili powder",
+        "salt and ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Heat oil in a skillet over medium heat; stir in onions and bell peppers. Cook and stir until the onion has softened and turned translucent, about 5 minutes.",
+        "Step 2: Add carrots, tomatoes, green chiles, water, bouillon cube, curry powder, chili powder, salt, and pepper. Cook until mixture is well combined and thickened, 15 to 20 minutes."
+    ],
+    "image": "images/chakalaka.jpg"
+}

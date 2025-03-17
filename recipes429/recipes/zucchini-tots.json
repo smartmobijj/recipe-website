@@ -1,0 +1,37 @@
+{
+    "title": "Zucchini Tots",
+    "file_name": "zucchini-tots",
+    "url": "https://www.allrecipes.com/recipe/247100/zucchini-tots/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "28 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "1 cup grated zucchini",
+        "¼ cup grated carrot",
+        "¼ cup seasoned bread crumbs",
+        "¼ cup crumbled feta cheese",
+        "¼ cup chopped fresh basil",
+        "1 large egg",
+        "½ teaspoon salt",
+        "¼ teaspoon ground black pepper",
+        "⅛ teaspoon dried oregano"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C). Spray a mini muffin tin with cooking spray.",
+        "Step 2: Combine zucchini and carrot in a large bowl. Squeeze out excess water using a paper towel.",
+        "Step 3: Mix bread crumbs, feta cheese, basil, egg, salt, pepper, and oregano into zucchini-carrot mixture. Scoop mixture with a mini ice cream scoop or two spoons and press into the prepared muffin cups with the back of a spoon.",
+        "Step 4: Bake in the preheated oven until golden brown on top, 15 to 18 minutes."
+    ],
+    "image": "images/zucchini-tots.jpg"
+}

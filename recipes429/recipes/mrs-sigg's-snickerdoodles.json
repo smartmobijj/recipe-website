@@ -1,0 +1,44 @@
+{
+    "title": "Mrs. Sigg's Snickerdoodles",
+    "file_name": "mrs-sigg's-snickerdoodles",
+    "url": "https://www.allrecipes.com/recipe/10687/mrs-siggs-snickerdoodles/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "48",
+        "calories": "92 Calories"
+    },
+    "ingredients": [
+        "1 ½ cups white sugar",
+        "½ cup butter, softened",
+        "½ cup shortening",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "2 ¾ cups all-purpose flour",
+        "2 teaspoons cream of tartar",
+        "1 teaspoon baking soda",
+        "¼ teaspoon salt",
+        "2 tablespoons white sugar",
+        "2 teaspoons ground cinnamon"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 3: Make cookies: Beat sugar, butter, shortening, eggs, and vanilla in a large bowl until smooth and creamy.",
+        "Step 4: Whisk flour, cream of tartar, baking soda, and salt together in a separate bowl. Gradually mix dry ingredients mixture into the wet ingredients just until combined.",
+        "Step 5: Shape dough into walnut-sized balls.",
+        "Step 6: Make cinnamon-sugar: Combine sugar and cinnamon in a small bowl or zip-top plastic bag.",
+        "Step 7: Place dough balls in cinnamon-sugar and roll or shake until coated. Place 2 inches apart on ungreased baking sheets.",
+        "Step 8: Bake in the preheated oven until set but not too hard, 8 to 10 minutes, switching racks halfway through.",
+        "Step 9: Remove from the oven and immediately transfer to wire racks to cool.",
+        "Step 10: Enjoy!"
+    ],
+    "image": "images/mrs-sigg's-snickerdoodles.jpg"
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Sabzi Polo",
+    "file_name": "sabzi-polo",
+    "url": "https://www.allrecipes.com/sabzi-polo-recipe-7182157",
+    "cuisine": "Iranian",
+    "difficulty": "Hard",
+    "cooking_time": "100 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "1 hr 15 mins",
+        "total_time": "1 hr 35 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "575 Calories"
+    },
+    "ingredients": [
+        "1/2 teaspoon saffron",
+        "1/2 teaspoon kosher salt",
+        "2 cups basmati rice, rinsed",
+        "1 1/2 cups fresh parsley",
+        "1 cup green onion",
+        "1 cup fresh dill",
+        "1 cup cilantro leaves",
+        "1 teaspoon cumin",
+        "1/4 cup vegetable oil",
+        "1 tablespoon sesame seeds",
+        "1/2 teaspoon turmeric",
+        "1 large flour tortilla",
+        "2 whole bulbs garlic",
+        "4 tablespoons ghee",
+        "Lemon wedges"
+    ],
+    "method": [
+        "Step 1: To bloom saffron, sprinkle saffron over a fewice cubes in a small bowl; let stand at room temperature until ice meltscompletely, about 45 minutes.",
+        "Step 2: Meanwhile, bring a large pot of water to a rolling boil over high heat. Add 1 tablespoon salt and return to a boil. Add rice; return to a boil and cook until rice is al dente, about 4 minutes. Drain rice and transfer to a large bowl. Dry pot.",
+        "Step 3: Stir chopped parsley, chives, dill, cilantro, cumin, and remaining 1/2 teaspoon salt into rice.",
+        "Step 4: Heat oil in pot over medium heat. Sprinkle sesame seeds and turmeric over oil. Top with tortilla then rice mixture. Remove any loose, papery outer layers from garlic bulbs; nestle bulbs into rice mixture. Poke five holes in rice using the handle of a wooden spoon to allow steam to escape.",
+        "Step 5: Cover pot with a clean kitchen towel, then cover the pot with a lid. Cook, covered, over medium heat until steam starts escaping, about 10 minutes.",
+        "Step 6: Mix ghee into bloomed saffron in small bowl; pour mixture over rice. Reduce heat to low. Cook, covered, until rice is tender and garlic is softened, 30 to 40 minutes. Remove garlic; let cool until easy to handle, then peel each clove. Put serving platter upside down over pot and carefully invert rice onto platter. The tortilla tahdig will be on top."
+    ],
+    "image": "images/sabzi-polo.jpg"
+}

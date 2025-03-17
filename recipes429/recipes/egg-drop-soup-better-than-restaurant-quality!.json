@@ -1,0 +1,38 @@
+{
+    "title": "Egg Drop Soup (Better than Restaurant Quality!)",
+    "file_name": "egg-drop-soup-better-than-restaurant-quality!",
+    "url": "https://www.allrecipes.com/recipe/115965/egg-drop-soup-better-than-restaurant-quality/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "1",
+        "calories": "97 Calories"
+    },
+    "ingredients": [
+        "1 cup chicken broth",
+        "¼ teaspoon soy sauce",
+        "¼ teaspoon sesame oil",
+        "2 teaspoons water (Optional)",
+        "1 teaspoon cornstarch (Optional)",
+        "1 large egg, beaten",
+        "1 drop yellow food coloring (Optional)",
+        "½ teaspoon ground white pepper (Optional)",
+        "⅛ teaspoon salt (Optional)",
+        "1 teaspoon chopped fresh chives"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine chicken broth, soy sauce, and sesame oil in a small saucepan over medium heat; bring to a boil.",
+        "Step 3: Stir water and cornstarch together in a small bowl until cornstarch is dissolved; pour into boiling broth. Stir in food coloring.",
+        "Step 4: Slowly pour in beaten egg, stirring constantly; season with white pepper and salt.",
+        "Step 5: Serve hot, garnished with fresh chives. Enjoy!"
+    ],
+    "image": "images/egg-drop-soup-better-than-restaurant-quality!.jpg"
+}

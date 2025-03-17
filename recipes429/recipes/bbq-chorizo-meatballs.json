@@ -1,0 +1,35 @@
+{
+    "title": "BBQ Chorizo Meatballs",
+    "file_name": "bbq-chorizo-meatballs",
+    "url": "https://www.allrecipes.com/recipe/8344932/bbq-chorizo-meatballs/",
+    "cuisine": "Spanish",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "613 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "1 pound ground beef",
+        "½ pound ground chorizo",
+        "½ cup grated Parmesan cheese",
+        "½ cup Italian bread crumbs",
+        "1 large egg",
+        "1 large clove garlic, minced",
+        "1 (18 ounce) bottle barbeque sauce (such as Sweet Baby Ray's® Sweet 'n Spicy)"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C). Spray a large glass baking dish with cooking spray.",
+        "Step 2: Mix ground beef, chorizo, Parmesan cheese, bread crumbs, egg, and garlic together until well combined.",
+        "Step 3: Form mixture into about 36 meatballs. Place meatballs in rows the prepared baking dish. Drizzle barbecue sauce over each meatball until a small puddle forms at the base.",
+        "Step 4: Bake, uncovered, in the preheated oven until an instant-read thermometer inserted into the centers reads at least 160 degrees F (71 degrees C), 18 to 22 minutes."
+    ],
+    "image": "images/bbq-chorizo-meatballs.jpg"
+}

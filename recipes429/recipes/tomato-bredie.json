@@ -1,0 +1,42 @@
+{
+    "title": "Tomato Bredie",
+    "file_name": "tomato-bredie",
+    "url": "https://www.allrecipes.com/recipe/68735/tomato-bredie/",
+    "cuisine": "South African",
+    "difficulty": "Medium",
+    "cooking_time": "80 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "2 hrs 15 mins",
+        "total_time": "2 hrs 45 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "531 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon vegetable oil",
+        "3 ½ pounds lamb or mutton breast chops, chopped into portions",
+        "2 tablespoons cake flour",
+        "1 large onion, chopped",
+        "2 ¼ pounds fresh tomatoes, chopped",
+        "1 tablespoon white vinegar",
+        "2  bay leaves",
+        "1 cube beef bouillon cube",
+        "1 teaspoon salt",
+        "1 teaspoon brown sugar",
+        "6  whole white peppercorns",
+        "½ teaspoon freshly ground black pepper",
+        "1 dash Worcestershire sauce",
+        "2 medium potatoes, quartered (Optional)"
+    ],
+    "method": [
+        "Step 1: Heat oil in a large, heavy-bottomed saucepan over medium-high heat.",
+        "Step 2: Dredge lamb in flour; shake off excess.",
+        "Step 3: Cook lamb in hot oil until browned all over. Transfer lamb to a plate, reserving drippings in the pan.",
+        "Step 4: Cook and stir onion in drippings until soft, about 5 minutes. Mix in tomatoes. Return lamb chops to the saucepan; season with bay leaves, bouillon, salt, brown sugar, white peppercorns, black pepper, and Worcestershire sauce. Cover, reduce heat, and simmer for 1 hour and 15 minutes. Stir occasionally, making sure nothing sticks to the bottom of the pan.",
+        "Step 5: Stir in potatoes; continue cooking until potatoes are cooked and meat is tender, about 45 minutes more."
+    ],
+    "image": "images/tomato-bredie.jpg"
+}

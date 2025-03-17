@@ -1,0 +1,35 @@
+{
+    "title": "Israeli Tomato and Cucumber Salad",
+    "file_name": "israeli-tomato-and-cucumber-salad",
+    "url": "https://www.allrecipes.com/recipe/242304/israeli-tomato-and-cucumber-salad/",
+    "cuisine": "Israeli",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "Unknown",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "208 Calories"
+    },
+    "ingredients": [
+        "4  English cucumbers, diced",
+        "4  Roma (plum) tomatoes, seeded and diced",
+        "1  red bell pepper, seeded and diced",
+        "1 cup chopped fresh parsley",
+        "½  red onion, diced",
+        "3 tablespoons chopped fresh mint",
+        "2 tablespoons chopped garlic",
+        "½ cup olive oil",
+        "2 tablespoons fresh lemon juice",
+        "1 tablespoon kosher salt",
+        "1 tablespoon ground black pepper"
+    ],
+    "method": [
+        "Step 1: Toss cucumbers, tomatoes, bell pepper, parsley, onion, mint, and garlic together in a bowl. Drizzle olive oil and lemon juice over salad; toss to coat. Season with salt and black pepper."
+    ],
+    "image": "images/israeli-tomato-and-cucumber-salad.jpg"
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Perfect Summer Fruit Salad",
+    "file_name": "perfect-summer-fruit-salad",
+    "url": "https://www.allrecipes.com/recipe/214947/perfect-summer-fruit-salad/",
+    "cuisine": "New Zealand",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "New Zealand",
+    "continent": "Australia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "5 mins",
+        "total_time": "3 hrs 30 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "155 Calories"
+    },
+    "ingredients": [
+        "⅔ cup fresh orange juice",
+        "⅓ cup fresh lemon juice",
+        "⅓ cup packed brown sugar",
+        "½ teaspoon grated orange zest",
+        "½ teaspoon grated lemon zest",
+        "1 teaspoon vanilla extract",
+        "2 cups cubed fresh pineapple",
+        "2 cups strawberries, hulled and sliced",
+        "3  kiwi fruit, peeled and sliced",
+        "3  bananas, sliced",
+        "2  oranges, peeled and sectioned",
+        "1 cup seedless grapes",
+        "2 cups blueberries"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: For the sauce: Bring orange juice, lemon juice, brown sugar, orange zest, and lemon zest to a boil in a saucepan over medium-high heat. Reduce heat to medium-low and simmer until slightly thickened, about 5 minutes.",
+        "Step 3: Remove from heat and stir in vanilla extract. Set aside to cool.",
+        "Step 4: For the salad: Layer fruit in a large, clear glass bowl in this order: pineapple, strawberries, kiwi fruit, bananas, oranges, grapes, and blueberries. Pour cooled sauce over fruit; cover and refrigerate for 3 to 4 hours before serving."
+    ],
+    "image": "images/perfect-summer-fruit-salad.jpg"
+}

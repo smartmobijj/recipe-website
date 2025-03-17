@@ -1,0 +1,42 @@
+{
+    "title": "Asian Lettuce Wraps",
+    "file_name": "asian-lettuce-wraps",
+    "url": "https://www.allrecipes.com/recipe/71722/asian-lettuce-wraps/",
+    "cuisine": "Chinese",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "388 Calories"
+    },
+    "ingredients": [
+        "16  Boston Bibb or butter lettuce leaves",
+        "1 pound lean ground beef",
+        "1 tablespoon cooking oil",
+        "1 large onion, chopped",
+        "¼ cup hoisin sauce",
+        "2 cloves fresh garlic, minced",
+        "1 tablespoon soy sauce",
+        "1 tablespoon rice wine vinegar",
+        "2 teaspoons minced pickled ginger",
+        "1 dash Asian chile pepper sauce, or to taste (Optional)",
+        "1 (8 ounce) can water chestnuts, drained and finely chopped",
+        "1 bunch green onions, chopped",
+        "2 teaspoons Asian (dark) sesame oil"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Rinse whole lettuce leaves and pat dry, being careful not to tear them; set aside.",
+        "Step 3: Heat oil in a large skillet over medium-high heat. Add beef; cook and stir until browned and crumbly, 5 to 7 minutes. Drain and discard grease; transfer beef to a bowl.",
+        "Step 4: Add onion to the same skillet; cook and stir until just tender, 5 to 7 minutes.",
+        "Step 5: Stir in hoisin sauce, garlic, soy sauce, vinegar, ginger, and chile pepper sauce until well combined. Add water chestnuts, green onions, sesame oil, and cooked beef; cook and stir until the onions just begin to wilt, about 2 minutes.",
+        "Step 6: Arrange lettuce leaves around the outer edge of a large serving platter; spoon beef mixture in the center."
+    ],
+    "image": "images/asian-lettuce-wraps.jpg"
+}

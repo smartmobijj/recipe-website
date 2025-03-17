@@ -1,0 +1,40 @@
+{
+    "title": "Cuban Sliders",
+    "file_name": "cuban-sliders",
+    "url": "https://www.allrecipes.com/recipe/260076/cuban-sliders/",
+    "cuisine": "Cuban",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "398 Calories"
+    },
+    "ingredients": [
+        "2 (12 count) packages Hawaiian bread rolls (such as King's)",
+        "½ cup unsalted butter, melted",
+        "2 tablespoons Dijon mustard",
+        "1 tablespoon onion powder",
+        "1 tablespoon poppy seeds",
+        "Worcestershire sauce to taste",
+        "1 pound cooked pulled pork without sauce",
+        "24  slices honey-cured deli ham",
+        "8 ounces sliced Swiss cheese, or more as needed",
+        "48  dill pickle chips, patted dry"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients. Grease bottom and sides of a 9x13-inch baking dish or disposable aluminum pan.",
+        "Step 2: Cut Hawaiian rolls in half; arrange 24 bottom halves in the prepared baking dish.",
+        "Step 3: Whisk melted butter, Dijon mustard, onion powder, poppy seeds, and Worcestershire sauce together in a bowl; brush 1/2 over bottom halves.",
+        "Step 4: Layer pulled pork, ham, Swiss cheese, and 2 pickle chips on each bottom roll, in exact order.",
+        "Step 5: Cover with roll tops. Brush remaining 1/2 butter mixture over tops; cover dish with aluminum foil and refrigerate for 20 to 30 minutes. Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 6: Bake in the preheated oven, covered, for 20 minutes. Remove foil; press sliders with a spatula to flatten. Continue baking until sliders are heated through and top is crispy, about 15 minutes more.",
+        "Step 7: Carnitas also work well instead of the pulled pork in this recipe."
+    ],
+    "image": "images/cuban-sliders.jpg"
+}

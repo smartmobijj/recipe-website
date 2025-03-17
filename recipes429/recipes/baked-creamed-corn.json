@@ -1,0 +1,36 @@
+{
+    "title": "Baked Creamed Corn",
+    "file_name": "baked-creamed-corn",
+    "url": "https://www.allrecipes.com/recipe/76117/baked-creamed-corn-ii/",
+    "cuisine": "Brazilian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Brazil",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "303 Calories"
+    },
+    "ingredients": [
+        "½ cup butter",
+        "1 (8 ounce) package whipped cream cheese",
+        "1 cube chicken bouillon",
+        "1 (10 ounce) package frozen corn kernels, thawed",
+        "¼ teaspoon white pepper",
+        "⅛ teaspoon ground nutmeg",
+        "salt to taste",
+        "½ cup heavy cream",
+        "½ cup shredded mozzarella cheese",
+        "½ cup crushed buttery round crackers"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 400 degrees F (200 degrees C). Lightly grease an 8-inch square casserole dish.",
+        "Step 2: Melt butter and cream cheese in a saucepan over medium heat; add chicken bouillon and stir to dissolve. Mix in corn and season with pepper, nutmeg, and salt. Stir in cream. Transfer mixture to the prepared casserole dish. Sprinkle with cheese and top with crackers.",
+        "Step 3: Bake in the preheated oven until lightly browned, about 20 minutes."
+    ],
+    "image": "images/baked-creamed-corn.png"
+}

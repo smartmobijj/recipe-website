@@ -1,0 +1,39 @@
+{
+    "title": "Kuku Sabzi",
+    "file_name": "kuku-sabzi",
+    "url": "https://www.allrecipes.com/recipe/282830/kuku-sabzi/",
+    "cuisine": "Iranian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "203 Calories"
+    },
+    "ingredients": [
+        "1 large leek",
+        "3 tablespoons extra-virgin olive oil, divided",
+        "4 large eggs",
+        "1 teaspoon baking powder",
+        "1 teaspoon ground fenugreek",
+        "¾ teaspoon kosher salt",
+        "½ teaspoon ground turmeric",
+        "1 ½ cups finely chopped fresh parsley",
+        "1 cup finely chopped fresh cilantro",
+        "¾ cup finely chopped fresh dill"
+    ],
+    "method": [
+        "Step 1: Slice leek in half lengthwise, then slice thinly crosswise.",
+        "Step 2: Heat 1 tablespoon olive oil in a 10-inch, nonstick, broiler-safe skillet over medium heat. Add leek and cook, stirring occasionally, until softened and cooked through, 8 to 10 minutes. Remove from heat.",
+        "Step 3: Preheat the oven's broiler with the rack in the upper third position.",
+        "Step 4: Whisk eggs in a large bowl. Add baking powder, fenugreek, salt, and turmeric; whisk until thoroughly combined. Fold in parsley, cilantro, dill, and leeks. Gently stir to combine; the mixture will be mostly herbs, with just enough egg for moisture.",
+        "Step 5: Heat remaining 2 tablespoons olive oil in the same skillet over medium heat. Add herb mixture and distribute evenly in the skillet, smoothing the top. Cover and cook, undisturbed, until the bottom and edges are just set, about 8 minutes.",
+        "Step 6: Uncover and cook under the preheated broiler until the top and middle are cooked through, 1 to 2 minutes."
+    ],
+    "image": "images/kuku-sabzi.jpg"
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Vanilla-Maple Greek Yogurt Dip",
+    "file_name": "vanilla-maple-greek-yogurt-dip",
+    "url": "https://www.allrecipes.com/recipe/278200/vanilla-maple-greek-yogurt-dip/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "5 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "Unknown",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "40 Calories"
+    },
+    "ingredients": [
+        "½ cup low-fat vanilla Greek yogurt (such as Cabot®)",
+        "1 ½ tablespoons maple syrup",
+        "½ teaspoon vanilla extract",
+        "¼ teaspoon ground cinnamon"
+    ],
+    "method": [
+        "Step 1: Combine yogurt, maple syrup, vanilla extract, and cinnamon in a small bowl. Place in the refrigerator to chill, about 15 minutes."
+    ],
+    "image": "images/vanilla-maple-greek-yogurt-dip.jpg"
+}

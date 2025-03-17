@@ -1,0 +1,29 @@
+{
+    "title": "Fried Plantains",
+    "file_name": "fried-plantains",
+    "url": "https://www.allrecipes.com/recipe/22308/fried-plantains/",
+    "cuisine": "Nigerian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "595 Calories"
+    },
+    "ingredients": [
+        "2 cups oil for frying, or as needed",
+        "2 large plantains"
+    ],
+    "method": [
+        "Step 1: Preheat oil in a large, deep skillet over medium-high heat.",
+        "Step 2: Peel plantains. Cut in half crosswise, then cut each half lengthwise into thin pieces.",
+        "Step 3: Working in batches, fry plantains in the hot oil until browned and crispy on the outside and tender on the inside, 2 to 3 minutes per side. Drain on a paper towel-lined plate.",
+        "Step 4: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount may vary depending on cook time and temperature, ingredient density, and the specific type of oil used."
+    ],
+    "image": "images/fried-plantains.jpg"
+}

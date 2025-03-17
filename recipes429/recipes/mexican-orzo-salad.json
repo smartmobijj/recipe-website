@@ -1,0 +1,39 @@
+{
+    "title": "Mexican Orzo Salad",
+    "file_name": "mexican-orzo-salad",
+    "url": "https://www.allrecipes.com/recipe/89630/mexican-orzo-salad/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "10 mins",
+        "total_time": "2 hrs 35 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "457 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package orzo pasta",
+        "1 (15 ounce) can chickpeas, rinsed and drained",
+        "1 (15 ounce) can kidney beans, rinsed and drained",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "1 bunch green onions, chopped",
+        "1 small red onion, finely chopped",
+        "1 small red bell pepper, chopped",
+        "1 small yellow bell pepper, chopped",
+        "1 (8.75 ounce) can whole kernel corn, drained",
+        "1 cup chopped cilantro leaves",
+        "salt to taste",
+        "ground black pepper to taste",
+        "6 tablespoons canola oil",
+        "5  limes, juiced"
+    ],
+    "method": [
+        "Step 1: Bring a large pot of lightly salted water to a boil. Cook orzo in the boiling water, stirring occasionally until tender yet firm to the bite, about 10 minutes. Drain; transfer to a large bowl.",
+        "Step 2: Add chickpeas, kidney beans, black beans, green onions, red onion, bell peppers, corn, cilantro, salt, and black pepper to the bowl. Drizzle oil and lime juice over salad, toss to coat. Refrigerate at least 2 hours to chill before serving."
+    ],
+    "image": "images/mexican-orzo-salad.jpg"
+}

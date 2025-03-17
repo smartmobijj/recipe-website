@@ -1,0 +1,41 @@
+{
+    "title": "Pakistani Chapli Kebab",
+    "file_name": "pakistani-chapli-kebab",
+    "url": "https://www.allrecipes.com/recipe/259983/pakistani-chapli-kebab/",
+    "cuisine": "Iranian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "10 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "312 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "1 large egg, lightly beaten",
+        "1 pound ground beef",
+        "1  red onion, finely chopped",
+        "1  tomato, finely chopped",
+        "¼ cup finely chopped cilantro",
+        "¼ cup finely chopped mint",
+        "2 teaspoons ginger-garlic paste",
+        "2 teaspoons coriander seeds, crushed",
+        "1 teaspoon salt",
+        "¾ teaspoon ground cumin",
+        "¾ teaspoon ground cayenne pepper",
+        "2  tomato, sliced into rounds",
+        "¼ cup vegetable oil for frying, or more as needed"
+    ],
+    "method": [
+        "Step 1: Coat a small skillet with cooking spray and place over medium-high heat. Cook and stir beaten egg in the hot skillet until scrambled and set, 3 to 5 minutes.",
+        "Step 2: Combine scrambled egg, beef, onion, chopped tomato, cilantro, mint, ginger-garlic paste, coriander seeds, salt, cumin, and cayenne pepper in a large bowl; mix by hand until well combined. Shape mixture into patties. Press a tomato slice into the center of each patty.",
+        "Step 3: Heat oil in a deep skillet to 375 degrees F (190 degrees C). Cook patties in hot oil in batches until charred, 4 to 6 minutes per side.",
+        "Step 4: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. Amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+    ],
+    "image": "images/pakistani-chapli-kebab.jpg"
+}

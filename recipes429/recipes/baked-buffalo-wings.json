@@ -1,0 +1,38 @@
+{
+    "title": "Baked Buffalo Wings",
+    "file_name": "baked-buffalo-wings",
+    "url": "https://www.allrecipes.com/recipe/166638/baked-buffalo-wings/",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "2 hrs",
+        "active_time": "Unknown",
+        "servings": "20",
+        "calories": "151 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "¾ cup all-purpose flour",
+        "½ teaspoon cayenne pepper",
+        "½ teaspoon garlic powder",
+        "½ teaspoon salt",
+        "20  chicken wings",
+        "½ cup melted butter",
+        "½ cup hot pepper sauce (such as Frank's RedHot)"
+    ],
+    "method": [
+        "Step 1: Line a baking sheet with aluminum foil, and lightly grease with cooking spray.",
+        "Step 2: Place flour, cayenne pepper, garlic powder, and salt into a resealable plastic bag, and shake to mix. Add chicken wings, seal the bag, and toss until well coated with the flour mixture.",
+        "Step 3: Transfer wings to the prepared baking sheet and refrigerate for at least 1 hour.",
+        "Step 4: Preheat the oven to 400 degrees F (200 degrees C).",
+        "Step 5: While the oven is preheating, whisk together melted butter and hot sauce in a small bowl.",
+        "Step 6: Dip wings into butter mixture, and place back on the baking sheet.",
+        "Step 7: Bake in the preheated oven for 20 minutes. Flip wings and continue to cook until crispy on the outside and no longer pink in the center, about 25 more minutes."
+    ],
+    "image": "images/baked-buffalo-wings.jpg"
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Persian Halva",
+    "file_name": "persian-halva",
+    "url": "https://www.allrecipes.com/recipe/233364/persian-halva/",
+    "cuisine": "Israeli",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "386 Calories"
+    },
+    "ingredients": [
+        "1 cup white sugar",
+        "½ cup water",
+        "¼ cup rose water",
+        "3  saffron threads",
+        "1 cup unsalted butter",
+        "1 ½ cups all-purpose flour"
+    ],
+    "method": [
+        "Step 1: Bring sugar and water to a boil in a saucepan; cook, stirring constantly, until sugar is dissolved, about 5 minutes.",
+        "Step 2: Stir rosewater and saffron into the sugar mixture; cover the saucepan and remove from the heat.",
+        "Step 3: Melt butter in a large saucepan over low heat; stir flour into melted butter until mixture is a smooth paste. Continue to cook, stirring often, until paste turns golden, 5 to 10 more minutes.",
+        "Step 4: Slowly whisk sugar mixture into paste until smooth. Remove the saucepan from the heat.",
+        "Step 5: Spread halva evenly onto a plate or platter. Make a pattern on the top of halva using the back of a spoon or a knife. Cover with plastic wrap and refrigerate until set, at least 1 hour."
+    ],
+    "image": "images/persian-halva.jpg"
+}

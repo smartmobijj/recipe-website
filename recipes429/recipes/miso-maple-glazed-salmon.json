@@ -1,0 +1,34 @@
+{
+    "title": "Miso Maple-Glazed Salmon",
+    "file_name": "miso-maple-glazed-salmon",
+    "url": "https://www.allrecipes.com/recipe/220324/miso-maple-glazed-salmon/",
+    "cuisine": "Canadian",
+    "difficulty": "Medium",
+    "cooking_time": "25 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "15 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "365 Calories"
+    },
+    "ingredients": [
+        "1 ½ tablespoons yellow miso paste",
+        "1 ½ tablespoons seasoned rice wine vinegar",
+        "1 ½ tablespoons maple syrup",
+        "1 teaspoon hot chili sauce (such as Sriracha) (Optional)",
+        "1 teaspoon vegetable oil",
+        "2 (6 ounce) center-cut salmon fillets, with skin"
+    ],
+    "method": [
+        "Step 1: Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Brush an oven-safe skillet with vegetable oil.",
+        "Step 2: Whisk miso paste, rice wine vinegar, maple syrup, and hot chili sauce together in a bowl.",
+        "Step 3: Arrange salmon fillets skin-sides down in the prepared skillet. Place skillet over medium heat; cook until skin starts to sizzle, 2 to 3 minutes. Remove skillet from heat.",
+        "Step 4: Brush salmon fillets with miso glaze. Place skillet in the preheated broiler; cook until salmon is just cooked through and top is browned, about 8 minutes.",
+        "Step 5: Remove fillets from skillet, separating flesh from skins; leave skins in the pan."
+    ],
+    "image": "images/miso-maple-glazed-salmon.png"
+}

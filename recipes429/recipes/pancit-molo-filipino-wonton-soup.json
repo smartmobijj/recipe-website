@@ -1,0 +1,37 @@
+{
+    "title": "Pancit Molo (Filipino Wonton Soup)",
+    "file_name": "pancit-molo-filipino-wonton-soup",
+    "url": "https://www.allrecipes.com/recipe/212997/pancit-molo-filipino-wonton-soup/",
+    "cuisine": "Malaysian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "45 mins",
+        "cook_time": "15 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "372 Calories"
+    },
+    "ingredients": [
+        "1 ½ pounds ground pork",
+        "1 pound uncooked medium shrimp, peeled and deveined",
+        "1 (8 ounce) can sliced water chestnuts, drained",
+        "salt and ground black pepper to taste",
+        "1 (16 ounce) package wonton wrappers, or as needed",
+        "2 tablespoons olive oil",
+        "1  onion, chopped",
+        "2 cloves garlic, minced",
+        "1  cooked chicken breast, shredded",
+        "1 ¼ quarts chicken broth",
+        "1 small head bok choy, cut into bite-sized pieces",
+        "2  green onions, chopped"
+    ],
+    "method": [
+        "Step 1: Mix pork, shrimp, water chestnuts, salt, and pepper together in a large bowl. Reserve 1/3 of the filling mixture for soup. Wrap about 1 tablespoon of remaining filling in a wonton wrapper. Repeat until all filling is used up.",
+        "Step 2: Heat olive oil in a large pot over medium-high heat. Add onion and garlic; sauté until onion is translucent, about 5 minutes. Stir in chicken and reserved filling. Mix well. Add chicken broth; season with salt and pepper. Bring to a boil. Drop filled wontons into soup one by one. Boil until wontons float to the top, 3 to 5 minutes. Add bok choy; boil until tender, about 2 minutes more. Garnish with green onions."
+    ],
+    "image": "images/pancit-molo-filipino-wonton-soup.jpg"
+}

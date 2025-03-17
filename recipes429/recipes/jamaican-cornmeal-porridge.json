@@ -1,0 +1,37 @@
+{
+    "title": "Jamaican Cornmeal Porridge",
+    "file_name": "jamaican-cornmeal-porridge",
+    "url": "https://www.allrecipes.com/recipe/258747/jamaican-cornmeal-porridge/",
+    "cuisine": "Nigerian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "1",
+        "calories": "536 Calories"
+    },
+    "ingredients": [
+        "1 cup water",
+        "⅓ cup cornmeal",
+        "¼ cup whole milk",
+        "¼ cup coconut milk",
+        "3 tablespoons white sugar",
+        "½ teaspoon vanilla extract",
+        "½ teaspoon salt",
+        "¼ teaspoon ground nutmeg",
+        "¼ teaspoon ground cinnamon",
+        "2 tablespoons raisins (Optional)"
+    ],
+    "method": [
+        "Step 1: Combine water, cornmeal, whole milk, coconut milk, white sugar, vanilla extract, salt, nutmeg, and cinnamon in a blender; blend until smooth. Transfer to a saucepan.",
+        "Step 2: Bring cornmeal mixture to a boil, whisking occasionally, until it begins to thicken, about 5 minutes. Reduce heat when slow bubbles form; continue cooking, stirring frequently, until desired thickness, about 5 minutes. Stir in raisins.",
+        "Step 3: Remove from heat, cover, and cool slightly before serving, about 5 minutes.",
+        "Step 4: You may also blend cornmeal mixture in a NutriBullet or shake well in a sealed container."
+    ],
+    "image": "images/jamaican-cornmeal-porridge.jpg"
+}

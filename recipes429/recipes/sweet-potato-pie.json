@@ -1,0 +1,38 @@
+{
+    "title": "Sweet Potato Pie",
+    "file_name": "sweet-potato-pie",
+    "url": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr 40 mins",
+        "total_time": "1 hr 55 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "389 Calories"
+    },
+    "ingredients": [
+        "1 (1 pound) sweet potato, with skin",
+        "½ cup butter, softened",
+        "1 cup white sugar",
+        "½ cup milk",
+        "2 large eggs",
+        "½ teaspoon ground nutmeg",
+        "½ teaspoon ground cinnamon",
+        "1 teaspoon vanilla extract",
+        "1 (9 inch) unbaked pie crust"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: Place whole sweet potato in pot and cover with water; bring to a boil. Boil until tender when pierced with a fork, 40 to 50 minutes.",
+        "Step 3: Preheat the oven to 350 degrees F (175 degrees C). Remove sweet potato from the pot and run under cold water. Remove and discard skin. Break sweet potato flesh apart and place in a bowl. Add butter and mix with an electric mixer until well combined.",
+        "Step 4: Add sugar, milk, eggs, nutmeg, cinnamon, and vanilla; beat on medium speed until mixture is smooth.",
+        "Step 5: Pour filling into unbaked pie crust.",
+        "Step 6: Bake in the preheated oven until a knife inserted in the center comes out clean, 55 to 60 minutes. Remove from the oven and let cool before serving."
+    ],
+    "image": "images/sweet-potato-pie.jpg"
+}

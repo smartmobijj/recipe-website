@@ -1,0 +1,42 @@
+{
+    "title": "Steak Salad",
+    "file_name": "steak-salad",
+    "url": "https://www.allrecipes.com/recipe/24621/steak-salad/",
+    "cuisine": "Russian",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "496 Calories"
+    },
+    "ingredients": [
+        "1 ¾ pounds beef sirloin steak",
+        "⅓ cup olive oil",
+        "3 tablespoons red wine vinegar",
+        "2 tablespoons lemon juice",
+        "1 teaspoon Worcestershire sauce",
+        "1 clove garlic, minced",
+        "½ teaspoon salt",
+        "⅛ teaspoon ground black pepper",
+        "¾ cup crumbled blue cheese",
+        "8 cups romaine lettuce - rinsed, dried, and torn into bite-size pieces",
+        "2  tomatoes, sliced",
+        "1 small green bell pepper, sliced",
+        "1  carrot, sliced",
+        "½ cup sliced red onion",
+        "¼ cup sliced pimento-stuffed green olives"
+    ],
+    "method": [
+        "Step 1: Preheat an outdoor grill for high heat and lightly oil the grate.",
+        "Step 2: Place steak on preheated grill and cook for 3 to 5 minutes per side or until desired doneness. Remove from heat and let sit until cool enough to handle. Slice steak into strips or bite-sized pieces.",
+        "Step 3: Whisk olive oil, vinegar, lemon juice, Worcestershire sauce, garlic, salt, and pepper together in a small bowl; stir in blue cheese. Cover and refrigerate.",
+        "Step 4: Arrange lettuce, tomato, pepper, carrot, onion, and olives onto chilled plates. Top with steak and drizzle with dressing."
+    ],
+    "image": "images/steak-salad.jpg"
+}

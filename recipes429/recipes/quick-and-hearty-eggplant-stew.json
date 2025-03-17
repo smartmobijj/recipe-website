@@ -1,0 +1,51 @@
+{
+    "title": "Quick and Hearty Eggplant Stew",
+    "file_name": "quick-and-hearty-eggplant-stew",
+    "url": "https://www.allrecipes.com/recipe/283712/quick-and-hearty-eggplant-stew/",
+    "cuisine": "Iranian",
+    "difficulty": "Hard",
+    "cooking_time": "90 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "270 Calories"
+    },
+    "ingredients": [
+        "1 medium eggplant",
+        "2 tablespoons sweet curry powder",
+        "1 teaspoon ground coriander",
+        "1 teaspoon garam masala",
+        "½ teaspoon ground cumin",
+        "½ teaspoon garlic powder",
+        "¼ teaspoon cayenne pepper",
+        "salt and ground black pepper to taste",
+        "1 tablespoon olive oil, or as needed",
+        "1 small onion, minced",
+        "1 clove garlic, minced",
+        "2 medium tomatoes, chopped, or more to taste",
+        "1 (15 ounce) can black beans, rinsed and drained",
+        "½ cup sliced scallions, divided",
+        "½ cup chopped fresh cilantro",
+        "1 cup beef stock, or more as needed",
+        "2 cups beef stock",
+        "¼ cup sliced scallions",
+        "1 teaspoon ground ginger",
+        "1 cup rice",
+        "1 pinch kosher salt"
+    ],
+    "method": [
+        "Step 1: Partially skin eggplant and cut into cubes; set aside.",
+        "Step 2: Mix curry powder, coriander, garam masala, cumin, garlic powder, cayenne, salt, and pepper together in a small bowl; set aside.",
+        "Step 3: Start rice: bring beef stock, scallions, and ginger to a boil in a saucepan. Stir in rice and kosher salt. Cover, reduce heat to low, and simmer until tender, 10 to 15 minutes.",
+        "Step 4: Continue with stew: coat the bottom of a heavy pan with oil. Add onion and garlic and warm over medium heat until aromatic, 3 to 5 minutes.",
+        "Step 5: Stir eggplant into the onion mixture; cover and cook, stirring occasionally, for about 6 minutes. Remove cover and stir in tomatoes; simmer, stirring occasionally, for about 5 minutes. Stir in black beans and 1/2 of the scallions; the stew should be pretty thick at this point because of the tomatoes.",
+        "Step 6: Add 1 cup beef stock and stir in spice mix. Boil, stirring occasionally, for several minutes. Add up to 1 cup more beef stock as the stew cooks down to get the thickness you desire. About 1 minute before serving, stir in cilantro and remaining scallions to add flavor throughout.",
+        "Step 7: Serve stew over cooked rice."
+    ],
+    "image": "images/quick-and-hearty-eggplant-stew.jpg"
+}

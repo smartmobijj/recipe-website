@@ -1,0 +1,33 @@
+{
+    "title": "Home-Fried Cheese Sticks",
+    "file_name": "home-fried-cheese-sticks",
+    "url": "https://www.allrecipes.com/recipe/223480/home-fried-cheese-sticks/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "20 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "2 hrs 35 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "367 Calories"
+    },
+    "ingredients": [
+        "24 (1 ounce) sticks string cheese",
+        "5  eggs, beaten",
+        "3 cups Italian seasoned bread crumbs",
+        "1 quart vegetable oil for frying, or as needed"
+    ],
+    "method": [
+        "Step 1: Remove string cheese sticks from plastic wrappings and cut the strings in half crosswise.",
+        "Step 2: Line a baking sheet with parchment paper. Place eggs in a bowl and bread crumbs into a large shallow bowl.",
+        "Step 3: Dip cheese stick halves into egg and roll in bread crumbs to completely coat the sticks; place breaded cheese sticks onto the prepared baking sheet. Allow cheese sticks to stand at room temperature for about 5 minutes to set, and repeat dipping in egg and bread crumbs to form a thick coating. Freeze breaded cheese sticks for at least 2 hours.",
+        "Step 4: Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).",
+        "Step 5: Deep fry cheese sticks, a few at a time, until the coating is golden brown and crisp and the cheese is soft, 5 to 8 minutes. Let sticks drain on paper towels; cool slightly and serve warm.",
+        "Step 6: The nutrition data for this recipe includes the full amount of the breading ingredients. The actual amount of the breading consumed will vary. We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and the specific type of oil used."
+    ],
+    "image": "images/home-fried-cheese-sticks.jpg"
+}

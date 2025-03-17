@@ -1,0 +1,44 @@
+{
+    "title": "Chef John's Shakshuka",
+    "file_name": "chef-john's-shakshuka",
+    "url": "https://www.allrecipes.com/recipe/245362/chef-johns-shakshuka/",
+    "cuisine": "Israeli",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "35 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "185 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1 large onion, diced",
+        "½ cup sliced fresh mushrooms",
+        "1 teaspoon salt, plus more to taste",
+        "1 cup diced red bell pepper",
+        "1  jalapeño pepper, seeded and sliced",
+        "1 teaspoon cumin",
+        "½ teaspoon paprika",
+        "½ teaspoon ground turmeric",
+        "½ teaspoon freshly ground black pepper, plus more to taste",
+        "¼ teaspoon cayenne pepper",
+        "1 (28 ounce) can crushed San Marzano tomatoes, or other high-quality plum tomatoes",
+        "½ cup water, or more as needed",
+        "6  large eggs",
+        "2 tablespoons crumbled feta cheese",
+        "2 tablespoons chopped fresh parsley"
+    ],
+    "method": [
+        "Step 1: Heat olive oil in a large, heavy skillet over medium-high heat. Add onion and mushrooms; season with salt. Cook and stir until mushrooms release all of their liquid and start to brown, about 10 minutes.",
+        "Step 2: Add bell pepper and jalapeño pepper. Cook and stir until peppers begin to soften, about 5 minutes. Season with cumin, paprika, turmeric, black pepper, and cayenne. Cook and stir to blend the flavors, about 1 minute.",
+        "Step 3: Stir in tomatoes and water. Reduce heat to medium. Simmer uncovered, stirring occasionally, until vegetables are softened and sweet, 15 to 20 minutes. Add more water if sauce becomes too thick.",
+        "Step 4: Use a large spoon to make a depression in sauce for each egg. Crack an egg into a small ramekin and slide gently into an indentation; repeat with remaining eggs. Season eggs with salt and pepper. Cover and cook until eggs reach desired doneness.",
+        "Step 5: Top with feta cheese and parsley to serve."
+    ],
+    "image": "images/chef-john's-shakshuka.jpg"
+}

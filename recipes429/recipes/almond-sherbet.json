@@ -1,0 +1,29 @@
+{
+    "title": "Almond Sherbet",
+    "file_name": "almond-sherbet",
+    "url": "https://www.allrecipes.com/recipe/218558/almond-sherbet/",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "India",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "239 Calories"
+    },
+    "ingredients": [
+        "2 (10 ounce) cans sweetened condensed milk",
+        "7 ⅓ cups water",
+        "¾ cup white sugar",
+        "1 teaspoon almond extract",
+        "1 drop green food coloring, or as desired"
+    ],
+    "method": [
+        "Step 1: Whisk the sweetened condensed milk and water together in a bowl, and stir in the sugar and almond extract until the drink is smooth and the sugar has dissolved. Mix in a drop or two of green food coloring, or as desired; chill to serve."
+    ],
+    "image": "images/almond-sherbet.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Sexy Fish Stew",
+    "file_name": "sexy-fish-stew",
+    "url": "https://www.allrecipes.com/recipe/231352/sexy-fish-stew/",
+    "cuisine": "Peruvian",
+    "difficulty": "Medium",
+    "cooking_time": "80 minutes",
+    "country": "Peru",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "382 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons unsalted butter",
+        "1 large leek, cleaned and thinly sliced",
+        "½ cup sliced shallots",
+        "salt to taste",
+        "¾ cup white wine",
+        "1 ¼ cups chicken broth",
+        "1 pound baby red potatoes, trimmed",
+        "½ cup thinly sliced fennel bulb",
+        "salt and freshly ground pepper to taste",
+        "1 pinch cayenne pepper, or more to taste",
+        "½ cup heavy whipping cream",
+        "1 pound boneless rockfish fillets, cut into 1-inch pieces",
+        "1 tablespoon chopped fresh tarragon"
+    ],
+    "method": [
+        "Step 1: Melt butter in a large saucepan over medium-low heat. Add leek, shallots, and 1/2 teaspoon salt; cook and stir until softened, 10 to 15 minutes.",
+        "Step 2: Stir in wine, increase heat to medium, and cook for 2 minutes. Add chicken broth; bring to a simmer.",
+        "Step 3: Add potatoes and fennel; simmer, stirring occasionally, until potatoes are nearly tender, about 10 minutes. Season with salt, black pepper, and cayenne pepper. Stir in cream to combine.",
+        "Step 4: Stir in fish and tarragon; cover and cook for 3 minutes. Stir gently, reduce heat to medium-low, and cook until fish flakes easily with a fork, about 5 minutes. Season with salt and black pepper.",
+        "Step 5: If you can't find rockfish, red snapper, or any other white fish works well in this recipe."
+    ],
+    "image": "images/sexy-fish-stew.jpg"
+}

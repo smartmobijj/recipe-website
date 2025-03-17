@@ -1,0 +1,41 @@
+{
+    "title": "Alfajores (Dulce de Leche Sandwich Cookies)",
+    "file_name": "alfajores-dulce-de-leche-sandwich-cookies",
+    "url": "https://www.allrecipes.com/recipe/269265/alfajores-dulce-de-leche-sandwich-cookies/",
+    "cuisine": "Argentinian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "45 mins",
+        "cook_time": "10 mins",
+        "total_time": "1 hr 25 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "175 Calories"
+    },
+    "ingredients": [
+        "2 cups sifted all-purpose flour",
+        "½ cup sifted confectioners' sugar",
+        "¼ cup sifted cornstarch",
+        "¼ teaspoon salt",
+        "2 sticks unsalted butter, softened",
+        "¼ cup white sugar",
+        "1 teaspoon vanilla extract",
+        "1 (11.5 ounce) jar dulce de leche",
+        "¼ cup confectioners' sugar, or as needed for dusting"
+    ],
+    "method": [
+        "Step 1: Mix flour, 1/2 cup confectioners' sugar, cornstarch, and salt together in a bowl.",
+        "Step 2: Beat butter with an electric mixer in a separate bowl until soft and fluffy. Mix in white sugar and vanilla until well combined.",
+        "Step 3: Add dry ingredients to wet ingredients in 3 batches, beating until just blended after each addition. Divide dough in half, roll each half into a log, and refrigerate until firm, about 2 hours.",
+        "Step 4: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 5: Slice dough logs into forty-eight 1/4-inch-thick cookies and place onto ungreased baking sheets.",
+        "Step 6: Bake in the preheated oven until just starting to turn golden around the edges, 8 to 10 minutes.",
+        "Step 7: Remove from the oven and let cool for 1 minute on the baking sheet. Transfer cookies to wire racks to cool completely, 25 to 30 minutes.",
+        "Step 8: Use a knife to generously spread dulce de leche onto 1/2 of the cooled cookies. Sandwich remaining cookies on top and place onto a serving tray.",
+        "Step 9: Lightly dust finished cookies with remaining confectioners' sugar."
+    ],
+    "image": "images/alfajores-dulce-de-leche-sandwich-cookies.jpg"
+}

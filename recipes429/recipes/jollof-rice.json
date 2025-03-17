@@ -1,0 +1,42 @@
+{
+    "title": "Jollof Rice",
+    "file_name": "jollof-rice",
+    "url": "https://www.allrecipes.com/recipe/67061/jollof-rice/",
+    "cuisine": "Nigerian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "1 hr",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "332 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon olive oil",
+        "1 large onion, sliced",
+        "2 (14.5 ounce) cans stewed tomatoes",
+        "½ (6 ounce) can tomato paste",
+        "1 teaspoon salt",
+        "¼ teaspoon black pepper",
+        "¼ teaspoon cayenne pepper",
+        "½ teaspoon red pepper flakes",
+        "1 tablespoon Worcestershire sauce",
+        "1 teaspoon chopped fresh rosemary",
+        "2 cups water",
+        "1 (3 pound) whole chicken, cut into 8 pieces",
+        "1 cup uncooked white rice",
+        "1 cup diced carrots",
+        "½ pound fresh green beans, trimmed and snapped into 1 to 2 inch pieces",
+        "¼ teaspoon ground nutmeg"
+    ],
+    "method": [
+        "Step 1: Pour oil into large saucepan. Cook onion in oil over medium-low heat until translucent.",
+        "Step 2: Stir in stewed tomatoes and tomato paste, and season with salt, black pepper, cayenne pepper, red pepper flakes, Worcestershire sauce and rosemary. Cover, and bring to a boil. Reduce heat, stir in water, and add chicken pieces. Simmer for 30 minutes.",
+        "Step 3: Stir in rice, carrots, and green beans, and season with nutmeg. Bring to a boil, then reduce heat to low. Cover, and simmer until the chicken is fork-tender and the rice is cooked, 25 to 30 minutes."
+    ],
+    "image": "images/jollof-rice.jpg"
+}

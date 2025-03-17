@@ -1,0 +1,29 @@
+{
+    "title": "Toad In a Hole",
+    "file_name": "toad-in-a-hole",
+    "url": "https://www.allrecipes.com/recipe/16635/toad-in-a-hole/",
+    "cuisine": "English",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "286 Calories"
+    },
+    "ingredients": [
+        "6 slices bread",
+        "2 tablespoons butter, softened",
+        "6  eggs",
+        "6 slices Cheddar cheese"
+    ],
+    "method": [
+        "Step 1: Preheat a large skillet to a high heat.",
+        "Step 2: With a small biscuit cutter remove centers from bread. Butter slices on one side only. Grill bread until lightly toasted. Crack an egg into each bread hole (be careful not to break the yolk). Season with salt and pepper to taste. Lay 1 slice of cheese on each egg and then the bread rounds. Cook until eggs are cooked to your desired consistency."
+    ],
+    "image": "images/toad-in-a-hole.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Homemade Corn Dogs",
+    "file_name": "homemade-corn-dogs",
+    "url": "https://www.allrecipes.com/recipe/35149/corn-dogs/",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "318 Calories"
+    },
+    "ingredients": [
+        "1 cup yellow cornmeal",
+        "1 cup all-purpose flour",
+        "¼ cup white sugar",
+        "4 teaspoons baking powder",
+        "¼ teaspoon salt",
+        "⅛ teaspoon black pepper",
+        "1 cup milk",
+        "1  egg",
+        "1 quart vegetable oil for frying",
+        "2 (16 ounce) packages beef frankfurters",
+        "wooden skewers"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine cornmeal, flour, sugar, baking powder, salt, and pepper in a medium bowl; stir in milk and egg to make a batter.",
+        "Step 3: Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C).",
+        "Step 4: Meanwhile, pat frankfurters dry and insert a skewer into each one.",
+        "Step 5: Roll frankfurters in batter until well coated.",
+        "Step 6: Fry 2 or 3 corn dogs at a time in preheated oil until lightly browned, about 3 minutes.",
+        "Step 7: Drain on paper towels.",
+        "Step 8: Serve and enjoy!",
+        "Step 9: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount may vary depending on cook time and temperature, ingredient density, and the specific type of oil used."
+    ],
+    "image": "images/homemade-corn-dogs.jpg"
+}

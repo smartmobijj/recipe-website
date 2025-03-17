@@ -1,0 +1,34 @@
+{
+    "title": "Sweet Potato Balls",
+    "file_name": "sweet-potato-balls",
+    "url": "https://www.allrecipes.com/recipe/25278/sweet-potato-balls/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "187 Calories"
+    },
+    "ingredients": [
+        "3 cups peeled and chopped sweet potatoes",
+        "¼ cup butter, softened",
+        "¾ cup brown sugar",
+        "2 tablespoons milk",
+        "¼ teaspoon salt",
+        "½ teaspoon grated lemon zest",
+        "8  large marshmallows",
+        "½ cup crushed corn flake cereal"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 375 degrees F (190 degrees C). Grease a 9x13 inch baking dish.",
+        "Step 2: Bring a pot of water to a boil. Add sweet potatoes and cook until tender, about 15 minutes. Drain and mash with butter, sugar, milk, salt and lemon zest. Shape mixture into balls, with a marshmallow in the center of each. Roll in cereal crumbs and place in prepared dish.",
+        "Step 3: Bake in preheated oven for 20 minutes, or until marshmallows begin to ooze."
+    ],
+    "image": "images/sweet-potato-balls.jpg"
+}

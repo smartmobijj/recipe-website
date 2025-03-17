@@ -1,0 +1,42 @@
+{
+    "title": "Japanese Milk Bread",
+    "file_name": "japanese-milk-bread",
+    "url": "https://www.allrecipes.com/recipe/267824/japanese-milk-bread/",
+    "cuisine": "Japanese",
+    "difficulty": "Hard",
+    "cooking_time": "180 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "35 mins",
+        "total_time": "2 hrs 40 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "290 Calories"
+    },
+    "ingredients": [
+        "3 ¾ tablespoons bread flour",
+        "10 tablespoons water",
+        "3 cups bread flour",
+        "3 tablespoons bread flour",
+        "5 tablespoons white sugar",
+        "3 tablespoons milk powder",
+        "1 (.25 ounce) package instant yeast",
+        "1 teaspoon salt",
+        "1  egg",
+        "3 tablespoons cold whipping cream",
+        "3 tablespoons cold water",
+        "2 ½ tablespoons cold butter, cut into chunks"
+    ],
+    "method": [
+        "Step 1: Make the water roux: Whisk bread flour and water together in a saucepan over low heat. Cook roux until an instant-read thermometer inserted into the center reads 150 degrees F (65 degrees C). Remove from the heat and let cool to room temperature.",
+        "Step 2: Make the dough: Mix 3 cups plus 3 tablespoons bread flour, sugar, milk powder, yeast, and salt in the bowl of a stand mixer fitted with a dough hook on low speed until well combined.",
+        "Step 3: Add cooled roux, egg, cream, and cold water. Knead until dough comes together in a shaggy mass, 1 to 2 minutes. Continue to mix on low speed until dough starts to pull away from the sides of the bowl.",
+        "Step 4: Increase speed to medium and start adding butter. Mix until completely incorporated and dough is smooth, 10 to 20 minutes. Remove dough from the mixer and place into a greased bowl. Cover and let rise until doubled in volume, about 40 minutes.",
+        "Step 5: Flatten dough and roll into an oblong shape. Place into a greased loaf pan. Cover and let rise until doubled in volume, 45 to 60 minutes.",
+        "Step 6: Preheat the oven to 450 degrees F (230 degrees C).",
+        "Step 7: Uncover loaf and bake in the preheated oven until golden brown, 30 to 35 minutes. Cover with foil if top starts to brown too quickly. Cool in the pan for 10 minutes before inverting onto a rack to cool completely."
+    ],
+    "image": "images/japanese-milk-bread.jpg"
+}

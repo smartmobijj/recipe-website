@@ -1,0 +1,35 @@
+{
+    "title": "Bubble and Squeak",
+    "file_name": "bubble-and-squeak",
+    "url": "https://www.allrecipes.com/recipe/18854/bubble-n-squeak/",
+    "cuisine": "British",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "159 Calories"
+    },
+    "ingredients": [
+        "½ medium head cabbage, sliced",
+        "3 slices bacon, diced",
+        "1  onion, thinly sliced",
+        "1 cup cubed cooked ham",
+        "1 tablespoon butter",
+        "3 cups potatoes - baked, cooled and thinly sliced",
+        "½ teaspoon paprika",
+        "salt and pepper to taste"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Cook cabbage in a medium saucepan with a small amount of water until tender, about 3 to 5 minutes. Drain, and set aside.",
+        "Step 3: Cook bacon and onion in a well-seasoned cast iron skillet until onion is soft and bacon is cooked, about 5 minutes.",
+        "Step 4: Add ham, and cook until heated through. Add butter, then mix in cooked cabbage and potatoes; season with paprika, salt, and pepper. Cook until browned on the bottom, turn, and brown again."
+    ],
+    "image": "images/bubble-and-squeak.jpg"
+}

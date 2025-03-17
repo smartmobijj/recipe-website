@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Website</title>
+    <link rel="stylesheet" href="/public/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Recipe Hub!</h1>
+    </header>
+
+    <main>
+        <% Object.keys(recipes).forEach(category => { %>
+            <section class="recipe-category">
+                <h2><%= category %> Recipes</h2>
+                <div class="recipe-grid">
+                    <% recipes[category].forEach(recipe => { %>
+                        <div class="recipe-card">
+                            <a href="<%= recipe.url %>">
+                                <img src="/recipe-images/<%= recipe.image_path %>" alt="<%= recipe.recipe_name %>">
+                                <h3><%= recipe.recipe_name %></h3>
+                            </a>
+                        </div>
+                    <% }); %>
+                </div>
+            </section>
+        <% }); %>
+    </main>
+
+    <footer>
+        <p>© 2025 Recipe Hub</p>
+    </footer>
+
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .recipe-category { margin: 20px; }
+        .recipe-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; }
+        .recipe-card { width: 200px; border: 1px solid #ddd; padding: 10px; border-radius: 8px; background: #fff; }
+        .recipe-card img { width: 100%; height: auto; border-radius: 8px; }
+        .recipe-card h3 { font-size: 16px; margin-top: 5px; }
+    </style>
+</body>
+</html>

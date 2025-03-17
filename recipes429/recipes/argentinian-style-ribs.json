@@ -1,0 +1,31 @@
+{
+    "title": "Argentinian-Style Ribs",
+    "file_name": "argentinian-style-ribs",
+    "url": "https://www.allrecipes.com/recipe/52272/argentinean-style-ribs/",
+    "cuisine": "Argentinian",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "Unknown"
+    },
+    "ingredients": [
+        "6 pounds beef short ribs",
+        "1 cup coarse salt, or as needed",
+        "6 medium limes, cut in wedges"
+    ],
+    "method": [
+        "Step 1: Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Step 2: Coat ribs heavily with salt.",
+        "Step 3: Cook on the preheated grill until meat pulls away easily from the bone, 5 to 7 minutes per side. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C).",
+        "Step 4: Transfer ribs to a large glass serving dish and squeeze lime wedges over top. Serve immediately.",
+        "Step 5: Nutrition data for this recipe includes the full amount of salt. The actual amount consumed will vary."
+    ],
+    "image": "images/argentinian-style-ribs.jpg"
+}

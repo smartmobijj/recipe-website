@@ -1,0 +1,36 @@
+{
+    "title": "Cherimoya-Almond Cake",
+    "file_name": "cherimoya-almond-cake",
+    "url": "https://www.allrecipes.com/recipe/271097/cherimoya-almond-cake/",
+    "cuisine": "Spanish",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr 35 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "294 Calories"
+    },
+    "ingredients": [
+        "6 tablespoons unsalted butter, at room temperature",
+        "¾ cup white sugar",
+        "4 medium eggs",
+        "7 ounces almond meal",
+        "2 cups cherimoya pulp, seeds removed (about 2 small cherimoya)",
+        "1 teaspoon ground cinnamon",
+        "¼ cup sliced almonds",
+        "2 tablespoons confectioners' sugar"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Grease an 8-inch round cake pan.",
+        "Step 2: Combine butter and sugar in the bowl of a stand mixer fitted with the paddle attachment. Beat until smooth and creamy. Add eggs, 1 at a time, beating well after each addition. Add almond flour and mix until smooth. Fold in cherimoya pulp and cinnamon. Pour batter into the prepared cake pan.",
+        "Step 3: Bake in the preheated oven for 30 minutes. Top cake with sliced almonds and continue baking until a toothpick inserted into the center comes out clean, about 15 minutes more.",
+        "Step 4: Cool cake on a wire rack for 5 minutes. Run a knife around the edges of the pan to loosen and invert carefully onto a serving plate or cooling rack. Let cool completely. Dust with confectioners' sugar before serving.",
+        "Step 5: Cherimoya seeds are toxic. Make sure you remove and discard all of them."
+    ],
+    "image": "images/cherimoya-almond-cake.jpg"
+}

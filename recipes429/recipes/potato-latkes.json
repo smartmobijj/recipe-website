@@ -1,0 +1,34 @@
+{
+    "title": "Potato Latkes",
+    "file_name": "potato-latkes",
+    "url": "https://www.allrecipes.com/recipe/16073/potato-latkes-i/",
+    "cuisine": "Jewish",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "199 Calories"
+    },
+    "ingredients": [
+        "3 medium russet potatoes, peeled",
+        "1 large egg, beaten, or more to taste",
+        "2 tablespoons all-purpose flour",
+        "1 tablespoon grated onion",
+        "½ teaspoon salt, or more to taste",
+        "¼ cup peanut oil for frying, or as needed"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Slice peeled potatoes and run through a food processor fitted with the grater attachment. Place shredded potatoes in a cheesecloth and wring, extracting as much moisture as possible.",
+        "Step 3: Measure 2 cups shredded, drained potatoes and place into a medium bowl; save any extra for another use. Add egg, flour, onion, and salt, and stir until well combined.",
+        "Step 4: Heat 1/4 inch of oil in a large, heavy-bottomed skillet over medium-high heat. Place large spoonfuls of potato mixture into the hot oil, pressing down on them to form 1/4- to 1/2-inch-thick patties. Cook until golden brown, 4 to 5 minutes. Flip and repeat on the other side.",
+        "Step 5: Remove to a paper towel-lined plate to drain while you cook any remaining latkes. Serve hot."
+    ],
+    "image": "images/potato-latkes.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Eggplant Burgers",
+    "file_name": "eggplant-burgers",
+    "url": "https://www.allrecipes.com/recipe/53577/eggplant-burgers/",
+    "cuisine": "Egyptian",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "415 Calories"
+    },
+    "ingredients": [
+        "1  eggplant, peeled and sliced into 3/4-inch rounds",
+        "1 tablespoon margarine",
+        "6 slices Monterey Jack cheese",
+        "6  hamburger buns, split",
+        "6 leaves lettuce",
+        "6 slices tomato",
+        "½  onion, sliced",
+        "½ cup dill pickle slices",
+        "6 tablespoons ketchup, or to taste",
+        "3 tablespoons mayonnaise",
+        "2 tablespoons prepared yellow mustard"
+    ],
+    "method": [
+        "Step 1: Place eggplant slices onto a microwave-safe plate. Microwave until the centers are cooked, about 5 minutes.",
+        "Step 2: Melt margarine in a large skillet over medium-high heat. Fry eggplant slices until lightly toasted on each side. Place a cheese slice onto each eggplant and cook until melted.",
+        "Step 3: Place eggplant slices onto hamburger buns. Top with lettuce, tomato, onion slices, and pickles, then dress with ketchup, mayonnaise, and mustard."
+    ],
+    "image": "images/eggplant-burgers.jpg"
+}

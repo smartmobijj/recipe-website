@@ -1,0 +1,312 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #111;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 90%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.recipe-carousel {
+    display: flex;
+    overflow-x: scroll;
+    gap: 20px;
+    padding: 20px;
+    white-space: nowrap;
+}
+
+.recipe-card {
+    flex: 0 0 200px;
+    background: #222;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+}
+
+.recipe-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.recipe-image {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 80%;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+ul#search-results {
+    list-style: none;
+    padding: 0;
+}
+
+ul#search-results li {
+    background: #333;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+
+ul#search-results li a {
+    text-decoration: none;
+    color: #FFD700;
+    font-size: 18px;
+}
+
+select, button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 5px;
+    background-color: #222;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #444;
+}
+
+a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ✅ Ensure images maintain aspect ratio and are not too wide */
+.recipe-card img {
+    width: 100%;  /* Make image responsive */
+    height: auto; /* Keep aspect ratio */
+    max-width: 200px; /* Prevent images from being too wide */
+    max-height: 200px; /* Keep images square */
+    object-fit: cover; /* Ensures the image fits well inside the box */
+    border-radius: 8px; /* Round corners */
+    display: block;
+    margin: 0 auto;
+}
+
+/* ✅ Make the recipe cards appear side by side */
+.recipe-grid {
+    display: flex;           /* Enables side-by-side layout */
+    flex-wrap: wrap;         /* Ensures responsiveness on smaller screens */
+    justify-content: center; /* Center items within the container */
+    gap: 15px;               /* Add spacing between cards */
+    padding: 20px;           /* Adds space around the grid */
+}
+
+/* ✅ Style for individual recipe cards */
+.recipe-card {
+    width: 200px;        /* Set a fixed width for cards */
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: black; /* Background color */
+    transition: transform 0.3s ease;
+    text-align: center;  /* Center text inside cards */
+}
+
+.recipe-card:hover {
+    transform: scale(1.05); /* Slightly enlarges on hover */
+}
+
+/* ✅ Fix image width and ensure side-by-side alignment */
+.recipe-card img {
+    width: 100%;      /* Ensures image fits within the card */
+    height: 150px;    /* Set a fixed height */
+    object-fit: cover; /* Ensures the image fills the space without distortion */
+    border-radius: 8px; /* Rounded corners */
+}
+
+/* ✅ Make the recipe grid display images properly */
+.recipe-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* ✅ Ensure recipe cards are evenly spaced */
+.recipe-card {
+    width: 180px;
+    border: 2px solid yellow; /* Keep yellow border for styling */
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black; 
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.recipe-card:hover {
+    transform: scale(1.05);
+}
+
+/* ✅ Fix images inside recipe cards */
+.recipe-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover; /* Ensures the image fits well without stretching */
+    border-radius: 8px;
+}
+
+/* ✅ Improve text visibility */
+.recipe-card h3 {
+    font-size: 14px;
+    color: white; /* Change text to white for better readability */
+    font-family: 'Lora', serif;
+}
+
+
+/* ✅ Ensure dropdowns appear below checkboxes */
+select {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #222;
+    color: white;
+}
+
+/* ✅ Make multi-select dropdowns easier to use */
+select[multiple] {
+    height: auto;
+    max-height: 200px; /* Prevent dropdowns from getting too large */
+    overflow-y: auto;
+}
+
+/* ✅ Improve form layout */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* ✅ Improve checkbox spacing */
+label {
+    display: inline-block;
+    margin: 5px 10px;
+}
+
+/* ✅ Fix button spacing */
+button {
+    margin-top: 20px;
+}
+
+/* ✅ Fix dropdown alignment */
+label + select {
+    display: block;
+    margin-top: 5px;
+}
+
+/* ✅ Style the recipe grid */
+.recipe-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+}
+
+/* ✅ Fix recipe cards */
+.recipe-card {
+    width: 200px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: black;
+    transition: transform 0.3s ease;
+    text-align: center;
+}
+
+.recipe-card:hover {
+    transform: scale(1.05);
+}
+
+/* ✅ Fix recipe images */
+.recipe-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+/* ✅ Hide dropdown content by default */
+.dropdown-content {
+    display: none;
+    background-color: black;
+    border: 1px solid #FFD700;
+    padding: 10px;
+    text-align: left;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ✅ Show dropdown when toggled */
+.dropdown-content.show {
+    display: block;
+}
+
+
+/* ✅ Improve dropdown button styling */
+.dropdown-button {
+    background-color: #222;
+    color: white;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dropdown-button:hover {
+    background-color: #444;
+}
+
+/* ✅ Style dropdown content */
+.dropdown-content {
+    background-color: black;
+    border: 1px solid #FFD700;
+    padding: 10px;
+    display: none;
+    text-align: left;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ✅ Ensure checkboxes inside dropdowns are spaced correctly */
+.dropdown-content label {
+    display: block;
+    margin: 5px 0;
+}
+
+body {
+    background-image: url('/background.jpg'); /* Use the correct file extension */
+    background-size: cover;  /* Ensures it covers the full screen */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps it fixed when scrolling */
+    color: white; /* Adjust text color for better readability */
+}

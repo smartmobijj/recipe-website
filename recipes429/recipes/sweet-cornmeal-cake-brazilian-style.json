@@ -1,0 +1,34 @@
+{
+    "title": "Sweet Cornmeal Cake Brazilian-Style",
+    "file_name": "sweet-cornmeal-cake-brazilian-style",
+    "url": "https://www.allrecipes.com/recipe/238255/sweet-cornmeal-cake-brazilian-style/",
+    "cuisine": "Brazilian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Brazil",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "30 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "508 Calories"
+    },
+    "ingredients": [
+        "2 cups cornmeal",
+        "1 ½ cups white sugar",
+        "1 cup milk",
+        "1 cup coconut milk",
+        "1 cup all-purpose flour",
+        "3  eggs",
+        "⅓ cup vegetable oil",
+        "1 teaspoon baking powder"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 340 degrees F (170 degrees C). Grease and flour a 10-inch round cake pan.",
+        "Step 2: Blend cornmeal, sugar, milk, coconut milk, flour, eggs, and vegetable oil in a blender until smooth; add baking powder and blend to integrate. Pour the cornmeal mixture into the prepared cake pan.",
+        "Step 3: Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 40 minutes."
+    ],
+    "image": "images/sweet-cornmeal-cake-brazilian-style.jpg"
+}

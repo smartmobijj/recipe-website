@@ -1,0 +1,35 @@
+{
+    "title": "Black Onion Relish",
+    "file_name": "black-onion-relish",
+    "url": "https://www.allrecipes.com/recipe/223364/black-onion-relish/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr 45 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "124 Calories"
+    },
+    "ingredients": [
+        "2  yellow onions",
+        "1  red bell pepper, chopped",
+        "2 tablespoons chopped fresh flat-leaf parsley, or to taste",
+        "salt and freshly ground black pepper to taste",
+        "1 pinch cayenne pepper, or more to taste",
+        "3 tablespoons sherry vinegar",
+        "3 tablespoons olive oil"
+    ],
+    "method": [
+        "Step 1: Build a campfire or prepare a charcoal grill and allow the fire to burn until it has accumulated a bed of coals.",
+        "Step 2: Nestle onions into the hot goals and pile coals up on the sides and on top. Roast until blackened and tender, about 15 minutes. Turn onions, rebury them, and cook until the onions begin to leak juice, another 10 to 15 minutes. A bamboo skewer inserted into the center should easily slide in. Place onions in a bowl, cover and allow to cool.",
+        "Step 3: Place red pepper on the coals; cook, turning often, until charred, about 10 minutes.",
+        "Step 4: Peel the blackened skin off the onions and scrape the charred black bits off the red pepper. Finely chop onions and red pepper. Combine in a bowl with parsley, and season with salt, black pepper, and cayenne pepper to taste.",
+        "Step 5: Toss sherry vinegar and olive oil in with relish, cover and refrigerate for 1 hour."
+    ],
+    "image": "images/black-onion-relish.jpg"
+}

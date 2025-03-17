@@ -1,0 +1,32 @@
+{
+    "title": "Brigadeiro Chocolate Delights",
+    "file_name": "brigadeiro-chocolate-delights",
+    "url": "https://www.allrecipes.com/recipe/254752/brigadeiro-chocolate-delights/",
+    "cuisine": "Brazilian",
+    "difficulty": "Easy",
+    "cooking_time": "55 minutes",
+    "country": "Brazil",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "1 hr 25 mins",
+        "active_time": "Unknown",
+        "servings": "25",
+        "calories": "97 Calories"
+    },
+    "ingredients": [
+        "1 (14 ounce) can sweetened condensed milk (such as La Lechera®)",
+        "2 tablespoons powdered cocoa (such as Nestle®)",
+        "2 tablespoons unsalted butter",
+        "1 cup chocolate sprinkles, or as needed"
+    ],
+    "method": [
+        "Step 1: Combine condensed milk, cocoa, and 2 tablespoons butter in a saucepan; bring to a boil. Reduce heat to low and cook, stirring constantly, until brigadeiro mixture thickens and pulls away from the bottom and sides when the pan is tilted, 10 to 15 minutes.",
+        "Step 2: Remove from heat and let brigadeiro mixture cool to room temperature, about 1 hour.",
+        "Step 3: Scoop teaspoonfuls of the brigadeiro mixture and roll into balls with greased hands.",
+        "Step 4: Spread chocolate sprinkles on a shallow plate. Dip and roll brigadeiros in sprinkles.",
+        "Step 5: You can speed up the cooling process in the refrigerator."
+    ],
+    "image": "images/brigadeiro-chocolate-delights.jpg"
+}

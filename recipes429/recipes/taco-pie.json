@@ -1,0 +1,35 @@
+{
+    "title": "Taco Pie",
+    "file_name": "taco-pie",
+    "url": "https://www.allrecipes.com/recipe/17303/taco-pie/",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "763 Calories"
+    },
+    "ingredients": [
+        "1 (8 ounce) package refrigerated crescent rolls",
+        "1 pound ground beef",
+        "1 (1 ounce) package taco seasoning mix",
+        "1 (16 ounce) container sour cream",
+        "8 ounces shredded Mexican-style cheese blend",
+        "1 (14 ounce) bag tortilla chips, crushed or to taste"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Lay crescent dough flat on the bottom of a 9-inch square pan and bake according to package directions.",
+        "Step 3: Meanwhile, heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Stir in taco seasoning.",
+        "Step 4: Spoon beef filling into prebaked crust; add a layer of sour cream and sprinkle with shredded cheese. Top with crushed nacho chips.",
+        "Step 5: Bake in the preheated oven until cheese has melted, about 10 minutes.",
+        "Step 6: Serve and enjoy!"
+    ],
+    "image": "images/taco-pie.jpg"
+}

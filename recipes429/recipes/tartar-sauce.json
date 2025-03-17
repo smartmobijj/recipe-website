@@ -1,0 +1,33 @@
+{
+    "title": "Tartar Sauce",
+    "file_name": "tartar-sauce",
+    "url": "https://www.allrecipes.com/recipe/12788/tartar-sauce-i/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "268 Calories"
+    },
+    "ingredients": [
+        "1 cup mayonnaise",
+        "1 tablespoon sweet pickle relish",
+        "1 tablespoon minced onion",
+        "2 tablespoons lemon juice (Optional)",
+        "salt and pepper to taste"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Mix mayonnaise, relish, and onion together in a small bowl.",
+        "Step 3: Stir in lemon juice; season with salt and pepper.",
+        "Step 4: Cover and refrigerate for at least 1 hour before serving.",
+        "Step 5: Serve and enjoy!"
+    ],
+    "image": "images/tartar-sauce.jpg"
+}

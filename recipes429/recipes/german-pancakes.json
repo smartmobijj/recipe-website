@@ -1,0 +1,33 @@
+{
+    "title": "German Pancakes",
+    "file_name": "german-pancakes",
+    "url": "https://www.allrecipes.com/recipe/36900/german-pancakes-ii/",
+    "cuisine": "German",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Germany",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "236 Calories"
+    },
+    "ingredients": [
+        "¼ cup butter",
+        "1 cup all-purpose flour",
+        "1 cup milk",
+        "6 large eggs, lightly beaten",
+        "⅛ teaspoon salt"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Preheat the oven to 350 degrees F (175 degrees C). Melt butter in a medium baking dish.",
+        "Step 3: Mix flour, milk, eggs, and salt in a medium bowl.",
+        "Step 4: Pour the mixture into the prepared baking dish.",
+        "Step 5: Bake on center rack in the preheated oven for 30 to 40 minutes, until golden brown."
+    ],
+    "image": "images/german-pancakes.jpg"
+}

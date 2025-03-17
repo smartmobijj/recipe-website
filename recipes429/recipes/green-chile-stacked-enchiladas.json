@@ -1,0 +1,38 @@
+{
+    "title": "Green Chile Stacked Enchiladas",
+    "file_name": "green-chile-stacked-enchiladas",
+    "url": "https://www.allrecipes.com/recipe/246948/green-chile-stacked-enchiladas/",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "55 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "420 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon vegetable oil, or as needed",
+        "16 (6 inch) corn tortillas, or more to taste",
+        "4  boneless skinless chicken thighs, cut into chunks",
+        "½  onion, diced",
+        "½ cup diced mild green chiles",
+        "1 (28 ounce) can green chile enchilada sauce",
+        "1 (8 ounce) package shredded Monterey Jack cheese",
+        "4 ounces shredded mozzarella cheese, or more to taste"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Heat oil in a skillet over medium-high heat. Add 1 tortilla; press and swirl in skillet until softened, 2 to 3 seconds per side, then transfer to a plate. Add 1 dry tortilla on top softened tortilla. Press and swirl another tortilla in oil to soften; stack on dry tortilla. Add 1 dry tortilla on top softened tortilla. Repeat process until all tortillas used.",
+        "Step 3: Add chicken and onion to the same skillet; cook and stir until chicken is 2/3 done, about 10 minutes, adding more oil if needed. Add green chiles; cook and stir until chicken is no longer pink in the center and onions are tender, 5 to 10 minutes more.",
+        "Step 4: Add 1 layer tortillas to a 9x13-inch baking dish to cover bottom; top with some chicken mixture, some enchilada sauce, some Monterey Jack cheese, and some mozzarella cheese. Repeat layering until all ingredients are used, ending with sauce and cheese.",
+        "Step 5: Bake in the preheated oven until cheese is golden brown, 35 to 45 minutes. Cool until set, 5 to 10 minutes.",
+        "Step 6: Chicken breasts can be used in place of chicken thighs.",
+        "Step 7: Roasted and peeled Hatch chile peppers can be used in place of diced green chiles."
+    ],
+    "image": "images/green-chile-stacked-enchiladas.jpg"
+}

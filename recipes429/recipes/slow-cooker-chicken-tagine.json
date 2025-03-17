@@ -1,0 +1,45 @@
+{
+    "title": "Slow Cooker Chicken Tagine",
+    "file_name": "slow-cooker-chicken-tagine",
+    "url": "https://www.allrecipes.com/recipe/257106/slow-cooker-chicken-tagine/",
+    "cuisine": "New Zealand",
+    "difficulty": "Medium",
+    "cooking_time": "240 minutes",
+    "country": "New Zealand",
+    "continent": "Australia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "5 hrs",
+        "total_time": "5 hrs 15 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "419 Calories"
+    },
+    "ingredients": [
+        "8  skinless, boneless chicken thighs",
+        "2 large onions, thinly sliced",
+        "4 large carrots, thinly sliced",
+        "½ cup raisins",
+        "½ cup dried apricots, chopped",
+        "2 cups chicken broth",
+        "2 tablespoons tomato paste",
+        "2 tablespoons lemon juice",
+        "2 tablespoons all-purpose flour",
+        "2 teaspoons garlic salt",
+        "2 teaspoons ground cumin",
+        "1 ½ teaspoons ground ginger",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon Hungarian paprika",
+        "1 teaspoon ground black pepper",
+        "3 cups water",
+        "2 cups couscous",
+        "1 tablespoon unsalted butter"
+    ],
+    "method": [
+        "Step 1: Layer chicken thighs, onions, carrots, raisins, and apricots in a slow cooker.",
+        "Step 2: Whisk chicken broth, tomato paste, lemon juice, flour, garlic salt, cumin, ginger, cinnamon, paprika, and black pepper together in a bowl; pour over chicken and vegetables. Cover slow cooker.",
+        "Step 3: Cook on High 4 1/2 hours or on Low for 7 1/2 hours. Slightly shred chicken using 2 forks. Cook 30 minutes more.",
+        "Step 4: Bring 3 cups water to a boil in a saucepan; remove from heat and stir in couscous and butter. Cover saucepan; let stand until water is completely absorbed, 5 to 10 minutes. Fluff couscous with a fork. Serve chicken tagine over couscous."
+    ],
+    "image": "images/slow-cooker-chicken-tagine.jpg"
+}

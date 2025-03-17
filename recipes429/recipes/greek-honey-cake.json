@@ -1,0 +1,42 @@
+{
+    "title": "Greek Honey Cake",
+    "file_name": "greek-honey-cake",
+    "url": "https://www.allrecipes.com/recipe/22262/greek-honey-cake/",
+    "cuisine": "Egyptian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "55 mins",
+        "total_time": "1 hr 15 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "423 Calories"
+    },
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "1 ½ teaspoons baking powder",
+        "1 teaspoon grated orange zest",
+        "½ teaspoon ground cinnamon",
+        "¼ teaspoon salt",
+        "1 ¾ cups white sugar, divided",
+        "¾ cup unsalted butter",
+        "3  eggs",
+        "¼ cup milk",
+        "1 cup chopped walnuts",
+        "1 cup honey",
+        "¾ cup water",
+        "1 teaspoon lemon juice"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square baking pan.",
+        "Step 2: Combine flour, baking powder, orange zest, cinnamon, and salt in a bowl; set aside.",
+        "Step 3: Beat 3/4 cup sugar and butter together in a large bowl until light and fluffy. Beat in eggs, one at a time. Beat in flour mixture, alternating with milk, beating just until incorporated; stir in walnuts. Pour batter into the prepared pan.",
+        "Step 4: Bake in the preheated oven until a toothpick inserted into center comes out clean, about 40 minutes. Cool cake while making honey syrup.",
+        "Step 5: Combine honey, remaining 1 cup sugar, and water in a saucepan; bring to a simmer and cook 5 minutes. Stir in lemon juice; bring to a boil and cook for 2 minutes.",
+        "Step 6: Cut cake into diamond shapes; poor honey syrup over cake."
+    ],
+    "image": "images/greek-honey-cake.jpg"
+}

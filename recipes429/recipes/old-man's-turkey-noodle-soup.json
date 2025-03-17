@@ -1,0 +1,40 @@
+{
+    "title": "Old Man's Turkey Noodle Soup",
+    "file_name": "old-man's-turkey-noodle-soup",
+    "url": "https://www.allrecipes.com/recipe/216109/old-mans-turkey-noodle-soup/",
+    "cuisine": "Japanese",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "2 hrs 15 mins",
+        "total_time": "2 hrs 45 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "234 Calories"
+    },
+    "ingredients": [
+        "3  turkey drumsticks",
+        "3 quarts water",
+        "2 large onions, chopped",
+        "4  carrots, chopped",
+        "3 stalks celery, chopped",
+        "4 cloves garlic, chopped",
+        "1 tablespoon salt",
+        "½ teaspoon ground black pepper",
+        "½ teaspoon ground dried sage",
+        "½ teaspoon dried thyme",
+        "½ teaspoon dried rosemary",
+        "½ teaspoon celery salt",
+        "2 cups uncooked egg noodles"
+    ],
+    "method": [
+        "Step 1: Combine turkey drumsticks and water in a large soup pot and bring to a boil. Stir in onions, carrots, celery, garlic, salt, black pepper, sage, thyme, rosemary, and celery salt; reduce heat to a simmer. Cook until turkey meat is very tender, about 2 hours.",
+        "Step 2: Remove drumsticks and allow to cool enough to handle. Remove meat from bones and tendons, chop meat, and return to soup.",
+        "Step 3: Fill a large pot with lightly salted water and bring to a rolling boil. Cook egg noodles in boiling water until tender yet firm to the bite, about 5 minutes. Drain.",
+        "Step 4: Scoop noodles into soup bowls and fill the bowls with turkey soup."
+    ],
+    "image": "images/old-man's-turkey-noodle-soup.jpg"
+}

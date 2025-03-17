@@ -1,0 +1,35 @@
+{
+    "title": "Patti's Mussels a la Mariniere",
+    "file_name": "patti's-mussels-a-la-mariniere",
+    "url": "https://www.allrecipes.com/recipe/42657/pattis-mussels-a-la-mariniere/",
+    "cuisine": "Filipino",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "25 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "161 Calories"
+    },
+    "ingredients": [
+        "50  fresh mussels, scrubbed and debearded",
+        "2 tablespoons extra-virgin olive oil",
+        "5 cloves garlic, minced",
+        "3  Roma (plum) tomatoes, chopped",
+        "3  green onions, chopped",
+        "1 cup white wine",
+        "1 bunch fresh parsley, chopped",
+        "2 tablespoons margarine or butter",
+        "salt and ground black pepper, to taste"
+    ],
+    "method": [
+        "Step 1: Place mussels in a large bowl with enough cold water to cover; soak to remove any dirt or sand, about 20 minutes.",
+        "Step 2: Heat olive oil in a large stockpot over medium-low heat. Add garlic; cook 1 minute, but do not brown. Add tomatoes and green onions; cook until almost tender. Stir in wine, parsley, and butter; bring to a boil. Boil until liquid has reduced by half, about 15 minutes; season with salt and black pepper.",
+        "Step 3: Add mussels to the pot, cover, and cook until shells are opened, about 10 minutes. Transfer mussels and sauce to a large serving bowl, discarding any unopened shells."
+    ],
+    "image": "images/patti's-mussels-a-la-mariniere.jpg"
+}

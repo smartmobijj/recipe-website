@@ -1,0 +1,33 @@
+{
+    "title": "Dukkah",
+    "file_name": "dukkah",
+    "url": "https://www.allrecipes.com/recipe/79684/dukkah/",
+    "cuisine": "Egyptian",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "10 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "45 Calories"
+    },
+    "ingredients": [
+        "⅔ cup hazelnuts",
+        "½ cup sesame seeds",
+        "2 tablespoons coriander seeds",
+        "2 tablespoons cumin seeds",
+        "2 tablespoons freshly ground black pepper",
+        "1 teaspoon flaked sea salt"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Place hazelnuts on a baking sheet and bake in the preheated oven until fragrant, about 5 minutes. Pour hot nuts onto a tea towel. Fold the towel over them to cover and rub vigorously to remove the skins. Set aside to cool.",
+        "Step 3: Toast sesame seeds in a dry skillet over medium heat, stirring occasionally, until light golden brown. Transfer to a medium bowl and set aside.",
+        "Step 4: Toast coriander and cumin seeds in the same skillet, shaking or stirring occasionally, until they begin to pop. Transfer to a food processor and process until finely ground. Add to sesame seeds in the bowl. Place cooled hazelnuts into the food processor and process until finely ground. Stir into sesame seed mixture. Add pepper and salt; mix well."
+    ],
+    "image": "images/dukkah.jpg"
+}

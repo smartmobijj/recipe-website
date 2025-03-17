@@ -1,0 +1,40 @@
+{
+    "title": "Honey Walnut Shrimp",
+    "file_name": "honey-walnut-shrimp",
+    "url": "https://www.allrecipes.com/recipe/93234/honey-walnut-shrimp/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "605 Calories"
+    },
+    "ingredients": [
+        "1 cup water",
+        "⅔ cup white sugar",
+        "½ cup walnuts",
+        "4 large egg whites",
+        "⅔ cup mochiko (glutinous rice flour)",
+        "1 cup vegetable oil for frying",
+        "1 pound large shrimp, peeled and deveined",
+        "¼ cup mayonnaise",
+        "2 tablespoons honey",
+        "1 tablespoon canned sweetened condensed milk"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Stir water and sugar together in a small saucepan over high heat. Bring to a boil and add walnuts. Boil for 2 minutes, then drain and place walnuts on a cookie sheet to dry.",
+        "Step 3: Whip egg whites in a medium bowl until foamy. Stir in mochiko until it has a pasty consistency.",
+        "Step 4: Heat oil in a heavy deep skillet over medium-high heat. Dip shrimp in mochiko batter, then fry in batches in hot oil until golden brown, about 5 minutes.",
+        "Step 5: Remove with a slotted spoon and drain on paper towels.",
+        "Step 6: Stir together mayonnaise, honey, and sweetened condensed milk in a medium serving bowl.",
+        "Step 7: Add fried shrimp and toss to coat with sauce. Sprinkle candied walnuts on top and serve."
+    ],
+    "image": "images/honey-walnut-shrimp.jpg"
+}

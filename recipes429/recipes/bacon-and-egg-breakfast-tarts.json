@@ -1,0 +1,39 @@
+{
+    "title": "Bacon and Egg Breakfast Tarts",
+    "file_name": "bacon-and-egg-breakfast-tarts",
+    "url": "https://www.allrecipes.com/recipe/12374/bacon-and-egg-breakfast-tarts/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "25 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "660 Calories"
+    },
+    "ingredients": [
+        "1 (11 ounce) package pie crust mix",
+        "2 tablespoons cold water",
+        "2 teaspoons cold water",
+        "1 (6 ounce) package Canadian-style bacon",
+        "1 cup shredded Cheddar cheese",
+        "4 large eggs",
+        "¼ cup milk",
+        "¼ teaspoon ground nutmeg",
+        "¼ teaspoon ground black pepper"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 2: Stir together 1 1/3 cups pie crust mix and 2 tablespoons plus 2 teaspoons cold water in a large bowl until pastry forms a ball; save remaining pie crust mix for another use. Divide pastry ball into 4 equal pieces.",
+        "Step 3: Roll each piece into a 6-inch circle on a floured surface. Drape each circle over inverted large 3x1 1/2-inch muffin cups or 6-ounce custard cups; make pleats, so pastry fits snugly against the cup. Prick surface using a fork. Place on an ungreased cookie sheet.",
+        "Step 4: Bake in the preheated oven until light brown, 8 to 10 minutes. Cool for 5 minutes, then carefully remove tart shells from cups. Reduce oven temperature to 350 degrees F (175 degrees C).",
+        "Step 5: Place 2 bacon slices into the bottom of each tart shell. Sprinkle with Cheddar cheese, making a small well in each. Break 1 egg into each well and add 1 tablespoon milk into each tart. Sprinkle with nutmeg and pepper. Place filled tarts on the same ungreased cookie sheet.",
+        "Step 6: Bake in the preheated oven until eggs are soft-cooked, 15 to 20 minutes.",
+        "Step 7: The pie crust directions are based on Betty Crocker Pie Crust Mix for a single crust."
+    ],
+    "image": "images/bacon-and-egg-breakfast-tarts.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Chinese Mapo Tofu",
+    "file_name": "chinese-mapo-tofu",
+    "url": "https://www.allrecipes.com/recipe/164254/chinese-mabo-tofu/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "25 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "15 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "268 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon cold water",
+        "1 teaspoon cornstarch",
+        "½ pound ground pork",
+        "1 tablespoon vegetable oil",
+        "1 tablespoon minced garlic",
+        "1 tablespoon minced fresh ginger root",
+        "1 (16 ounce) package firm tofu, cut into 1 inch pieces",
+        "5 tablespoons soy sauce",
+        "2 tablespoons hot bean sauce",
+        "1 teaspoon white sugar",
+        "3  green onions, chopped",
+        "1 teaspoon sesame oil"
+    ],
+    "method": [
+        "Step 1: Mix water and cornstarch in a small bowl; set aside.",
+        "Step 2: Brown ground pork in a small skillet over medium-high heat, about 5 minutes. Drain fat.",
+        "Step 3: Heat oil over medium-high heat in a large skillet or wok. Cook garlic and ginger in oil until fragrant, about 1 minute. Stir in tofu and cook for 2 minutes. Season with soy sauce, hot bean sauce, and sugar; stir to combine.",
+        "Step 4: Stir in cooked pork and green onion. Sprinkle with cornstarch and water mixture; cook and stir until thickened, about 2 minutes. Stir sesame oil into the thickened mapo tofu."
+    ],
+    "image": "images/chinese-mapo-tofu.jpg"
+}

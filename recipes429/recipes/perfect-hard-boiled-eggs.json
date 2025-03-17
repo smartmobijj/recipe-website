@@ -1,0 +1,32 @@
+{
+    "title": "Perfect Hard-Boiled Eggs",
+    "file_name": "perfect-hard-boiled-eggs",
+    "url": "https://www.allrecipes.com/recipe/213737/kens-perfect-hard-boiled-egg-and-i-mean-perfect/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "72 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon salt",
+        "¼ cup distilled white vinegar",
+        "6 cups water",
+        "8 large eggs"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine salt, vinegar, and water in a large pot, and bring to a boil over high heat.",
+        "Step 3: Add eggs one at a time, being careful not to crack them. Reduce the heat to a gentle boil, and cook for 14 minutes.",
+        "Step 4: Once eggs have cooked, remove them from the hot water, and place into a container of ice water or cold, running water. Cool completely, about 15 minutes. Store in the refrigerator up to 1 week.",
+        "Step 5: Enjoy!"
+    ],
+    "image": "images/perfect-hard-boiled-eggs.jpg"
+}

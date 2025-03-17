@@ -1,0 +1,39 @@
+{
+    "title": "Indian Rice (Pulao)",
+    "file_name": "indian-rice-pulao",
+    "url": "https://www.allrecipes.com/recipe/107228/indian-rice-pulao/",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "cooking_time": "40 minutes",
+    "country": "India",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "267 Calories"
+    },
+    "ingredients": [
+        "¼ teaspoon saffron threads or ground turmeric",
+        "6 cups boiling water",
+        "½ cup vegetable shortening",
+        "2 medium onions, chopped",
+        "2 (1 inch) pieces cinnamon stick",
+        "4  whole cloves",
+        "1 teaspoon ground ginger",
+        "2 tablespoons ground cumin",
+        "1 teaspoon garlic powder",
+        "10  cardamom seeds",
+        "4 ½ cups long-grain white rice",
+        "1 cup plain yogurt",
+        "2 teaspoons salt"
+    ],
+    "method": [
+        "Step 1: Place saffron threads into boiling water, set aside to steep.",
+        "Step 2: Melt the vegetable shortening in a large pot over medium-high heat. Stir in the onions, and cook until golden, about 5 minutes. Season with cinnamon sticks, cloves, ginger, cumin, garlic powder, and cardamom seeds. Cook for 3 to 4 minutes to release the flavor, stirring constantly.",
+        "Step 3: Pour in the rice and cook for 10 minutes, stirring constantly. Add the yogurt, saffron water, and salt. Bring to a simmer, then reduce heat to low. Cover pot with a cloth folded into 4 layers. Place a lid over the cloth and cook until the rice is done, about 20 minutes. Remove the cinnamon sticks, cloves, and cardamom seeds before serving."
+    ],
+    "image": "images/indian-rice-pulao.jpg"
+}

@@ -1,0 +1,37 @@
+{
+    "title": "Tomato Rice Stew",
+    "file_name": "tomato-rice-stew",
+    "url": "https://www.allrecipes.com/recipe/48795/tomato-rice-stew/",
+    "cuisine": "Lebanese",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "40 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "200 Calories"
+    },
+    "ingredients": [
+        "4 cups water",
+        "2 cups uncooked white rice",
+        "2  unpeeled potatoes, diced",
+        "1 (12 ounce) can tomato paste",
+        "1 (15 ounce) can tomato sauce",
+        "1 teaspoon dried basil",
+        "1 tablespoon white sugar",
+        "1 tablespoon salt",
+        "2  bay leaves",
+        "1 (13.5 ounce) can whole leaf spinach, drained",
+        "1 (14.5 ounce) can stewed tomatoes, drained and sliced",
+        "½ tablespoon fresh lemon juice"
+    ],
+    "method": [
+        "Step 1: In a large saucepan, mix the water, rice, potatoes, tomato paste, and tomato sauce. Stirring constantly, bring to a boil. Reduce heat to medium, and stir in basil, sugar, salt, and bay leaves. Cook about 15 minutes, stirring often, until potatoes and rice are tender but firm.",
+        "Step 2: Mix spinach, stewed tomatoes, and lemon juice into the saucepan. Reduce heat, and simmer 15 minutes, or until rice has finished cooking and the mixture has thickened."
+    ],
+    "image": "images/tomato-rice-stew.jpg"
+}

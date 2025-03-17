@@ -1,0 +1,33 @@
+{
+    "title": "Russian Cheese Pancakes (Syrniki)",
+    "file_name": "russian-cheese-pancakes-syrniki",
+    "url": "https://www.allrecipes.com/recipe/262168/russian-cheese-pancakes-syrniki/",
+    "cuisine": "Russian",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "151 Calories"
+    },
+    "ingredients": [
+        "1  egg",
+        "3 tablespoons white sugar",
+        "1 cup quark, well drained",
+        "5 tablespoons all-purpose flour, plus extra for dusting",
+        "1 ½ teaspoons vanilla sugar (Optional)",
+        "¼ teaspoon salt",
+        "oil for frying"
+    ],
+    "method": [
+        "Step 1: Beat egg and white sugar together in a bowl until smooth. Whisk in quark cheese, flour, vanilla sugar, and salt. Mix well until dough is thick and sticky.",
+        "Step 2: Divide dough into 5 to 6 portions. Form into balls and coat with some flour. Flatten slightly to form into discs (syrniki).",
+        "Step 3: Heat oil in skillet over medium-low heat. Add the syrniki; fry until browned, 5 minutes per side."
+    ],
+    "image": "images/russian-cheese-pancakes-syrniki.jpg"
+}

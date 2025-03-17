@@ -1,0 +1,38 @@
+{
+    "title": "Ratatouille",
+    "file_name": "ratatouille",
+    "url": "https://www.allrecipes.com/recipe/18411/ratatouille/",
+    "cuisine": "French",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "France",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "251 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons olive oil, divided",
+        "3 cloves garlic, minced",
+        "1  eggplant, cut into ½-inch cubes",
+        "2 teaspoons dried parsley",
+        "salt to taste",
+        "1 cup grated Parmesan cheese",
+        "2  zucchini, sliced",
+        "2 large tomatoes, chopped",
+        "2 cups sliced fresh mushrooms",
+        "1 large onion, sliced into rings",
+        "1  green or red bell pepper, sliced"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Coat the bottom and sides of a 1 ½-quart casserole dish with 1 tablespoon olive oil.",
+        "Step 2: Heat remaining 1 tablespoon olive oil in a medium skillet over medium heat. Cook and stir garlic until fragrant and golden brown. Add eggplant and parsley; cook and stir until eggplant is tender and soft, about 10 minutes. Season with salt to taste.",
+        "Step 3: Spread eggplant mixture evenly across the bottom of the prepared casserole dish; sprinkle with a few tablespoons of Parmesan cheese. Spread zucchini in an even layer over top. Lightly salt and sprinkle with a little more cheese. Continue layering in this fashion, with tomatoes, mushrooms, onion, and bell pepper, covering each layer with a sprinkling of salt and cheese.",
+        "Step 4: Bake in preheated oven until vegetables are tender, about 45 minutes."
+    ],
+    "image": "images/ratatouille.jpg"
+}

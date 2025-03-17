@@ -1,0 +1,36 @@
+{
+    "title": "Sweet Corn Tomalito",
+    "file_name": "sweet-corn-tomalito",
+    "url": "https://www.allrecipes.com/recipe/41460/sweet-corn-tomalito/",
+    "cuisine": "Argentinian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "173 Calories"
+    },
+    "ingredients": [
+        "2 cups frozen whole-kernel corn, thawed, divided",
+        "½ cup water",
+        "½ cup cornmeal",
+        "⅓ cup white sugar",
+        "5 tablespoons margarine, softened",
+        "¼ cup masa harina",
+        "4 teaspoons milk",
+        "1 teaspoon baking powder",
+        "½ teaspoon salt"
+    ],
+    "method": [
+        "Step 1: Blend 1 cup corn kernels, water, and cornmeal in a blender or food processor just until smooth.",
+        "Step 2: Mix sugar, margarine, and masa harina together in a medium bowl until light and fluffy. Stir in blended corn mixture. Mix in remaining 1 cup corn, milk, baking powder, and salt until smooth.",
+        "Step 3: Pour tomalito batter into the top of a double boiler over simmering water, and cover tightly with aluminum foil. Steam until firm, 50 to 60 minutes, checking water level occasionally and refilling if necessary.",
+        "Step 4: Stir pudding before serving to give it a consistent texture. Serve in small scoops."
+    ],
+    "image": "images/sweet-corn-tomalito.jpg"
+}

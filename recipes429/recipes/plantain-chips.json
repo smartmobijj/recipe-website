@@ -1,0 +1,28 @@
+{
+    "title": "Plantain Chips",
+    "file_name": "plantain-chips",
+    "url": "https://www.allrecipes.com/recipe/108614/plantain-chips/",
+    "cuisine": "Nigerian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "103 Calories"
+    },
+    "ingredients": [
+        "Vegetable oil, for deep-frying",
+        "2  green plantains, peeled and sliced 1/8-inch thick",
+        "salt to taste"
+    ],
+    "method": [
+        "Step 1: Heat oil in deep-fryer to 375 degrees F (190 degrees C).",
+        "Step 2: Deep fry the plantain slices, about a dozen at a time, until golden brown on both sides, 3 to 4 minutes. Drain in a large bowl lined with paper towels, and salt to taste while still warm."
+    ],
+    "image": "images/plantain-chips.jpg"
+}

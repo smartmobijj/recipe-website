@@ -1,0 +1,40 @@
+{
+    "title": "Chicken Udon Noodle Soup",
+    "file_name": "chicken-udon-noodle-soup",
+    "url": "https://www.allrecipes.com/recipe/276781/chicken-udon-noodle-soup/",
+    "cuisine": "Japanese",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "507 Calories"
+    },
+    "ingredients": [
+        "1 ½ (32 fluid ounce) containers chicken stock",
+        "1 tablespoon minced fresh ginger root",
+        "1 teaspoon chili powder",
+        "1 clove garlic, minced",
+        "1 large cooked skinless, boneless chicken breast, chopped",
+        "1 head bok choy, chopped",
+        "¼ cup dried shiitake mushrooms",
+        "2 (7 ounce) packages dried udon noodles",
+        "½ cup mung bean sprouts",
+        "1  green onion, sliced diagonally",
+        "2 tablespoons dried minced onion",
+        "1 tablespoon chopped fresh cilantro"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: Bring chicken stock, ginger, chili powder, and garlic to a boil in a pot over medium-high heat.",
+        "Step 3: Add chicken, bok choy, and mushrooms; reduce heat and simmer lightly for 3 minutes.",
+        "Step 4: Add noodles and cook for 4 minutes.",
+        "Step 5: Ladle soup mixture into bowls. Garnish with bean sprouts, green onion, dried onion, and cilantro."
+    ],
+    "image": "images/chicken-udon-noodle-soup.jpg"
+}

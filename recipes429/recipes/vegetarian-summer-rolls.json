@@ -1,0 +1,32 @@
+{
+    "title": "Vegetarian Summer Rolls",
+    "file_name": "vegetarian-summer-rolls",
+    "url": "https://www.allrecipes.com/recipe/283590/vegetarian-summer-rolls/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "10 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "161 Calories"
+    },
+    "ingredients": [
+        "cooking spray",
+        "1 (14 ounce) package firm tofu, drained and cubed",
+        "1 (12 ounce) package spring roll wrappers",
+        "1 medium cucumber, chopped",
+        "1 (12 ounce) package broccoli slaw",
+        "½ cup Thai peanut sauce, or more to taste"
+    ],
+    "method": [
+        "Step 1: Spray a large pan or wok with cooking spray and heat over medium heat. Add tofu and cook, shaking the pan as needed, until browned on all sides, 8 to 10 minutes. Remove from the heat.",
+        "Step 2: Pour some water into a large, shallow plate. Place 1 spring roll wrapper in the water until soft, about 15 seconds, Remove to a work surface and place about 1 tablespoon tofu, 1 tablespoon cucumber, and 2 tablespoons broccoli slaw on the edge of the wrapper. Fold in the sides and wrap ingredients so it looks like an egg rolls. Repeat with remaining ingredients.",
+        "Step 3: Serve rolls with peanut sauce."
+    ],
+    "image": "images/vegetarian-summer-rolls.jpg"
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Maple Pecan Blondies",
+    "file_name": "maple-pecan-blondies",
+    "url": "https://www.allrecipes.com/maple-pecan-blondies-recipe-7775410",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "284 Calories"
+    },
+    "ingredients": [
+        "2 cups all purpose flour",
+        "1 teaspoon salt",
+        "1 teaspoon baking powder",
+        "1/4 teaspoon baking soda",
+        "2/3 cup unsalted butter",
+        "1 1/4 cups brown sugar",
+        "1/2 cup maple syrup",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "1 1/2 cups pecans, toasted and chopped, divided"
+    ],
+    "method": [
+        "Step 1: Gather ingredients.  Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Line an 8x8-inch baking pan with parchment paper, extending the paper over the sides.",
+        "Step 3: In a large bowl whisk together flour, salt, baking powder, and baking soda; set aside.",
+        "Step 4: In a medium saucepan combine butter, brown sugar, andmaple syrup. Cook and stir over medium heat until melted and smooth,about 6 minutes. Remove from heat; let cool for 10 minutes.",
+        "Step 5: Stir eggs and vanilla into the butter mixture.",
+        "Step 6: Stir butter mixture into flour mixture.",
+        "Step 7: Fold in 1 1/4 cups of the pecans.",
+        "Step 8: Spread batter in prepared pan.",
+        "Step 9: Sprinkle remaining 1/4 cup pecans over the top. Bake until set, 35 to 40 minutes. The internal temperature should read 200 degrees F ( (93 degrees C).",
+        "Step 10: Cool for 10 minutes on a wire rack before lifting from pan with the parchment paper. Cool completely on a wire rack. Cut into bars for serving."
+    ],
+    "image": "images/maple-pecan-blondies.jpg"
+}

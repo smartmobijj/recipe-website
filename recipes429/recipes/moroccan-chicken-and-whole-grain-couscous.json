@@ -1,0 +1,41 @@
+{
+    "title": "Moroccan Chicken and Whole Grain Couscous",
+    "file_name": "moroccan-chicken-and-whole-grain-couscous",
+    "url": "https://www.allrecipes.com/recipe/83565/moroccan-chicken-and-whole-grain-couscous/",
+    "cuisine": "Moroccan",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "Morocco",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "399 Calories"
+    },
+    "ingredients": [
+        "1 cup whole wheat couscous",
+        "1 tablespoon vegetable oil",
+        "1 medium onion, chopped",
+        "2  bay leaves",
+        "5  whole cloves, crushed",
+        "½ teaspoon cinnamon",
+        "1 teaspoon ground dried turmeric",
+        "¼ teaspoon ground cayenne pepper",
+        "6  skinless, boneless chicken breast halves - chopped",
+        "1 (48 fluid ounce) can chicken broth",
+        "1 (16 ounce) can garbanzo beans",
+        "1 (16 ounce) can crushed tomatoes",
+        "2  carrots, cut into 1/2 inch pieces",
+        "1  zucchini, cut into 1/2-inch pieces",
+        "salt to taste"
+    ],
+    "method": [
+        "Step 1: Prepare couscous according to package directions.",
+        "Step 2: Heat oil in a large pot over medium heat. Cook and stir onion in hot oil until tender. Mix in bay leaves, cloves, cinnamon, turmeric, and cayenne pepper. Add chicken and cook until well browned. Pour in chicken broth, garbanzo beans, and tomatoes; bring to a boil. Reduce heat to low and simmer for 25 minutes.",
+        "Step 3: Mix carrots and zucchini into the pot. Season with salt. Continue cooking until vegetables are tender, about 10 minutes. Serve stew over cooked couscous."
+    ],
+    "image": "images/moroccan-chicken-and-whole-grain-couscous.jpg"
+}

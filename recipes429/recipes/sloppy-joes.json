@@ -1,0 +1,35 @@
+{
+    "title": "Sloppy Joes",
+    "file_name": "sloppy-joes",
+    "url": "https://www.allrecipes.com/recipe/24264/sloppy-joes-ii/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "30 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "243 Calories"
+    },
+    "ingredients": [
+        "1 pound lean ground beef",
+        "¼ cup chopped onion",
+        "¼ cup chopped green bell pepper",
+        "¾ cup ketchup, or to taste",
+        "1 tablespoon brown sugar, or to taste",
+        "1 teaspoon yellow mustard, or to taste",
+        "½ teaspoon garlic powder",
+        "salt and ground black pepper to taste",
+        "6  hamburger buns, split"
+    ],
+    "method": [
+        "Step 1: Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes.",
+        "Step 2: Stir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes.",
+        "Step 3: Divide meat mixture evenly among hamburger buns."
+    ],
+    "image": "images/sloppy-joes.jpg"
+}

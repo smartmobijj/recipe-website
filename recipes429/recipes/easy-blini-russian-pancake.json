@@ -1,0 +1,37 @@
+{
+    "title": "Easy Blini (Russian Pancake)",
+    "file_name": "easy-blini-russian-pancake",
+    "url": "https://www.allrecipes.com/recipe/260537/easy-blini-russian-pancake/",
+    "cuisine": "Russian",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "167 Calories"
+    },
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "¾ teaspoon salt",
+        "½ teaspoon baking powder",
+        "¾ cup milk",
+        "2 tablespoons milk",
+        "1 large egg",
+        "1 tablespoon melted unsalted butter",
+        "1 tablespoon unsalted butter"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine flour, salt, and baking powder in a bowl.",
+        "Step 3: Whisk 3/4 cup plus 2 tablespoons milk, egg, and 1 tablespoon melted butter together in a separate bowl. Mix into the flour mixture until the batter is fully combined.",
+        "Step 4: Heat 1 tablespoon butter in a large skillet over medium-low heat. Cooking several blini at a time, drop batter, one tablespoon at a time, onto the heated skillet.",
+        "Step 5: Cook until bubbles form, 1 1/2 to 2 minutes. Flip and continue cooking until brown, about 1 minute more. Move to a paper towel-lined plate to help soak up excess butter.",
+        "Step 6: Repeat with the remaining batter."
+    ],
+    "image": "images/easy-blini-russian-pancake.jpg"
+}

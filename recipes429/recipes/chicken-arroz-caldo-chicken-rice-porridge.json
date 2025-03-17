@@ -1,0 +1,41 @@
+{
+    "title": "Chicken Arroz Caldo (Chicken Rice Porridge)",
+    "file_name": "chicken-arroz-caldo-chicken-rice-porridge",
+    "url": "https://www.allrecipes.com/recipe/212940/chicken-arroz-caldo-chicken-rice-porridge/",
+    "cuisine": "Filipino",
+    "difficulty": "Easy",
+    "cooking_time": "60 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "20 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "294 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "1  onion, diced",
+        "2 cloves garlic, crushed",
+        "1 (2 inch) piece fresh ginger, peeled and thinly sliced",
+        "2 ¼ pounds chicken wings, split and tips discarded",
+        "1 tablespoon fish sauce (Optional)",
+        "5 ¼ cups chicken broth",
+        "1 cup glutinous sweet rice",
+        "salt and pepper to taste",
+        "1  green onion, chopped",
+        "1  lemon, sliced (Optional)",
+        "1 teaspoon fish sauce for sprinkling, if desired (Optional)"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Heat oil in a large pot over medium heat. Cook and stir onion, garlic, and ginger in hot oil until fragrant, about 5 minutes.",
+        "Step 3: Add chicken wings; cook and stir for 1 minute. Stir in fish sauce, cover, and cook another 2 minutes.",
+        "Step 4: Pour chicken broth into the pot. Stir in sweet rice and bring mixture to a boil. Cover and cook for 10 minutes, stirring occasionally to prevent rice from sticking to the bottom of the pot.",
+        "Step 5: Season with salt and pepper. Portion soup into bowls and garnish with green onion.",
+        "Step 6: Serve with lemon slices and additional fish sauce, if desired."
+    ],
+    "image": "images/chicken-arroz-caldo-chicken-rice-porridge.jpg"
+}

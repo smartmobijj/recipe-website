@@ -1,0 +1,43 @@
+{
+    "title": "Boliche (Cuban Pot Roast)",
+    "file_name": "boliche-cuban-pot-roast",
+    "url": "https://www.allrecipes.com/recipe/207840/boliche-cuban-pot-roast/",
+    "cuisine": "Cuban",
+    "difficulty": "Hard",
+    "cooking_time": "210 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "3 hrs",
+        "total_time": "6 hrs 40 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "586 Calories"
+    },
+    "ingredients": [
+        "4 pounds beef eye of round roast",
+        "2 (4 ounce) links chorizo sausage, cut into pieces",
+        "6 cloves garlic",
+        "½ teaspoon dried oregano",
+        "⅛ teaspoon paprika",
+        "salt and ground black pepper to taste",
+        "½ cup orange juice",
+        "¼ cup lime juice",
+        "¼ cup lemon juice",
+        "½ cup olive oil",
+        "2 large onions, thickly sliced",
+        "3 cups beef broth, or more if needed",
+        "1 cup dry sherry",
+        "2  bay leaves, crumbled",
+        "4  potatoes, peeled and halved"
+    ],
+    "method": [
+        "Step 1: Lay roast flat on your work surface. Use the tip of a sharp boning or paring knife to cut a pocket in roast by inserting the knife all the way through the center of the roast, beginning on the flat side. Rotate the blade 90 degrees and insert the knife in the same spot, creating a cross shape that extends through the roast. Stuff chorizo pieces into pocket. Pierce roast all over using the same knife; transfer to a glass or ceramic bowl.",
+        "Step 2: Mash garlic and oregano with a mortar and pestle until a paste forms; rub all over roast, then season with paprika, salt, and pepper. Pour orange juice, lime juice, and lemon juice over roast. Cover with plastic wrap and marinate in the refrigerator for at least 3 hours, or overnight. Remove roast from marinade; shake off excess. Reserve marinade.",
+        "Step 3: Heat oil in a large Dutch oven over medium heat. Brown roast on all sides, about 10 minutes; transfer to a platter, and set aside. Add onions; cook and stir until softened and translucent, about 5 minutes. Return roast to the Dutch oven. Add beef broth, sherry, reserved marinade, and bay leaves. Increase heat to medium-high, bring to a boil, then cover and reduce heat to low; simmer 2 hours.",
+        "Step 4: Add potatoes to the Dutch oven, cover, and continue to simmer until potatoes are tender and easily pierced with a fork, about 30 minutes more, adding additional beef broth as needed.",
+        "Step 5: Transfer roast to a platter; cover with two layers of aluminum foil, and allow to rest in a warm area for 10 minutes. Slice roast into 1/2-inch-thick slices; arrange potatoes on the platter. Pour sauce over roast and potatoes to serve."
+    ],
+    "image": "images/boliche-cuban-pot-roast.jpg"
+}

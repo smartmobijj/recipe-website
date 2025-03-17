@@ -1,0 +1,39 @@
+{
+    "title": "Beef and Okra Bamia",
+    "file_name": "beef-and-okra-bamia",
+    "url": "https://www.allrecipes.com/recipe/227988/beef-and-okra-bamia/",
+    "cuisine": "Egyptian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "366 Calories"
+    },
+    "ingredients": [
+        "⅔ cup olive oil",
+        "1 tablespoon salt, more to taste",
+        "1 pound beef top sirloin, cut into 1-inch cubes",
+        "½ large onion, chopped",
+        "6 cloves garlic, minced",
+        "2 (10 ounce) cans tomato sauce",
+        "1 tablespoon tomato paste",
+        "1 (10 ounce) package frozen okra, thawed",
+        "2 cups water",
+        "1 ½ tablespoons ground coriander",
+        "1 teaspoon ground white pepper",
+        "2 teaspoons ground cumin",
+        "1  jalapeño pepper, thinly sliced"
+    ],
+    "method": [
+        "Step 1: Heat olive oil in a large saucepan over high heat. Sprinkle 1 tablespoon salt over meat cubes. Add meat, onion, and garlic to the pan and cook until meat begins to brown, about 5 minutes. Reduce heat to medium and continue to cook, about 3 more minutes. Remove meat and set aside.",
+        "Step 2: Stir tomato sauce and tomato paste into the pan. Add okra, water, coriander, white pepper, and cumin. Bring to a boil. Season with salt to taste, reduce heat to low, and simmer until okra is tender, 30 to 45 minutes.",
+        "Step 3: Return meat to the pan. Simmer until flavors are blended, about 10 minutes. Serve garnished with slices of jalapeño pepper."
+    ],
+    "image": "images/beef-and-okra-bamia.jpg"
+}

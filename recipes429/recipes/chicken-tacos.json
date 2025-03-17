@@ -1,0 +1,39 @@
+{
+    "title": "Chicken Tacos",
+    "file_name": "chicken-tacos",
+    "url": "https://www.allrecipes.com/recipe/37906/chicken-tacos/",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "401 Calories"
+    },
+    "ingredients": [
+        "1 pound skinless, boneless chicken breast halves, cut into bite size pieces",
+        "1 cup lemonade",
+        "2 tablespoons olive oil",
+        "1 tablespoon lime juice",
+        "1 ½ teaspoons Worcestershire sauce",
+        "½ teaspoon garlic powder",
+        "½ teaspoon onion powder",
+        "1  bay leaf",
+        "1 (12 ounce) package corn tortillas",
+        "2 large tomatoes, chopped",
+        "1 head lettuce, shredded",
+        "1 (8 ounce) package shredded sharp Cheddar cheese",
+        "1 (8 ounce) jar salsa",
+        "1 (8 ounce) container sour cream"
+    ],
+    "method": [
+        "Step 1: Combine chicken, lemonade, olive oil, lime juice, and Worcestershire sauce in a large skillet over medium heat. Stir in garlic powder, onion powder, and bay leaf. Simmer until chicken is tender and juices run clear, 15 to 20 minutes.",
+        "Step 2: Meanwhile, warm the tortillas in the oven or microwave until soft. When chicken is fully cooked, transfer to serving bowl. Place chopped tomatoes, lettuce, cheese, salsa, and sour cream in serving dishes. Each person can create their own wrap, using their preferred ingredients."
+    ],
+    "image": "images/chicken-tacos.png"
+}

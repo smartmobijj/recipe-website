@@ -1,0 +1,30 @@
+{
+    "title": "Creamy Kiwi Sandwich",
+    "file_name": "creamy-kiwi-sandwich",
+    "url": "https://www.allrecipes.com/recipe/88398/creamy-kiwi-sandwich/",
+    "cuisine": "New Zealand",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "New Zealand",
+    "continent": "Australia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "Unknown",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "243 Calories"
+    },
+    "ingredients": [
+        "1 (8 ounce) package Neufchatel cheese",
+        "2 teaspoons lemon zest, finely chopped",
+        "2 tablespoons honey, or to taste",
+        "1 cup chopped kiwi fruit",
+        "16 slices whole wheat bread"
+    ],
+    "method": [
+        "Step 1: In a small bowl, mix together Neufchatel cheese, lemon zest, and honey. Refrigerate for 1 day to allow the flavors to develop.",
+        "Step 2: Spread about 2 tablespoons of the sweetened Neufchatel cheese over one side of a slice of bread. Top with about 2 tablespoons of chopped kiwi fruit, and another slice of bread. Repeat with remaining ingredients to make 8 sandwiches in all."
+    ],
+    "image": "images/creamy-kiwi-sandwich.jpg"
+}

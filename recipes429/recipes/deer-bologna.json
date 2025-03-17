@@ -1,0 +1,43 @@
+{
+    "title": "Deer Bologna",
+    "file_name": "deer-bologna",
+    "url": "https://www.allrecipes.com/recipe/126812/deer-bologna/",
+    "cuisine": "German",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Germany",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "2 hrs",
+        "cook_time": "2 hrs",
+        "total_time": "1 day 4 hrs",
+        "active_time": "Unknown",
+        "servings": "160",
+        "calories": "179 Calories"
+    },
+    "ingredients": [
+        "3 cups firmly packed brown sugar",
+        "2 cups sugar-based curing mixture (such as Morton Tender Quick)",
+        "6 tablespoons coarse ground black pepper",
+        "6 tablespoons crushed red pepper flakes",
+        "¼ cup garlic powder",
+        "2 tablespoons monosodium glutamate (MSG)",
+        "2 teaspoons ground mace",
+        "2 teaspoons mustard powder",
+        "40 pounds ground venison",
+        "16 fluid ounces liquid smoke",
+        "1 1/2- to 1 3/4-inch 1 1/2- to 1 3/4-inch beef rounds casings"
+    ],
+    "method": [
+        "Step 1: Combine brown sugar, curing mixture, black pepper, red pepper flakes, garlic powder, MSG, mace, and mustard; sprinkle over venison in a large mixing tub. Mix spices into venison, then add liquid smoke; mix by hand until well combined, 3 to 5 minutes. Place into a non-reactive glass or plastic container, cover, and refrigerate for 24 hours. Prepare casings according to instructions below (Cook's Note).",
+        "Step 2: To stuff, cut off a 2-foot (60-centimeter) piece of casing, pinch out water, and tie a knot at one end of casing using twine. Fill casing with venison mixture to within 4 inches of open end using a sausage stuffer or large funnel. Tie open end near sausage mixture, so mixture is firm. Tie two sausage ends together to form a circle. Repeat with remaining casings, venison mixture, and twine. Place bologna in a large roasting pan.",
+        "Step 3: Preheat the oven to 225 degrees F (110 degrees C).",
+        "Step 4: Bake in the preheated oven until bologna reaches an internal temperature of 180 degrees F (82 degrees C), about 2 hours. Cool, then refrigerate until cold.",
+        "Step 5: To serve, cut through casing lengthwise; peel off and discard casing. Slice bologna into thin slices. Bologna may be kept tightly wrapped in the freezer; defrost in the refrigerator before serving.",
+        "Step 6: Casings are purchased packed either in a salty brine or in moist salt. They must be rinsed inside and out and soaked overnight before using.",
+        "Step 7: To rinse the outside, place casings in a colander under warm running water (90 degrees F/32 degrees C) and rinse until all traces of salt are gone, 2 to 3 minutes. The casings may also be rinsed in a large bowl of warm water (90 degrees F/32 degrees C); drain and replace water until all salt is gone, 4 to 5 times.",
+        "Step 8: To rinse the inside, place casings in a colander in the sink. Find one end of 1 casing, hold it open under warm running water (90 degrees F/32 degrees C) and fill with 8 to 10 inches of water. Gently lift casing out of colander, allowing water to run all the way through, and empty out the end. Repeat twice more with same casing; set aside. Repeat with remaining casings.",
+        "Step 9: After casings have been rinsed, place into a bowl filled with warm water (90 degrees F/32 degrees C); soak in the refrigerator 2 hours to overnight. Drain off cold water; replace with fresh warm water (90 degrees F/32 degrees C). Set aside at room temperature before stuffing for 2 hours."
+    ],
+    "image": "images/deer-bologna.jpg"
+}

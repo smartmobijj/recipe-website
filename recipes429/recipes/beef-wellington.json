@@ -1,0 +1,45 @@
+{
+    "title": "Beef Wellington",
+    "file_name": "beef-wellington",
+    "url": "https://www.allrecipes.com/recipe/16899/beef-wellington/",
+    "cuisine": "British",
+    "difficulty": "Hard",
+    "cooking_time": "120 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "744 Calories"
+    },
+    "ingredients": [
+        "2 ½ pounds beef tenderloin",
+        "4 tablespoons butter, softened, divided",
+        "2 tablespoons butter",
+        "1  onion, chopped",
+        "½ cup sliced fresh mushrooms",
+        "2 ounces liver paté",
+        "salt and pepper to taste",
+        "1 (17.5 ounce) package frozen puff pastry, thawed",
+        "1 large egg yolk, beaten",
+        "1 (10.5 ounce) can beef broth",
+        "2 tablespoons red wine"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 425 degrees F (220 degrees C).",
+        "Step 2: Place beef tenderloin in a baking dish. Spread 2 tablespoons softened butter over beef.",
+        "Step 3: Bake in the preheated oven until browned, 10 to 15 minutes. Remove beef from the pan and reserve pan juices; allow beef to cool completely.",
+        "Step 4: Increase oven temperature to 450 degrees F (230 degrees C).",
+        "Step 5: Melt 2 tablespoons butter in a skillet over medium heat. Sauté onion and mushrooms in butter for 5 minutes. Remove from heat and let cool.",
+        "Step 6: Mix paté and remaining 2 tablespoons softened butter together in a bowl; season with salt and pepper. Spread paté mixture over beef. Top with onion and mushroom mixture.",
+        "Step 7: Roll out puff pastry dough to about 1/4-inch thickness and place beef in the center.",
+        "Step 8: Fold up and seal all the edges, making sure the seams are not too thick. Place beef in a 9x13-inch baking dish, cut a few slits in the top of dough, and brush with egg yolk.",
+        "Step 9: Bake in the preheated oven for 10 minutes. Reduce heat to 425 degrees F (220 degrees C) and continue baking until pastry is a rich, golden brown, 10 to 15 minutes. An instant-read thermometer inserted into the center should read between 122 to 130 degrees F (50 to 54 degrees C) for medium rare. Set aside to rest.",
+        "Step 10: Meanwhile, place reserved pan juices in a small saucepan over high heat. Stir in beef broth and red wine; boil until slightly reduced, about 5 minutes. Strain and serve with beef.",
+        "Step 11: Serve hot and enjoy!"
+    ],
+    "image": "images/beef-wellington.jpg"
+}

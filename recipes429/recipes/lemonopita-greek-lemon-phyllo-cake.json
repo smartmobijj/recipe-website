@@ -1,0 +1,39 @@
+{
+    "title": "Lemonopita (Greek Lemon Phyllo Cake)",
+    "file_name": "lemonopita-greek-lemon-phyllo-cake",
+    "url": "https://www.allrecipes.com/recipe/267905/lemonopita-greek-lemon-phyllo-cake/",
+    "cuisine": "Egyptian",
+    "difficulty": "Hard",
+    "cooking_time": "90 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "45 mins",
+        "total_time": "2 hrs 10 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "605 Calories"
+    },
+    "ingredients": [
+        "3 cups white sugar",
+        "2 cups water",
+        "4",
+        "1 (16 oz) package phyllo dough, defrosted if frozen",
+        "7 oz  Greek-style yogurt",
+        "1 cup sunflower oil",
+        "3/4 cup white sugar",
+        "5 large eggs",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon baking powder"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking pan with oil.",
+        "Step 2: Remove phyllo sheets from the package. Tear each sheet roughly into shreds and pile up in the baking pan. Let shredded phyllo dry out a little while you prepare the remaining ingredients.",
+        "Step 3: Make the syrup: Combine sugar, water, and zest of 2 lemons in a saucepan over medium-high heat. Bring to a boil and simmer for 8 minutes. Remove from heat and stir in lemon juice from all 4 lemons. Allow syrup to cool while you prepare the cake.",
+        "Step 4: Combine yogurt, oil, sugar, eggs, vanilla extract, baking powder, and the remaining lemon zest in a blender or food processor. Blend together on high speed until frothy, about 2 minutes. Pour lemon-egg mixture over the shredded phyllo in the baking pan. Stir everything together gently until egg mixture is evenly distributed, ensuring there are no dry spots of phyllo.",
+        "Step 5: Bake in the preheated oven until the top is golden and the filling set, about 45 minutes.",
+        "Step 6: Remove lemonopita from the oven and immediately ladle the cooled syrup over the hot cake. Set aside until most of the syrup has soaked in, at least 1 hour. Slice into squares and serve."
+    ],
+    "image": "images/lemonopita-greek-lemon-phyllo-cake.jpg"
+}

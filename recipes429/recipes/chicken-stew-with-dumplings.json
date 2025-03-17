@@ -1,0 +1,45 @@
+{
+    "title": "Chicken Stew with Dumplings",
+    "file_name": "chicken-stew-with-dumplings",
+    "url": "https://www.allrecipes.com/recipe/228224/chicken-stew-with-dumplings/",
+    "cuisine": "Kenyan",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Kenya",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "45 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "464 Calories"
+    },
+    "ingredients": [
+        "1 (3 pound) rotisserie chicken",
+        "2 tablespoons butter",
+        "1  onion, diced",
+        "2 ribs celery, sliced thin",
+        "2 tablespoons all-purpose flour",
+        "2 (14.5 ounce) cans chicken broth",
+        "¾ pound new potatoes, cut into 1/2-inch dice",
+        "2 cups frozen mixed vegetables",
+        "1 teaspoon salt",
+        "½ teaspoon ground black pepper",
+        "½ teaspoon dried basil",
+        "¼ teaspoon dried thyme",
+        "1 ½ cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "½ teaspoon salt",
+        "3 tablespoons cold butter, cubed",
+        "¾ cup milk, or more as needed",
+        "2 tablespoons dried dill"
+    ],
+    "method": [
+        "Step 1: To prepare the stew: Debone rotisserie chicken; cut meat into chunks or shred. Set aside.",
+        "Step 2: Melt butter in a large Dutch oven over medium heat; cook and stir onion and celery in hot butter until soft, about 10 minutes. Sprinkle in flour and whisk continuously to make a thick roux, about 2 minutes. Slowly pour in broth, whisking to remove any lumps. Add potatoes, frozen vegetables, salt, black pepper, basil, and thyme. Cover and cook over medium heat until vegetables are tender, 15 to 20 minutes. Stir in chicken meat and continue to simmer.",
+        "Step 3: Meanwhile, make the dumplings: Combine flour, baking powder, and salt in a large bowl; cut in butter with 2 knives or a pastry blender until mixture resembles coarse crumbs. Stir in milk and dill until dough comes together.",
+        "Step 4: Drop rounded tablespoonfuls of dough into simmering stew. Cook, uncovered, for 10 minutes. Cover and cook until dumplings are tender, 8 to 10 minutes more."
+    ],
+    "image": "images/chicken-stew-with-dumplings.jpg"
+}

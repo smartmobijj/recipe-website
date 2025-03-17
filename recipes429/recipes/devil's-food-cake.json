@@ -1,0 +1,40 @@
+{
+    "title": "Devil's Food Cake",
+    "file_name": "devil's-food-cake",
+    "url": "https://www.allrecipes.com/recipe/7349/devils-food-cake-i/",
+    "cuisine": "South African",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "166 Calories"
+    },
+    "ingredients": [
+        "½ cup butter",
+        "3 (1 ounce) squares unsweetened chocolate",
+        "2 cups white sugar",
+        "2  eggs",
+        "1 cup water",
+        "2 ¼ cups all-purpose flour",
+        "1 ½ teaspoons baking soda",
+        "¼ teaspoon salt",
+        "¼ cup milk",
+        "1 teaspoon distilled white vinegar"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Lightly grease and flour two 9-inch round pans or one 9x13-inch pan.",
+        "Step 2: In a small pan, melt butter or margarine with unsweetened chocolate. Set aside to cool slightly.",
+        "Step 3: Cream together sugar and eggs until light in color. Add chocolate mixture to eggs and temper mixture by beating well. Add 1 cup boiled water (still warm) and blend well. Mixture will be very liquid.",
+        "Step 4: Mix together flour, baking soda, and salt. Add this mixture to chocolate mixture and blend well.",
+        "Step 5: Mix together vinegar and the milk and stir into chocolate batter. Pour into the prepared pans.",
+        "Step 6: Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 30 minutes.",
+        "Step 7: This cake is delicious layered with mousse, chocolate ganache, or Black Forest fillings."
+    ],
+    "image": "images/devil's-food-cake.jpg"
+}

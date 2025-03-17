@@ -1,0 +1,41 @@
+{
+    "title": "Slow Cooker Mojo Pork",
+    "file_name": "slow-cooker-mojo-pork",
+    "url": "https://www.allrecipes.com/recipe/281144/slow-cooker-mojo-pork/",
+    "cuisine": "Cuban",
+    "difficulty": "Medium",
+    "cooking_time": "120 minutes",
+    "country": "Cuba",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "7 hrs 5 mins",
+        "total_time": "13 hrs 25 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "314 Calories"
+    },
+    "ingredients": [
+        "1 (4 pound) pork butt roast",
+        "1 ½ teaspoons salt",
+        "1 teaspoon ground black pepper",
+        "¾ cup freshly squeezed orange juice",
+        "½ cup freshly squeezed lime juice",
+        "½ cup extra-virgin olive oil",
+        "¼ cup chopped cilantro",
+        "6 cloves garlic, minced",
+        "2  oranges, zested",
+        "1  lime, zested",
+        "2  bay leaves",
+        "2 teaspoons dried oregano",
+        "1 teaspoon ground cumin"
+    ],
+    "method": [
+        "Step 1: Score fat side of pork butt in a crosshatch pattern, cutting about 1/8-inch deep. Season with salt and black pepper. Set aside.",
+        "Step 2: Combine orange juice, lime juice, olive oil, cilantro, garlic, orange zest, lime zest, bay leaves, oregano, and cumin in a large resealable bag. Add pork, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator 6 hours to overnight. Flip bag occasionally and massage marinade over roast to evenly distribute.",
+        "Step 3: Transfer pork and marinade to a slow cooker. Cover slow cooker. Cook on Low until pork is fork-tender, 7 to 8 hours.",
+        "Step 4: Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+        "Step 5: Transfer pork to a roasting pan, fat-side up. Broil until lightly browned and skin has crisped, 4 to 5 minutes."
+    ],
+    "image": "images/slow-cooker-mojo-pork.jpg"
+}

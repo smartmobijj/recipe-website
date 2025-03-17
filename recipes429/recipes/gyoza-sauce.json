@@ -1,0 +1,34 @@
+{
+    "title": "Gyoza Sauce",
+    "file_name": "gyoza-sauce",
+    "url": "https://www.allrecipes.com/recipe/162361/gyoza-sauce/",
+    "cuisine": "Japanese",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "Unknown",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "8 Calories"
+    },
+    "ingredients": [
+        "½ cup rice vinegar",
+        "½ cup low-sodium soy sauce",
+        "⅓ cup thinly sliced green onions",
+        "1  garlic clove, minced",
+        "1 teaspoon sesame oil",
+        "½ teaspoon crushed red pepper flakes",
+        "½ teaspoon minced fresh ginger root"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Whisk together rice vinegar, soy sauce, green onions, garlic, sesame oil, red pepper flakes, and ginger in a bowl.",
+        "Step 3: Let sit for 15 minutes before serving.",
+        "Step 4: Store covered in the refrigerator for up to 1 week. Enjoy!"
+    ],
+    "image": "images/gyoza-sauce.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Summer Couscous Salad",
+    "file_name": "summer-couscous-salad",
+    "url": "https://www.allrecipes.com/summer-couscous-salad-recipe-7504350",
+    "cuisine": "Israeli",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "Unknown",
+        "total_time": "1 hr 20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "115 Calories"
+    },
+    "ingredients": [
+        "1 cup cooked ptitim",
+        "1 1/2 cups zucchini",
+        "1 1/2 cups yellow squash",
+        "1  red bell pepper",
+        "1  clove garlic, minced",
+        "2 tablespoons mixed fresh herbs",
+        "2 tablespoons extra-virgin olive oil",
+        "2 tablespoons red wine vinegar or lemon juice",
+        "1/2 teaspoon kosher salt",
+        "1/2 teaspoon black pepper"
+    ],
+    "method": [
+        "Step 1: Stir together ptitim, zucchini, squash, bell pepper, garlic, and herbs. Add oil, red wine vinegar or lemon juice, salt, and black pepper. Mix to combine.",
+        "Step 2: Chill at least 1 hour before serving or up to 2 days. Garnish with additional fresh herbs."
+    ],
+    "image": "images/summer-couscous-salad.jpg"
+}

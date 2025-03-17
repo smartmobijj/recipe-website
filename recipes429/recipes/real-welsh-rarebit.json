@@ -1,0 +1,41 @@
+{
+    "title": "Real Welsh Rarebit",
+    "file_name": "real-welsh-rarebit",
+    "url": "https://www.allrecipes.com/recipe/164787/real-welsh-rarebit/",
+    "cuisine": "Welsh",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Wales (United Kingdom)",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "3",
+        "calories": "712 Calories"
+    },
+    "ingredients": [
+        "¼ cup butter",
+        "¼ cup all-purpose flour",
+        "½ teaspoon salt",
+        "¼ teaspoon pepper",
+        "¼ teaspoon dry mustard",
+        "¼ teaspoon Worcestershire sauce, or more to taste",
+        "2 drops Tabasco, or more to taste",
+        "1 cup whole milk",
+        "½ cup beer",
+        "½ pound sharp Cheddar cheese, shredded",
+        "6 slices bread"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Melt butter in a saucepan over low heat. Stir in flour, salt, pepper, mustard, Worcestershire sauce, and hot pepper sauce. Cook and stir until smooth and bubbly, about 5 minutes.",
+        "Step 3: Remove the saucepan from the heat. Gradually stir in milk, then return to heat and stir continuously until mixture comes to a boil. Slowly pour in beer; cook and stir for 1 minute.",
+        "Step 4: Melt Cheddar cheese into mixture in small portions until completely incorporated. Set the oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+        "Step 5: Toast bread slices on 1 side. Arrange on a baking sheet with the untoasted side facing up.",
+        "Step 6: Spoon cheese sauce over untoasted side.",
+        "Step 7: Cook under the preheated broiler until cheese sauce is bubbling and golden, 2 to 3 minutes. Serve hot."
+    ],
+    "image": "images/real-welsh-rarebit.jpg"
+}

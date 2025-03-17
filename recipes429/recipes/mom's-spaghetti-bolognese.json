@@ -1,0 +1,43 @@
+{
+    "title": "Mom's Spaghetti Bolognese",
+    "file_name": "mom's-spaghetti-bolognese",
+    "url": "https://www.allrecipes.com/recipe/217378/moms-spaghetti-bolognese/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "40 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "451 Calories"
+    },
+    "ingredients": [
+        "1 (16 ounce) package spaghetti",
+        "2 tablespoons olive oil",
+        "3 strips bacon, diced",
+        "1 large onion, finely chopped",
+        "1 stalk celery, finely chopped",
+        "1  carrot, finely chopped",
+        "1 teaspoon dried oregano",
+        "3 cloves garlic, minced",
+        "1 pound lean ground beef",
+        "2 tablespoons balsamic vinegar",
+        "2 (28 ounce) cans crushed tomatoes",
+        "2 tablespoons tomato paste",
+        "2 teaspoons white sugar",
+        "salt and ground black pepper to taste",
+        "2 tablespoons chopped fresh basil",
+        "¼ cup freshly grated Parmesan cheese"
+    ],
+    "method": [
+        "Step 1: Fill a large pot with lightly salted water and bring to a rolling boil. Stir in spaghetti and return to a boil. Cook spaghetti uncovered, stirring occasionally, until tender yet firm to the bite, about 12 minutes; drain.",
+        "Step 2: Heat olive oil in a large pot over medium heat; add bacon. Cook, turning occasionally, until crisp, 8 to 10 minutes. Add onion, celery, carrot, and oregano to bacon; continue cooking until vegetables begin to soften, 8 to 10 minutes. Add garlic; cook until fragrant, about 2 minutes. Crumble in ground beef; cook and stir until no longer pink and completely cooked, 8 to 10 minutes.",
+        "Step 3: Pour vinegar over ground beef mixture; simmer until liquid evaporates, about 5 minutes. Stir in crushed tomatoes, tomato paste, and sugar; bring to a boil, season with salt and black pepper, then remove from heat. Stir in basil .",
+        "Step 4: Spoon sauce over spaghetti; top with Parmesan cheese to serve."
+    ],
+    "image": "images/mom's-spaghetti-bolognese.jpg"
+}

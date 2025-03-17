@@ -1,0 +1,40 @@
+{
+    "title": "Eggplant Mixed Grill",
+    "file_name": "eggplant-mixed-grill",
+    "url": "https://www.allrecipes.com/recipe/73297/eggplant-mixed-grill/",
+    "cuisine": "Lebanese",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "12 mins",
+        "total_time": "2 hrs 30 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "107 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons olive oil",
+        "2 tablespoons chopped fresh parsley",
+        "2 tablespoons chopped fresh oregano",
+        "2 tablespoons chopped fresh basil",
+        "1 tablespoon balsamic vinegar",
+        "1 teaspoon kosher salt",
+        "½ teaspoon black pepper",
+        "6 cloves garlic, minced",
+        "1  red onion, cut into wedges",
+        "18 spears fresh asparagus, trimmed",
+        "12  crimini mushrooms, stems removed",
+        "1 (1 pound) eggplant, sliced into 1/4 inch rounds",
+        "1  red bell pepper, cut into wedges",
+        "1  yellow bell pepper, cut into wedges"
+    ],
+    "method": [
+        "Step 1: In a large resealable plastic bag, mix the olive oil, parsley, oregano, basil, vinegar, kosher salt, pepper, and garlic. Place the onion, asparagus, mushrooms, eggplant, red bell pepper, and yellow bell pepper into the bag. Seal, and marinate 2 hours in the refrigerator, turning occasionally",
+        "Step 2: Preheat the grill for high heat.",
+        "Step 3: Lightly oil the grill grate. Grill the vegetables 6 minutes on each side, until tender."
+    ],
+    "image": "images/eggplant-mixed-grill.jpg"
+}

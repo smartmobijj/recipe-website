@@ -1,0 +1,31 @@
+{
+    "title": "Spiced Orange Cranberry Sauce",
+    "file_name": "spiced-orange-cranberry-sauce",
+    "url": "https://www.allrecipes.com/recipe/9169/spiced-orange-cranberry-sauce/",
+    "cuisine": "Egyptian",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "Unknown",
+        "cook_time": "Unknown",
+        "total_time": "Unknown",
+        "active_time": "Unknown",
+        "servings": "64",
+        "calories": "37 Calories"
+    },
+    "ingredients": [
+        "2 pounds cranberries",
+        "2 tablespoons orange zest",
+        "3  cinnamon sticks",
+        "1 pint orange juice",
+        "2 cups packed brown sugar",
+        "2 cups water"
+    ],
+    "method": [
+        "Step 1: Place the cranberries, grated orange rind, cinnamon, orange juice, brown sugar and enough water to cover cranberries in a saucepan. Bring mixture to a boil over high heat. Immediately turn heat down and simmer for about 1 hour or until the sauce has thickened. Taste for sweetness and adjust with additional sugar if necessary. You can not overcook, so continue cooking until you have a good thick consistency. Let mixture cool a bit then refrigerate in a covered container.",
+        "Step 2: Please note the difference in serving size and ingredient amounts when using the magazine version of this recipe."
+    ],
+    "image": "images/spiced-orange-cranberry-sauce.jpg"
+}

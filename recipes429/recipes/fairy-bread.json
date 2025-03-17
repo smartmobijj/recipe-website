@@ -1,0 +1,27 @@
+{
+    "title": "Fairy Bread",
+    "file_name": "fairy-bread",
+    "url": "https://www.allrecipes.com/recipe/80934/fairy-bread/",
+    "cuisine": "New Zealand",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "New Zealand",
+    "continent": "Australia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "10 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "146 Calories"
+    },
+    "ingredients": [
+        "8 slices white bread, with crusts trimmed",
+        "¼ cup butter or margarine, softened",
+        "¼ cup multicolored candy sprinkles"
+    ],
+    "method": [
+        "Step 1: Spread margarine onto slices of bread. Cover with sprinkles. Cut into triangles to serve."
+    ],
+    "image": "images/fairy-bread.jpg"
+}

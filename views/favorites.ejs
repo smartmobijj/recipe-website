@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Recipes</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>My Favorite Recipes</h1>
+
+        <!-- ✅ Email Input -->
+        <input type="email" id="email" placeholder="Enter your email to see favorites">
+        <button onclick="getFavorites()">View Favorites</button>
+
+        <ul id="favorites-list"></ul>
+
+        <a href="/">Back to Home</a>
+    </div>
+
+    <script>
+        async function getFavorites() {
+            const email = document.getElementById('email').value;
+            if (!email) {
+                alert("Please enter an email.");
+                return;
+            }
+
+            const response = await fetch(`/favorites/${encodeURIComponent(email)}`);
+            const favorites = await response.json();
+
+            const list = document.getElementById('favorites-list');
+            list.innerHTML = '';
+
+            if (favorites.length === 0) {
+                list.innerHTML = '<li>No favorite recipes found.</li>';
+            } else {
+                favorites.forEach(recipe => {
+                    const item = document.createElement('li');
+                    item.innerHTML = `<a href="/recipe/${encodeURIComponent(recipe)}">${recipe}</a>`;
+                    list.appendChild(item);
+                });
+            }
+        }
+    </script>
+</body>
+</html>

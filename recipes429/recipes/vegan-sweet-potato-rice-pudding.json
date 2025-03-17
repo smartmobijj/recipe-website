@@ -1,0 +1,37 @@
+{
+    "title": "Vegan Sweet Potato-Rice Pudding",
+    "file_name": "vegan-sweet-potato-rice-pudding",
+    "url": "https://www.allrecipes.com/recipe/285013/vegan-sweet-potato-rice-pudding/",
+    "cuisine": "Lebanese",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "50 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "225 Calories"
+    },
+    "ingredients": [
+        "2 medium sweet potatoes",
+        "1 cup water",
+        "½ cup uncooked brown rice",
+        "1 cup soy milk",
+        "1 teaspoon ground cinnamon",
+        "1 teaspoon ground nutmeg",
+        "1 teaspoon vanilla extract"
+    ],
+    "method": [
+        "Step 1: Preheat an oven to 450 degrees F (230 degrees C). Prick sweet potatoes several times with a fork and place onto a baking sheet.",
+        "Step 2: Bake in the preheated oven until potatoes are easily pierced with a fork, 50 minutes to 1 hour.",
+        "Step 3: At the same time, bring water and brown rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 45 to 50 minutes.",
+        "Step 4: Remove sweet potatoes from the oven and remove skin when cool enough to handle.",
+        "Step 5: Place sweet potato flesh and cooked rice in a food processor. Add soy milk, maple syrup, cinnamon, nutmeg, and vanilla; process until smooth. Serve hot, warm, or chilled.",
+        "Step 6: You can use rice or almond milk in place of soy milk and stevia in place of maple syrup.",
+        "Step 7: Use up to double the amount of milk, cinnamon, nutmeg, vanilla, and maple syrup if desired."
+    ],
+    "image": "images/vegan-sweet-potato-rice-pudding.jpg"
+}

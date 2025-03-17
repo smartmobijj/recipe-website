@@ -1,0 +1,34 @@
+{
+    "title": "Chicken Parmigiana",
+    "file_name": "chicken-parmigiana",
+    "url": "https://www.allrecipes.com/recipe/8975/chicken-parmigiana/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "1 hr",
+        "total_time": "1 hr 30 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "528 Calories"
+    },
+    "ingredients": [
+        "1  egg, beaten",
+        "2 ounces dry bread crumbs",
+        "2  skinless, boneless chicken breast halves",
+        "¾ (16 ounce) jar spaghetti sauce",
+        "2 ounces shredded mozzarella cheese",
+        "¼ cup grated Parmesan cheese"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a medium baking sheet.",
+        "Step 2: Pour egg into a small shallow bowl. Place bread crumbs in a separate shallow bowl. Dip chicken into egg, then into bread crumbs. Place coated chicken on the prepared baking sheet.",
+        "Step 3: Bake in the preheated oven until no longer pink and juices run clear, about 40 minutes. Remove from the oven.",
+        "Step 4: Pour 1/2 of the spaghetti sauce into a 7x11-inch baking dish. Place chicken breasts over the sauce, then cover with remaining sauce. Sprinkle mozzarella and Parmesan cheeses on top.",
+        "Step 5: Continue baking until heated through and cheeses have melted, about 20 more minutes."
+    ],
+    "image": "images/chicken-parmigiana.jpg"
+}

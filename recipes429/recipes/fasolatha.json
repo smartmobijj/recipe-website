@@ -1,0 +1,39 @@
+{
+    "title": "Fasolatha",
+    "file_name": "fasolatha",
+    "url": "https://www.allrecipes.com/recipe/13212/fasolatha/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "Unknown",
+        "cook_time": "Unknown",
+        "total_time": "Unknown",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "304 Calories"
+    },
+    "ingredients": [
+        "1 cup white kidney beans",
+        "1  onion, thinly sliced",
+        "2 small carrots, sliced",
+        "1 stalk celery, chopped",
+        "1 (14.5 ounce) can diced tomatoes",
+        "1 tablespoon tomato paste",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried thyme",
+        "½ cup olive oil",
+        "3 cups water",
+        "2 tablespoons chopped fresh parsley",
+        "salt to taste",
+        "ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Rinse and strain soaked beans. Place in a large saucepan, and cover with water. Boil for 2 to 3 minutes. Drain, discarding the water.",
+        "Step 2: Cover the beans with 3 cups water, and bring to a boil. Add onions, carrots, celery, tomatoes, tomato paste, oregano, thyme, olive oil, and salt and pepper. Cover. Cook for about 50 to 60 minutes, until the beans are soft. Mix the parsley.",
+        "Step 3: If using a pressure cooker, cook all ingredients except parsley for 3 to 4 minutes under 15 pounds pressure. Stir in parsley."
+    ],
+    "image": "images/fasolatha.jpg"
+}

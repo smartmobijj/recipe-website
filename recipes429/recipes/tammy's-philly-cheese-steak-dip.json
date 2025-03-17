@@ -1,0 +1,35 @@
+{
+    "title": "Tammy's Philly Cheese Steak Dip",
+    "file_name": "tammy's-philly-cheese-steak-dip",
+    "url": "https://www.allrecipes.com/recipe/188250/tammys-philly-cheese-steak-dip/",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "133 Calories"
+    },
+    "ingredients": [
+        "½ cup chopped onion",
+        "½ cup chopped green bell pepper",
+        "½ cup Italian dressing",
+        "1 cup shredded provolone cheese",
+        "1 (8 ounce) package cream cheese, softened",
+        "¼ cup mayonnaise",
+        "salt and pepper to taste",
+        "½ pound sliced roast beef, chopped",
+        "¼ cup grated Parmesan cheese"
+    ],
+    "method": [
+        "Step 1: Preheat an oven to 350 degrees F (175 degrees C).",
+        "Step 2: Place the onion, green pepper, and Italian dressing in a large skillet over medium heat; cook and stir until the onion has softened and turned translucent, about 5 minutes. Add the provolone, cream cheese, mayonnaise, salt, and pepper; stir until the cheese has melted. Remove the skillet from the heat and stir in the roast beef.",
+        "Step 3: Pour the mixture into an oven proof baking dish and sprinkle with Parmesan cheese. Bake uncovered for 25 minutes or until hot and bubbly."
+    ],
+    "image": "images/tammy's-philly-cheese-steak-dip.jpg"
+}

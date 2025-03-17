@@ -1,0 +1,34 @@
+{
+    "title": "Asian Coconut Rice",
+    "file_name": "asian-coconut-rice",
+    "url": "https://www.allrecipes.com/recipe/56059/asian-coconut-rice/",
+    "cuisine": "Nigerian",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "25 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "453 Calories"
+    },
+    "ingredients": [
+        "1 ½ cups uncooked jasmine rice",
+        "1 (14 ounce) can light or full-fat coconut milk, well shaken and stirred",
+        "1 ¼ cups water",
+        "2 teaspoons sugar",
+        "1 ½ teaspoons kosher salt",
+        "1 teaspoon coconut oil"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: Place rice in a fine mesh strainer, and rinse with cold water, stirring rice using your fingers to remove excess starch, until water from rice runs clear, about 1 minute.",
+        "Step 3: Place rinsed rice, coconut milk, water, sugar, and salt in a medium saucepan; stir until sugar dissolves, about 1 minute.",
+        "Step 4: Bring mixture in saucepan to a boil over medium heat. Cover, reduce heat to low, and simmer, undisturbed, for 11 minutes. Turn off heat; steam, covered, until rice is tender and liquid is absorbed, about 10 minutes. Uncover and gently stir in coconut oil.",
+        "Step 5: Enjoy!"
+    ],
+    "image": "images/asian-coconut-rice.jpg"
+}

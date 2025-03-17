@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= recipe.title %></title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="recipe-title"><%= recipe.title %></h1>
+        <img class="recipe-image" src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+
+        <h2>Ingredients</h2>
+        <ul>
+            <% recipe.ingredients.forEach(ingredient => { %>
+                <li><%= ingredient %></li>
+            <% }) %>
+        </ul>
+
+        <h2>Instructions</h2>
+        <% recipe.method.forEach(step => { %>
+            <p><%= step %></p>
+        <% }) %>
+
+        <button onclick="goBack()">⬅ Back</button>
+    </div>
+
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+</body>
+</html>
+
+<!-- ✅ Add Email Input & Favorite Button -->
+<input type="email" id="favorite-email" placeholder="Enter your email to save this recipe">
+<button onclick="saveFavorite('<%= encodeURIComponent(recipe.title) %>')">💖 Save to Favorites</button>
+
+<script>
+    // ✅ Function to Save Recipe to Favorites
+    async function saveFavorite(recipeTitle) {
+        const email = document.getElementById('favorite-email').value;
+        if (!email) {
+            alert("Please enter an email.");
+            return;
+        }
+
+        try {
+            const response = await fetch('/favorite', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email, recipeTitle: decodeURIComponent(recipeTitle) }) // ✅ Fix title encoding issue
+            });
+
+            const result = await response.json();
+            alert(result.message || "Error saving favorite.");
+        } catch (error) {
+            console.error("❌ Error saving favorite:", error);
+            alert("Error saving favorite.");
+        }
+    }
+</script>
+
+</body>
+</html>

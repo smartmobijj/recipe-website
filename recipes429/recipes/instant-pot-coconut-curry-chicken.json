@@ -1,0 +1,41 @@
+{
+    "title": "Instant Pot Coconut Curry Chicken",
+    "file_name": "instant-pot-coconut-curry-chicken",
+    "url": "https://www.allrecipes.com/recipe/263511/instant-pot-coconut-curry-chicken/",
+    "cuisine": "Kenyan",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Kenya",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "35 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "563 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon coconut oil",
+        "1 medium onion, chopped",
+        "3 tablespoons curry powder, or to taste, divided",
+        "2 cloves garlic, chopped",
+        "1 (14.5 ounce) can diced tomatoes, drained",
+        "1 (8 ounce) can tomato sauce",
+        "½ cup chicken broth",
+        "2 tablespoons white sugar",
+        "2 pounds chicken breasts",
+        "salt to taste",
+        "ground black pepper to taste",
+        "1 (14 ounce) can coconut milk"
+    ],
+    "method": [
+        "Step 1: Turn on a multi-functional pressure cooker (such as Instant Pot) and select Sauté function. Add coconut oil; when hot, add onion and cook for 1 minute. Add 2 tablespoons curry powder and garlic. Mix well and cook for 2 minutes. Turn off Sauté function. Stir in diced tomatoes, tomato sauce, chicken broth, and sugar.",
+        "Step 2: Poke holes into each chicken breast using a fork. Sprinkle with salt, pepper, and remaining curry powder. Add seasoned chicken to the pot. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 10 minutes. Allow 10 to 15 minutes for pressure to build.",
+        "Step 3: Release pressure using the natural-release method according to manufacturer's instructions for 10 minutes. Release remaining pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid.",
+        "Step 4: Remove chicken; use 2 forks to shred the meat and return it to the pot. Turn on Sauté function; cook and stir until liquid is lightly boiling, 2 to 3 minutes.",
+        "Step 5: Turn the pressure cooker to the Keep Warm setting. Add coconut milk and stir well; cook for 10 minutes more to allow flavors to come together.",
+        "Step 6: The magazine version of this recipe omits the chicken broth, uses only 1 tablespoon sugar, and adds 1/8 teaspoon cayenne."
+    ],
+    "image": "images/instant-pot-coconut-curry-chicken.jpg"
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Greek Lentil Soup (Fakes)",
+    "file_name": "greek-lentil-soup-fakes",
+    "url": "https://www.allrecipes.com/recipe/137650/greek-lentil-soup-fakes/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "1 hr",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "357 Calories"
+    },
+    "ingredients": [
+        "8 ounces brown lentils",
+        "¼ cup olive oil",
+        "1 medium onion, minced",
+        "1 large carrot, chopped",
+        "1 tablespoon minced garlic",
+        "1 quart water",
+        "2  bay leaves",
+        "1 teaspoon dried oregano",
+        "1 pinch crushed dried rosemary (Optional)",
+        "1 tablespoon tomato paste",
+        "salt and ground black pepper to taste",
+        "1 teaspoon olive oil, or to taste",
+        "1 teaspoon red wine vinegar, or to taste (Optional)"
+    ],
+    "method": [
+        "Step 1: Place lentils in a large saucepan; add enough water to cover by 1 inch. Bring water to a boil and cook for 10 minutes; drain.",
+        "Step 2: Heat olive oil in a saucepan over medium heat. Add onion, carrot, and garlic; cook and stir until onion has softened and turned translucent, about 5 minutes. Pour in lentils, then add 1 quart water, bay leaves, oregano, and rosemary. Bring to a boil. Cover and reduce heat to medium-low; simmer for 10 minutes.",
+        "Step 3: Stir in tomato paste; season with salt and pepper. Cover and simmer, stirring occasionally, until lentils have softened, 30 to 40 minutes. Add additional water if soup becomes too thick. Drizzle with olive oil and red wine vinegar to serve."
+    ],
+    "image": "images/greek-lentil-soup-fakes.jpg"
+}

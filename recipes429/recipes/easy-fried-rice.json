@@ -1,0 +1,36 @@
+{
+    "title": "Easy Fried Rice",
+    "file_name": "easy-fried-rice",
+    "url": "https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/",
+    "cuisine": "Filipino",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "15 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "152 Calories"
+    },
+    "ingredients": [
+        "⅔ cup chopped baby carrots",
+        "½ cup frozen green peas",
+        "2 tablespoons vegetable oil",
+        "1 clove garlic, minced, or to taste (Optional)",
+        "2 large eggs",
+        "3 cups leftover cooked and chilled white rice",
+        "1 tablespoon soy sauce, or more to taste",
+        "2 teaspoons sesame oil, or to taste"
+    ],
+    "method": [
+        "Step 1: Assemble ingredients.",
+        "Step 2: Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander.",
+        "Step 3: Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables.",
+        "Step 4: Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again.",
+        "Step 5: Serve hot and enjoy!"
+    ],
+    "image": "images/easy-fried-rice.jpg"
+}

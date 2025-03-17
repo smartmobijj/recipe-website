@@ -1,0 +1,35 @@
+{
+    "title": "Full English Breakfast",
+    "file_name": "full-english-breakfast",
+    "url": "https://www.allrecipes.com/full-english-breakfast-recipe-8739702",
+    "cuisine": "British",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "1",
+        "calories": "1189 Calories"
+    },
+    "ingredients": [
+        "1 (8 ounce) can baked beans",
+        "2 tablespoons ketchup",
+        "1 tablespoon HP sauce",
+        "3 slices bacon",
+        "2  bangers (British sausages)",
+        "1 bunch cherry tomatoes on the vine",
+        "5 whole cremini mushrooms",
+        "2 large eggs"
+    ],
+    "method": [
+        "Step 1: Place beans in a small saucepan over medium-low heat. Add ketchup and HP sauce, and heat until warmed through, about 5 minutes.",
+        "Step 2: Heat a large skillet over medium heat, and add bacon and sausages. Cook until sausage is browned and bacon is cooked to your taste, about 10 minutes. Remove from the pan and set aside.",
+        "Step 3: Add tomatoes and mushrooms to the skillet, and sear in bacon fat for 2 minutes; remove from the pan.",
+        "Step 4: Add 1 cup water to the pan, crack in eggs, and simmer until whites are opaque and yolks are still runny. Spoon beans onto a plate, and arrange eggs, bacon, bangers, tomatoes, and mushrooms around them."
+    ],
+    "image": "images/full-english-breakfast.jpg"
+}

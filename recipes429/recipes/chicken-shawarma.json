@@ -1,0 +1,46 @@
+{
+    "title": "Chicken Shawarma",
+    "file_name": "chicken-shawarma",
+    "url": "https://www.allrecipes.com/recipe/52407/chicken-shawarma/",
+    "cuisine": "Lebanese",
+    "difficulty": "Medium",
+    "cooking_time": "120 minutes",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "40 mins",
+        "total_time": "4 hrs 50 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "402 Calories"
+    },
+    "ingredients": [
+        "½ cup malt vinegar",
+        "¼ cup plain yogurt",
+        "1 tablespoon vegetable oil",
+        "salt and pepper to taste",
+        "1 teaspoon mixed spice",
+        "¼ teaspoon freshly ground cardamom",
+        "8  skinless, boneless chicken thighs",
+        "½ cup tahini",
+        "¼ cup plain yogurt",
+        "½ teaspoon minced garlic",
+        "2 tablespoons lemon juice",
+        "1 tablespoon olive oil",
+        "1 tablespoon chopped fresh parsley",
+        "salt and pepper to taste",
+        "4 medium tomatoes, thinly sliced",
+        "½ cup sliced onion",
+        "4 cups shredded lettuce",
+        "8  pita bread rounds"
+    ],
+    "method": [
+        "Step 1: To make the marinade: Combine malt vinegar, 1/4 cup yogurt, vegetable oil, mixed spice, cardamom, salt, and pepper together in a glass baking dish. Add chicken thighs to the mixture and turn to coat. Cover and marinate in the refrigerator for at least 4 hours or overnight.",
+        "Step 2: Preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 3: To make the tahini sauce: Combine tahini, 1/4 cup yogurt, garlic, lemon juice, olive oil, and parsley together in a small bowl. Season with salt and pepper, taste, and adjust flavors if desired. Cover and refrigerate.",
+        "Step 4: Cover the chicken and bake in the marinade for 30 minutes, turning once. Uncover, and cook for an additional 5 to 10 minutes, or until chicken is browned and cooked through. Remove chicken from the dish, and cut into slices.",
+        "Step 5: Place sliced chicken, tomato, onion, and lettuce onto pita breads. Roll up, and top with tahini sauce."
+    ],
+    "image": "images/chicken-shawarma.jpg"
+}

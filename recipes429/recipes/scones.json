@@ -1,0 +1,37 @@
+{
+    "title": "Scones",
+    "file_name": "scones",
+    "url": "https://www.allrecipes.com/recipe/20175/scones/",
+    "cuisine": "British",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "15 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "397 Calories"
+    },
+    "ingredients": [
+        "3 cups all-purpose flour, plus more for kneading",
+        "½ cup white sugar",
+        "5 teaspoons baking powder",
+        "½ teaspoon salt",
+        "¾ cup butter",
+        "1 cup milk",
+        "1  egg, beaten"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet.",
+        "Step 3: Combine flour, sugar, baking powder, and salt in a large bowl; cut in butter with 2 knives or a pastry blender until mixture resembles coarse crumbs.",
+        "Step 4: Whisk milk and egg in a small bowl; gradually stir into flour mixture until moistened.",
+        "Step 5: Turn dough out onto a lightly floured surface and knead briefly, 5 or 6 turns.",
+        "Step 6: Pat or roll dough out into a 1/2-inch thick round. Cut into 8 wedge-shaped pieces and place onto the prepared baking sheet.",
+        "Step 7: Bake scones in the preheated oven until golden brown on top, about 15 minutes."
+    ],
+    "image": "images/scones.jpg"
+}

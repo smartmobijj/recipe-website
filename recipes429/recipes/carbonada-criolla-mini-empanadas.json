@@ -1,0 +1,45 @@
+{
+    "title": "Carbonada Criolla Mini Empanadas",
+    "file_name": "carbonada-criolla-mini-empanadas",
+    "url": "https://www.allrecipes.com/recipe/286093/carbonada-criolla-mini-empanadas/",
+    "cuisine": "Argentinian",
+    "difficulty": "Hard",
+    "cooking_time": "90 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "40 mins",
+        "cook_time": "4 hrs 30 mins",
+        "total_time": "5 hrs 40 mins",
+        "active_time": "Unknown",
+        "servings": "36",
+        "calories": "132 Calories"
+    },
+    "ingredients": [
+        "1 ½ pounds thinly sliced beef",
+        "1 (15.25 ounce) can whole kernel corn, undrained",
+        "2 small tomatoes, diced",
+        "1 small sweet potato, diced",
+        "1 small zucchini, diced",
+        "1 small pear, diced",
+        "1 small onion, diced",
+        "1 small red bell pepper, diced",
+        "2 tablespoons chicken bouillon granules",
+        "2 tablespoons olive oil",
+        "1 tablespoon minced garlic",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried parsley",
+        "1 teaspoon ground paprika",
+        "½ teaspoon ground cumin",
+        "2 large bay leaves",
+        "3 (11.5 ounce) packages frozen empanada wrappers (12-ct), thawed",
+        "2 cups oil, or as needed"
+    ],
+    "method": [
+        "Step 1: Combine beef, undrained corn, tomatoes, sweet potato, zucchini, pear, onion, bell pepper, chicken bouillon, olive oil, garlic, oregano, parsley, paprika, cumin, and bay leaves in a slow cooker. Cook on High until beef is tender and vegetables are soft, 4 to 6 hours.",
+        "Step 2: Drain liquid and allow filling to cool to room temperature, about 30 minutes. Discard bay leaves.",
+        "Step 3: Scoop 3 tablespoons of cooled filling into the center of an empanada wrapper. Fold the wrapper in half and press the edges together to enclose the filling. Seal by crimping the edges or pressing them together with a fork. Repeat until all empanada wrappers are filled.",
+        "Step 4: Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Without overcrowding, lower empanadas in batches into the hot oil and fry until golden, about 5 minutes, turning halfway through. Transfer to a paper towel-lined plate to drain while you cook remaining batches."
+    ],
+    "image": "images/carbonada-criolla-mini-empanadas.jpg"
+}

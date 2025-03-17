@@ -1,0 +1,33 @@
+{
+    "title": "Pesto Grilled Cheese Sandwich",
+    "file_name": "pesto-grilled-cheese-sandwich",
+    "url": "https://www.allrecipes.com/recipe/189891/pesto-grilled-cheese-sandwich/",
+    "cuisine": "Argentinian",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "1",
+        "calories": "503 Calories"
+    },
+    "ingredients": [
+        "1 tablespoon softened butter, divided",
+        "2 slices Italian bread",
+        "1 tablespoon prepared pesto sauce, divided",
+        "1 slice provolone cheese",
+        "2 slices tomato",
+        "1 slice American cheese"
+    ],
+    "method": [
+        "Step 1: Spread butter on one side of a slice of bread and place it, buttered side down, into a nonstick skillet over medium heat.",
+        "Step 2: Spread 1/2 of the pesto sauce on the unbuttered side of the bread. Stack provolone cheese, tomato, and American cheese on top of pesto, in that order.",
+        "Step 3: Spread remaining pesto sauce on second slice of bread. Place it pesto side down onto sandwich in the pan. Butter the top side of bread.",
+        "Step 4: Gently fry sandwich, flipping once, until both sides are golden brown and cheese has melted, about 5 minutes per side."
+    ],
+    "image": "images/pesto-grilled-cheese-sandwich.jpg"
+}

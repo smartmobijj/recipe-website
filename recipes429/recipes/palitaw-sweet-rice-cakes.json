@@ -1,0 +1,34 @@
+{
+    "title": "Palitaw (Sweet Rice Cakes)",
+    "file_name": "palitaw-sweet-rice-cakes",
+    "url": "https://www.allrecipes.com/recipe/213000/palitaw-sweet-rice-cakes/",
+    "cuisine": "Filipino",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "20 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "10",
+        "calories": "197 Calories"
+    },
+    "ingredients": [
+        "1 cup glutinous rice flour (malagkit)",
+        "½ cup white sugar",
+        "½ cup water",
+        "½ cup white sugar",
+        "2 tablespoons sesame seeds",
+        "4 ounces grated coconut",
+        "1 teaspoon salt"
+    ],
+    "method": [
+        "Step 1: Mix the rice flour, 1/2 cup sugar, and the water together in a bowl into a soft dough; set aside.",
+        "Step 2: Stir 1/2 cup sugar and sesame seeds together in a small bowl. Toss the coconut with the salt together in a separate bowl.",
+        "Step 3: Bring a large pot of water to a boil.",
+        "Step 4: Take a portion of the soft dough and roll it into a ball between the palms of your hands. Pull lengthwise and shape into a tongue. Drop into the boiling water. The cake is ready when it floats. Scoop it out with a strainer and roll it in the sugar and sesame seed mixture. Place it on a serving platter. Repeat with the rest of the dough. Top the cakes with coconut and serve warm."
+    ],
+    "image": "images/palitaw-sweet-rice-cakes.jpg"
+}

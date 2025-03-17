@@ -1,0 +1,35 @@
+{
+    "title": "Chinese Restaurant Almond Cookies",
+    "file_name": "chinese-restaurant-almond-cookies",
+    "url": "https://www.allrecipes.com/recipe/10723/chinese-restaurant-almond-cookies/",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cooking_time": "35 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "40 mins",
+        "cook_time": "15 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "48",
+        "calories": "89 Calories"
+    },
+    "ingredients": [
+        "2 ¾ cups sifted all-purpose flour",
+        "1 cup white sugar",
+        "½ teaspoon baking soda",
+        "½ teaspoon salt",
+        "1 cup lard",
+        "1  egg",
+        "1 teaspoon almond extract",
+        "48  almonds"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 325 degrees F (165 degrees C).",
+        "Step 2: Sift flour, sugar, baking soda and salt together into a bowl. Cut in the lard until mixture resembles cornmeal. Add egg and almond extract. Mix well.",
+        "Step 3: Roll dough into 1-inch balls. Set them 2 inches apart on an ungreased cookie sheet. Place an almond on top of each cookie and press down to flatten slightly.",
+        "Step 4: Bake in the preheated oven until the edges of the cookies are golden brown, 15 to 18 minutes."
+    ],
+    "image": "images/chinese-restaurant-almond-cookies.jpg"
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Honey Mustard Dipping Sauce",
+    "file_name": "honey-mustard-dipping-sauce",
+    "url": "https://www.allrecipes.com/recipe/24665/honey-mustard-dipping-sauce/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "37 Calories"
+    },
+    "ingredients": [
+        "½ cup cold water",
+        "1 teaspoon cornstarch",
+        "¼ cup honey",
+        "2 tablespoons thinly sliced green onions",
+        "1 tablespoon lemon juice",
+        "4 teaspoons prepared Dijon-style mustard",
+        "¼ teaspoon onion powder"
+    ],
+    "method": [
+        "Step 1: Place water in a medium saucepan, and mix in cornstarch to dissolve. Stir in honey. Heat to boiling, stirring constantly. Reduce heat and simmer until sauce thickens, about 15 minutes.",
+        "Step 2: Remove sauce from heat. Stir in green onions, lemon juice, prepared Dijon-style mustard and onion powder. Serve warm or chill in the refrigerator."
+    ],
+    "image": "images/honey-mustard-dipping-sauce.jpg"
+}

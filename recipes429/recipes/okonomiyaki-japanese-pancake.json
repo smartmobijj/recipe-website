@@ -1,0 +1,44 @@
+{
+    "title": "Okonomiyaki (Japanese Pancake)",
+    "file_name": "okonomiyaki-japanese-pancake",
+    "url": "https://www.allrecipes.com/recipe/255416/okonomiyaki-japanese-pancake/",
+    "cuisine": "Japanese",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "15 mins",
+        "total_time": "40 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "329 Calories"
+    },
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "⅔ cup water",
+        "4 cups chopped cabbage",
+        "6 strips cooked bacon, crumbled",
+        "2  eggs",
+        "1  sausage, diced, or more to taste (Optional)",
+        "½ cup chopped green onions",
+        "¼ cup cooked shrimp (Optional)",
+        "¼ cup shredded cheese (Optional)",
+        "¼ cup tenkasu (tempura pearls)",
+        "1 tablespoon vegetable oil, or to taste",
+        "2 tablespoons soy sauce",
+        "1 tablespoon ketchup",
+        "1 teaspoon white vinegar",
+        "1 tablespoon panko bread crumbs, or to taste",
+        "1 teaspoon mayonnaise, or to taste"
+    ],
+    "method": [
+        "Step 1: Mix flour and water together in a bowl until smooth. Stir in cabbage, bacon, eggs, sausage, green onions, shrimp, cheese, and tenkasu.",
+        "Step 2: Preheat a griddle to 400 degrees F (200 degrees C) and coat with oil.",
+        "Step 3: Pour 1/4 of batter onto preheated griddle. Cook until golden brown, about 6 minutes per side. Transfer to a serving plate. Repeat to make a total of 4 pancakes.",
+        "Step 4: Make sauce: Mix soy sauce, ketchup, and vinegar together in a small bowl. Drizzle over pancakes.",
+        "Step 5: Garnish with panko and mayonnaise."
+    ],
+    "image": "images/okonomiyaki-japanese-pancake.jpg"
+}

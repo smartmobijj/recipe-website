@@ -1,0 +1,32 @@
+{
+    "title": "Grilled Cheese Sandwich",
+    "file_name": "grilled-cheese-sandwich",
+    "url": "https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "400 Calories"
+    },
+    "ingredients": [
+        "4 slices white bread",
+        "3 tablespoons butter, divided",
+        "2 slices Cheddar cheese"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Preheat a nonstick skillet over medium heat. Generously butter one side of a slice of bread.",
+        "Step 3: Place bread butter-side down in the hot skillet; add 1 slice of cheese.",
+        "Step 4: Butter a second slice of bread on one side and place butter-side up on top of cheese.",
+        "Step 5: Cook until lightly browned on one side; flip over and continue cooking until cheese is melted.",
+        "Step 6: Repeat with remaining 2 slices of bread, butter, and slice of cheese. Serve and enjoy!"
+    ],
+    "image": "images/grilled-cheese-sandwich.jpg"
+}

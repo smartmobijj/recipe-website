@@ -1,0 +1,33 @@
+{
+    "title": "Cucumber Salad with Labneh, Za’atar, and Mint",
+    "file_name": "cucumber-salad-with-labneh-za’atar-and-mint",
+    "url": "https://www.allrecipes.com/cucumber-salad-with-labneh-za-atar-and-mint-recipe-8662239",
+    "cuisine": "Israeli",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Israel",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "Unknown",
+        "total_time": "10 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "57 Calories"
+    },
+    "ingredients": [
+        "1/4 cup labneh",
+        "1/4 cup fresh mint,",
+        "2 tablespoons za'atar spice",
+        "1 1/2 tablespoons lemon juice",
+        "1 tablespoon extra-virgin olive oil",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon black pepper",
+        "2  English cucumbers",
+        "1 teaspoon lemon zest"
+    ],
+    "method": [
+        "Step 1: In a bowl, stir together labneh, mint, za’atar, lemon juice, oil, salt, and pepper. Stir in cucumbers; toss to coat. Garnish with lemon zest and additional fresh mint leaves."
+    ],
+    "image": "images/cucumber-salad-with-labneh-za’atar-and-mint.jpg"
+}

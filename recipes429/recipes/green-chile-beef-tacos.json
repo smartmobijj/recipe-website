@@ -1,0 +1,29 @@
+{
+    "title": "Green Chile Beef Tacos",
+    "file_name": "green-chile-beef-tacos",
+    "url": "https://www.allrecipes.com/recipe/214894/green-chile-beef-tacos/",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "4 hrs",
+        "total_time": "4 hrs 10 mins",
+        "active_time": "Unknown",
+        "servings": "12",
+        "calories": "298 Calories"
+    },
+    "ingredients": [
+        "5 pounds boneless beef chuck roast",
+        "1 (1 ounce) packet taco seasoning mix",
+        "1 (16 ounce) jar green salsa",
+        "2 cups beef broth, or more if needed"
+    ],
+    "method": [
+        "Step 1: Lay beef chuck roast into the bottom of a slow cooker with a tight-fitting lid. Sprinkle taco seasoning mix over beef. Pour green salsa over the top, followed by broth.",
+        "Step 2: Cook on Low for 4 hours. Add more broth if needed. Remove beef from the slow cooker and shred with 2 forks. Return shredded beef to the slow cooker; mix with liquid. Serve hot."
+    ],
+    "image": "images/green-chile-beef-tacos.jpg"
+}

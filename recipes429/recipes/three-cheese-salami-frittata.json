@@ -1,0 +1,39 @@
+{
+    "title": "Three Cheese Salami Frittata",
+    "file_name": "three-cheese-salami-frittata",
+    "url": "https://www.allrecipes.com/recipe/234632/three-cheese-salami-frittata/",
+    "cuisine": "Spanish",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr 45 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "262 Calories"
+    },
+    "ingredients": [
+        "16  eggs",
+        "¼ cup milk",
+        "1 tablespoon olive oil, or as needed",
+        "6  1/4-inch thick slices Genoa salami",
+        "1 cup chopped fresh parsley, or more to taste",
+        "½ cup grated Parmesan cheese, divided",
+        "½ cup grated Romano cheese, divided",
+        "½ cup shredded mozzarella cheese, divided",
+        "salt and ground black pepper to taste",
+        "1 pinch red pepper flakes, or to taste (Optional)"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 425 degrees F (220 degrees C).",
+        "Step 2: Whisk eggs and milk together in a large bowl.",
+        "Step 3: Heat olive oil in a large oven-proof skillet over medium-high heat. Pour 1/2 the egg mixture into the hot oil; arrange salami over egg mixture and sprinkle with parsley. Add 2/3 the Parmesan cheese, 2/3 Romano cheese, and 2/3 the mozzarella cheese over the salami-parsley layer; season with salt, pepper, and red pepper flakes.",
+        "Step 4: Cook egg-cheese mixture until edges of frittata are browned and middle is set, 10 to 15 minutes. Pour the remaining egg mixture over frittata; sprinkle with remaining Parmesan cheese, Romano cheese, and mozzarella cheese; season with salt, pepper, and red pepper flakes.",
+        "Step 5: Bake in the preheated oven until frittata has risen to about 3 inches and middle is set, 20 to 25 minutes. Carefully turn frittata onto a cutting board; cut into 2-inch squares using a sharp knife. Arrange squares in a bowl and refrigerate until chilled, about 1 hour.",
+        "Step 6: Great hot or cold. I prefer cold with sliced apples or peaches on the side and a chilled glass of Riesling or Pinot. Can be served as a meal or the prelude to an evening feast. Make it Saturday and it Sunday morning with tea and apple slices. Always a delightful unusual appetizer."
+    ],
+    "image": "images/three-cheese-salami-frittata.jpg"
+}

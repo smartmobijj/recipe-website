@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate Almond Fudge",
+    "file_name": "chocolate-almond-fudge",
+    "url": "https://www.allrecipes.com/recipe/268606/chocolate-almond-fudge/",
+    "cuisine": "Indonesian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "5 mins",
+        "total_time": "2 hrs 15 mins",
+        "active_time": "Unknown",
+        "servings": "36",
+        "calories": "Unknown"
+    },
+    "ingredients": [
+        "Cooking spray",
+        "2 pounds powdered sugar",
+        "1 cup unsweetened cocoa powder",
+        "½ teaspoon salt",
+        "½ cup Almond Breeze Vanilla almondmilk",
+        "¾ cup vegan buttery sticks, softened",
+        "¾ dash almond flavor",
+        "1 cup chopped almonds"
+    ],
+    "method": [
+        "Step 1: Line a 9-inch baking pan with foil; spray foil with cooking spray.",
+        "Step 2: In large saucepan, mix powdered sugar, cocoa, and salt. Add almondmilk and buttery sticks. Cook over medium-low heat until buttery sticks melt and mixture is all moistened, stirring frequently. Cook and stir until mixture is smooth.",
+        "Step 3: Remove from heat. Beat with spoon until mixture loses its shine, about 5 minutes. Stir in almond flavor and almonds.",
+        "Step 4: Spread in pan. Cool completely, about 2 hours.",
+        "Step 5: Nutritional Analysis per piece: Calories 160, Calories from Fat 45, Total Fat 5g (8% DV), Saturated Fat 1.5g (8% DV), Trans Fat 1g, Cholesterol 0mg (0% DV), Sodium 75mg (3% DV), Carbohydrates 29g (10% DV), Dietary Fiber 1g (4% DV), Sugars 26g, Protein 1g, Vitamin A 0%, Vitamin C 0%, Calcium 2%, Iron 2%."
+    ],
+    "image": "images/chocolate-almond-fudge.jpg"
+}

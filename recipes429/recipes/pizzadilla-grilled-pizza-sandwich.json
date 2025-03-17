@@ -1,0 +1,34 @@
+{
+    "title": "Pizzadilla (Grilled Pizza Sandwich)",
+    "file_name": "pizzadilla-grilled-pizza-sandwich",
+    "url": "https://www.allrecipes.com/recipe/278826/pizzadilla-grilled-pizza-sandwich/",
+    "cuisine": "Argentinian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Argentina",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "20 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "704 Calories"
+    },
+    "ingredients": [
+        "20 ounces prepared pizza dough",
+        "2 tablespoons olive oil, divided, or as needed",
+        "1 cup pizza sauce, divided",
+        "8 ounces mozzarella cheese, divided",
+        "½ cup cooked Italian sausage, or to taste, divided",
+        "½ cup cooked mushrooms, or to taste, divided",
+        "½ cup cooked red onions, or to taste, divided"
+    ],
+    "method": [
+        "Step 1: Divide dough into 4 equal pieces. Roll each piece into a 1/8-inch-thick circle on a lightly floured surface.",
+        "Step 2: Heat a skillet over medium-high heat; brush with oil. Add 1 dough piece; reduce heat to medium. Cook for 2 minutes; flip. Spread 1/4 cup sauce over dough, leaving about 1/2 inch edge; sprinkle 1/4 mozzarella cheese on top sauce. Top half of cheese with 1/4 each sausage, mushrooms, and red onion. Press gently in middle of dough with a spatula to make a crease; fold in half.",
+        "Step 3: Brush top crust with olive oil; flip. Repeat on other side. Continue cooking until both sides reach desired browning and crispness.",
+        "Step 4: Repeat with remaining pizza dough and toppings. Cut each pizzadilla in half and serve."
+    ],
+    "image": "images/pizzadilla-grilled-pizza-sandwich.jpg"
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Greek Lemon Chicken Soup",
+    "file_name": "greek-lemon-chicken-soup",
+    "url": "https://www.allrecipes.com/recipe/12963/greek-lemon-chicken-soup/",
+    "cuisine": "Greek",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "30 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "124 Calories"
+    },
+    "ingredients": [
+        "8 cups chicken broth",
+        "½ cup fresh lemon juice",
+        "½ cup shredded carrots",
+        "½ cup finely chopped onion",
+        "½ cup finely chopped celery",
+        "6 tablespoons chicken soup base",
+        "¼ teaspoon ground white pepper",
+        "¼ cup margarine",
+        "¼ cup all-purpose flour",
+        "8  egg yolks",
+        "1 cup cooked white rice",
+        "1 cup diced, cooked chicken meat",
+        "16 slices lemon"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: Combine chicken broth, lemon juice, carrots, onions, celery, soup base, and white pepper in a large pot. Bring to a boil over high heat, then reduce heat and simmer for 15 to 20 minutes, or until the vegetables are tender.",
+        "Step 3: Blend margarine and flour in a small bowl; gradually stir into soup mixture. Simmer, stirring frequently, for 8 to 10 minutes.",
+        "Step 4: Meanwhile, beat egg yolks in a bowl until light in color. Gradually whisk in some hot soup, using a ladle to pour in a thin stream while whisking the egg yolks vigorously. Add egg mixture to the pot in same manner, and heat through.",
+        "Step 5: Add rice and chicken; cook until warmed through. Ladle hot soup into bowls and garnish with lemon slices."
+    ],
+    "image": "images/greek-lemon-chicken-soup.jpg"
+}

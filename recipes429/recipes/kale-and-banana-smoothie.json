@@ -1,0 +1,32 @@
+{
+    "title": "Kale and Banana Smoothie",
+    "file_name": "kale-and-banana-smoothie",
+    "url": "https://www.allrecipes.com/recipe/173730/kale-and-banana-smoothie/",
+    "cuisine": "Canadian",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "Unknown",
+        "total_time": "5 mins",
+        "active_time": "Unknown",
+        "servings": "1",
+        "calories": "311 Calories"
+    },
+    "ingredients": [
+        "2 cups chopped kale",
+        "1  banana",
+        "½ cup light unsweetened soy milk",
+        "1 tablespoon flax seeds",
+        "1 teaspoon maple syrup"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Place kale, banana, soy milk, flax seeds, and maple syrup into a blender.",
+        "Step 3: Cover and purée until smooth.",
+        "Step 4: Serve over ice."
+    ],
+    "image": "images/kale-and-banana-smoothie.jpg"
+}

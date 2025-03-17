@@ -1,0 +1,36 @@
+{
+    "title": "Instant Pot Pumpkin Quinoa Porridge",
+    "file_name": "instant-pot-pumpkin-quinoa-porridge",
+    "url": "https://www.allrecipes.com/recipe/285391/instant-pot-pumpkin-quinoa-porridge/",
+    "cuisine": "Korean",
+    "difficulty": "Easy",
+    "cooking_time": "40 minutes",
+    "country": "South Korea",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "11 mins",
+        "total_time": "27 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "255 Calories"
+    },
+    "ingredients": [
+        "2 cups unsweetened almond milk",
+        "1 cup quinoa, rinsed",
+        "1 cup pumpkin puree",
+        "2 teaspoons pumpkin pie spice",
+        "1 teaspoon ground cinnamon",
+        "1 pinch salt",
+        "1 tablespoon vanilla extract",
+        "2 tablespoons honey"
+    ],
+    "method": [
+        "Step 1: Combine almond milk, quinoa, pumpkin puree, pumpkin pie spice, cinnamon, and salt in a multi-functional pressure cooker (such as Instant Pot). Stir lightly until combined.",
+        "Step 2: Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 1 minute. Allow 10 minutes for pressure to build.",
+        "Step 3: Release pressure using the natural-release method according to manufacture's instructions for 10 minutes. Release remaining pressure carefully using the quick-release method according to manufacturer's instructions, about 1 minute. Unlock and remove the lid. Stir in vanilla extract and honey.",
+        "Step 4: Divide quinoa evenly between 4 bowls. Top each bowl as desired.",
+        "Step 5: You may use any non-dairy milk you like; if you use dairy, skim is best, as high-fat milk may cause the burn light to come on. Use any sweetener you like such as maple syrup or brown sugar in place of honey. Top each bowl with pepitas, more almond milk, extra sweetener, coconut, raisins, or nuts."
+    ],
+    "image": "images/instant-pot-pumpkin-quinoa-porridge.jpg"
+}

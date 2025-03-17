@@ -1,0 +1,31 @@
+{
+    "title": "Pigs in a Blanket",
+    "file_name": "pigs-in-a-blanket",
+    "url": "https://www.allrecipes.com/recipe/21780/pigs-in-a-blanket/",
+    "cuisine": "Russian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "458 Calories"
+    },
+    "ingredients": [
+        "1 (10 ounce) package refrigerated biscuit dough",
+        "8 slices American processed cheese (Optional)",
+        "8  frankfurters"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+        "Step 2: Shape biscuit dough sections into 3-inch diameter circles. Lay a slice of cheese on each dough circle; place a frankfurter in the center of each cheese slice and roll it up.",
+        "Step 3: Place rolls, seam-side down, on a cookie sheet.",
+        "Step 4: Bake in the preheated oven until biscuits are golden brown, about 10 to 15 minutes.",
+        "Step 5: Serve hot."
+    ],
+    "image": "images/pigs-in-a-blanket.jpg"
+}

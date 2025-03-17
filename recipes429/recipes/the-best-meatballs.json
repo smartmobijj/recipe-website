@@ -1,0 +1,39 @@
+{
+    "title": "The Best Meatballs",
+    "file_name": "the-best-meatballs",
+    "url": "https://www.allrecipes.com/recipe/40399/the-best-meatballs/",
+    "cuisine": "Iranian",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "30 mins",
+        "total_time": "1 hr",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "613 Calories"
+    },
+    "ingredients": [
+        "1 pound ground beef",
+        "½ pound ground veal",
+        "½ pound ground pork",
+        "1 cup freshly grated Romano cheese",
+        "2  eggs",
+        "2 cloves garlic, minced",
+        "1 ½ tablespoons chopped Italian flat leaf parsley",
+        "salt and ground black pepper to taste",
+        "2 cups stale Italian bread, crumbled",
+        "1 ½ cups lukewarm water",
+        "1 cup olive oil"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine beef, veal, and pork in a large bowl. Mix in cheese, eggs, garlic, parsley, salt, and pepper.",
+        "Step 3: Add bread crumbs and slowly mix in water, 1/2 cup at a time, until mixture is moist but still holds its shape (I usually use about 1 1/4 cups of water); shape into meatballs.",
+        "Step 4: Heat olive oil in a large skillet; add meatballs in batches and cook until browned on all sides, slightly crisp, and cooked through, about 10 to 15 minutes. Drain on paper towels.",
+        "Step 5: Enjoy!"
+    ],
+    "image": "images/the-best-meatballs.jpg"
+}

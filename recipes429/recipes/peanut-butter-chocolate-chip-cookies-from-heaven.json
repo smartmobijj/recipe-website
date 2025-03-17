@@ -1,0 +1,38 @@
+{
+    "title": "Peanut Butter Chocolate Chip Cookies from Heaven",
+    "file_name": "peanut-butter-chocolate-chip-cookies-from-heaven",
+    "url": "https://www.allrecipes.com/recipe/9830/peanut-butter-chocolate-chip-cookies-from-heaven/",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "24",
+        "calories": "281 Calories"
+    },
+    "ingredients": [
+        "1 ½ cups packed brown sugar",
+        "1 cup butter, softened",
+        "1 cup peanut butter",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "2 ¾ cups all-purpose flour",
+        "¼ cup cornstarch",
+        "1 teaspoon baking soda",
+        "¾ teaspoon salt",
+        "½ teaspoon baking powder",
+        "1 cup semisweet chocolate chips"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (180 degrees C).",
+        "Step 2: Cream together brown sugar and butter. Beat in peanut butter, eggs, and vanilla. Add flour, cornstarch, baking soda, salt, and baking powder. Stir in chocolate chips.",
+        "Step 3: Drop 1 1/2 teaspoonfuls of dough 2 inches apart onto ungreased cookie sheets. Flatten slightly because they do not spread much while baking.",
+        "Step 4: Bake in the preheated oven for 10 minutes."
+    ],
+    "image": "images/peanut-butter-chocolate-chip-cookies-from-heaven.jpg"
+}

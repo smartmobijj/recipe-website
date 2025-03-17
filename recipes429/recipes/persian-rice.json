@@ -1,0 +1,39 @@
+{
+    "title": "Persian Rice",
+    "file_name": "persian-rice",
+    "url": "https://www.allrecipes.com/recipe/240606/persian-rice/",
+    "cuisine": "Iranian",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "Iran",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "55 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "255 Calories"
+    },
+    "ingredients": [
+        "3 quarts water",
+        "3 tablespoons kosher salt",
+        "2 cups basmati rice, rinsed",
+        "2 tablespoons olive oil",
+        "1  russet potato, cut into ¼-inch slices",
+        "1 pinch ground cumin",
+        "salt to taste",
+        "3 tablespoons butter, cut into thin slices, or to taste",
+        "1 pinch saffron threads",
+        "1 ½ tablespoons hot water",
+        "1 tablespoon chopped parsley, or to taste"
+    ],
+    "method": [
+        "Step 1: Place water and kosher salt in a pot; bring to a boil. Add rice; cook and stir for exactly 7 minutes. Drain.",
+        "Step 2: Heat olive oil in a pot over medium-high heat. Cover bottom of the pot with 1 layer of potato slices. Sprinkle cumin and salt over potatoes. Cook until potatoes are sizzling, 2 to 3 minutes; top potatoes with rice to form an even layer. Reduce heat to low and place butter slices over rice.",
+        "Step 3: Top the pot with a layer of clean paper towels, then place the lid over the towels. Steam until rice is fluffy, about 45 minutes.",
+        "Step 4: Grind saffron threads with a mortar and pestle. Mix crushed saffron with 1 ½ tablespoons hot water in a large bowl. Add a couple of spoonfuls of rice to saffron mixture and stir until rice is yellow.",
+        "Step 5: Spoon remaining rice into a serving bowl. Top with saffron rice and line the edges of the bowl with potatoes. Garnish with parsley."
+    ],
+    "image": "images/persian-rice.jpg"
+}

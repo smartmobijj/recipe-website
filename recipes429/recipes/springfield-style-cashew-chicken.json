@@ -1,0 +1,45 @@
+{
+    "title": "Springfield-Style Cashew Chicken",
+    "file_name": "springfield-style-cashew-chicken",
+    "url": "https://www.allrecipes.com/recipe/9009/springfield-style-cashew-chicken-i/",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "cooking_time": "25 minutes",
+    "country": "China",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "15 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "652 Calories"
+    },
+    "ingredients": [
+        "2 cups peanut oil for frying",
+        "2 cups all-purpose flour",
+        "5 tablespoons cornstarch, divided",
+        "2 teaspoons baking soda",
+        "3  eggs, beaten",
+        "4  skinless, boneless chicken breasts, cut into 1-inch pieces",
+        "2 cups chicken broth",
+        "2 cups cashew halves",
+        "2 tablespoons chopped green onions",
+        "2 tablespoons oyster sauce",
+        "2 tablespoons soy sauce",
+        "1 tablespoon white sugar",
+        "1 teaspoon ground white pepper",
+        "4 tablespoons cold water, or as needed"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 200 degrees F (95 degrees C). Heat oil in a large skillet to 350 degrees F (175 degrees C). Line a baking sheet with foil.",
+        "Step 2: While the oil is heating, whisk flour, 1 tablespoon cornstarch, and baking soda together in a shallow bowl. Whisk eggs in a second shallow bowl. Dip chicken pieces into flour mixture, then eggs, then into flour mixture again.",
+        "Step 3: Working in batches as necessary, deep-fry coated chicken in hot oil for 3 to 4 minutes. Drain on paper towels.",
+        "Step 4: While deep-frying the chicken, bring broth to a boil in a medium saucepan. Place cashew nuts and green onions onto the prepared baking sheet.",
+        "Step 5: Add oyster sauce, soy sauce, sugar, and white pepper to boiling broth. Mix remaining 4 tablespoons cornstarch with cold water in a cup to make a slurry. Slowly stir slurry into hot broth mixture to thicken, then cook for another 5 minutes over medium-low heat.",
+        "Step 6: Meanwhile, heat cashew nuts and green onions in the preheated oven for about 5 minutes.",
+        "Step 7: Pour sauce over fried chicken and top with cashews and green onions.",
+        "Step 8: Nutrition data for this recipe includes the full amount of breading ingredients. The actual amount of breading consumed will vary. We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+    ],
+    "image": "images/springfield-style-cashew-chicken.jpg"
+}

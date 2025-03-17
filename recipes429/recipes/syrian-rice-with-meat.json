@@ -1,0 +1,37 @@
+{
+    "title": "Syrian Rice with Meat",
+    "file_name": "syrian-rice-with-meat",
+    "url": "https://www.allrecipes.com/recipe/272233/syrian-rice-with-meat/",
+    "cuisine": "Egyptian",
+    "difficulty": "Hard",
+    "cooking_time": "90 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "30 mins",
+        "total_time": "35 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "674 Calories"
+    },
+    "ingredients": [
+        "¼ cup butter",
+        "2 pounds ground beef",
+        "2 teaspoons salt",
+        "½ teaspoon ground allspice",
+        "½ teaspoon ground cinnamon",
+        "½ teaspoon ground black pepper",
+        "4 ½ cups chicken broth",
+        "2 cups long grain white rice",
+        "2 tablespoons butter",
+        "½ cup pine nuts"
+    ],
+    "method": [
+        "Step 1: Heat 1/4 cup butter in a large saucepan over medium-high heat. Add ground beef and season with salt, allspice, cinnamon, and black pepper. Cook and stir until beef is browned and crumbly, 7 to 10 minutes.",
+        "Step 2: Stir chicken broth and rice into beef in the saucepan; bring to a boil. Reduce heat to low, cover, and cook until liquid is absorbed, about 20 minutes.",
+        "Step 3: Meanwhile, melt 2 tablespoons butter in a small skillet over medium heat. Cook and stir pine nuts in hot butter until lightly browned, 3 to 5 minutes.",
+        "Step 4: Mix pine nuts into beef-rice mixture before serving."
+    ],
+    "image": "images/syrian-rice-with-meat.jpg"
+}

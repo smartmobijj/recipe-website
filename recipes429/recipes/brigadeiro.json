@@ -1,0 +1,32 @@
+{
+    "title": "Brigadeiro",
+    "file_name": "brigadeiro",
+    "url": "https://www.allrecipes.com/recipe/24052/brigadeiro/",
+    "cuisine": "Brazilian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Brazil",
+    "continent": "South America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "10 mins",
+        "total_time": "25 mins",
+        "active_time": "Unknown",
+        "servings": "20",
+        "calories": "70 Calories"
+    },
+    "ingredients": [
+        "1 (14 ounce) can sweetened condensed milk",
+        "3 tablespoons unsweetened cocoa",
+        "1 tablespoon butter",
+        "chocolate sprinkles for rolling"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Combine condensed milk, cocoa, and butter in a medium saucepan over medium heat. Cook and stir until thickened, about 10 minutes.",
+        "Step 3: Transfer mixture into a shallow bowl and allow to cool.",
+        "Step 4: Pinch off some of the dough and roll into a small ball; place on a plate. Repeat with remaining mixture, then roll each brigadeiro in chocolate sprinkles.",
+        "Step 5: Enjoy or chill brigadeiros until ready to serve."
+    ],
+    "image": "images/brigadeiro.jpg"
+}

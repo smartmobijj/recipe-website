@@ -1,0 +1,38 @@
+{
+    "title": "Grilled Chicken Marinade",
+    "file_name": "grilled-chicken-marinade",
+    "url": "https://www.allrecipes.com/recipe/241890/grilled-chicken-marinade/",
+    "cuisine": "Filipino",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Philippines",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "4 hrs 20 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "233 Calories"
+    },
+    "ingredients": [
+        "¼ cup red wine vinegar",
+        "¼ cup reduced-sodium soy sauce",
+        "¼ cup olive oil",
+        "1 ½ teaspoons dried parsley flakes",
+        "½ teaspoon dried basil",
+        "½ teaspoon dried oregano",
+        "¼ teaspoon garlic powder",
+        "¼ teaspoon ground black pepper",
+        "5  skinless, boneless chicken breasts, thinly sliced"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Whisk vinegar, soy sauce, olive oil, parsley, basil, oregano, garlic powder, and black pepper together in a bowl.",
+        "Step 3: Pour into a resealable plastic bag. Add chicken, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, at least 4 hours.",
+        "Step 4: Preheat grill for medium-low heat and lightly oil the grate. Drain and discard marinade.",
+        "Step 5: Grill chicken on the preheated grill until no longer pink in the center, 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Step 6: The nutrition data for this recipe includes the full amount of the marinade ingredients. The actual amount of the marinade consumed will vary."
+    ],
+    "image": "images/grilled-chicken-marinade.jpg"
+}

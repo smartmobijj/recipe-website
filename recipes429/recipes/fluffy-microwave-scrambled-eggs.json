@@ -1,0 +1,31 @@
+{
+    "title": "Fluffy Microwave Scrambled Eggs",
+    "file_name": "fluffy-microwave-scrambled-eggs",
+    "url": "https://www.allrecipes.com/recipe/272293/fluffy-microwave-scrambled-eggs/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "10 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "5 mins",
+        "total_time": "10 mins",
+        "active_time": "Unknown",
+        "servings": "2",
+        "calories": "141 Calories"
+    },
+    "ingredients": [
+        "4  eggs",
+        "¼ cup milk",
+        "⅛ teaspoon salt"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Break the eggs into a microwave-proof mixing bowl. Add milk and salt; mix well.",
+        "Step 3: Pop the bowl into the microwave and cook on high power for 30 seconds. Remove bowl, beat eggs very well, scraping down the sides of the bowl, and return to the microwave for another 30 seconds.",
+        "Step 4: Repeat this pattern, stirring every 30 seconds for up to 2 1/2 minutes. Stop when eggs have the consistency you desire.",
+        "Step 5: Serve warm and enjoy!"
+    ],
+    "image": "images/fluffy-microwave-scrambled-eggs.jpg"
+}

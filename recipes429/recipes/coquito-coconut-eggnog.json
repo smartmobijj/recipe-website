@@ -1,0 +1,40 @@
+{
+    "title": "Coquito Coconut Eggnog",
+    "file_name": "coquito-coconut-eggnog",
+    "url": "https://www.allrecipes.com/recipe/245287/coquito-coconut-eggnog/",
+    "cuisine": "Russian",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "Unknown",
+        "total_time": "8 hrs 15 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "579 Calories"
+    },
+    "ingredients": [
+        "4 cups unsweetened coconut milk",
+        "4 cups unsweetened almond milk",
+        "2 (15 ounce) cans cream of coconut",
+        "2 cups Puerto Rican white rum, or more to taste",
+        "8  eggs",
+        "1 cup turbinado sugar",
+        "1 cup honey",
+        "2 tablespoons vanilla extract",
+        "2 teaspoons ground cinnamon",
+        "½ teaspoon ground nutmeg",
+        "½ teaspoon ground cloves"
+    ],
+    "method": [
+        "Step 1: Pour coconut milk, almond milk, cream of coconut, rum, eggs, sugar, honey, vanilla extract, cinnamon, nutmeg, and cloves into a large bowl and whisk well to combine.",
+        "Step 2: Blend mixture in two batches in a blender on high speed until frothy, 3 to 4 minutes. Pour into a gallon-size glass container and chill overnight or serve over ice.",
+        "Step 3: This is a lighter version of my original coquito recipe. How much rum depends on your taste. For a rum-packed drink use 2 cups; for a knockout delicious drink use 3 to 4 cups.",
+        "Step 4: Turbinado sugar can be replaced with another organic sweetener.",
+        "Step 5: For cream of coconut, GOYA(R) and Trader Joe's(R) brands are preferred.",
+        "Step 6: This recipe contains raw egg. We recommend that pregnant women, young children, the elderly, and the infirm do not consume raw egg. Learn more about egg safety from our article,How to Make Your Eggs Safe."
+    ],
+    "image": "images/coquito-coconut-eggnog.jpg"
+}

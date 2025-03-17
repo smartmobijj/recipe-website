@@ -1,0 +1,37 @@
+{
+    "title": "Deep-Fried Calamari Rings",
+    "file_name": "deep-fried-calamari-rings",
+    "url": "https://www.allrecipes.com/recipe/241725/deep-fried-calamari-rings/",
+    "cuisine": "Spanish",
+    "difficulty": "Medium",
+    "cooking_time": "30 minutes",
+    "country": "Spain",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "10 mins",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "532 Calories"
+    },
+    "ingredients": [
+        "1 cup all-purpose flour",
+        "2 teaspoons salt, more to taste",
+        "1 teaspoon paprika",
+        "¼ teaspoon ground black pepper",
+        "1 teaspoon garlic powder",
+        "6 cups vegetable oil for frying",
+        "12 ounces frozen calamari rings, thawed and drained",
+        "2 tablespoons cocktail sauce, or to taste",
+        "1  lemon, quartered"
+    ],
+    "method": [
+        "Step 1: Stir flour, 2 teaspoons salt, paprika, pepper, and garlic powder together in a shallow bowl.",
+        "Step 2: Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+        "Step 3: Press calamari rings into the flour mixture until evenly coated, shaking off excess flour.",
+        "Step 4: Working in batches, fry calamari rings until golden brown, 3 to 4 minutes. Transfer cooked calamari to a paper towel-lined plate. Sprinkle with salt. Serve calamari with cocktail sauce and lemon wedges.",
+        "Step 5: The nutrition data for this recipe includes the full amount of the breading ingredients. The actual amount of the breading consumed will vary. We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. The exact amount will vary depending on cooking time and temperature, ingredient density, and the specific type of oil used."
+    ],
+    "image": "images/deep-fried-calamari-rings.jpg"
+}

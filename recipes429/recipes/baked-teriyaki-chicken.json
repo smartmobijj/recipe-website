@@ -1,0 +1,38 @@
+{
+    "title": "Baked Teriyaki Chicken",
+    "file_name": "baked-teriyaki-chicken",
+    "url": "https://www.allrecipes.com/recipe/9023/baked-teriyaki-chicken/",
+    "cuisine": "Japanese",
+    "difficulty": "Medium",
+    "cooking_time": "35 minutes",
+    "country": "Japan",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "55 mins",
+        "total_time": "1 hr 5 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "272 Calories"
+    },
+    "ingredients": [
+        "½ cup white sugar",
+        "½ cup soy sauce",
+        "¼ cup cider vinegar",
+        "1 tablespoon cornstarch",
+        "1 tablespoon cold water",
+        "1 clove garlic, minced",
+        "½ teaspoon ground ginger",
+        "¼ teaspoon ground black pepper",
+        "12  boneless, skinless chicken thighs"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 425 degrees F (220 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Step 2: Combine sugar, soy sauce, cider vinegar, cornstarch, cold water, garlic, ginger, and pepper in a small saucepan over low heat. Simmer, stirring frequently, until teriyaki sauce thickens and bubbles, 3 to 5 minutes. Remove from the heat.",
+        "Step 3: Place chicken thighs in the prepared baking dish. Brush both sides of each thigh with the sauce. Reserve any extra sauce for basting.",
+        "Step 4: Bake in the preheated oven for 30 minutes.",
+        "Step 5: Flip chicken and brush with sauce. Continue to bake, basting with remaining sauce every 10 minutes, until no longer pink and juices run clear, 20 to 30 more minutes.",
+        "Step 6: Serve hot and enjoy!"
+    ],
+    "image": "images/baked-teriyaki-chicken.jpg"
+}

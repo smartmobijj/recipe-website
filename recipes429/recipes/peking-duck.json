@@ -1,0 +1,52 @@
+{
+    "title": "Peking Duck",
+    "file_name": "peking-duck",
+    "url": "https://www.allrecipes.com/recipe/31972/peking-duck/",
+    "cuisine": "Egyptian",
+    "difficulty": "Hard",
+    "cooking_time": "120 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr 35 mins",
+        "total_time": "3 hrs 50 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "556 Calories"
+    },
+    "ingredients": [
+        "1 (4 pound) whole duck, dressed",
+        "½ teaspoon ground cinnamon",
+        "½ teaspoon ground ginger",
+        "¼ teaspoon ground nutmeg",
+        "¼ teaspoon ground white pepper",
+        "⅛ teaspoon ground cloves",
+        "3 tablespoons soy sauce, divided",
+        "1 tablespoon honey",
+        "5  green onions, divided",
+        "½ cup plum jam",
+        "¼ cup finely chopped chutney",
+        "1 ½ teaspoons sugar",
+        "1 ½ teaspoons distilled white vinegar",
+        "1  orange, sliced in rounds",
+        "1 tablespoon chopped fresh parsley, for garnish"
+    ],
+    "method": [
+        "Step 1: Gather all ingredients.",
+        "Step 2: Rinse duck inside and out; pat dry. Cut off tail and discard.",
+        "Step 3: Mix cinnamon, ginger, nutmeg, white pepper, and cloves together in a small bowl. Sprinkle 1 teaspoon of spice mix into cavity of duck.",
+        "Step 4: Stir 1 tablespoon soy sauce into remaining spice mix and rub evenly over entire outside of duck.",
+        "Step 5: Cut 1 green onion in half and tuck it inside cavity.",
+        "Step 6: Cover and refrigerate duck for at least 2 hours or up to overnight.",
+        "Step 7: Place duck breast-side up on a rack set in a wok or pot. Steam for 1 hour, adding more water as it evaporates.",
+        "Step 8: Lift duck with two large spoons to drain juices and green onion.",
+        "Step 9: Preheat the oven to 375 degrees F (190 degrees C). Place duck breast-side up in a roasting pan and prick skin all over with a fork.",
+        "Step 10: Roast duck in the preheated oven for 30 minutes.",
+        "Step 11: Mix together remaining 2 tablespoons soy sauce and honey in a small bowl. Brush honey mixture onto duck.",
+        "Step 12: Increase the oven temperature to 500 degrees F (260 degrees C). Roast until skin is richly browned, about 5 minutes. Do not allow skin to char.",
+        "Step 13: Mix plum jam, chutney, sugar, and vinegar in a small serving bowl. Chop remaining green onions and place them into a separate bowl.",
+        "Step 14: Place whole duck onto a serving platter and garnish with orange slices and fresh parsley. Serve with plum sauce and chopped green onions."
+    ],
+    "image": "images/peking-duck.jpg"
+}

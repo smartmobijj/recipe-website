@@ -1,0 +1,33 @@
+{
+    "title": "Blue Cheese, Spinach Meat Loaf Muffins",
+    "file_name": "blue-cheese-spinach-meat-loaf-muffins",
+    "url": "https://www.allrecipes.com/recipe/217151/blue-cheese-spinach-meat-loaf-muffins/",
+    "cuisine": "Canadian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Canada",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "30 mins",
+        "total_time": "45 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "351 Calories"
+    },
+    "ingredients": [
+        "1 ½ pounds lean ground beef",
+        "¾ cup crumbled blue cheese",
+        "½ cup diced onion",
+        "½ cup Italian bread crumbs",
+        "½ cup chopped fresh spinach",
+        "2  eggs",
+        "2 tablespoons Worcestershire sauce"
+    ],
+    "method": [
+        "Step 1: Preheat an oven to 375 degrees F (190 degrees C). Grease a large muffin pan with cooking spray.",
+        "Step 2: Combine ground beef, blue cheese, onion, bread crumbs, spinach, eggs, and Worcestershire sauce in a large bowl until well blended. Divide meat mixture evenly into the prepared muffin pan.",
+        "Step 3: Bake in the preheated oven until no longer pink in the center, about 30 minutes. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "images/blue-cheese-spinach-meat-loaf-muffins.jpg"
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Best Bobotie",
+    "file_name": "best-bobotie",
+    "url": "https://www.allrecipes.com/recipe/157881/best-bobotie/",
+    "cuisine": "South African",
+    "difficulty": "Medium",
+    "cooking_time": "60 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "1 hr 35 mins",
+        "total_time": "1 hr 50 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "375 Calories"
+    },
+    "ingredients": [
+        "2 tablespoons vegetable oil",
+        "2 medium onions, minced",
+        "1 ½ pounds ground beef",
+        "1 cup milk",
+        "2 slices Texas toast thick-sliced bread",
+        "½ cup raisins",
+        "1 tablespoon hot chutney",
+        "½ tablespoon curry powder",
+        "1 teaspoon apricot jam",
+        "1 teaspoon salt",
+        "½ teaspoon ground black pepper",
+        "1  large egg",
+        "1 pinch salt",
+        "1  bay leaf"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Step 2: Heat oil in a large skillet over medium-high heat. Cook onions in hot oil until soft, 2 to 3 minutes. Crumble ground beef into the skillet; cook and stir until brown, 8 to 10 minutes.",
+        "Step 3: Pour milk in a shallow dish. Soak bread in milk. Squeeze excess milk from bread and set milk aside.",
+        "Step 4: Add bread to beef mixture. Stir in raisins, chutney, curry powder, apricot jam, salt, and black pepper. Pour mixture into the prepared baking dish.",
+        "Step 5: Bake in the preheated oven for 1 hour.",
+        "Step 6: Whisk together reserved milk, egg, and a pinch of salt. Pour over top of beef mixture. Lay bay leaf on top of milk mixture.",
+        "Step 7: Continue baking until top is golden brown, 25 to 30 minutes. Remove bay leaf before serving."
+    ],
+    "image": "images/best-bobotie.jpg"
+}

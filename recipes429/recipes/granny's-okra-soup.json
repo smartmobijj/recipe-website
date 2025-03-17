@@ -1,0 +1,43 @@
+{
+    "title": "Granny's Okra Soup",
+    "file_name": "granny's-okra-soup",
+    "url": "https://www.allrecipes.com/recipe/272683/grannys-okra-soup/",
+    "cuisine": "Nigerian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "30 mins",
+        "cook_time": "1 hr 30 mins",
+        "total_time": "2 hrs",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "293 Calories"
+    },
+    "ingredients": [
+        "4 cups chopped tomatoes",
+        "2 cups lima beans",
+        "2 cups chopped okra",
+        "2 cups chopped red potatoes",
+        "1 cup corn",
+        "1 cup green beans",
+        "½ cup chopped carrots",
+        "1 (6 ounce) can tomato paste",
+        "4 cups chicken stock",
+        "1 pound ground beef",
+        "½ tablespoon garlic powder",
+        "½ tablespoon celery salt",
+        "½ tablespoon onion powder",
+        "1 small onion, chopped",
+        "2 cloves garlic, crushed, or more to taste",
+        "3 tablespoons butter"
+    ],
+    "method": [
+        "Step 1: Combine tomatoes, lima beans, okra, potatoes, corn, green beans, carrots, and tomato paste in a large soup pot. Pour chicken stock over mixture and bring to a boil over medium heat. Reduce heat and simmer until vegetables begin to soften, about 15 minutes.",
+        "Step 2: Season ground beef with garlic powder, celery salt, and onion powder. Set aside.",
+        "Step 3: Heat butter in a skillet over medium-high heat. Add onion and garlic when butter stops bubbling; cook and stir for 1 minute. Spread ground beef evenly in the pan. Cook until it has a nice brown sear, stirring minimally to end up with mostly medium-sized chunks, 5 to 7 minutes. Drain skillet and add beef, onions, and garlic to the soup pot.",
+        "Step 4: Bring soup mixture to a boil; reduce heat to simmer, cover, and cook until vegetables and beef have cooked down, 1 to 2 hours."
+    ],
+    "image": "images/granny's-okra-soup.jpg"
+}

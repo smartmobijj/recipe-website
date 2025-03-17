@@ -1,0 +1,41 @@
+{
+    "title": "Hawawshi",
+    "file_name": "hawawshi",
+    "url": "https://www.allrecipes.com/recipe/278599/hawawshi/",
+    "cuisine": "Egyptian",
+    "difficulty": "Medium",
+    "cooking_time": "40 minutes",
+    "country": "Egypt",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "35 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "274 Calories"
+    },
+    "ingredients": [
+        "½ pound ground beef",
+        "2  tomatoes, diced",
+        "1 large onion, diced",
+        "1  green bell pepper, diced",
+        "1 pinch paprika, or to taste",
+        "1 pinch ground coriander, or to taste",
+        "1 pinch ground cinnamon, or to taste",
+        "1 pinch ground nutmeg, or to taste",
+        "salt and ground black pepper to taste",
+        "5  pita bread rounds, split",
+        "1 tablespoon corn oil"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 325 degrees F (165 degrees C).",
+        "Step 2: Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Let cool slightly.",
+        "Step 3: Mix cooked beef, tomatoes, onion, bell pepper, paprika, coriander, cinnamon, nutmeg, salt, and pepper together in a large bowl until well combined. Stuff mixture inside of pita bread rounds.",
+        "Step 4: Brush tops with corn oil and wrap each in aluminum foil. Place on a baking sheet.",
+        "Step 5: Bake in the preheated oven until toasted and vegetables are softened, about 30 minutes.",
+        "Step 6: You can use lamb or venison instead of ground beef if you like.",
+        "Step 7: You can use any spices you prefer."
+    ],
+    "image": "images/hawawshi.jpg"
+}

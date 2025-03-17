@@ -1,0 +1,36 @@
+{
+    "title": "Easy Cheeseburger Tacos",
+    "file_name": "easy-cheeseburger-tacos",
+    "url": "https://www.allrecipes.com/recipe/231251/easy-cheeseburger-tacos/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "25 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "35 mins",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "534 Calories"
+    },
+    "ingredients": [
+        "1 pound lean ground beef",
+        "½ teaspoon garlic powder",
+        "¼ teaspoon ground black pepper",
+        "¼ teaspoon salt",
+        "½ cup ketchup",
+        "6 (8 inch) flour tortillas",
+        "1 (8 ounce) package shredded Mexican cheese blend",
+        "½ cup sour cream",
+        "⅓ cup ketchup"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch baking dish.",
+        "Step 2: Heat a large skillet over medium-high heat. Add beef; season with garlic powder, black pepper, and salt. Cook and stir until meat is browned and crumbly, 5 to 7 minutes; drain and discard grease. Reduce heat to low. Stir 1/2 cup ketchup into beef.",
+        "Step 3: Lay 1 tortilla onto a work surface; place about 1/3 cup beef mixture and 1/4 cup shredded cheese onto tortilla in a line across the middle. Roll tortilla over filling, fold in top and bottom to enclose filling, and finish rolling into a burrito shape. Place filled tortilla into the prepared baking dish. Repeat with remaining tortillas and filling. Sprinkle remaining Mexican cheese blend on tacos. Cover dish with aluminum foil.",
+        "Step 4: Bake in the preheated oven until tacos are heated through and cheese topping has melted, 20 to 25 minutes. Combine sour cream and 1/3 cup ketchup in a bowl. Top each taco with sauce."
+    ],
+    "image": "images/easy-cheeseburger-tacos.jpg"
+}

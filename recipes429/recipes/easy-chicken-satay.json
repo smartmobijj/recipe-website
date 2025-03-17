@@ -1,0 +1,45 @@
+{
+    "title": "Easy Chicken Satay",
+    "file_name": "easy-chicken-satay",
+    "url": "https://www.allrecipes.com/recipe/132929/easy-chicken-satay/",
+    "cuisine": "Malaysian",
+    "difficulty": "Medium",
+    "cooking_time": "45 minutes",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "10 mins",
+        "total_time": "2 hrs 35 mins",
+        "active_time": "Unknown",
+        "servings": "5",
+        "calories": "418 Calories"
+    },
+    "ingredients": [
+        "½ cup coconut milk",
+        "1 clove garlic, minced",
+        "1 ½ teaspoons brown sugar",
+        "1 teaspoon curry powder",
+        "½ teaspoon salt",
+        "½ teaspoon ground black pepper",
+        "¾ pound skinless, boneless chicken breast halves - cut into 1 inch strips",
+        "10  (6 inch) wooden skewers, or as needed, soaked in water for 30 minutes",
+        "1 cup coconut milk",
+        "¾ cup chicken stock",
+        "½ cup creamy peanut butter",
+        "¼ cup brown sugar",
+        "1 tablespoon curry powder",
+        "2 tablespoons lime or lemon juice",
+        "1 teaspoon soy sauce",
+        "salt to taste"
+    ],
+    "method": [
+        "Step 1: To make the marinade: Whisk coconut milk, garlic, brown sugar, curry powder, salt, and pepper together in a large glass or ceramic bowl. Add chicken and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for at least 2 hours.",
+        "Step 2: Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+        "Step 3: Remove chicken from marinade and shake off excess. Thread marinated chicken onto skewers; discard remaining marinade.",
+        "Step 4: To make the peanut sauce: Whisk coconut milk, chicken stock, peanut butter, brown sugar, and curry powder together in a saucepan over medium-high heat until simmering. Reduce the heat and simmer, whisking constantly, until smooth and thickened, about 5 minutes. Remove from the heat and stir in lime juice, soy sauce, and salt.",
+        "Step 5: While the sauce is coming to a simmer, cook chicken skewers on the preheated grill until no longer pink in the center and the juices run clear, 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Step 6: Serve skewers with warm peanut sauce."
+    ],
+    "image": "images/easy-chicken-satay.jpg"
+}

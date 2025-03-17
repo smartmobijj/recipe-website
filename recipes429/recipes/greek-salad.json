@@ -1,0 +1,38 @@
+{
+    "title": "Greek Salad",
+    "file_name": "greek-salad",
+    "url": "https://www.allrecipes.com/recipe/14373/greek-salad-i/",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "Greece",
+    "continent": "Europe",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "Unknown",
+        "total_time": "20 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "265 Calories"
+    },
+    "ingredients": [
+        "1 head romaine lettuce- rinsed, dried and chopped",
+        "1  cucumber, sliced",
+        "2 large tomatoes, chopped",
+        "1 (6 ounce) can pitted black olives",
+        "1  green bell pepper, chopped",
+        "1  red bell pepper, chopped",
+        "1  red onion, thinly sliced",
+        "1 cup crumbled feta cheese",
+        "6 tablespoons olive oil",
+        "1  lemon, juiced",
+        "1 teaspoon dried oregano",
+        "ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Combine romaine, cucumber, tomatoes, olives, bell peppers, and red onion in a large bowl; sprinkle with feta cheese.",
+        "Step 2: Whisk olive oil, lemon juice, oregano, and black pepper together in a small bowl. Pour dressing over salad, toss well to combine, and serve.",
+        "Step 3: Pour dressing over salad, toss well to combine, and serve."
+    ],
+    "image": "images/greek-salad.jpg"
+}

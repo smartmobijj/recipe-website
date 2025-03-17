@@ -1,0 +1,35 @@
+{
+    "title": "Delicious Grilled Hamburgers",
+    "file_name": "delicious-grilled-hamburgers",
+    "url": "https://www.allrecipes.com/recipe/87586/delicious-grilled-hamburgers/",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "cooking_time": "20 minutes",
+    "country": "United States",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "5 mins",
+        "cook_time": "10 mins",
+        "total_time": "15 mins",
+        "active_time": "Unknown",
+        "servings": "3",
+        "calories": "396 Calories"
+    },
+    "ingredients": [
+        "1 pound lean ground beef",
+        "1 tablespoon Worcestershire sauce",
+        "1 tablespoon liquid smoke flavoring or less to taste (Optional)",
+        "1 teaspoon garlic powder",
+        "1 tablespoon olive oil",
+        "seasoned salt to taste"
+    ],
+    "method": [
+        "Step 1: Gather the ingredients.",
+        "Step 2: Preheat an outdoor grill for high heat and lightly oil the grate.",
+        "Step 3: Combine ground beef, Worcestershire sauce, liquid smoke, and garlic powder in a medium bowl; lightly mix until just combined.",
+        "Step 4: With minimal handling, form mixture into three patties.",
+        "Step 5: Brush oil onto both sides of each patty, then season with salt.",
+        "Step 6: Cook patties on the preheated grill until no longer pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+    ],
+    "image": "images/delicious-grilled-hamburgers.jpg"
+}

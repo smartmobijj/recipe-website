@@ -1,0 +1,40 @@
+{
+    "title": "South African Koeksisters",
+    "file_name": "south-african-koeksisters",
+    "url": "https://www.allrecipes.com/recipe/237503/south-african-koeksisters/",
+    "cuisine": "South African",
+    "difficulty": "Medium",
+    "cooking_time": "90 minutes",
+    "country": "South Africa",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "20 mins",
+        "cook_time": "25 mins",
+        "total_time": "9 hrs 15 mins",
+        "active_time": "Unknown",
+        "servings": "14",
+        "calories": "538 Calories"
+    },
+    "ingredients": [
+        "3 cups white sugar",
+        "2 cups water",
+        "½ medium lemon, zested in large strips",
+        "3 (1/4 inch thick) slices peeled fresh ginger",
+        "1 teaspoon lemon juice",
+        "2 cups cake flour",
+        "1 tablespoon baking powder",
+        "¼ teaspoon salt",
+        "2 tablespoons cold unsalted butter, cut into chunks",
+        "½ cup milk",
+        "2 cups oil, or as needed"
+    ],
+    "method": [
+        "Step 1: Make the syrup: Bring sugar, water, lemon zest, ginger, and lemon juice to a boil in a saucepan over medium-high heat. Reduce the heat to medium and cook for 10 minutes. Remove from the heat and cool syrup to room temperature, 30 to 45 minutes. Transfer to bowl, cover, and refrigerate until the flavors blend, 8 hours to overnight.",
+        "Step 2: Make the koeksisters: Sift flour, baking powder, and salt into in a bowl. Add butter and rub with your fingertips until the mixture has a cornmeal texture. Add milk and stir until a smooth dough forms. Wrap dough in plastic wrap and let rest for at least 2 hours.",
+        "Step 3: Turn dough out onto a lightly floured surface and roll into a 5x14-inch rectangle about 1/4-inch thick. Cut into 28 half-inch wide strips. Twist two strips together and pinch the ends to seal. Repeat with remaining strips. Cover with a clean cloth and let rest for 15 minutes.",
+        "Step 4: Heat 2 inches oil in a deep fryer or large saucepan to 350 degrees F (175 degrees C). Set a wire rack over a baking sheet. Pour some of the cold syrup into a bowl; return remaining syrup to the refrigerator.",
+        "Step 5: Fry three koeksisters in hot oil until fragrant and golden brown, 2 to 5 minutes. Remove with a slotted spoon and immediately immerse in cold syrup for 10 seconds. Transfer to the wire rack to cool. Repeat to fry and dip remaining koeksisters, replenishing cold syrup as necessary.",
+        "Step 6: We have determined the nutritional value of oil for frying based on a retention value of 10% after cooking. Amount will vary depending on cooking time and temperature, ingredient density, and specific type of oil used."
+    ],
+    "image": "images/south-african-koeksisters.jpg"
+}

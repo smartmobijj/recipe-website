@@ -1,0 +1,37 @@
+{
+    "title": "Olivie (Russian Potato Salad)",
+    "file_name": "olivie-russian-potato-salad",
+    "url": "https://www.allrecipes.com/recipe/236419/olivie-russian-potato-salad/",
+    "cuisine": "Russian",
+    "difficulty": "Easy",
+    "cooking_time": "30 minutes",
+    "country": "Russia",
+    "continent": "Europe/Asia",
+    "metadata": {
+        "prep_time": "25 mins",
+        "cook_time": "15 mins",
+        "total_time": "1 hr 10 mins",
+        "active_time": "Unknown",
+        "servings": "8",
+        "calories": "191 Calories"
+    },
+    "ingredients": [
+        "2 large potatoes, peeled and sliced lengthwise",
+        "3  carrots, peeled and sliced lengthwise",
+        "1 (15 ounce) can sweet peas, drained",
+        "3  dill pickles, chopped, or more to taste",
+        "1  onion, finely chopped",
+        "3  bologna slices, chopped (Optional)",
+        "2  hard-boiled eggs, chopped",
+        "2 tablespoons mayonnaise",
+        "2 tablespoons sour cream",
+        "½ teaspoon salt",
+        "ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Place potatoes and carrots into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 15 minutes. Drain and rinse with cold water until cold. Dice potatoes and carrots.",
+        "Step 2: Combine potatoes, carrots, sweet peas, pickles, onion, bologna, and eggs together in a large bowl. Stir mayonnaise, sour cream, salt, and black pepper gently into potato mixture until well combined. Cover bowl with plastic wrap and refrigerate until cold, at least 30 minutes.",
+        "Step 3: Ingredients can be added or left out depending on personal taste. Some people may like additional mayonnaise and sour cream."
+    ],
+    "image": "images/olivie-russian-potato-salad.jpg"
+}

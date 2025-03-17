@@ -1,0 +1,36 @@
+{
+    "title": "Beef Taco Noodle Casserole",
+    "file_name": "beef-taco-noodle-casserole",
+    "url": "https://www.allrecipes.com/recipe/244679/beef-taco-noodle-casserole/",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "cooking_time": "50 minutes",
+    "country": "Mexico",
+    "continent": "North America",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "35 mins",
+        "total_time": "50 mins",
+        "active_time": "Unknown",
+        "servings": "6",
+        "calories": "490 Calories"
+    },
+    "ingredients": [
+        "1 serving No-Stick Cooking Spray",
+        "6 ounces dry extra-wide egg noodles, uncooked",
+        "1 pound ground chuck beef (80% lean)",
+        "2 cups frozen Southwest mixed vegetables (corn, black beans, red peppers)",
+        "1 (10 ounce) can Diced Tomatoes & Green Chilies, undrained",
+        "1 (10 ounce) can red enchilada sauce",
+        "1 ¼ cups water",
+        "1 ¼ cups shredded Mexican blend cheese",
+        "¼ cup thinly sliced green onions",
+        "1 teaspoon Sour cream"
+    ],
+    "method": [
+        "Step 1: Preheat oven to 400 degrees F (200 degrees C). Spray 13x9-inch glass baking dish with cooking spray. Place uncooked noodles in baking dish.",
+        "Step 2: Heat large skillet over medium-high heat. Add beef; cook 5 to 7 minutes or until crumbled and no longer pink. Drain. Add vegetables, undrained tomatoes, enchilada sauce, and water to skillet; stir. Bring to a boil. Pour mixture over noodles.",
+        "Step 3: Cover dish tightly with foil; bake 15 minutes. Stir; sprinkle with cheese and cover with foil. Bake 10 minutes more or until noodles are tender. Sprinkle with green onions. Serve with sour cream, if desired."
+    ],
+    "image": "images/beef-taco-noodle-casserole.jpg"
+}

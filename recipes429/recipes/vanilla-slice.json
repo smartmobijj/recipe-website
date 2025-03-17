@@ -1,0 +1,38 @@
+{
+    "title": "Vanilla Slice",
+    "file_name": "vanilla-slice",
+    "url": "https://www.allrecipes.com/recipe/58638/vanilla-slice/",
+    "cuisine": "Australian",
+    "difficulty": "Medium",
+    "cooking_time": "70 minutes",
+    "country": "Australia",
+    "continent": "Oceania",
+    "metadata": {
+        "prep_time": "10 mins",
+        "cook_time": "20 mins",
+        "total_time": "30 mins",
+        "active_time": "Unknown",
+        "servings": "16",
+        "calories": "358 Calories"
+    },
+    "ingredients": [
+        "1 (17.25 ounce) package frozen puff pastry, thawed",
+        "1 cup white sugar",
+        "½ cup custard powder",
+        "¾ cup cornstarch",
+        "5 ¼ cups milk",
+        "¼ cup butter",
+        "2  egg yolks",
+        "1 teaspoon vanilla extract",
+        "1 cup confectioners' sugar",
+        "1 tablespoon milk",
+        "1 dash vanilla extract"
+    ],
+    "method": [
+        "Step 1: Preheat the oven to 400 degrees F (200 degrees C). Unfold puff pastry sheets, and place flat onto baking sheets. Bake for 10 to 15 minutes, or until lightly browned and puffed. Set aside.",
+        "Step 2: Combine the sugar, custard powder and cornstarch in a large saucepan. Mix in just enough milk to form a paste, then gradually mix in the rest. This will prevent lumps from forming. Add the butter. Cook over medium heat, stirring frequently until thick. You may need to use a whisk to ensure a smooth consistency. When the mixture comes to a simmer, cook stirring constantly for 2 minutes. Remove from the heat, and stir in the egg yolks and vanilla.",
+        "Step 3: Line a 9 inch baking dish with aluminum foil. Place one of the baked pastry sheets in the bottom of the dish. Spread the custard filling in an even layer over the pastry, and top with the other sheet.",
+        "Step 4: Mix the confectioners' sugar with 1 tablespoon of milk, and a dash of vanilla to make an icing. Spread over the top of the pastry. Refrigerate until the custard layer is firm. Remove from the pan and slice."
+    ],
+    "image": "images/vanilla-slice.jpg"
+}

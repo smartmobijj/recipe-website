@@ -1,0 +1,34 @@
+{
+    "title": "Kachumbari",
+    "file_name": "kachumbari",
+    "url": "https://www.allrecipes.com/recipe/277993/kachumbari/",
+    "cuisine": "Kenyan",
+    "difficulty": "Easy",
+    "cooking_time": "15 minutes",
+    "country": "Kenya",
+    "continent": "Africa",
+    "metadata": {
+        "prep_time": "15 mins",
+        "cook_time": "Unknown",
+        "total_time": "55 mins",
+        "active_time": "Unknown",
+        "servings": "4",
+        "calories": "124 Calories"
+    },
+    "ingredients": [
+        "1 medium red onion, diced",
+        "2 teaspoons sea salt",
+        "4 medium tomatoes, diced",
+        "½ medium cucumber, peeled and diced",
+        "¼ cup chopped cilantro",
+        "1  jalapeno pepper, seeded and diced",
+        "1  avocado - peeled, pitted and diced",
+        "1  lime, juiced, or to taste",
+        "salt and freshly ground black pepper to taste"
+    ],
+    "method": [
+        "Step 1: Place the onion in a medium bowl, cover with water, and stir in sea salt. Soak for 30 minutes; drain well for 10 minutes.",
+        "Step 2: Stir the drained onion, tomatoes, cucumber, cilantro, jalapeno, and avocado together in a large bowl. Squeeze lime juice over the salad to taste and season with salt and pepper."
+    ],
+    "image": "images/kachumbari.jpg"
+}
