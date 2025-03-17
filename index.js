@@ -80,7 +80,7 @@ app.post('/find-recipes', (req, res) => {
             try {
                 const recipeData = JSON.parse(fs.readFileSync(recipePath, 'utf8'));
                 const recipeName = file.replace('.json', '');
-                const imagePath = `/recipes429/images/${recipeName}.jpg`;
+                const imagePath = `/recipes429/${recipeData.image}`;
 
                 // ✅ Count the number of matching ingredients
                 let matchCount = recipeData.ingredients.reduce((count, ingredient) => {
@@ -130,10 +130,13 @@ app.get('/search', (req, res) => {
                     ingredient.toLowerCase().includes(query)
                 );
 
+                // ✅ Log extracted image path for debugging
+                console.log(`🖼️ Extracted image path for "${recipeData.title}": ${recipeData.image}`);
+
                 if (titleMatch || ingredientMatch) {
                     matchingRecipes.push({
                         title: recipeData.title,
-                        image: `/recipes429/images/${recipeName}.jpg`,
+                        image: `/recipes429/${recipeData.image}`,
                         url: `/recipe/${encodeURIComponent(recipeName)}`
                     });
                 }
@@ -165,7 +168,7 @@ app.get('/recipe/:recipeName', (req, res) => {
 
     try {
         const recipe = JSON.parse(fs.readFileSync(recipePath, 'utf8'));
-        recipe.image = `/recipes429/images/${recipeName}.jpg`; // ✅ Ensure correct image path
+        recipe.image = `/recipes429/${recipe.image}`; // ✅ Ensure correct image path
         res.render('recipe', { recipe });
     } catch (error) {
         console.error(`❌ Error parsing JSON for ${recipeName}:`, error);
@@ -222,10 +225,18 @@ app.get('/getCountries', (req, res) => {
     res.json([...countries]); // ✅ Fix: Send response to frontend
 });
 
-// ✅ Serve the "Create Your Own Meal" ingredient selection page
+// ✅ Serve the "Select Ingredients" Page with Available Ingredients
 app.get('/select-ingredients', (req, res) => {
-    res.render('select-ingredients');
+    const ingredientsList = [
+        "Chicken", "Beef", "Fish", "Eggs", "Milk", "Cheese", "Carrots", "Potatoes",
+        "Onions", "Garlic", "Tomatoes", "Peppers", "Rice", "Beans", "Pasta", "Flour",
+        "Butter", "Salt", "Pepper", "Olive Oil"
+    ]; // You can replace this with dynamic data from the recipe database if available.
+
+    res.render('select-ingredients', { ingredientsList });
 });
+
+
 
 // ✅ Fetch Recipes by Continent & Country (Fixed)
 app.get('/recipes/:continent/:country', (req, res) => {
@@ -247,9 +258,14 @@ app.get('/recipes/:continent/:country', (req, res) => {
 
                 if (recipeData.continent === continent && recipeData.country === country) {
                     const recipeName = file.replace('.json', '').replace(/-/g, ' ');
+                    // ✅ Extract Image Path and Log for Debugging
+                    imagePath =  `/recipes429/${recipeData.image}`;
+                    // imagePath = recipeData.image
+                    console.log(`🖼️ Image path for "${recipeData.title}": ${imagePath}`);
+
                     filteredRecipes.push({
                         title: recipeData.title,
-                        image: `/recipes429/images/${recipeName}.jpg`,
+                        image: `/recipes429/${recipeData.image}`,
                         url: `/recipe/${encodeURIComponent(recipeName)}`
                     });
                 }
@@ -261,6 +277,77 @@ app.get('/recipes/:continent/:country', (req, res) => {
 
     res.render('recipes', { recipes: filteredRecipes, continent, country });
 });
+
+const sqlite3 = require('sqlite3').verbose();
+const db = new sqlite3.Database('recipe-ingredient.db');
+
+app.post('/find-meal-plan', (req, res) => {
+    const { proteins, vegetables, others, sidebarIngredients } = req.body;
+
+    console.log("🔍 Received Meal Plan Request");
+    console.log("📌 Proteins:", proteins);
+    console.log("📌 Vegetables:", vegetables);
+    console.log("📌 Other Ingredients:", others);
+    console.log("📌 Sidebar Ingredients:", sidebarIngredients);
+
+    if (!proteins || proteins.length === 0) {
+        console.log("⚠ No proteins provided, returning empty list.");
+        return res.json({});
+    }
+
+    let groupedRecipes = {};
+    let queriesCompleted = 0;
+
+    proteins.forEach(protein => {
+        const allIngredients = [...vegetables, ...others, ...sidebarIngredients];
+
+        // ✅ Convert ingredients to lowercase for case-insensitive search
+        const lowerCaseIngredients = allIngredients.map(ing => ing.toLowerCase());
+        const placeholders = new Array(lowerCaseIngredients.length + 1).fill("?").join(",");
+
+        const sqlQuery = `
+            SELECT r.recipe_name, r.ingredient_name, r.quantity, r.unit, m.image_path, m.url
+            FROM recipe_ingredients r
+            JOIN recipe_metadata m ON r.recipe_name = m.recipe_name
+            WHERE LOWER(r.ingredient_name) IN (${placeholders}) OR LOWER(r.ingredient_name) = ?
+            GROUP BY r.recipe_name
+        `;
+
+        db.all(sqlQuery, [...lowerCaseIngredients, protein.toLowerCase()], (err, rows) => {
+            if (err) {
+                console.error("❌ Error querying SQLite:", err);
+                queriesCompleted++;
+                return;
+            }
+
+            console.log(`✅ Found ${rows.length} recipes for protein: ${protein}`);
+
+            let proteinResults = [];
+
+            rows.forEach(row => {
+                proteinResults.push({
+                    title: row.recipe_name,
+                    image: row.image_path ? `/recipes429/${row.image_path}` : '/recipes429/images/default.jpg',
+                    url: row.url,
+                    keyIngredients: row.ingredient_name
+                });
+            });
+
+            // ✅ Sort results and take top 5 for each protein
+            proteinResults = proteinResults.slice(0, 5);
+            groupedRecipes[protein] = proteinResults;
+
+            queriesCompleted++;
+            if (queriesCompleted === proteins.length) {
+                console.log("✅ Final Grouped Recipes by Protein:", groupedRecipes);
+                res.json(groupedRecipes);
+            }
+        });
+    });
+});
+
+
+
 
 // ✅ Start the server
 const PORT = 3000;

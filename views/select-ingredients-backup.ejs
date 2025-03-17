@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Your Ingredients</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Select Ingredients</h1>
+        <form id="ingredient-form">
+            
+            <h2>Powders</h2>
+            <label><input type="checkbox" name="ingredients" value="Salt"> Salt</label>
+            <label><input type="checkbox" name="ingredients" value="Sugar"> Sugar</label>
+            <label><input type="checkbox" name="ingredients" value="Black Pepper"> Black Pepper</label>
+            <label><input type="checkbox" name="ingredients" value="Garlic Powder"> Garlic Powder</label>
+            <label><input type="checkbox" name="ingredients" value="Onion Powder"> Onion Powder</label>
+            
+            <!-- ✅ Multi-Select Dropdown for Powders (Now Hidden by Default) -->
+            <br>
+            <button type="button" class="dropdown-button" onclick="toggleDropdown('powders-dropdown')">More Options ⬇</button>
+            <div id="powders-dropdown" class="dropdown-content hidden">
+                <label><input type="checkbox" class="dropdown-checkbox" value="Chili Powder"> Chili Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="MSG (Monosodium Glutamate)"> MSG (Monosodium Glutamate)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cumin Powder"> Cumin Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Coriander Powder"> Coriander Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Turmeric Powder"> Turmeric Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Ginger Powder"> Ginger Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Mustard Powder"> Mustard Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cinnamon Powder"> Cinnamon Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Nutmeg Powder"> Nutmeg Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Clove Powder"> Clove Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Allspice Powder"> Allspice Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cardamom Powder"> Cardamom Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cayenne Pepper"> Cayenne Pepper</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="White Pepper Powder"> White Pepper Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Celery Powder"> Celery Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Bay Leaf Powder"> Bay Leaf Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Oregano Powder"> Oregano Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Thyme Powder"> Thyme Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Rosemary Powder"> Rosemary Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Basil Powder"> Basil Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Sage Powder"> Sage Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Fennel Powder"> Fennel Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Star Anise Powder"> Star Anise Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Wasabi Powder"> Wasabi Powder</label>
+            </div>
+            
+
+            <h2>Fresh Seasonings</h2>
+            <label><input type="checkbox" name="ingredients" value="Green Onion"> Green Onion</label>
+            <label><input type="checkbox" name="ingredients" value="Ginger"> Ginger</label>
+            <label><input type="checkbox" name="ingredients" value="Garlic"> Garlic</label>
+            <label><input type="checkbox" name="ingredients" value="Thyme"> Thyme</label>
+            <label><input type="checkbox" name="ingredients" value="Parsley"> Parsley</label>
+            <label><input type="checkbox" name="ingredients" value="Rosemary"> Rosemary</label>
+            <label><input type="checkbox" name="ingredients" value="Basil"> Basil</label>
+            
+            <!-- ✅ Custom Multi-Select Dropdown for Fresh Seasonings -->
+            <br>
+            <button type="button" class="dropdown-button" onclick="toggleDropdown('fresh-dropdown')">More Options ⬇</button>
+            <div id="fresh-dropdown" class="dropdown-content hidden">
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cinnamon (Bark or Stick)"> Cinnamon (Bark or Stick)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Thyme"> Thyme</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cilantro (Coriander Leaves)"> Cilantro (Coriander Leaves)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Parsley"> Parsley</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Dill"> Dill</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Oregano"> Oregano</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Rosemary"> Rosemary</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Onion"> Onion</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Fennel (Bulb or Seeds)"> Fennel (Bulb or Seeds)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Basil"> Basil</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Mint"> Mint</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Lemongrass"> Lemongrass</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Sage"> Sage</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Chives"> Chives</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Celery (Leaves & Stalks)"> Celery (Leaves & Stalks)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Tarragon"> Tarragon</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Marjoram"> Marjoram</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Shallots"> Shallots</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Chili Peppers (Fresh or Dried, such as Jalapeño, Thai Chili, Habanero, etc.)"> Chili Peppers (Fresh or Dried, such as Jalapeño, Thai Chili, Habanero, etc.)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Horseradish"> Horseradish</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Wasabi (Fresh Root or Paste)"> Wasabi (Fresh Root or Paste)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Galangal (Similar to Ginger, Used in Southeast Asian Cooking)"> Galangal (Similar to Ginger, Used in Southeast Asian Cooking)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Fenugreek Leaves (Methi)"> Fenugreek Leaves (Methi)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Curry Leaves"> Curry Leaves</label>
+            </div>
+            
+            
+            <h2>Hybrid Seasonings</h2>
+            <label><input type="checkbox" name="ingredients" value="Old Bay Seasoning"> Old Bay Seasoning</label>
+            <label><input type="checkbox" name="ingredients" value="Cajun Seasoning"> Cajun Seasoning</label>
+            <label><input type="checkbox" name="ingredients" value="Five-Spice Powder"> Five-Spice Powder</label>
+            <label><input type="checkbox" name="ingredients" value="Dr. Dash"> Dr. Dash</label>
+            <label><input type="checkbox" name="ingredients" value="Creole Seasoning"> Creole Seasoning</label>
+            
+            <!-- ✅ Custom Multi-Select Dropdown for Hybrid Seasonings -->
+            <br>
+            <button type="button" class="dropdown-button" onclick="toggleDropdown('hybrid-dropdown')">More Options ⬇</button>
+            <div id="hybrid-dropdown" class="dropdown-content hidden">
+                <label><input type="checkbox" class="dropdown-checkbox" value="Garam Masala"> Garam Masala</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Italian Seasoning"> Italian Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Herbes de Provence"> Herbes de Provence</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Adobo Seasoning"> Adobo Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Taco Seasoning"> Taco Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Chili Lime Seasoning"> Chili Lime Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Curry Powder"> Curry Powder</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Za’atar"> Za’atar</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Berbere Spice"> Berbere Spice</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Ras el Hanout"> Ras el Hanout</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Everything Bagel Seasoning"> Everything Bagel Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Jerk Seasoning"> Jerk Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Montreal Steak Seasoning"> Montreal Steak Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Fajita Seasoning"> Fajita Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Poultry Seasoning"> Poultry Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Lemon Pepper Seasoning"> Lemon Pepper Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Blackened Seasoning"> Blackened Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Shichimi Togarashi (Japanese Seven-Spice Blend)"> Shichimi Togarashi (Japanese Seven-Spice Blend)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Char Siu Seasoning"> Char Siu Seasoning</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Magic Seasoning Blends (Chef Paul Prudhomme’s line of seasonings)"> Magic Seasoning Blends (Chef Paul Prudhomme’s line of seasonings)</label>
+            </div>
+          
+
+            <h2>Sauces & Condiments</h2>
+            <label><input type="checkbox" name="ingredients" value="Ketchup"> Ketchup</label>
+            <label><input type="checkbox" name="ingredients" value="BBQ Sauce"> BBQ Sauce</label>
+            <label><input type="checkbox" name="ingredients" value="Ranch Sauce"> Ranch Sauce</label>
+            <label><input type="checkbox" name="ingredients" value="Worcestershire Sauce"> Worcestershire Sauce</label>
+            <label><input type="checkbox" name="ingredients" value="Vinegar (Apple Cider, White, Balsamic, Rice Vinegar, etc.)"> Vinegar (Apple Cider, White, Balsamic, Rice Vinegar, etc.)</label>
+            
+            <!-- ✅ Custom Multi-Select Dropdown for Sauces & Condiments -->
+            <br>
+            <button type="button" class="dropdown-button" onclick="toggleDropdown('sauces-dropdown')">More Options ⬇</button>
+            <div id="sauces-dropdown" class="dropdown-content hidden">
+                <label><input type="checkbox" class="dropdown-checkbox" value="Italian Dressing/Seasoning Mix"> Italian Dressing/Seasoning Mix</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Tomato Paste"> Tomato Paste</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="A1 Sauce (Steak Sauce)"> A1 Sauce (Steak Sauce)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Soy Sauce (Light and Dark)"> Soy Sauce (Light and Dark)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Oyster Sauce"> Oyster Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Fish Sauce"> Fish Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Hoisin Sauce"> Hoisin Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Teriyaki Sauce"> Teriyaki Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Hot Sauce (Sriracha, Tabasco, Frank’s RedHot, etc.)"> Hot Sauce (Sriracha, Tabasco, Frank’s RedHot, etc.)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cooking Wine (Shaoxing, Mirin, White Wine, Red Wine, etc.)"> Cooking Wine (Shaoxing, Mirin, White Wine, Red Wine, etc.)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Cooking Oil (Vegetable, Canola, Sunflower, etc.)"> Cooking Oil (Vegetable, Canola, Sunflower, etc.)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Olive Oil"> Olive Oil</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Sesame Oil"> Sesame Oil</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Chicken Stock"> Chicken Stock</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Beef Stock"> Beef Stock</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Mayonnaise"> Mayonnaise</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Sour Cream"> Sour Cream</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Relish"> Relish</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Mustard (Yellow, Dijon, Honey, Whole Grain, etc.)"> Mustard (Yellow, Dijon, Honey, Whole Grain, etc.)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Tartar Sauce"> Tartar Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Chili Paste (Sambal Oelek, Gochujang, etc.)"> Chili Paste (Sambal Oelek, Gochujang, etc.)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Tzatziki Sauce"> Tzatziki Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Pesto Sauce"> Pesto Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Hollandaise Sauce"> Hollandaise Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Béchamel Sauce (White Sauce)"> Béchamel Sauce (White Sauce)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Salsa (Pico de Gallo, Roasted Salsa, etc.)"> Salsa (Pico de Gallo, Roasted Salsa, etc.)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Tahini (Sesame Paste)"> Tahini (Sesame Paste)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Harissa Paste"> Harissa Paste</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Aioli (Garlic or Herb-Infused Mayo-Based Sauce)"> Aioli (Garlic or Herb-Infused Mayo-Based Sauce)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Remoulade"> Remoulade</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Gremolata (Parsley, Lemon, and Garlic Mix)"> Gremolata (Parsley, Lemon, and Garlic Mix)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Chimichurri Sauce"> Chimichurri Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Ponzu Sauce"> Ponzu Sauce</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Bulgogi Sauce (Korean BBQ Marinade)"> Bulgogi Sauce (Korean BBQ Marinade)</label>
+                <label><input type="checkbox" class="dropdown-checkbox" value="Plum Sauce"> Plum Sauce</label>
+            </div>
+            <br><br>
+            <button type="button" onclick="findRecipes()">Find Recipes</button>
+            <button type="button" onclick="goHome()">🏠 Back to Home</button>
+
+        </form>
+
+        <h2>Matching Recipes</h2>
+        <div id="recipe-results" class="recipe-grid"></div>
+
+    </div>
+
+    <script>
+        function goHome() {
+            window.location.href = "/";
+        }
+
+        function toggleDropdown(id) {
+            let dropdown = document.getElementById(id);
+            dropdown.classList.toggle("show");
+        }
+
+        async function findRecipes() {
+            const form = document.getElementById('ingredient-form');
+
+            // ✅ Collect selected checkboxes
+            const selectedIngredients = Array.from(form.elements['ingredients'])
+                .filter(input => input.checked)
+                .map(input => input.value);
+
+            // ✅ Collect selected checkboxes from dropdowns
+            document.querySelectorAll(".dropdown-checkbox").forEach(checkbox => {
+                if (checkbox.checked) {
+                    selectedIngredients.push(checkbox.value);
+                }
+            });
+
+            if (selectedIngredients.length === 0) {
+                alert("Please select at least one ingredient.");
+                return;
+            }
+
+            console.log("🔍 Searching for recipes with ingredients:", selectedIngredients);
+
+            const response = await fetch('/find-recipes', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ ingredients: selectedIngredients })
+            });
+
+            const recipes = await response.json();
+            const resultsDiv = document.getElementById('recipe-results');
+            resultsDiv.innerHTML = '';
+
+            if (recipes.length === 0) {
+                resultsDiv.innerHTML = '<p>No matching recipes found.</p>';
+            } else {
+                recipes.forEach(recipe => {
+                    const card = document.createElement('div');
+                    card.className = 'recipe-card';
+                    card.innerHTML = `
+                        <a href="/recipe/${encodeURIComponent(recipe.title)}">
+                            <img src="/recipes429/${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                            <h3 class="recipe-title">${recipe.title}</h3>
+                        </a>
+                    `;
+                    resultsDiv.appendChild(card);
+                });
+            }
+        }
+    </script>
+
+</body>
+</html>

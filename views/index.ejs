@@ -19,7 +19,7 @@
                     <% recipes[category].forEach(recipe => { %>
                         <div class="recipe-card">
                             <a href="<%= recipe.url %>">
-                                <img src="/recipe-images/<%= recipe.image_path %>" alt="<%= recipe.recipe_name %>">
+                                <img src="<%= recipe.image_path %>" alt="<%= recipe.recipe_name %>">
                                 <h3><%= recipe.recipe_name %></h3>
                             </a>
                         </div>
