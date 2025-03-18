@@ -231,7 +231,7 @@
                     card.className = 'recipe-card';
                     card.innerHTML = `
                         <a href="/recipe/${encodeURIComponent(recipe.title)}">
-                            <img src="/recipes429/${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                            <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
                             <h3 class="recipe-title">${recipe.title}</h3>
                         </a>
                     `;

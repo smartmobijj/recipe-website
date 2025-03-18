@@ -89,6 +89,24 @@ a:hover {
     text-decoration: underline;
 }
 
+.home-link {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 8px 12px;
+    border-radius: 5px;
+    z-index: 1000;
+}
+.home-link a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.home-link a:hover {
+    text-decoration: underline;
+}
+
 /* ✅ Ensure images maintain aspect ratio and are not too wide */
 .recipe-card img {
     width: 100%;  /* Make image responsive */

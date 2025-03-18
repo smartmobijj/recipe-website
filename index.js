@@ -34,7 +34,7 @@ function getAllRecipes() {
             try {
                 const recipeData = JSON.parse(fs.readFileSync(recipePath, 'utf8'));
                 const recipeName = file.replace('.json', '');
-                const imagePath = `/recipes429/images/${recipeName}.jpg`; // ✅ Ensure correct image path
+                const imagePath = `/recipes429/${recipeData.image}`; // ✅ Ensure correct image path
                 
                 recipes.push({
                     title: recipeData.title,
@@ -104,7 +104,7 @@ app.post('/find-recipes', (req, res) => {
     // ✅ Sort recipes by the number of matches (most relevant first)
     matchingRecipes.sort((a, b) => b.matchScore - a.matchScore);
 
-    console.log(`✅ Recipes Found for Ingredients: ${ingredients}`, matchingRecipes);
+    // console.log(`✅ Recipes Found for Ingredients: ${ingredients}`, matchingRecipes);
     res.json(matchingRecipes);
 });
 
@@ -131,12 +131,12 @@ app.get('/search', (req, res) => {
                 );
 
                 // ✅ Log extracted image path for debugging
-                console.log(`🖼️ Extracted image path for "${recipeData.title}": ${recipeData.image}`);
+                // console.log(`🖼️ Extracted image path for "${recipeData.title}": ${recipeData.image}`);
 
                 if (titleMatch || ingredientMatch) {
                     matchingRecipes.push({
                         title: recipeData.title,
-                        image: `/recipes429/${recipeData.image}`,
+                        image: `${recipeData.image}`,
                         url: `/recipe/${encodeURIComponent(recipeName)}`
                     });
                 }
@@ -146,7 +146,7 @@ app.get('/search', (req, res) => {
         }
     });
 
-    console.log(`✅ Search Results for "${query}":`, matchingRecipes); // Debugging log
+    // console.log(`✅ Search Results for "${query}":`, matchingRecipes); // Debugging log
     res.json(matchingRecipes);
 });
 
@@ -261,7 +261,7 @@ app.get('/recipes/:continent/:country', (req, res) => {
                     // ✅ Extract Image Path and Log for Debugging
                     imagePath =  `/recipes429/${recipeData.image}`;
                     // imagePath = recipeData.image
-                    console.log(`🖼️ Image path for "${recipeData.title}": ${imagePath}`);
+                    // console.log(`🖼️ Image path for "${recipeData.title}": ${imagePath}`);
 
                     filteredRecipes.push({
                         title: recipeData.title,
@@ -301,19 +301,25 @@ app.post('/find-meal-plan', (req, res) => {
     proteins.forEach(protein => {
         const allIngredients = [...vegetables, ...others, ...sidebarIngredients];
 
-        // ✅ Convert ingredients to lowercase for case-insensitive search
+        // ✅ Convert ingredients & protein to lowercase for case-insensitive search
         const lowerCaseIngredients = allIngredients.map(ing => ing.toLowerCase());
-        const placeholders = new Array(lowerCaseIngredients.length + 1).fill("?").join(",");
+        const lowerCaseProtein = `%${protein.toLowerCase()}%`; // ✅ Use `%` wildcard for partial matches
+        const placeholders = new Array(lowerCaseIngredients.length).fill("?").join(",");
 
         const sqlQuery = `
-            SELECT r.recipe_name, r.ingredient_name, r.quantity, r.unit, m.image_path, m.url
+            SELECT r.recipe_name, GROUP_CONCAT(r.ingredient_name) AS ingredients, m.image_path, m.url
             FROM recipe_ingredients r
             JOIN recipe_metadata m ON r.recipe_name = m.recipe_name
-            WHERE LOWER(r.ingredient_name) IN (${placeholders}) OR LOWER(r.ingredient_name) = ?
+            WHERE (LOWER(m.recipe_name) LIKE ? OR LOWER(r.ingredient_name) LIKE ?)
+            AND (LOWER(r.ingredient_name) LIKE ? OR LOWER(r.ingredient_name) IN (${placeholders}))
             GROUP BY r.recipe_name
         `;
 
-        db.all(sqlQuery, [...lowerCaseIngredients, protein.toLowerCase()], (err, rows) => {
+        console.log("📝 Running SQL Query:");
+        console.log(sqlQuery);
+        console.log("🔎 Query Parameters:", [lowerCaseProtein, lowerCaseProtein, lowerCaseProtein, ...lowerCaseIngredients]);
+
+        db.all(sqlQuery, [lowerCaseProtein, lowerCaseProtein, lowerCaseProtein, ...lowerCaseIngredients], (err, rows) => {
             if (err) {
                 console.error("❌ Error querying SQLite:", err);
                 queriesCompleted++;
@@ -325,11 +331,15 @@ app.post('/find-meal-plan', (req, res) => {
             let proteinResults = [];
 
             rows.forEach(row => {
+                // ✅ Extract key ingredient that matches the protein
+                const ingredientsList = row.ingredients.split(", ");
+                const keyIngredient = ingredientsList.find(ing => ing.toLowerCase().includes(protein.toLowerCase())) || "Unknown";
+
                 proteinResults.push({
                     title: row.recipe_name,
                     image: row.image_path ? `/recipes429/${row.image_path}` : '/recipes429/images/default.jpg',
                     url: row.url,
-                    keyIngredients: row.ingredient_name
+                    keyIngredients: keyIngredient
                 });
             });
 
@@ -345,8 +355,6 @@ app.post('/find-meal-plan', (req, res) => {
         });
     });
 });
-
-
 
 
 // ✅ Start the server

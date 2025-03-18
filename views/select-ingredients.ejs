@@ -270,6 +270,9 @@
         <!-- Button to Find Recipes -->
         <button onclick="findMealPlan()">Find Recipes</button>
 
+        <!-- Button to Go Home -->
+        <button type="button" onclick="goHome()">🏠 Back to Home</button>
+
         <!-- Matched Recipes -->
         <h2>Matched Recipes</h2>
         <div class="recipe-grid" id="recipe-results">
@@ -278,6 +281,10 @@
     </div>
 
     <script>
+                function goHome() {
+            window.location.href = "/";
+        }
+        
         function toggleDropdown(id) {
             document.getElementById(id).classList.toggle("show");
         }
