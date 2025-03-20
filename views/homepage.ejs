@@ -12,6 +12,16 @@
         <br>
         <div class="home-link">
             <a href="/">🏠 Home</a>
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Clients</a>
+    <a href="#">Contact</a>
+  </div>
+</div>
+
 <div class="icon" onclick="xchanger(this)">
   <div class="bar1"></div>
   <div class="bar2"></div>
@@ -73,6 +83,7 @@ function closeNav() {
         // ✅ Load Continents from API
 function xchanger(x) {
   x.classList.toggle("change");
+ document.getElementById("myNav").style.width = "100%";
 }
         async function loadContinents() {
             try {
