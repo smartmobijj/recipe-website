@@ -331,7 +331,7 @@ body {
 .bar1, .bar2, .bar3 {
   width: 35px;
   height: 5px;
-  background-color: #333;
+  background-color: rgb(219, 219, 219);
   margin: 6px 0;
   transition: 0.4s;
 }
@@ -370,13 +370,13 @@ body {
   padding: 8px;
   text-decoration: none;
   font-size: 36px;
-  color: #818181;
+  color: #9e9d9d;
   display: block;
   transition: 0.3s;
 }
 
 .overlay a:hover, .overlay a:focus {
-  color: #f1f1f1;
+  color: #ffffff;
 }
 
 .overlay .closebtn {
