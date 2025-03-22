@@ -148,8 +148,6 @@
 
             resultsContainer.appendChild(grid);
         }
-    </script>
-    <script>
         // ✅ Fetch and Display Search Results
         async function searchRecipes() {
             const query = document.getElementById('search').value.trim();
@@ -186,6 +184,51 @@
             resultsContainer.appendChild(grid);
         }
     </script>
-    
+
+
+
+<!-- ✅ "Team Members' Favorite Dishes" Section -->
+<section class="team-favorites">
+    <h2 class="recipe-title">👩‍🍳 Team Members' Favorite Dishes</h2>
+    <div class="recipe-grid">
+        <% if (typeof teamFavorites !== "undefined" && teamFavorites.length > 0) { %>
+            <% teamFavorites.forEach(recipe => { %>
+                <div class="recipe-card">
+                    <a href="<%= recipe.url %>">
+                        <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+                        <h3 class="recipe-title"><%= recipe.title %></h3>
+                    </a>
+                </div>
+            <% }) %>
+        <% } else { %>
+            <p>No team favorite recipes available.</p>
+        <% } %>
+    </div>
+</section>
+
+
+
+<<!-- ✅ "Top 10 Easy Recipes" Section -->
+<section class="easy-recipes">
+    <h2 class="recipe-title">🌟 Top 10 Easy Recipes</h2>
+    <div class="recipe-grid">
+        <% if (easyRecipes && easyRecipes.length > 0) { %>
+            <% easyRecipes.forEach(recipe => { %>
+                <div class="recipe-card">
+                    <a href="<%= recipe.url %>">
+                        <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+                        <h3 class="recipe-title"><%= recipe.title %></h3>
+                    </a>
+                </div>
+            <% }) %>
+        <% } else { %>
+            <p>No easy recipes available.</p>
+        <% } %>
+    </div>
+</section>
+
+
+
+
 </body>
 </html>

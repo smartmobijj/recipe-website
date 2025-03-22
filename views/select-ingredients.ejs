@@ -130,7 +130,8 @@
             </div>
 
             <h3>Fresh Seasonings</h3>
-            <label><input type="checkbox" name="ingredients" value="Green Onion"> Green Onion</label>
+            <label><input type="checkbox" name="ingredients" value="Butter"> Butter</label>
+            <label><input type="checkbox" name="ingredients" value="Green Onion (Scallion)"> Green Onion (Scallion)</label>
             <label><input type="checkbox" name="ingredients" value="Ginger"> Ginger</label>
             <label><input type="checkbox" name="ingredients" value="Garlic"> Garlic</label>
             <label><input type="checkbox" name="ingredients" value="Thyme"> Thyme</label>
@@ -205,6 +206,7 @@
             <h3>Sauces & Condiments</h3>
             <label><input type="checkbox" name="ingredients" value="Ketchup"> Ketchup</label>
             <label><input type="checkbox" name="ingredients" value="BBQ Sauce"> BBQ Sauce</label>
+            <label><input type="checkbox" name="ingredients" value="Soy Sauce (Light and Dark)"> Soy Sauce (Light and Dark)</label>
             <label><input type="checkbox" name="ingredients" value="Ranch Sauce"> Ranch Sauce</label>
             <label><input type="checkbox" name="ingredients" value="Worcestershire Sauce"> Worcestershire Sauce</label>
             <label><input type="checkbox" name="ingredients" value="Vinegar (Apple Cider, White, Balsamic, Rice Vinegar, etc.)"> Vinegar (Apple Cider, White, Balsamic, Rice Vinegar, etc.)</label>
@@ -216,7 +218,6 @@
                 <label><input type="checkbox" class="dropdown-checkbox" value="Italian Dressing/Seasoning Mix"> Italian Dressing/Seasoning Mix</label>
                 <label><input type="checkbox" class="dropdown-checkbox" value="Tomato Paste"> Tomato Paste</label>
                 <label><input type="checkbox" class="dropdown-checkbox" value="A1 Sauce (Steak Sauce)"> A1 Sauce (Steak Sauce)</label>
-                <label><input type="checkbox" class="dropdown-checkbox" value="Soy Sauce (Light and Dark)"> Soy Sauce (Light and Dark)</label>
                 <label><input type="checkbox" class="dropdown-checkbox" value="Oyster Sauce"> Oyster Sauce</label>
                 <label><input type="checkbox" class="dropdown-checkbox" value="Fish Sauce"> Fish Sauce</label>
                 <label><input type="checkbox" class="dropdown-checkbox" value="Hoisin Sauce"> Hoisin Sauce</label>
@@ -254,6 +255,9 @@
 
     <!-- Main Content -->
     <div class="content">
+        <!-- Button to Go Home -->
+        <button type="button" onclick="goHome()">🏠 Back to Home</button>
+
         <h1>Meal Planning</h1>
 
         <!-- Grocery List Input -->
@@ -270,9 +274,6 @@
         <!-- Button to Find Recipes -->
         <button onclick="findMealPlan()">Find Recipes</button>
 
-        <!-- Button to Go Home -->
-        <button type="button" onclick="goHome()">🏠 Back to Home</button>
-
         <!-- Matched Recipes -->
         <h2>Matched Recipes</h2>
         <div class="recipe-grid" id="recipe-results">
@@ -284,7 +285,7 @@
                 function goHome() {
             window.location.href = "/";
         }
-        
+
         function toggleDropdown(id) {
             document.getElementById(id).classList.toggle("show");
         }

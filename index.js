@@ -50,12 +50,191 @@ function getAllRecipes() {
     return recipes;
 }
 
-// ✅ Homepage Route: Load 10 Random Recipes from JSON
+// // ✅ Homepage Route: Load 10 Random Recipes from JSON
+// app.get('/', (req, res) => {
+//     let recipes = getAllRecipes();
+//     recipes = recipes.sort(() => Math.random() - 0.5).slice(0, 10); // ✅ Shuffle and pick 10 random recipes
+//     res.render('homepage', { recipes });
+// });
+
+
+// ✅ Define Richard's Suggested Recipes
+function getRichardsRecipes() {
+    return [
+        {
+            title: "Chicken Fried Rice",
+            image: "/recipes429/images/chicken-fried-rice.jpg",
+            url: "/recipe/chicken-fried-rice"
+        },
+        {
+            title: "Mom's Spaghetti Bolognese",
+            image: "/recipes429/images/moms-spaghetti-bolognese.jpg",
+            url: "/recipe/moms-spaghetti-bolognese"
+        },
+        {
+            title: "Detroit Style Pizza",
+            image: "/recipes429/images/detroit-style-pizza.jpg",
+            url: "/recipe/detroit-style-pizza"
+        },
+        {
+            title: "Full English Breakfast",
+            image: "/recipes429/images/full-english-breakfast.jpg",
+            url: "/recipe/full-english-breakfast"
+        },
+        {
+            title: "Cheese Fondue",
+            image: "/recipes429/images/cheese-fondue.jpg",
+            url: "/recipe/cheese-fondue"
+        },
+        {
+            title: "Crispy Fried Chicken",
+            image: "/recipes429/images/crispy-fried-chicken.jpg",
+            url: "/recipe/crispy-fried-chicken"
+        },
+        {
+            title: "Chinese Chicken Salad",
+            image: "/recipes429/images/chinese-chicken-salad.jpg",
+            url: "/recipe/chinese-chicken-salad"
+        },
+        {
+            title: "Delicious Grilled Hamburgers",
+            image: "/recipes429/images/delicious-grilled-hamburgers.jpg",
+            url: "/recipe/delicious-grilled-hamburgers"
+        },
+        {
+            title: "Grilled Cheese Sandwich",
+            image: "/recipes429/images/grilled-cheese-sandwich.jpg",
+            url: "/recipe/grilled-cheese-sandwich"
+        },
+        {
+            title: "Homemade Mac and Cheese",
+            image: "/recipes429/images/homemade-mac-and-cheese.jpg",
+            url: "/recipe/homemade-mac-and-cheese"
+        }
+    ];
+}
+
+// // ✅ Ensure `richardsRecipes` is Passed to `homepage.ejs`
+// app.get('/', (req, res) => {
+//     let recipes = getAllRecipes().sort(() => Math.random() - 0.5).slice(0, 10);
+//     let easyRecipes = getEasyRecipes();
+//     let richardsRecipes = getRichardsRecipes(); // Ensure Richard's recipes are included
+
+//     console.log("Debug: Passing richardsRecipes to homepage.ejs:", richardsRecipes.length); // Debugging Log
+
+//     res.render('homepage', { recipes, easyRecipes, richardsRecipes });
+// });
+
+function getEasyRecipes(callback) {
+    const sqlite3 = require('sqlite3').verbose();
+    const db = new sqlite3.Database('recipe-ingredient.db');
+
+    const sql = `
+        SELECT recipe_name, file_name, image_path
+        FROM recipe_metadata
+        WHERE LOWER(difficulty) IN ('easy', 'medium', 'hard')
+        ORDER BY RANDOM()
+        LIMIT 10
+    `;
+
+    const recipesDir = path.join(__dirname, 'recipes429/recipes');
+
+    db.all(sql, [], (err, rows) => {
+        if (err) {
+            console.error("❌ Error querying easy recipes:", err);
+            return callback([]);
+        }
+
+        const easyRecipes = [];
+
+        rows.forEach(row => {
+            const filePath = path.join(recipesDir, `${row.file_name}.json`);
+
+
+            if (fs.existsSync(filePath)) {
+                try {
+                    const recipeData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+                    const recipeName = row.file_name.replace('.json', '');
+
+                    easyRecipes.push({
+                        title: recipeData.title,
+                        image: `/recipes429/${recipeData.image}`,
+                        url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`
+                    });
+                } catch (error) {
+                    console.error(`❌ Failed to parse recipe JSON: ${row.file_name}`, error);
+                }
+            } else {
+                console.warn(`⚠️ Missing recipe file: ${filePath}`);
+            }
+        });
+
+        callback(easyRecipes);
+    });
+}
+
+
 app.get('/', (req, res) => {
-    let recipes = getAllRecipes();
-    recipes = recipes.sort(() => Math.random() - 0.5).slice(0, 10); // ✅ Shuffle and pick 10 random recipes
-    res.render('homepage', { recipes });
+    let recipes = getAllRecipes().sort(() => Math.random() - 0.5).slice(0, 10);
+    let teamFavorites = getTeamFavorites();
+
+    getEasyRecipes((easyRecipes) => {
+        console.log("✅ Homepage loaded with:");
+        console.log("Random:", recipes.length, "Easy:", easyRecipes.length, "Team Favorites:", teamFavorites.length);
+
+        res.render('homepage', {
+            recipes,
+            easyRecipes,
+            teamFavorites
+        });
+    });
 });
+
+
+
+function getTeamFavorites() {
+    const favoriteFiles = [
+        'chicken-fried-rice.json',
+        'moms-spaghetti-bolognese.json',
+        'detroit-style-pizza.json',
+        'full-english-breakfast.json',
+        'cheese-fondue.json',
+        'crispy-fried-chicken.json',
+        'chinese-chicken-salad.json',
+        'delicious-grilled-hamburgers.json',
+        'grilled-cheese-sandwich.json',
+        'homemade-mac-and-cheese.json'
+    ];
+
+    const recipesDir = path.join(__dirname, 'recipes429/recipes');
+    const favorites = [];
+
+    favoriteFiles.forEach(file => {
+        const recipePath = path.join(recipesDir, file);
+
+        try {
+            if (fs.existsSync(recipePath)) {
+                const recipeData = JSON.parse(fs.readFileSync(recipePath, 'utf8'));
+                const recipeName = file.replace('.json', '');
+                const imagePath = `/recipes429/${recipeData.image}`;
+
+                favorites.push({
+                    title: recipeData.title,
+                    image: imagePath,
+                    url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`
+                });
+            } else {
+                console.warn(`⚠️ File not found for favorite: ${file}`);
+            }
+        } catch (err) {
+            console.error(`❌ Failed to load favorite recipe from ${file}:`, err);
+        }
+    });
+
+    return favorites;
+}
+
+
 
 // ✅ Serve the About Us page
 app.get('/about', (req, res) => {
