@@ -11,8 +11,23 @@
         <h1 class="recipe-title">Discover Recipes</h1>
         <br>
         <div class="home-link">
-            <a href="/">🏠 Home</a>
+           
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+    <a href="/about" style="font-family: Arial, sans-serif">About</a>
+    <a href="/select-ingredients">Create Your Own Meal</a>
+
+  </div>
+</div>
+
+<div class="icon" onclick="xchanger(this)">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+</div>
         </div>
+
 
         <!-- 🔍 Search Bar -->
         <input type="text" id="search" placeholder="Search for a recipe..." oninput="searchRecipes()">
@@ -57,7 +72,18 @@
     </div>
 
     <script>
+function openNav() {
+  document.getElementById("myNav").style.width = "100%";
+}
+
+function closeNav() {
+  document.getElementById("myNav").style.width = "0%";
+}
         // ✅ Load Continents from API
+function xchanger(x) {
+  x.classList.toggle("change");
+ document.getElementById("myNav").style.width = "100%";
+}
         async function loadContinents() {
             try {
                 const response = await fetch('/getContinents');
