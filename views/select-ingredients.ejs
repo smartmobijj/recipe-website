@@ -11,7 +11,7 @@
             font-family: Arial, sans-serif;
         }
        /* Sidebar for checkboxes */
-       .sidebar {
+       .sidebar-static {
             width: 20%;
             padding: 20px;
             background: rgba(50, 50, 50, 0.8); /* ✅ Dark gray with 80% opacity */
@@ -19,15 +19,15 @@
             height: 100vh;
             overflow-y: auto;
         }
-        .sidebar h2 {
+        .sidebar-static h2 {
             font-size: 18px;
             margin-bottom: 10px;
         }
-        .sidebar label {
+        .sidebar-static label {
             display: block;
             margin: 5px 0;
         }
-        .sidebar select {
+        .sidebar-static select {
             width: 100%;
             padding: 5px;
             margin-top: 5px;
@@ -90,7 +90,7 @@
 <body>
 
     <!-- Sidebar with Checkboxes -->
-    <div class="sidebar">
+    <div class="sidebar-static">
         <h2>Choose Ingredients</h2>
         <form id="ingredient-form">
             <h3>Powders</h3>

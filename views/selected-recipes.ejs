@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Selected Recipes</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="recipe-title">🧺 My Selected Recipes</h1>
+        <div class="recipe-grid" id="selected-grid">
+            <p>Loading your selected recipes...</p>
+        </div>
+
+        <button onclick="goBack()">⬅ Back</button>
+    </div>
+
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+
+        const container = document.getElementById('selected-grid');
+        const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
+
+        if (selected.length === 0) {
+            container.innerHTML = '<p>You have not selected any recipes yet.</p>';
+        } else {
+            container.innerHTML = '';
+            selected.forEach(recipe => {
+                const card = document.createElement('div');
+                card.className = 'recipe-card';
+                card.innerHTML = `
+                    <a href="${recipe.url}">
+                        <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                        <h3 class="recipe-title">${recipe.title}</h3>
+                    </a>
+                `;
+                container.appendChild(card);
+            });
+        }
+    </script>
+</body>
+</html>

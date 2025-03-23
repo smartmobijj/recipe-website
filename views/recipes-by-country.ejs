@@ -17,20 +17,32 @@
             <div class="recipe-grid">
                 <% recipes.forEach(recipe => { %>
                     <div class="recipe-card">
-                        <a href="/recipe/<%= encodeURIComponent(recipe.title) %>">
-                            <img src="<%= recipe.image %>" alt="<%= recipe.title %>">
-                            <p><%= recipe.title %></p>
-                        </a>
+                        <div class="image-container">
+                            <input type="checkbox" class="select-recipe"
+                                data-recipe='<%= JSON.stringify({
+                                    title: recipe.title,
+                                    image: recipe.image,
+                                    url: "/recipe/" + encodeURIComponent(recipe.title.toLowerCase().replace(/\s+/g, '-')),
+                                    filename: recipe.filename
+                                }) %>' />
+                            <a href="/recipe/<%= encodeURIComponent(recipe.title) %>">
+                                <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+                            </a>
+                        </div>
+                        <p><%= recipe.title %></p>                        
                     </div>
                 <% }) %>
             </div>
         <% } else { %>
             <p>No recipes found.</p>
-        <% } %>
+        <% } %>        
 
         <br>
         <a href="/browse">⬅ Back to Browse</a>
     </div>
-
+    <div id="selected-recipes-float" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+        <button onclick="window.location.href='/selected-recipes'">🧺 View Selected (<span id="selected-count">0</span>)</button>
+    </div>
+    
 </body>
 </html>

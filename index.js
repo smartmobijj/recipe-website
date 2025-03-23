@@ -4,6 +4,10 @@ const path = require('path');
 const fs = require('fs');
 
 const app = express();
+const serverSessionID = Date.now().toString(); // unique ID on each server restart
+
+
+// sessionStorage.clear(); // Uncomment only if needed
 
 // Middleware
 app.use(express.json());
@@ -39,7 +43,8 @@ function getAllRecipes() {
                 recipes.push({
                     title: recipeData.title,
                     image: imagePath,
-                    url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`
+                    url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`,
+                    filename: file
                 });
             } catch (error) {
                 console.error(`❌ Error reading JSON file ${file}:`, error);
@@ -58,86 +63,19 @@ function getAllRecipes() {
 // });
 
 
-// ✅ Define Richard's Suggested Recipes
-function getRichardsRecipes() {
-    return [
-        {
-            title: "Chicken Fried Rice",
-            image: "/recipes429/images/chicken-fried-rice.jpg",
-            url: "/recipe/chicken-fried-rice"
-        },
-        {
-            title: "Mom's Spaghetti Bolognese",
-            image: "/recipes429/images/moms-spaghetti-bolognese.jpg",
-            url: "/recipe/moms-spaghetti-bolognese"
-        },
-        {
-            title: "Detroit Style Pizza",
-            image: "/recipes429/images/detroit-style-pizza.jpg",
-            url: "/recipe/detroit-style-pizza"
-        },
-        {
-            title: "Full English Breakfast",
-            image: "/recipes429/images/full-english-breakfast.jpg",
-            url: "/recipe/full-english-breakfast"
-        },
-        {
-            title: "Cheese Fondue",
-            image: "/recipes429/images/cheese-fondue.jpg",
-            url: "/recipe/cheese-fondue"
-        },
-        {
-            title: "Crispy Fried Chicken",
-            image: "/recipes429/images/crispy-fried-chicken.jpg",
-            url: "/recipe/crispy-fried-chicken"
-        },
-        {
-            title: "Chinese Chicken Salad",
-            image: "/recipes429/images/chinese-chicken-salad.jpg",
-            url: "/recipe/chinese-chicken-salad"
-        },
-        {
-            title: "Delicious Grilled Hamburgers",
-            image: "/recipes429/images/delicious-grilled-hamburgers.jpg",
-            url: "/recipe/delicious-grilled-hamburgers"
-        },
-        {
-            title: "Grilled Cheese Sandwich",
-            image: "/recipes429/images/grilled-cheese-sandwich.jpg",
-            url: "/recipe/grilled-cheese-sandwich"
-        },
-        {
-            title: "Homemade Mac and Cheese",
-            image: "/recipes429/images/homemade-mac-and-cheese.jpg",
-            url: "/recipe/homemade-mac-and-cheese"
-        }
-    ];
-}
-
-// // ✅ Ensure `richardsRecipes` is Passed to `homepage.ejs`
-// app.get('/', (req, res) => {
-//     let recipes = getAllRecipes().sort(() => Math.random() - 0.5).slice(0, 10);
-//     let easyRecipes = getEasyRecipes();
-//     let richardsRecipes = getRichardsRecipes(); // Ensure Richard's recipes are included
-
-//     console.log("Debug: Passing richardsRecipes to homepage.ejs:", richardsRecipes.length); // Debugging Log
-
-//     res.render('homepage', { recipes, easyRecipes, richardsRecipes });
-// });
-
 function getEasyRecipes(callback) {
     const sqlite3 = require('sqlite3').verbose();
     const db = new sqlite3.Database('recipe-ingredient.db');
 
     const sql = `
-        SELECT recipe_name, file_name, image_path
+        SELECT recipe_name, json_path, image_path
         FROM recipe_metadata
         WHERE LOWER(difficulty) IN ('easy', 'medium', 'hard')
         ORDER BY RANDOM()
         LIMIT 10
     `;
 
-    const recipesDir = path.join(__dirname, 'recipes429/recipes');
+    const recipesDir = path.join(__dirname, 'recipes429/');
 
     db.all(sql, [], (err, rows) => {
         if (err) {
@@ -148,21 +86,29 @@ function getEasyRecipes(callback) {
         const easyRecipes = [];
 
         rows.forEach(row => {
-            const filePath = path.join(recipesDir, `${row.file_name}.json`);
+            // ✅ Use file_name if valid, else fallback to recipe_name
+            let baseName = row.json_path.trim();
 
+            // ✅ Ensure only one `.json` extension
+            if (!baseName.endsWith('.json')) {
+                baseName += '.json';
+            }
+
+            const filePath = path.join(recipesDir, baseName);
 
             if (fs.existsSync(filePath)) {
                 try {
                     const recipeData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-                    const recipeName = row.file_name.replace('.json', '');
+                    const recipeName = baseName.replace('.json', '');
 
                     easyRecipes.push({
                         title: recipeData.title,
                         image: `/recipes429/${recipeData.image}`,
-                        url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`
+                        url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`,
+                        filename: baseName
                     });
                 } catch (error) {
-                    console.error(`❌ Failed to parse recipe JSON: ${row.file_name}`, error);
+                    console.error(`❌ Failed to parse recipe JSON: ${baseName}`, error);
                 }
             } else {
                 console.warn(`⚠️ Missing recipe file: ${filePath}`);
@@ -185,7 +131,8 @@ app.get('/', (req, res) => {
         res.render('homepage', {
             recipes,
             easyRecipes,
-            teamFavorites
+            teamFavorites,
+            serverSessionID
         });
     });
 });
@@ -195,7 +142,7 @@ app.get('/', (req, res) => {
 function getTeamFavorites() {
     const favoriteFiles = [
         'chicken-fried-rice.json',
-        'moms-spaghetti-bolognese.json',
+        'mom\'s-spaghetti-bolognese.json',
         'detroit-style-pizza.json',
         'full-english-breakfast.json',
         'cheese-fondue.json',
@@ -203,7 +150,17 @@ function getTeamFavorites() {
         'chinese-chicken-salad.json',
         'delicious-grilled-hamburgers.json',
         'grilled-cheese-sandwich.json',
-        'homemade-mac-and-cheese.json'
+        'homemade-mac-and-cheese.json',
+        'baek-kimchi-white-kimchi.json',
+        'beef-bulgogi.json',
+        'budae-jjigae-korean-army-stew.json',
+        'korean-doenjang-jjigae-soybean-paste-soup.json',
+        'jajangmyeon-vegetarian-korean-black-bean-noodles.json',
+        'korean-soft-tofu-stew-soon-du-bu-jigae.json',
+        'sweet-korean-crispy-chicken.json',
+        'yaki-mandu-korean-dumplings.json',
+        'smoked-salmon-sushi-roll.json',
+        'tteokbokki-korean-spicy-rice-cakes.json'
     ];
 
     const recipesDir = path.join(__dirname, 'recipes429/recipes');
@@ -221,7 +178,8 @@ function getTeamFavorites() {
                 favorites.push({
                     title: recipeData.title,
                     image: imagePath,
-                    url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`
+                    url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`,
+                    filename: file
                 });
             } else {
                 console.warn(`⚠️ File not found for favorite: ${file}`);
@@ -240,6 +198,11 @@ function getTeamFavorites() {
 app.get('/about', (req, res) => {
     res.render('about');
 });
+
+app.get('/selected-recipes', (req, res) => {
+    res.render('selected-recipes');
+});
+
 
 // ✅ Find Recipes Based on Selected Ingredients (Flexible Matching)
 app.post('/find-recipes', (req, res) => {
@@ -271,6 +234,7 @@ app.post('/find-recipes', (req, res) => {
                         title: recipeData.title,
                         image: imagePath,
                         url: `/recipe/${encodeURIComponent(recipeName)}`,
+                        filename: file,
                         matchScore: matchCount // ✅ Rank based on the number of matching ingredients
                     });
                 }
@@ -315,8 +279,9 @@ app.get('/search', (req, res) => {
                 if (titleMatch || ingredientMatch) {
                     matchingRecipes.push({
                         title: recipeData.title,
-                        image: `${recipeData.image}`,
-                        url: `/recipe/${encodeURIComponent(recipeName)}`
+                        image: `/recipes429/${recipeData.image}`,
+                        url: `/recipe/${encodeURIComponent(recipeName)}`,
+                        filename: file
                     });
                 }
             } catch (error) {
@@ -330,30 +295,25 @@ app.get('/search', (req, res) => {
 });
 
 // ✅ Fetch Single Recipe Details
-app.get('/recipe/:recipeName', (req, res) => {
-    const { recipeName } = req.params;
-    function formatRecipeFilename(recipeName) {
-        return recipeName.toLowerCase().replace(/\s+/g, '-') + '.json';
-    }
-    
-    const formattedFilename = formatRecipeFilename(recipeName);
-    const recipePath = path.join(__dirname, 'recipes429', 'recipes', formattedFilename);
-    
+app.get('/recipe/:filename', (req, res) => {
+    const filename = decodeURIComponent(req.params.filename); // e.g., "chicken-fried-rice"
+    const recipePath = path.join(__dirname, 'recipes429/recipes', `${filename}.json`);
 
     if (!fs.existsSync(recipePath)) {
-        console.error(`❌ Recipe file not found: ${recipePath}`);
+        console.error(`❌ Recipe file not found in app.get.recipe.filename: ${recipePath}`);
         return res.status(404).send("Recipe not found.");
     }
 
     try {
         const recipe = JSON.parse(fs.readFileSync(recipePath, 'utf8'));
-        recipe.image = `/recipes429/${recipe.image}`; // ✅ Ensure correct image path
+        recipe.image = `/recipes429/${recipe.image}`;
         res.render('recipe', { recipe });
-    } catch (error) {
-        console.error(`❌ Error parsing JSON for ${recipeName}:`, error);
+    } catch (err) {
+        console.error(`❌ Error parsing JSON for ${filename}:`, err);
         res.status(500).send("Error processing recipe data.");
     }
 });
+
 
 // ✅ Fetch all distinct continents (Fixed)
 app.get('/getContinents', (req, res) => {
@@ -378,7 +338,6 @@ app.get('/getContinents', (req, res) => {
     res.json([...continents]); // ✅ Fix: Send response to frontend
 });
 
-// ✅ Fetch all distinct countries for a selected continent (Fixed)
 app.get('/getCountries', (req, res) => {
     const { continent } = req.query;
     if (!continent) return res.status(400).json({ error: "Missing continent parameter" });
@@ -392,7 +351,12 @@ app.get('/getCountries', (req, res) => {
             const recipePath = path.join(recipesDir, file);
             try {
                 const recipeData = JSON.parse(fs.readFileSync(recipePath, 'utf8'));
-                if (recipeData.continent === continent && recipeData.country) {
+
+                if (
+                    recipeData.continent &&
+                    recipeData.country &&
+                    recipeData.continent.toLowerCase() === continent.toLowerCase()
+                ) {
                     countries.add(recipeData.country);
                 }
             } catch (error) {
@@ -401,8 +365,9 @@ app.get('/getCountries', (req, res) => {
         }
     });
 
-    res.json([...countries]); // ✅ Fix: Send response to frontend
+    res.json([...countries]);
 });
+
 
 // ✅ Serve the "Select Ingredients" Page with Available Ingredients
 app.get('/select-ingredients', (req, res) => {
@@ -436,16 +401,17 @@ app.get('/recipes/:continent/:country', (req, res) => {
                 const recipeData = JSON.parse(fs.readFileSync(recipePath, 'utf8'));
 
                 if (recipeData.continent === continent && recipeData.country === country) {
-                    const recipeName = file.replace('.json', '').replace(/-/g, ' ');
+                    const recipeName = file.replace('.json', '');
                     // ✅ Extract Image Path and Log for Debugging
                     imagePath =  `/recipes429/${recipeData.image}`;
                     // imagePath = recipeData.image
-                    // console.log(`🖼️ Image path for "${recipeData.title}": ${imagePath}`);
+                    console.log(`🖼️ Image path for "${recipeData.title}": ${imagePath}, {}`);
 
                     filteredRecipes.push({
                         title: recipeData.title,
                         image: `/recipes429/${recipeData.image}`,
-                        url: `/recipe/${encodeURIComponent(recipeName)}`
+                        url: `/recipe/${encodeURIComponent(recipeName)}`,
+                        filename: file
                     });
                 }
             } catch (error) {

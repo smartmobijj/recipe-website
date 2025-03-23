@@ -33,35 +33,3 @@
     </script>
 </body>
 </html>
-
-<!-- ✅ Add Email Input & Favorite Button -->
-<input type="email" id="favorite-email" placeholder="Enter your email to save this recipe">
-<button onclick="saveFavorite('<%= encodeURIComponent(recipe.title) %>')">💖 Save to Favorites</button>
-
-<script>
-    // ✅ Function to Save Recipe to Favorites
-    async function saveFavorite(recipeTitle) {
-        const email = document.getElementById('favorite-email').value;
-        if (!email) {
-            alert("Please enter an email.");
-            return;
-        }
-
-        try {
-            const response = await fetch('/favorite', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ email, recipeTitle: decodeURIComponent(recipeTitle) }) // ✅ Fix title encoding issue
-            });
-
-            const result = await response.json();
-            alert(result.message || "Error saving favorite.");
-        } catch (error) {
-            console.error("❌ Error saving favorite:", error);
-            alert("Error saving favorite.");
-        }
-    }
-</script>
-
-</body>
-</html>

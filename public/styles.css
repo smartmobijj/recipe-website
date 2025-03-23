@@ -107,6 +107,79 @@ a:hover {
     text-decoration: underline;
 }
 
+/* ✅ Sidebar style instead of full-page overlay */
+.sidebar {
+    height: 100%;
+    width: 0; /* collapsed by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.95);
+    overflow-x: hidden;
+    transition: 0.4s;
+    z-index: 1002; /* 🆙 Higher than nav-icon */
+    padding-top: 60px;
+  }
+  
+  
+  .sidebar .overlay-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 20px;
+  }
+  
+  .sidebar a {
+    padding: 10px 0;
+    font-size: 24px;
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  .sidebar a:hover {
+    color: #fff;
+  }
+  
+  .sidebar .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 36px;
+    color: white;
+  }
+  
+  /* ✅ Hamburger menu icon in top-left corner */
+  .nav-icon {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+    z-index: 1001; /* Lower than sidebar */
+    padding: 10px;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 6px;
+  }
+  
+  /* ✅ Container to allow positioning checkbox on top of image */
+.image-container {
+    position: relative;
+    width: 100%;
+  }
+  
+  /* ✅ Style the checkbox to overlay in the top-right corner of the image */
+  .select-recipe {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    z-index: 10;
+    transform: scale(1.2);
+    background-color: white;
+    border-radius: 3px;
+    padding: 1px;
+    margin: 0;
+  }
+  
+
 /* ✅ Ensure images maintain aspect ratio and are not too wide */
 .recipe-card img {
     width: 100%;  /* Make image responsive */

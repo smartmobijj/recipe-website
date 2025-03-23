@@ -12,20 +12,22 @@
         <br>
         <div class="home-link">
            
-<div id="myNav" class="overlay">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+<div id="myNav" class="sidebar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
   <div class="overlay-content">
-    <a href="/about" style="font-family: Arial, sans-serif">About</a>
+    <a href="/about">About</a>
     <a href="/select-ingredients">Create Your Own Meal</a>
-
+    <a href="/selected-recipes">View Selected</a>
   </div>
 </div>
 
-<div class="icon" onclick="xchanger(this)">
-  <div class="bar1"></div>
-  <div class="bar2"></div>
-  <div class="bar3"></div>
-</div>
+
+    <div class="nav-icon" onclick="openNav()">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+    </div>
+  
         </div>
 
 
@@ -58,32 +60,42 @@
                 <% if (recipes.length > 0) { %>
                     <% recipes.forEach(recipe => { %>
                         <div class="recipe-card">
-                            <a href="<%= recipe.url %>">
-                                <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
-                                <h3 class="recipe-title"><%= recipe.title %></h3>
-                            </a>
+                            <div class="image-container">
+                                <input type="checkbox" class="select-recipe"
+                                    data-recipe="<%= JSON.stringify({
+                                      title: recipe.title,
+                                      image: recipe.image,
+                                      url: recipe.url,
+                                      filename: recipe.filename
+                                    }) %>" />
+                                <a href="<%= recipe.url %>">
+                                    <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+                                </a>
+                            </div>
+                            <h3 class="recipe-title"><%= recipe.title %></h3>
                         </div>
                     <% }) %>
                 <% } else { %>
                     <p>No recipes available.</p>
                 <% } %>
-            </div>
+            </div>            
         </section>
     </div>
 
     <script>
 function openNav() {
-  document.getElementById("myNav").style.width = "100%";
+  document.getElementById("myNav").style.width = "300px"; // or 250px
 }
 
 function closeNav() {
-  document.getElementById("myNav").style.width = "0%";
+  document.getElementById("myNav").style.width = "0";
 }
-        // ✅ Load Continents from API
+
 function xchanger(x) {
-  x.classList.toggle("change");
- document.getElementById("myNav").style.width = "100%";
+  //x.classList.toggle("change");
+  openNav(); // open from left
 }
+
         async function loadContinents() {
             try {
                 const response = await fetch('/getContinents');
@@ -102,29 +114,54 @@ function xchanger(x) {
             }
         }
 
-        // ✅ Load Countries from API
-        async function loadCountries() {
-            const continent = document.getElementById('continent-select').value;
-            if (!continent) return;
+        window.addEventListener('DOMContentLoaded', () => {
+    const continentSelect = document.getElementById('continent-select');
+    const countrySelect = document.getElementById('country-select');
 
-            try {
-                const response = await fetch(`/getCountries?continent=${encodeURIComponent(continent)}`);
-                const countries = await response.json();
-                const countrySelect = document.getElementById('country-select');
+    continentSelect.addEventListener('change', async () => {
+        const continent = continentSelect.value;
 
-                countrySelect.innerHTML = '<option value="">Select Country</option>';
-                countries.forEach(country => {
-                    const option = document.createElement('option');
-                    option.value = country;
-                    option.textContent = country;
-                    countrySelect.appendChild(option);
-                });
-
-                countrySelect.disabled = false;
-            } catch (error) {
-                console.error("❌ Error loading countries:", error);
-            }
+        if (!continent) {
+            countrySelect.innerHTML = '<option value="">Select Country</option>';
+            countrySelect.disabled = true;
+            return;
         }
+
+        try {
+            console.log("🌍 Selected continent:", continent);
+            const response = await fetch(`/getCountries?continent=${encodeURIComponent(continent)}`);
+
+            if (!response.ok) {
+                throw new Error(`Server responded with ${response.status}`);
+            }
+
+            const countries = await response.json();
+            console.log(`🗺️ Countries for ${continent}:`, countries);
+
+            countrySelect.innerHTML = '<option value="">Select Country</option>';
+
+            if (countries.length === 0) {
+                alert(`No countries found for continent: ${continent}`);
+                countrySelect.disabled = true;
+                return;
+            }
+
+            countries.forEach(country => {
+                const option = document.createElement('option');
+                option.value = country;
+                option.textContent = country;
+                countrySelect.appendChild(option);
+            });
+
+            countrySelect.disabled = false;
+
+        } catch (error) {
+            console.error("❌ Error loading countries:", error);
+            alert("Failed to load countries. Please try again.");
+        }
+    });
+});
+
 
         // ✅ Redirect to filtered recipe results
         function filterRecipes() {
@@ -139,76 +176,79 @@ function xchanger(x) {
             window.location.href = `/recipes/${encodeURIComponent(continent)}/${encodeURIComponent(country)}`;
         }
 
-        // ✅ Fetch and Display Search Results
-        async function searchRecipes() {
-            const query = document.getElementById('search').value.trim();
-            const resultsContainer = document.getElementById('search-results-container');
-            resultsContainer.innerHTML = '';
+// ✅ Fetch and Display Search Results
+async function searchRecipes() {
+    const query = document.getElementById('search').value.trim();
+    const resultsContainer = document.getElementById('search-results-container');
+    resultsContainer.innerHTML = '';
 
-            if (!query) return;
+    if (!query) return;
 
-            const response = await fetch('/search?query=' + encodeURIComponent(query));
-            const recipes = await response.json();
+    const response = await fetch('/search?query=' + encodeURIComponent(query));
+    const recipes = await response.json();
 
-            console.log(`✅ Search Results:`, recipes); // Debugging log
+    if (recipes.length === 0) {
+        resultsContainer.innerHTML = '<p>No recipes found.</p>';
+        return;
+    }
 
-            if (recipes.length === 0) {
-                resultsContainer.innerHTML = '<p>No recipes found.</p>';
-                return;
+    const grid = document.createElement('div');
+    grid.className = 'recipe-grid';
+
+    recipes.forEach(recipe => {
+        const card = document.createElement('div');
+        card.className = 'recipe-card';
+        card.innerHTML = `
+            <div class="image-container">
+                <input type="checkbox" class="select-recipe"
+                    data-recipe='${JSON.stringify({
+                        title: recipe.title,
+                        image: recipe.image,
+                        url: recipe.url,
+                        filename: recipe.filename
+                    })}' />
+                <a href="${recipe.url}">
+                    <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                </a>
+            </div>
+            <h3 class="recipe-title">${recipe.title}</h3>
+        `;
+        grid.appendChild(card);
+    });
+
+    resultsContainer.appendChild(grid);
+
+    // ✅ Reattach checkbox handlers
+    const selectedRecipesKey = 'selectedRecipes';
+
+    document.querySelectorAll('.select-recipe').forEach(box => {
+        const recipe = JSON.parse(box.dataset.recipe);
+        let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+        // ✅ Pre-check if already selected
+        if (selected.some(r => r.filename === recipe.filename)) {
+            box.checked = true;
+        }
+
+        box.addEventListener('change', () => {
+            selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+            if (box.checked) {
+                if (!selected.some(r => r.filename === recipe.filename)) {
+                    selected.push(recipe);
+                }
+            } else {
+                selected = selected.filter(r => r.filename !== recipe.filename);
             }
 
-            const grid = document.createElement('div');
-            grid.className = 'recipe-grid';
+            sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+            const countElement = document.getElementById('selected-count');
+            if (countElement) countElement.textContent = selected.length;
+        });
+    });
+}
 
-            recipes.forEach(recipe => {
-                const card = document.createElement('div');
-                card.className = 'recipe-card';
-                card.innerHTML = `
-                    <a href="${recipe.url}">
-                        <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
-                        <h3 class="recipe-title">${recipe.title}</h3>
-                    </a>
-                `;
-                grid.appendChild(card);
-            });
-
-            resultsContainer.appendChild(grid);
-        }
-        // ✅ Fetch and Display Search Results
-        async function searchRecipes() {
-            const query = document.getElementById('search').value.trim();
-            const resultsContainer = document.getElementById('search-results-container');
-            resultsContainer.innerHTML = '';
-    
-            if (!query) return;
-    
-            const response = await fetch('/search?query=' + encodeURIComponent(query));
-            const recipes = await response.json();
-    
-            console.log(`✅ Search Results:`, recipes); // Debugging log
-    
-            if (recipes.length === 0) {
-                resultsContainer.innerHTML = '<p>No recipes found.</p>';
-                return;
-            }
-    
-            const grid = document.createElement('div');
-            grid.className = 'recipe-grid';
-    
-            recipes.forEach(recipe => {
-                const card = document.createElement('div');
-                card.className = 'recipe-card';
-                card.innerHTML = `
-                    <a href="${recipe.url}">
-                        <img src="/recipes429/${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
-                        <h3 class="recipe-title">${recipe.title}</h3>
-                    </a>
-                `;
-                grid.appendChild(card);
-            });
-    
-            resultsContainer.appendChild(grid);
-        }
+        
     </script>
 
 
@@ -220,32 +260,49 @@ function xchanger(x) {
         <% if (typeof teamFavorites !== "undefined" && teamFavorites.length > 0) { %>
             <% teamFavorites.forEach(recipe => { %>
                 <div class="recipe-card">
-                    <a href="<%= recipe.url %>">
-                        <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
-                        <h3 class="recipe-title"><%= recipe.title %></h3>
-                    </a>
+                    <div class="image-container">
+                        <input type="checkbox" class="select-recipe"
+                            data-recipe="<%= JSON.stringify({
+                              title: recipe.title,
+                              image: recipe.image,
+                              url: recipe.url,
+                              filename: recipe.filename
+                            }) %>" />
+                        <a href="<%= recipe.url %>">
+                            <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+                        </a>
+                    </div>
+                    <h3 class="recipe-title"><%= recipe.title %></h3>
                 </div>
             <% }) %>
         <% } else { %>
             <p>No team favorite recipes available.</p>
         <% } %>
-    </div>
+    </div>    
 </section>
 
-
-
-<<!-- ✅ "Top 10 Easy Recipes" Section -->
+<!-- ✅ "Top 10 Easy Recipes" Section -->
 <section class="easy-recipes">
     <h2 class="recipe-title">🌟 Top 10 Easy Recipes</h2>
     <div class="recipe-grid">
         <% if (easyRecipes && easyRecipes.length > 0) { %>
             <% easyRecipes.forEach(recipe => { %>
                 <div class="recipe-card">
-                    <a href="<%= recipe.url %>">
-                        <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
-                        <h3 class="recipe-title"><%= recipe.title %></h3>
-                    </a>
-                </div>
+                    <div class="image-container">
+                        <input type="checkbox" class="select-recipe"
+                        data-recipe="<%= JSON.stringify({
+                          title: recipe.title,
+                          image: recipe.image,
+                          url: recipe.url,
+                          filename: recipe.filename
+                        }) %>" />
+                 
+                        <a href="<%= recipe.url %>">
+                        <img src="<%= recipe.image %>" alt="<%= recipe.title %>" />
+                      </a>
+                    </div>
+                    <h3 class="recipe-title"><%= recipe.title %></h3>
+                  </div>
             <% }) %>
         <% } else { %>
             <p>No easy recipes available.</p>
@@ -253,8 +310,81 @@ function xchanger(x) {
     </div>
 </section>
 
+<script>
+    const serverSessionID = "<%= serverSessionID %>";
+    // Check for serverSessionID mismatch
+    const lastServerSession = sessionStorage.getItem('lastServerSession');
+    if (lastServerSession !== serverSessionID) {
+        console.log("🔁 Server restarted — clearing selection cache.");
+        sessionStorage.removeItem('selectedRecipes');
+        sessionStorage.setItem('lastServerSession', serverSessionID);
+    }
+
+    function goToSelectedPage() {
+        window.location.href = '/selected-recipes';
+      }
 
 
+    window.addEventListener('DOMContentLoaded', () => {
+      const selectedRecipesKey = 'selectedRecipes';
+    
+      function updateSelectedCount() {
+        const selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+        const countElement = document.getElementById('selected-count');
+        if (countElement) {
+          countElement.textContent = selected.length;
+        }
+        console.log("📦 Currently selected recipes:", selected);
+      }
+        
+      document.querySelectorAll('.select-recipe').forEach((box, index) => {
+        const recipe = JSON.parse(box.dataset.recipe);
+        
+        console.log(`🟡 Checkbox #${index} initialized for [${recipe.title}] (${recipe.filename})`);
+    
+        let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    
+        if (selected.some(r => r.filename === recipe.filename)) {
+          box.checked = true;
+          console.log(`✅ Pre-checking box: ${recipe.filename}`);
+        }
+    
+        box.addEventListener('change', () => {
+          selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    
+          console.log(`🖱️ Checkbox toggled for ${recipe.filename}. Checked: ${box.checked}`);
+    
+          if (box.checked) {
+            if (!selected.some(r => r.filename === recipe.filename)) {
+              selected.push(recipe);
+              console.log(`➕ Added ${recipe.filename}`);
+            }
+          } else {
+            selected = selected.filter(r => r.filename !== recipe.filename);
+            console.log(`➖ Removed ${recipe.filename}`);
+          }
+    
+          sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+          updateSelectedCount();
+        });
+      });
+    
+      updateSelectedCount();
+    });
+</script>
+    
+    
+    
+
+
+<button onclick="sessionStorage.removeItem('selectedRecipes'); location.reload();">
+    🗑️ Clear Selected Recipes
+</button>
+
+<!-- Floating View Selected Button -->
+<div id="selected-recipes-float" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+    <button onclick="goToSelectedPage()">🧺 View Selected (<span id="selected-count">0</span>)</button>
+</div>
 
 </body>
 </html>

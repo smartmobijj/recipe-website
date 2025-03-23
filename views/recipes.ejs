@@ -3,39 +3,83 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recipes from <%= continent %> - <%= country %></title>
+    <title>Recipes from <%= country %></title>
     <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1 class="recipe-title">Recipes from <%= country %>, <%= continent %></h1>
+    <!-- Rendered by recipes.ejs -->
 
-        <!-- ✅ Recipe Grid -->
-        <div class="recipe-grid">
-            <% if (recipes.length > 0) { %>
+    <div class="container">
+        <h1>Recipes from <%= country %>, <%= continent %></h1>
+        
+        <% if (recipes && recipes.length > 0) { %>
+            <div class="recipe-grid">
                 <% recipes.forEach(recipe => { %>
                     <div class="recipe-card">
-                        <a href="<%= recipe.url %>">
-                            <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
-                            <h3 class="recipe-title"><%= recipe.title %></h3>
-                        </a>
+                        <div class="image-container">
+                            <input type="checkbox" class="select-recipe"
+                                data-recipe='<%= JSON.stringify({
+                                    title: recipe.title,
+                                    image: recipe.image,
+                                    url: recipe.url,
+                                    filename: recipe.filename
+                                }) %>' />
+                            <a href="<%= recipe.url %>">
+                                <img src="<%= recipe.image %>" alt="<%= recipe.title %>" onerror="this.src='/recipes429/images/default.jpg'">
+                            </a>
+                        </div>
+                        <p><%= recipe.title %></p>                        
+                        <!-- 🛠 Debug (Optional): show filename -->
+                        <!-- <small><%= recipe.url %></small> -->
                     </div>
                 <% }) %>
-            <% } else { %>
-                <p>No recipes found for <%= country %>.</p>
-            <% } %>
-        </div>
+            </div>
+        <% } else { %>
+            <p>No recipes found.</p>
+        <% } %>
 
-        <!-- ✅ Back Button -->
-        <button onclick="goBack()">⬅ Back</button>
+        <br>
+        <a href="/">⬅ Back to Homepage</a>
     </div>
-
     <script>
-        function goBack() {
-            window.history.back();
-        }
+        const selectedRecipesKey = 'selectedRecipes';
+    
+        window.addEventListener('DOMContentLoaded', () => {
+            function updateSelectedCount() {
+                const selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+                const countElement = document.getElementById('selected-count');
+                if (countElement) countElement.textContent = selected.length;
+            }
+    
+            document.querySelectorAll('.select-recipe').forEach((box, index) => {
+                const recipe = JSON.parse(box.dataset.recipe);
+                let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    
+                if (selected.some(r => r.filename === recipe.filename)) {
+                    box.checked = true;
+                }
+    
+                box.addEventListener('change', () => {
+                    selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    
+                    if (box.checked) {
+                        if (!selected.some(r => r.filename === recipe.filename)) {
+                            selected.push(recipe);
+                        }
+                    } else {
+                        selected = selected.filter(r => r.filename !== recipe.filename);
+                    }
+    
+                    sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+                    updateSelectedCount();
+                });
+            });
+    
+            updateSelectedCount();
+        });
     </script>
-
+        <div id="selected-recipes-float" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+            <button onclick="window.location.href='/selected-recipes'">🧺 View Selected (<span id="selected-count">0</span>)</button>
+        </div>        
 </body>
 </html>
-
