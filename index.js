@@ -551,6 +551,9 @@ app.post('/selected-recipes/shopping-list', (req, res) => {
 
     res.render('shopping-list', { ingredientsMap });
 });
+app.get('/tutorial', (req, res) => {
+    res.render('tutorial');
+});
 
 
 // ✅ Start the server
