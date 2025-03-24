@@ -467,3 +467,44 @@ body {
   right: 35px;
   }
 }
+details {
+    margin: 2em auto;
+    width: fit-content;
+    max-width: 90%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1em;
+    background-color: #333; /* dark background for contrast */
+    color: #fff; /* white text */
+    text-align: center;
+  }
+  
+  details summary {
+    cursor: pointer;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    text-align: center;
+    list-style: none;
+    color: #fff; /* ensure visible */
+  }
+  
+  .recipe-card {
+    color: #fff; /* Ensure recipe titles and content are readable */
+  }
+  
+  
+  .recipe-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center cards horizontally */
+    gap: 1em;
+  }
+  
+  .recipe-card {
+    text-align: center;
+  }
+  summary::marker {
+    font-size: 1.2em;
+  }
+  

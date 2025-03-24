@@ -40,5 +40,129 @@
             });
         }
     </script>
+    <div style="margin-top: 2em; text-align: center;">
+        <button onclick="downloadRecipesAsPDF()">🖨️ Save Recipes as PDF</button>
+        <button onclick="generateShoppingList()">🛒 Create Shopping List</button>
+      </div>    
+      <div id="shopping-list-section" style="margin-top: 2em;"></div>  
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+<script>
+async function downloadRecipesAsPDF() {
+  const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
+  if (!selected.length) return alert("No recipes selected!");
+
+  const { jsPDF } = window.jspdf;
+  const doc = new jsPDF();
+  let y = 10;
+
+  for (const recipe of selected) {
+    doc.setFontSize(14);
+    doc.text(recipe.title, 10, y);
+    y += 6;
+
+    const res = await fetch(recipe.url);
+    const html = await res.text();
+    const parser = new DOMParser();
+    const docHTML = parser.parseFromString(html, 'text/html');
+
+    const ingredients = Array.from(docHTML.querySelectorAll('.ingredient-item')).map(el => el.textContent.trim());
+    ingredients.forEach(i => {
+      doc.setFontSize(10);
+      doc.text("- " + i, 12, y);
+      y += 5;
+      if (y > 270) {
+        doc.addPage();
+        y = 10;
+      }
+    });
+
+    y += 8;
+  }
+
+  doc.save('Selected_Recipes.pdf');
+}
+
+function generateShoppingList() {
+  const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
+  if (!selected.length) return;
+
+  let merged = {};
+
+  // Load each recipe JSON to get ingredients
+  Promise.all(
+    selected.map(recipe =>
+      fetch(`/recipes429/recipes/${recipe.filename}`).then(res => res.json())
+    )
+  ).then(recipeDataList => {
+    recipeDataList.forEach(recipe => {
+      recipe.ingredients.forEach(rawItem => {
+        const clean = rawItem.trim().toLowerCase();
+        if (merged[clean]) {
+          merged[clean].count += 1;
+        } else {
+          merged[clean] = { count: 1, raw: rawItem };
+        }
+      });
+    });
+
+    // Build table
+    const tableHTML = `
+      <h3>🛒 Shopping List</h3>
+      <table border="1" style="border-collapse: collapse; width: 100%; margin-top: 1em;">
+        <thead>
+          <tr>
+            <th>✔️</th>
+            <th>Quantity</th>
+            <th>Ingredient</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${Object.values(merged).map(item => `
+            <tr>
+              <td><input type="checkbox" class="ingredient-check" /></td>
+              <td>${item.count}</td>
+              <td>${item.raw}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+      <button onclick="printShoppingList()">🖨️ Print Shopping List</button>
+    `;
+
+    document.getElementById("shopping-list-section").innerHTML = tableHTML;
+  });
+}
+
+function printShoppingList() {
+  const rows = document.querySelectorAll("#shopping-list-section table tbody tr");
+  let printableRows = [];
+
+  rows.forEach(row => {
+    const checked = row.querySelector("input").checked;
+    if (!checked) {
+      const cols = row.querySelectorAll("td");
+      printableRows.push({
+        quantity: cols[1].textContent,
+        name: cols[2].textContent
+      });
+    }
+  });
+
+  const newWin = window.open("", "_blank");
+  newWin.document.write(`<html><head><title>Shopping List</title></head><body>`);
+  newWin.document.write(`<h2>🛒 Shopping List</h2>`);
+  newWin.document.write(`<table border="1" style="border-collapse: collapse; width: 100%;">`);
+  newWin.document.write(`<tr><th>Quantity</th><th>Ingredient</th></tr>`);
+  printableRows.forEach(item => {
+    newWin.document.write(`<tr><td>${item.quantity}</td><td>${item.name}</td></tr>`);
+  });
+  newWin.document.write(`</table>`);
+  newWin.document.write(`</body></html>`);
+  newWin.document.close();
+  newWin.print();
+}
+</script>
+
 </body>
 </html>

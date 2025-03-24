@@ -254,9 +254,10 @@ async function searchRecipes() {
 
 
 <!-- ✅ "Team Members' Favorite Dishes" Section -->
-<section class="team-favorites">
-    <h2 class="recipe-title">👩‍🍳 Team Members' Favorite Dishes</h2>
-    <div class="recipe-grid">
+<details>
+    <summary class="dropdown-title">👩‍🍳 Team Members' Favorite Dishes</summary>
+    <section class="team-favorites">
+      <div class="recipe-grid">
         <% if (typeof teamFavorites !== "undefined" && teamFavorites.length > 0) { %>
             <% teamFavorites.forEach(recipe => { %>
                 <div class="recipe-card">
@@ -278,13 +279,16 @@ async function searchRecipes() {
         <% } else { %>
             <p>No team favorite recipes available.</p>
         <% } %>
-    </div>    
-</section>
+      </div>
+    </section>
+  </details>
+  
 
 <!-- ✅ "Top 10 Easy Recipes" Section -->
-<section class="easy-recipes">
-    <h2 class="recipe-title">🌟 Top 10 Easy Recipes</h2>
-    <div class="recipe-grid">
+<details>
+    <summary class="dropdown-title">🌟 Top 10 Easy Recipes</summary>
+    <section class="easy-recipes">
+      <div class="recipe-grid">
         <% if (easyRecipes && easyRecipes.length > 0) { %>
             <% easyRecipes.forEach(recipe => { %>
                 <div class="recipe-card">
@@ -296,19 +300,20 @@ async function searchRecipes() {
                           url: recipe.url,
                           filename: recipe.filename
                         }) %>" />
-                 
                         <a href="<%= recipe.url %>">
-                        <img src="<%= recipe.image %>" alt="<%= recipe.title %>" />
-                      </a>
+                            <img src="<%= recipe.image %>" alt="<%= recipe.title %>" />
+                        </a>
                     </div>
                     <h3 class="recipe-title"><%= recipe.title %></h3>
-                  </div>
+                </div>
             <% }) %>
         <% } else { %>
             <p>No easy recipes available.</p>
         <% } %>
-    </div>
-</section>
+      </div>
+    </section>
+  </details>
+  
 
 <script>
     const serverSessionID = "<%= serverSessionID %>";
