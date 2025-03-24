@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shopping List</title>
+    <link rel="stylesheet" href="/styles.css">
+    <style>
+        table {
+            margin: auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+
+        th, td {
+            border: 1px solid #aaa;
+            padding: 0.5em;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f0f0f0;
+        }
+
+        @media print {
+            .no-print, .print-checkbox:checked + tr {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="no-print" style="text-align: center; margin-bottom: 1em;">
+        <button onclick="window.print()">🖨️ Print Shopping List</button>
+    </div>
+
+    <h2 style="text-align:center;">🛒 Combined Shopping List</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Have</th>
+                <th>Quantity</th>
+                <th>Ingredient</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% Object.entries(ingredientsMap).forEach(([name, quantities], i) => { %>
+                <tr>
+                    <td><input type="checkbox" class="print-checkbox" id="check<%= i %>"></td>
+                    <td><%= quantities.join(', ') %></td>
+                    <td><%= name %></td>
+                </tr>
+            <% }) %>
+        </tbody>
+    </table> 
+    <style>
+        body {
+            background-color: #fff;
+            color: #000;
+            font-family: Arial, sans-serif;
+        }
+    
+        table {
+            margin: auto;
+            border-collapse: collapse;
+            width: 80%;
+            background-color: #fff;
+            color: #000;
+        }
+    
+        th, td {
+            border: 1px solid #aaa;
+            padding: 0.5em;
+            text-align: left;
+        }
+    
+        th {
+            background-color: #f0f0f0;
+        }
+    
+        @media print {
+            .no-print {
+                display: none;
+            }
+        }
+    </style>       
+</body>
+</html>

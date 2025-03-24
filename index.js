@@ -500,6 +500,57 @@ app.post('/find-meal-plan', (req, res) => {
         });
     });
 });
+app.post('/selected-recipes/print', (req, res) => {
+    const selectedFiles = req.body.filenames; // expects an array of filenames
+    const recipesDir = path.join(__dirname, 'recipes429/recipes');
+    const recipes = [];
+
+    if (!Array.isArray(selectedFiles)) return res.status(400).send("Invalid request.");
+
+    selectedFiles.forEach(file => {
+        const filePath = path.join(recipesDir, file);
+        if (fs.existsSync(filePath)) {
+            const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            data.image = `/recipes429/${data.image}`;
+            recipes.push(data);
+        }
+    });
+
+    res.render('print-recipes', { recipes });
+});
+app.post('/selected-recipes/shopping-list', (req, res) => {
+    const selectedFiles = req.body.filenames;
+    const recipesDir = path.join(__dirname, 'recipes429/recipes');
+    const ingredientsMap = {};
+
+    if (!Array.isArray(selectedFiles)) return res.status(400).send("Invalid request.");
+
+    selectedFiles.forEach(file => {
+        const filePath = path.join(recipesDir, file);
+        if (fs.existsSync(filePath)) {
+            const recipe = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+
+            recipe.ingredients.forEach(raw => {
+                // Basic merge logic: try to split quantity and ingredient name
+                const parts = raw.match(/^([\d\/\.\-\s]+)?\s*(.+)$/);
+                const quantity = parts && parts[1] ? parts[1].trim() : '';
+                const name = parts && parts[2] ? parts[2].trim().toLowerCase() : raw;
+
+                if (!ingredientsMap[name]) {
+                    ingredientsMap[name] = [];
+                }
+
+                if (quantity) {
+                    ingredientsMap[name].push(quantity);
+                } else {
+                    ingredientsMap[name].push('');
+                }
+            });
+        }
+    });
+
+    res.render('shopping-list', { ingredientsMap });
+});
 
 
 // ✅ Start the server

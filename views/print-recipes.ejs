@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Print Recipes</title>
+    <link rel="stylesheet" href="/styles.css">
+    <style>
+        .recipe-print {
+            page-break-after: always;
+            margin-bottom: 2em;
+        }
+
+        .recipe-print img {
+            max-width: 300px;
+            display: block;
+            margin: 1em auto;
+        }
+
+        @media print {
+            .no-print {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="no-print" style="text-align:center; margin: 1em;">
+        <button onclick="window.print()">🖨️ Print Recipes</button>
+    </div>
+
+    <% recipes.forEach(recipe => { %>
+        <div class="recipe-print">
+            <h1><%= recipe.title %></h1>
+            <img src="<%= recipe.image %>" alt="<%= recipe.title %>">
+            <h2>Ingredients</h2>
+            <ul>
+                <% recipe.ingredients.forEach(ingredient => { %>
+                    <li><%= ingredient %></li>
+                <% }) %>
+            </ul>
+            <h2>Instructions</h2>
+            <% if (recipe.method && Array.isArray(recipe.method)) { %>
+              <% recipe.method.forEach(step => { %>
+                <p><%= step %></p>
+              <% }) %>
+            <% } else if (recipe.instructions) { %>
+              <p><%= recipe.instructions %></p>
+            <% } else { %>
+              <p><em>No instructions provided.</em></p>
+            <% } %>                     
+        </div>
+    <% }) %>    
+</body>
+</html>

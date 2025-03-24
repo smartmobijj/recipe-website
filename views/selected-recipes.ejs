@@ -41,8 +41,6 @@
         }
     </script>
     <div style="margin-top: 2em; text-align: center;">
-        <button onclick="downloadRecipesAsPDF()">🖨️ Save Recipes as PDF</button>
-        <button onclick="generateShoppingList()">🛒 Create Shopping List</button>
       </div>    
       <div id="shopping-list-section" style="margin-top: 2em;"></div>  
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
@@ -163,6 +161,74 @@ function printShoppingList() {
   newWin.print();
 }
 </script>
+<form id="printForm" method="POST" action="/selected-recipes/print" target="_blank">
+    <input type="hidden" name="filenames[]" id="filenamesInput">
+    <button type="submit">🖨️ Print Selected Recipes</button>
+</form>
+<script>
+    document.getElementById('printForm').addEventListener('submit', function (e) {
+        const form = this;
+        const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
+        form.querySelectorAll('input[name="filenames[]"]').forEach(i => i.remove()); // Clear old inputs
+    
+        selected.forEach(recipe => {
+            const input = document.createElement('input');
+            input.type = 'hidden';
+            input.name = 'filenames[]';
+            input.value = recipe.filename;
+            form.appendChild(input);
+        });
+    });
+    </script>    
+<form id="shoppingForm" method="POST" action="/selected-recipes/shopping-list" target="_blank">
+    <input type="hidden" name="filenames[]" id="shoppingInput">
+    <button type="submit">🛒 Create Shopping List</button>
+</form>
+<script>
+    document.getElementById('shoppingForm').addEventListener('submit', function (e) {
+        const form = this;
+        const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
+        form.querySelectorAll('input[name="filenames[]"]').forEach(i => i.remove());
+    
+        selected.forEach(recipe => {
+            const input = document.createElement('input');
+            input.type = 'hidden';
+            input.name = 'filenames[]';
+            input.value = recipe.filename;
+            form.appendChild(input);
+        });
+    });
+    </script>
+<style>
+    body {
+        background-color: #fff;
+        color: #000;
+        font-family: Arial, sans-serif;
+    }
+
+    table {
+        margin: auto;
+        border-collapse: collapse;
+        width: 80%;
+    }
+
+    th, td {
+        border: 1px solid #aaa;
+        padding: 0.5em;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f0f0f0;
+    }
+
+    @media print {
+        .no-print {
+            display: none;
+        }
+    }
+</style>
+
 
 </body>
 </html>
