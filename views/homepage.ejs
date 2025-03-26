@@ -8,8 +8,9 @@
 </head>
 <body onload="loadContinents()">
     <div class="container">
-        <h1 class="recipe-title">Discover Recipes</h1>
-        <h1 class="recipe-title">Use the nav-bar to navigate</h1>
+        <h1 class="recipe-title">Discover Teenage-Friendly Recipes</h1>
+
+        <!-- <h1 class="recipe-title">Use the nav-bar to navigate</h1> -->
         <br>
         <div class="home-link">
            
@@ -20,7 +21,8 @@
     <a href="/select-ingredients">Create Your Own Meal</a>
     <a href="/selected-recipes">View Selected</a>
     <a href="/tutorial">📖 Tutorial</a>
-  </div>
+    <a href="/reference">📎 References</a> <!-- ✅ ADDED THIS -->
+  </div>  
 </div>
 
 
@@ -385,14 +387,21 @@ async function searchRecipes() {
     
 
 
-<button onclick="sessionStorage.removeItem('selectedRecipes'); location.reload();">
-    🗑️ Clear Selected Recipes
-</button>
 
 <!-- Floating View Selected Button -->
-<div id="selected-recipes-float" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+<div id="selected-recipes-float" style="position: fixed; bottom: 80px; right: 20px; z-index: 1000;">
     <button onclick="goToSelectedPage()">🧺 View Selected (<span id="selected-count">0</span>)</button>
-</div>
+    </div>
+    <div id="selected-recipes-float" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+        <button onclick="sessionStorage.removeItem('selectedRecipes'); location.reload();">
+            🗑️ Clear Selected Recipes
+        </button>
+        </div>
+    
+<h3 class="recipe-subtitle">Brought to you by WAMS Engineering Club </h3>
+<h3 class="recipe-subtitle">William Annin Middle School, Basking Ridge, NJ, USA. </h3>
+<h3 class="recipe-subtitle">March 2025</h3>
+
 
 </body>
 </html>

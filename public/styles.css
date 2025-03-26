@@ -169,8 +169,8 @@ a:hover {
   /* ✅ Style the checkbox to overlay in the top-right corner of the image */
   .select-recipe {
     position: absolute;
-    top: 4px;
-    right: 4px;
+    top: 8px;
+    right: 8px;
     z-index: 10;
     transform: scale(1.2);
     background-color: white;
@@ -258,6 +258,18 @@ a:hover {
 
 /* ✅ Improve text visibility */
 .recipe-card h3 {
+    font-size: 14px;
+    color: white; /* Change text to white for better readability */
+    font-family: 'Lora', serif;
+}
+
+.recipe-title{
+    font-size: 20px;
+    color: white; /* Change text to white for better readability */
+    font-family: 'Lora', serif;
+}
+
+.recipe-subtitle{
     font-size: 14px;
     color: white; /* Change text to white for better readability */
     font-family: 'Lora', serif;

@@ -91,7 +91,7 @@
 
     <!-- Sidebar with Checkboxes -->
     <div class="sidebar-static">
-        <h2>Choose Ingredients</h2>
+        <h2>Choose Ingredients at Home</h2>
         <form id="ingredient-form">
             <h3>Powders</h3>
             <label><input type="checkbox" name="ingredients" value="Salt"> Salt</label>
@@ -281,8 +281,19 @@
         </div>
     </div>
 
+    <div id="selected-recipes-float" style="position: fixed; bottom: 80px; right: 20px; z-index: 1000;">
+        <button onclick="window.location.href='/selected-recipes'">🧺 View Selected (<span id="selected-count">0</span>)</button>
+    </div>
+    <div id="selected-recipes-float" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+        <button onclick="sessionStorage.removeItem('selectedRecipes'); location.reload();">
+            🗑️ Clear Selected Recipes
+        </button>
+     </div>
+
+    
+
     <script>
-                function goHome() {
+        function goHome() {
             window.location.href = "/";
         }
 
@@ -333,33 +344,140 @@
             const recipeContainer = document.getElementById("recipe-results");
             recipeContainer.innerHTML = "";
 
-            Object.keys(groupedResults).forEach(proteinGroup => {
+            for (const proteinGroup in groupedResults) {
                 const section = document.createElement("div");
                 section.className = "protein-category";
                 section.innerHTML = `<h2>${proteinGroup} Recipes</h2>`;
 
                 const grid = document.createElement("div");
                 grid.className = "recipe-grid";
+                
 
                 groupedResults[proteinGroup].forEach(recipe => {
                     const recipeCard = document.createElement("div");
                     recipeCard.className = "recipe-card";
+                    const recipeFilename = recipe.filename.replace('.json', '');
+                    const recipeUrl = `/recipe/${encodeURIComponent(recipeFilename)}`;
+                    const matchedList = recipe.matchedIngredients && recipe.matchedIngredients.length
+                        ? `<p style="color: #ccc; font-size: 0.9em;">Matched: ${
+                            recipe.matchedIngredients.map(m => m.name).join(", ")
+                            }</p>`
+                        : '';
+                    
                     recipeCard.innerHTML = `
-                        <a href="${recipe.url}">
-                            <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
-                            <h3>${recipe.title}</h3>
-                        </a>
+                        <div class="image-container">
+                            <input type="checkbox" class="select-recipe"
+                                data-recipe="${encodeURIComponent(JSON.stringify({
+                                    title: recipe.title,
+                                    image: recipe.image,
+                                    url: recipeUrl,
+                                    filename: recipe.filename
+                                }))}" />
+                            <a href="${recipeUrl}">
+                                <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                            </a>
+                            <small>${recipe.filename}</small>
+                        </div>
+                        <h3>${recipe.title}</h3>
+                        ${matchedList}
                     `;
+
+                    // recipeCard.innerHTML = `
+                    //     <div class="image-container">
+                    //         <input type="checkbox" class="select-recipe"
+                    //             data-recipe='${JSON.stringify({
+                    //                 title: recipe.title,
+                    //                 image: recipe.image,
+                    //                 url: recipeUrl,
+                    //                 filename: recipe.filename
+                    //             })}' />
+                    //         <a href="${recipeUrl}">
+                    //             <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                    //         </a>
+                    //     </div>
+                    //     <h3>${recipe.title}</h3>
+                    // `;
+
                     grid.appendChild(recipeCard);
+
                 });
 
                 section.appendChild(grid);
                 recipeContainer.appendChild(section);
-            });
+            }
+
+                    // // 🧠 Reuse your checkbox logic
+                    // const selectedRecipesKey = 'selectedRecipes';
+                    // const checkboxes = recipeCard.querySelectorAll('.select-recipe');
+                    // checkboxes.forEach(box => {
+                    //     const recipe = JSON.parse(box.dataset.recipe);
+                    //     let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+                    //     if (selected.some(r => r.filename === recipe.filename)) {
+                    //         box.checked = true;
+                    //     }
+
+                    //     box.addEventListener('change', () => {
+                    //         selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+                    //         if (box.checked) {
+                    //             if (!selected.some(r => r.filename === recipe.filename)) {
+                    //                 selected.push(recipe);
+                    //             }
+                    //         } else {
+                    //             selected = selected.filter(r => r.filename !== recipe.filename);
+                    //         }
+
+                    //         sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+                    //         const countElement = document.getElementById('selected-count');
+                    //         if (countElement) countElement.textContent = selected.length;
+                    //     });
+                    // });
+
+            attachRecipeCheckboxHandlers(); // 🔁 Attach checkbox logic after recipes are rendered
+
         } catch (error) {
             console.error("❌ Error fetching meal plan results:", error);
         }
     }
+    function attachRecipeCheckboxHandlers() {
+            const selectedRecipesKey = 'selectedRecipes';
+            const checkboxes = document.querySelectorAll('.select-recipe');
+
+            checkboxes.forEach(box => {
+                // const recipe = JSON.parse(box.dataset.recipe);
+                const recipe = JSON.parse(decodeURIComponent(box.dataset.recipe));
+
+                let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+                if (selected.some(r => r.filename === recipe.filename)) {
+                    box.checked = true;
+                }
+
+                box.addEventListener('change', () => {
+                    selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+                    if (box.checked) {
+                        if (!selected.some(r => r.filename === recipe.filename)) {
+                            selected.push(recipe);
+                        }
+                    } else {
+                        selected = selected.filter(r => r.filename !== recipe.filename);
+                    }
+
+                    sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+                    const countElement = document.getElementById('selected-count');
+                    if (countElement) countElement.textContent = selected.length;
+                });
+            });
+        }
+
+    </script>
+    <script>
+        function updateSelectedCount() {
+            const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
+            const countElement = document.getElementById('selected-count');
+            if (countElement) countElement.textContent = selected.length;
+        }
+        updateSelectedCount();
     </script>
 
 </body>

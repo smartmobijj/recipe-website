@@ -233,7 +233,7 @@ app.post('/find-recipes', (req, res) => {
                     matchingRecipes.push({
                         title: recipeData.title,
                         image: imagePath,
-                        url: `/recipe/${encodeURIComponent(recipeName)}`,
+                        url: `/recipe/${encodeURIComponent(recipeName.replace(/\s+/g, '-').toLowerCase())}`,
                         filename: file,
                         matchScore: matchCount // ✅ Rank based on the number of matching ingredients
                     });
@@ -297,7 +297,13 @@ app.get('/search', (req, res) => {
 // ✅ Fetch Single Recipe Details
 app.get('/recipe/:filename', (req, res) => {
     const filename = decodeURIComponent(req.params.filename); // e.g., "chicken-fried-rice"
-    const recipePath = path.join(__dirname, 'recipes429/recipes', `${filename}.json`);
+    // const recipePath = path.join(__dirname, 'recipes429/recipes', `${filename}.json`);
+    const basePath = filename.startsWith('recipes/')
+        ? path.join(__dirname, 'recipes429', filename) // already includes /recipes/
+        : path.join(__dirname, 'recipes429/recipes', filename);
+
+    const recipePath = basePath.endsWith('.json') ? basePath : `${basePath}.json`;
+
 
     if (!fs.existsSync(recipePath)) {
         console.error(`❌ Recipe file not found in app.get.recipe.filename: ${recipePath}`);
@@ -426,6 +432,85 @@ app.get('/recipes/:continent/:country', (req, res) => {
 const sqlite3 = require('sqlite3').verbose();
 const db = new sqlite3.Database('recipe-ingredient.db');
 
+// app.post('/find-meal-plan', (req, res) => {
+//     const { proteins, vegetables, others, sidebarIngredients } = req.body;
+
+//     console.log("🔍 Received Meal Plan Request");
+//     console.log("📌 Proteins:", proteins);
+//     console.log("📌 Vegetables:", vegetables);
+//     console.log("📌 Other Ingredients:", others);
+//     console.log("📌 Sidebar Ingredients:", sidebarIngredients);
+
+//     if (!proteins || proteins.length === 0) {
+//         console.log("⚠ No proteins provided, returning empty list.");
+//         return res.json({});
+//     }
+
+//     let groupedRecipes = {};
+//     let queriesCompleted = 0;
+
+//     proteins.forEach(protein => {
+//         const allIngredients = [...vegetables, ...others, ...sidebarIngredients];
+
+//         // ✅ Convert ingredients & protein to lowercase for case-insensitive search
+//         const lowerCaseIngredients = allIngredients.map(ing => ing.toLowerCase());
+//         const lowerCaseProtein = `%${protein.toLowerCase()}%`; // ✅ Use `%` wildcard for partial matches
+//         const placeholders = new Array(lowerCaseIngredients.length).fill("?").join(",");
+
+//         const sqlQuery = `
+//             SELECT r.recipe_name, GROUP_CONCAT(r.ingredient_name) AS ingredients, m.image_path, m.url
+//             FROM recipe_ingredients r
+//             JOIN recipe_metadata m ON r.recipe_name = m.recipe_name
+//             WHERE (LOWER(m.recipe_name) LIKE ? OR LOWER(r.ingredient_name) LIKE ?)
+//             AND (LOWER(r.ingredient_name) LIKE ? OR LOWER(r.ingredient_name) IN (${placeholders}))
+//             GROUP BY r.recipe_name
+//         `;
+
+//         console.log("📝 Running SQL Query:");
+//         console.log(sqlQuery);
+//         console.log("🔎 Query Parameters:", [lowerCaseProtein, lowerCaseProtein, lowerCaseProtein, ...lowerCaseIngredients]);
+
+//         db.all(sqlQuery, [lowerCaseProtein, lowerCaseProtein, lowerCaseProtein, ...lowerCaseIngredients], (err, rows) => {
+//             if (err) {
+//                 console.error("❌ Error querying SQLite:", err);
+//                 queriesCompleted++;
+//                 return;
+//             }
+
+//             console.log(`✅ Found ${rows.length} recipes for protein: ${protein}`);
+
+//             let proteinResults = [];
+
+//             rows.forEach(row => {
+//                 // ✅ Extract key ingredient that matches the protein
+//                 const ingredientsList = row.ingredients.split(", ");
+//                 const keyIngredient = ingredientsList.find(ing => ing.toLowerCase().includes(protein.toLowerCase())) || "Unknown";
+
+//                 const filename = row.json_path?.replace(/\.json$/, '') || row.recipe_name.replace(/\s+/g, '-').toLowerCase();
+//                 const fullFilename = `${filename}.json`;
+                
+//                 proteinResults.push({
+//                     title: row.recipe_name,
+//                     image: row.image_path ? `/recipes429/${row.image_path}` : '/recipes429/images/default.jpg',
+//                     url: `/recipe/${encodeURIComponent(filename)}`,
+//                     filename: fullFilename,
+//                     keyIngredients: keyIngredient
+//                 });
+//             });
+
+//             // ✅ Sort results and take top 5 for each protein
+//             proteinResults = proteinResults.slice(0, 5);
+//             groupedRecipes[protein] = proteinResults;
+
+//             queriesCompleted++;
+//             if (queriesCompleted === proteins.length) {
+//                 console.log("✅ Final Grouped Recipes by Protein:", groupedRecipes);
+//                 res.json(groupedRecipes);
+//             }
+//         });
+//     });
+// });
+
 app.post('/find-meal-plan', (req, res) => {
     const { proteins, vegetables, others, sidebarIngredients } = req.body;
 
@@ -443,54 +528,83 @@ app.post('/find-meal-plan', (req, res) => {
     let groupedRecipes = {};
     let queriesCompleted = 0;
 
+    const allEnteredIngredients = [...vegetables, ...others, ...sidebarIngredients].map(ing => ing.toLowerCase());
+
     proteins.forEach(protein => {
-        const allIngredients = [...vegetables, ...others, ...sidebarIngredients];
-
-        // ✅ Convert ingredients & protein to lowercase for case-insensitive search
-        const lowerCaseIngredients = allIngredients.map(ing => ing.toLowerCase());
-        const lowerCaseProtein = `%${protein.toLowerCase()}%`; // ✅ Use `%` wildcard for partial matches
-        const placeholders = new Array(lowerCaseIngredients.length).fill("?").join(",");
-
+        const lowerCaseProtein = `%${protein.toLowerCase()}%`;
         const sqlQuery = `
-            SELECT r.recipe_name, GROUP_CONCAT(r.ingredient_name) AS ingredients, m.image_path, m.url
+            SELECT r.recipe_name, GROUP_CONCAT(r.ingredient_name) AS ingredients, m.image_path, m.url, m.json_path
             FROM recipe_ingredients r
             JOIN recipe_metadata m ON r.recipe_name = m.recipe_name
             WHERE (LOWER(m.recipe_name) LIKE ? OR LOWER(r.ingredient_name) LIKE ?)
-            AND (LOWER(r.ingredient_name) LIKE ? OR LOWER(r.ingredient_name) IN (${placeholders}))
             GROUP BY r.recipe_name
         `;
 
-        console.log("📝 Running SQL Query:");
-        console.log(sqlQuery);
-        console.log("🔎 Query Parameters:", [lowerCaseProtein, lowerCaseProtein, lowerCaseProtein, ...lowerCaseIngredients]);
-
-        db.all(sqlQuery, [lowerCaseProtein, lowerCaseProtein, lowerCaseProtein, ...lowerCaseIngredients], (err, rows) => {
+        db.all(sqlQuery, [lowerCaseProtein, lowerCaseProtein], (err, rows) => {
             if (err) {
                 console.error("❌ Error querying SQLite:", err);
                 queriesCompleted++;
                 return;
             }
 
-            console.log(`✅ Found ${rows.length} recipes for protein: ${protein}`);
-
             let proteinResults = [];
 
             rows.forEach(row => {
-                // ✅ Extract key ingredient that matches the protein
-                const ingredientsList = row.ingredients.split(", ");
-                const keyIngredient = ingredientsList.find(ing => ing.toLowerCase().includes(protein.toLowerCase())) || "Unknown";
+                const ingredientsList = row.ingredients.toLowerCase().split(',').map(ing => ing.trim());
+                let matchScore = 0;
+                let matchedIngredients = [];
+            
+                vegetables.forEach(v => {
+                    const vLower = v.toLowerCase();
+                    const match = ingredientsList.find(recipeIng => recipeIng.includes(vLower));
+                    if (match) {
+                        matchScore += 5;
+                        matchedIngredients.push({ name: match, source: "vegetables", score: 5 });
+                    }
+                });
+            
+                others.forEach(o => {
+                    const oLower = o.toLowerCase();
+                    const match = ingredientsList.find(recipeIng => recipeIng.includes(oLower));
+                    if (match) {
+                        matchScore += 5;
+                        matchedIngredients.push({ name: match, source: "others", score: 5 });
+                    }
+                });
+            
+                sidebarIngredients.forEach(s => {
+                    const sLower = s.toLowerCase();
+                    const match = ingredientsList.find(recipeIng => recipeIng.includes(sLower));
+                    if (match) {
+                        matchScore += 1;
+                        matchedIngredients.push({ name: match, source: "sidebar", score: 1 });
+                    }
+                });
+                
+
+                // const filename = row.json_path?.replace(/\.json$/, '') || row.recipe_name.replace(/\s+/g, '-').toLowerCase();
+                // const fullFilename = `${filename}.json`;
+
+                let filename = row.json_path?.replace(/\.json$/, '') || row.recipe_name.replace(/\s+/g, '-').toLowerCase();
+                if (filename.startsWith('recipes/')) {
+                    filename = filename.replace(/^recipes\//, '');
+                }
+                const fullFilename = `${filename}.json`;
+
 
                 proteinResults.push({
                     title: row.recipe_name,
                     image: row.image_path ? `/recipes429/${row.image_path}` : '/recipes429/images/default.jpg',
-                    url: row.url,
-                    keyIngredients: keyIngredient
+                    url: `/recipe/${encodeURIComponent(filename)}`,
+                    filename: fullFilename,
+                    matchScore,
+                    matchedIngredients
                 });
             });
 
-            // ✅ Sort results and take top 5 for each protein
-            proteinResults = proteinResults.slice(0, 5);
-            groupedRecipes[protein] = proteinResults;
+            // ✅ Sort by matchScore
+            proteinResults.sort((a, b) => b.matchScore - a.matchScore);
+            groupedRecipes[protein] = proteinResults.slice(0, 6); // top 5
 
             queriesCompleted++;
             if (queriesCompleted === proteins.length) {
@@ -500,6 +614,8 @@ app.post('/find-meal-plan', (req, res) => {
         });
     });
 });
+
+
 app.post('/selected-recipes/print', (req, res) => {
     const selectedFiles = req.body.filenames; // expects an array of filenames
     const recipesDir = path.join(__dirname, 'recipes429/recipes');
@@ -518,6 +634,7 @@ app.post('/selected-recipes/print', (req, res) => {
 
     res.render('print-recipes', { recipes });
 });
+
 app.post('/selected-recipes/shopping-list', (req, res) => {
     const selectedFiles = req.body.filenames;
     const recipesDir = path.join(__dirname, 'recipes429/recipes');
@@ -551,10 +668,15 @@ app.post('/selected-recipes/shopping-list', (req, res) => {
 
     res.render('shopping-list', { ingredientsMap });
 });
+
+
 app.get('/tutorial', (req, res) => {
     res.render('tutorial');
 });
 
+app.get('/reference', (req, res) => {
+    res.render('reference');
+});
 
 // ✅ Start the server
 const PORT = 3000;
