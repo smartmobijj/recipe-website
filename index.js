@@ -153,7 +153,6 @@ function getTeamFavorites() {
         'homemade-mac-and-cheese.json',
         'baek-kimchi-white-kimchi.json',
         'beef-bulgogi.json',
-        'budae-jjigae-korean-army-stew.json',
         'korean-doenjang-jjigae-soybean-paste-soup.json',
         'jajangmyeon-vegetarian-korean-black-bean-noodles.json',
         'korean-soft-tofu-stew-soon-du-bu-jigae.json',

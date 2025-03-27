@@ -398,10 +398,32 @@ async function searchRecipes() {
         </button>
         </div>
     
-<h3 class="recipe-subtitle">Brought to you by WAMS Engineering Club </h3>
-<h3 class="recipe-subtitle">William Annin Middle School, Basking Ridge, NJ, USA. </h3>
-<h3 class="recipe-subtitle">March 2025</h3>
 
-
+<!-- 🔔 First-Time Tutorial Popup -->
+<div id="tutorial-popup" class="popup-overlay">
+    <div class="popup-box">
+      <span class="close-popup" onclick="closePopup()">×</span>
+      <h2>🍳 Welcome to Recipe Explorer!</h2>
+      <p>Want a quick tour of how to use this site?</p>
+      <a href="/tutorial" class="popup-button">👉 Show Me the Tutorial</a>
+      <button onclick="closePopup()" class="popup-button skip">No Thanks</button>
+    </div>
+  </div>
+  
+  <script>
+    function closePopup() {
+      document.getElementById("tutorial-popup").style.display = "none";
+      localStorage.setItem("tutorialPopupShown", "true");
+    }
+  
+    window.addEventListener("DOMContentLoaded", () => {
+      const seen = localStorage.getItem("tutorialPopupShown");
+      if (!seen) {
+        const popup = document.getElementById("tutorial-popup");
+        popup.style.display = "flex";
+      }
+    });
+  </script>
+  
 </body>
 </html>
