@@ -668,6 +668,66 @@ app.post('/selected-recipes/shopping-list', (req, res) => {
     res.render('shopping-list', { ingredientsMap });
 });
 
+app.post('/update-unselected', (req, res) => {
+    const excludedFilenames = req.body.exclude || [];
+
+    const db = new sqlite3.Database('recipe-ingredient.db');
+    const placeholders = excludedFilenames.map(() => '?').join(',');
+    const baseQuery = `
+        SELECT recipe_name, json_path, image_path
+        FROM recipe_metadata
+        ${excludedFilenames.length > 0 ? `WHERE json_path NOT IN (${placeholders})` : ''}
+        ORDER BY RANDOM()
+        LIMIT 10
+    `;
+
+    db.all(baseQuery, excludedFilenames, (err, rows) => {
+        if (err) {
+            console.error("❌ SQLite error in /update-unselected:", err);
+            return res.json([]);
+        }
+
+        const recipesDir = path.join(__dirname, 'recipes429');
+        const result = [];
+
+        rows.forEach(row => {
+            let baseName = row.json_path || row.recipe_name;
+            if (!baseName.endsWith('.json')) baseName += '.json';
+
+            const filePath = path.join(recipesDir, baseName);
+            if (fs.existsSync(filePath)) {
+                try {
+                    const recipeData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+                    const cleanName = baseName.replace('.json', '');
+            
+                    // ✅ Guard: ensure valid required fields
+                    if (
+                        recipeData &&
+                        typeof recipeData.title === 'string' &&
+                        typeof recipeData.image === 'string' &&
+                        Array.isArray(recipeData.ingredients) // Optional but useful
+                    ) {
+                        result.push({
+                            title: recipeData.title,
+                            image: `/recipes429/${recipeData.image}`,
+                            url: `/recipe/${encodeURIComponent(cleanName.replace(/\s+/g, '-').toLowerCase())}`,
+                            filename: baseName
+                        });
+                    } else {
+                        console.warn(`⚠️ Skipping malformed recipe in: ${baseName}`);
+                    }
+                } catch (err) {
+                    console.error(`❌ Failed to parse JSON for ${baseName}:`, err);
+                }
+            }
+            
+        });
+
+        res.json(result);
+    });
+});
+
+
 
 app.get('/tutorial', (req, res) => {
     res.render('tutorial');

@@ -62,6 +62,8 @@
         <!-- ✅ "Our Random Ten Recipes" Section -->
         <section class="random-recipes">
             <h2 class="recipe-title">🍽️ Our Random Ten Recipes</h2>
+            <button onclick="updateUnselectedRecipes()">🔁 Update Unselected</button>
+
             <div class="recipe-grid">
                 <% if (recipes.length > 0) { %>
                     <% recipes.forEach(recipe => { %>
@@ -87,177 +89,6 @@
             </div>            
         </section>
     </div>
-
-    <script>
-function openNav() {
-  document.getElementById("myNav").style.width = "300px"; // or 250px
-}
-
-function closeNav() {
-  document.getElementById("myNav").style.width = "0";
-}
-
-function xchanger(x) {
-  //x.classList.toggle("change");
-  openNav(); // open from left
-}
-
-        async function loadContinents() {
-            try {
-                const response = await fetch('/getContinents');
-                const continents = await response.json();
-                const continentSelect = document.getElementById('continent-select');
-
-                continentSelect.innerHTML = '<option value="">Select Continent</option>';
-                continents.forEach(continent => {
-                    const option = document.createElement('option');
-                    option.value = continent;
-                    option.textContent = continent;
-                    continentSelect.appendChild(option);
-                });
-            } catch (error) {
-                console.error("❌ Error loading continents:", error);
-            }
-        }
-
-        window.addEventListener('DOMContentLoaded', () => {
-    const continentSelect = document.getElementById('continent-select');
-    const countrySelect = document.getElementById('country-select');
-
-    continentSelect.addEventListener('change', async () => {
-        const continent = continentSelect.value;
-
-        if (!continent) {
-            countrySelect.innerHTML = '<option value="">Select Country</option>';
-            countrySelect.disabled = true;
-            return;
-        }
-
-        try {
-            console.log("🌍 Selected continent:", continent);
-            const response = await fetch(`/getCountries?continent=${encodeURIComponent(continent)}`);
-
-            if (!response.ok) {
-                throw new Error(`Server responded with ${response.status}`);
-            }
-
-            const countries = await response.json();
-            console.log(`🗺️ Countries for ${continent}:`, countries);
-
-            countrySelect.innerHTML = '<option value="">Select Country</option>';
-
-            if (countries.length === 0) {
-                alert(`No countries found for continent: ${continent}`);
-                countrySelect.disabled = true;
-                return;
-            }
-
-            countries.forEach(country => {
-                const option = document.createElement('option');
-                option.value = country;
-                option.textContent = country;
-                countrySelect.appendChild(option);
-            });
-
-            countrySelect.disabled = false;
-
-        } catch (error) {
-            console.error("❌ Error loading countries:", error);
-            alert("Failed to load countries. Please try again.");
-        }
-    });
-});
-
-
-        // ✅ Redirect to filtered recipe results
-        function filterRecipes() {
-            const continent = document.getElementById('continent-select').value;
-            const country = document.getElementById('country-select').value;
-
-            if (!continent || !country) {
-                alert("Please select a continent and a country.");
-                return;
-            }
-
-            window.location.href = `/recipes/${encodeURIComponent(continent)}/${encodeURIComponent(country)}`;
-        }
-
-// ✅ Fetch and Display Search Results
-async function searchRecipes() {
-    const query = document.getElementById('search').value.trim();
-    const resultsContainer = document.getElementById('search-results-container');
-    resultsContainer.innerHTML = '';
-
-    if (!query) return;
-
-    const response = await fetch('/search?query=' + encodeURIComponent(query));
-    const recipes = await response.json();
-
-    if (recipes.length === 0) {
-        resultsContainer.innerHTML = '<p>No recipes found.</p>';
-        return;
-    }
-
-    const grid = document.createElement('div');
-    grid.className = 'recipe-grid';
-
-    recipes.forEach(recipe => {
-        const card = document.createElement('div');
-        card.className = 'recipe-card';
-        card.innerHTML = `
-            <div class="image-container">
-                <input type="checkbox" class="select-recipe"
-                    data-recipe='${JSON.stringify({
-                        title: recipe.title,
-                        image: recipe.image,
-                        url: recipe.url,
-                        filename: recipe.filename
-                    })}' />
-                <a href="${recipe.url}">
-                    <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
-                </a>
-            </div>
-            <h3 class="recipe-title">${recipe.title}</h3>
-        `;
-        grid.appendChild(card);
-    });
-
-    resultsContainer.appendChild(grid);
-
-    // ✅ Reattach checkbox handlers
-    const selectedRecipesKey = 'selectedRecipes';
-
-    document.querySelectorAll('.select-recipe').forEach(box => {
-        const recipe = JSON.parse(box.dataset.recipe);
-        let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
-
-        // ✅ Pre-check if already selected
-        if (selected.some(r => r.filename === recipe.filename)) {
-            box.checked = true;
-        }
-
-        box.addEventListener('change', () => {
-            selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
-
-            if (box.checked) {
-                if (!selected.some(r => r.filename === recipe.filename)) {
-                    selected.push(recipe);
-                }
-            } else {
-                selected = selected.filter(r => r.filename !== recipe.filename);
-            }
-
-            sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
-            const countElement = document.getElementById('selected-count');
-            if (countElement) countElement.textContent = selected.length;
-        });
-    });
-}
-
-        
-    </script>
-
-
 
 <!-- ✅ "Team Members' Favorite Dishes" Section -->
 <details>
@@ -320,8 +151,229 @@ async function searchRecipes() {
     </section>
   </details>
   
+  <script>
+    function openNav() {
+      document.getElementById("myNav").style.width = "300px"; // or 250px
+    }
+    
+    function closeNav() {
+      document.getElementById("myNav").style.width = "0";
+    }
+    
+    function xchanger(x) {
+      //x.classList.toggle("change");
+      openNav(); // open from left
+    }
+    
+            async function loadContinents() {
+                try {
+                    const response = await fetch('/getContinents');
+                    const continents = await response.json();
+                    const continentSelect = document.getElementById('continent-select');
+    
+                    continentSelect.innerHTML = '<option value="">Select Continent</option>';
+                    continents.forEach(continent => {
+                        const option = document.createElement('option');
+                        option.value = continent;
+                        option.textContent = continent;
+                        continentSelect.appendChild(option);
+                    });
+                } catch (error) {
+                    console.error("❌ Error loading continents:", error);
+                }
+            }
+    
+    // window.addEventListener('DOMContentLoaded', () => {
+    //     const continentSelect = document.getElementById('continent-select');
+    //     const countrySelect = document.getElementById('country-select');
+    
+    //     continentSelect.addEventListener('change', async () => {
+    //         const continent = continentSelect.value;
+    
+    //         if (!continent) {
+    //             countrySelect.innerHTML = '<option value="">Select Country</option>';
+    //             countrySelect.disabled = true;
+    //             return;
+    //         }
+    
+    //         try {
+    //             console.log("🌍 Selected continent:", continent);
+    //             const response = await fetch(`/getCountries?continent=${encodeURIComponent(continent)}`);
+    
+    //             if (!response.ok) {
+    //                 throw new Error(`Server responded with ${response.status}`);
+    //             }
+    
+    //             const countries = await response.json();
+    //             console.log(`🗺️ Countries for ${continent}:`, countries);
+    
+    //             countrySelect.innerHTML = '<option value="">Select Country</option>';
+    
+    //             if (countries.length === 0) {
+    //                 alert(`No countries found for continent: ${continent}`);
+    //                 countrySelect.disabled = true;
+    //                 return;
+    //             }
+    
+    //             countries.forEach(country => {
+    //                 const option = document.createElement('option');
+    //                 option.value = country;
+    //                 option.textContent = country;
+    //                 countrySelect.appendChild(option);
+    //             });
+    
+    //             countrySelect.disabled = false;
+    
+    //         } catch (error) {
+    //             console.error("❌ Error loading countries:", error);
+    //             alert("Failed to load countries. Please try again.");
+    //         }
+    //     });
+    // });
+    
+    
+            // ✅ Redirect to filtered recipe results
+            function filterRecipes() {
+                const continent = document.getElementById('continent-select').value;
+                const country = document.getElementById('country-select').value;
+    
+                if (!continent || !country) {
+                    alert("Please select a continent and a country.");
+                    return;
+                }
+    
+                window.location.href = `/recipes/${encodeURIComponent(continent)}/${encodeURIComponent(country)}`;
+            }
+    
+    // ✅ Fetch and Display Search Results
+    async function searchRecipes() {
+        const query = document.getElementById('search').value.trim();
+        const resultsContainer = document.getElementById('search-results-container');
+        resultsContainer.innerHTML = '';
+    
+        if (!query) return;
+    
+        const response = await fetch('/search?query=' + encodeURIComponent(query));
+        const recipes = await response.json();
+    
+        if (recipes.length === 0) {
+            resultsContainer.innerHTML = '<p>No recipes found.</p>';
+            return;
+        }
+    
+        const grid = document.createElement('div');
+        grid.className = 'recipe-grid';
+    
+        recipes.forEach(recipe => {
+            const card = document.createElement('div');
+            card.className = 'recipe-card';
+            card.innerHTML = `
+                <div class="image-container">
+                    <input type="checkbox" class="select-recipe"
+                        data-recipe='${JSON.stringify({
+                            title: recipe.title,
+                            image: recipe.image,
+                            url: recipe.url,
+                            filename: recipe.filename
+                        })}' />
+                    <a href="${recipe.url}">
+                        <img src="${recipe.image}" alt="${recipe.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                    </a>
+                </div>
+                <h3 class="recipe-title">${recipe.title}</h3>
+            `;
+            grid.appendChild(card);
+        });
+    
+        resultsContainer.appendChild(grid);
+    
+        // ✅ Reattach checkbox handlers
+        const selectedRecipesKey = 'selectedRecipes';
+        const displayedRecipesKey = 'displayedRecipes';
+    
+        document.querySelectorAll('.select-recipe').forEach(box => {
+            const recipe = JSON.parse(box.dataset.recipe);
+            let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    
+            // ✅ Pre-check if already selected
+            if (selected.some(r => r.filename === recipe.filename)) {
+                box.checked = true;
+            }
+    
+            box.addEventListener('change', () => {
+                selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    
+                if (box.checked) {
+                    if (!selected.some(r => r.filename === recipe.filename)) {
+                        selected.push(recipe);
+                    }
+                } else {
+                    selected = selected.filter(r => r.filename !== recipe.filename);
+                }
+    
+                sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+                const countElement = document.getElementById('selected-count');
+                if (countElement) countElement.textContent = selected.length;
+            });
+        });
+    }
+    
+        async function updateUnselectedRecipes() {
+            const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
+            const selectedFilenames = selected.map(r => r.filename);
+    
+            const allDisplayedCheckboxes = document.querySelectorAll('.random-recipes .select-recipe');
+            const displayedFilenames = Array.from(allDisplayedCheckboxes).map(box => {
+                const recipe = JSON.parse(box.dataset.recipe);
+                return recipe.filename;
+            });
+    
+            const unselectedFilenames = displayedFilenames.filter(fn => !selectedFilenames.includes(fn));
+    
+            const response = await fetch('/update-unselected', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ exclude: selectedFilenames })
+            });
+    
+            const newRecipes = await response.json();
+    
+            // Replace unselected cards
+            let i = 0;
+            allDisplayedCheckboxes.forEach(box => {
+                try {
+                    const recipe = JSON.parse(box.dataset.recipe);
+                    if (!selectedFilenames.includes(recipe.filename) && i < newRecipes.length) {
+                        const newR = newRecipes[i++];
+                        if (!newR || !newR.filename || !newR.title || !newR.image || !newR.url) {
+                            console.warn("⚠️ Skipping malformed recipe:", newR);
+                            return;
+                        }
 
-<script>
+                        const card = box.closest('.recipe-card');
+                        const newHTML = `
+                            <div class="image-container">
+                                <input type="checkbox" class="select-recipe"
+                                    data-recipe='${JSON.stringify(newR)}' />
+                                <a href="${newR.url}">
+                                    <img src="${newR.image}" alt="${newR.title}" onerror="this.src='/recipes429/images/default.jpg'">
+                                </a>
+                            </div>
+                            <h3 class="recipe-title">${newR.title}</h3>
+                        `;
+                        card.innerHTML = newHTML;
+                    }
+                } catch (err) {
+                    console.error("❌ Error replacing recipe card:", err);
+                }
+            });
+
+    
+            // Reattach checkbox handlers after replacing HTML
+            attachCheckboxHandlers();
+        }
+    
+            
     const serverSessionID = "<%= serverSessionID %>";
     // Check for serverSessionID mismatch
     const lastServerSession = sessionStorage.getItem('lastServerSession');
@@ -336,52 +388,63 @@ async function searchRecipes() {
       }
 
 
-    window.addEventListener('DOMContentLoaded', () => {
-      const selectedRecipesKey = 'selectedRecipes';
-    
-      function updateSelectedCount() {
-        const selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
-        const countElement = document.getElementById('selected-count');
-        if (countElement) {
-          countElement.textContent = selected.length;
-        }
-        console.log("📦 Currently selected recipes:", selected);
-      }
+    // window.addEventListener('DOMContentLoaded', () => {
+    //   const selectedRecipesKey = 'selectedRecipes';
+    //   attachCheckboxHandlers();
+
+    //     // ✅ Add to DOMContentLoaded block (not search or tutorial popups)
+    //     const displayed = JSON.parse(sessionStorage.getItem('displayedRecipes') || '[]');
+    //     const currentDisplayed = Array.from(document.querySelectorAll('.random-recipes .select-recipe')).map(box => {
+    //         const r = JSON.parse(box.dataset.recipe);
+    //         return r.filename;
+    //     });
+    //     const updated = Array.from(new Set([...displayed, ...currentDisplayed]));
+    //     sessionStorage.setItem('displayedRecipes', JSON.stringify(updated));
+
+
+    //   function updateSelectedCount() {
+    //     const selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    //     const countElement = document.getElementById('selected-count');
+    //     if (countElement) {
+    //       countElement.textContent = selected.length;
+    //     }
+    //     console.log("📦 Currently selected recipes:", selected);
+    //   }
         
-      document.querySelectorAll('.select-recipe').forEach((box, index) => {
-        const recipe = JSON.parse(box.dataset.recipe);
+    //   document.querySelectorAll('.select-recipe').forEach((box, index) => {
+    //     const recipe = JSON.parse(box.dataset.recipe);
         
-        console.log(`🟡 Checkbox #${index} initialized for [${recipe.title}] (${recipe.filename})`);
+    //     console.log(`🟡 Checkbox #${index} initialized for [${recipe.title}] (${recipe.filename})`);
     
-        let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    //     let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
     
-        if (selected.some(r => r.filename === recipe.filename)) {
-          box.checked = true;
-          console.log(`✅ Pre-checking box: ${recipe.filename}`);
-        }
+    //     if (selected.some(r => r.filename === recipe.filename)) {
+    //       box.checked = true;
+    //       console.log(`✅ Pre-checking box: ${recipe.filename}`);
+    //     }
     
-        box.addEventListener('change', () => {
-          selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    //     box.addEventListener('change', () => {
+    //       selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
     
-          console.log(`🖱️ Checkbox toggled for ${recipe.filename}. Checked: ${box.checked}`);
+    //       console.log(`🖱️ Checkbox toggled for ${recipe.filename}. Checked: ${box.checked}`);
     
-          if (box.checked) {
-            if (!selected.some(r => r.filename === recipe.filename)) {
-              selected.push(recipe);
-              console.log(`➕ Added ${recipe.filename}`);
-            }
-          } else {
-            selected = selected.filter(r => r.filename !== recipe.filename);
-            console.log(`➖ Removed ${recipe.filename}`);
-          }
+    //       if (box.checked) {
+    //         if (!selected.some(r => r.filename === recipe.filename)) {
+    //           selected.push(recipe);
+    //           console.log(`➕ Added ${recipe.filename}`);
+    //         }
+    //       } else {
+    //         selected = selected.filter(r => r.filename !== recipe.filename);
+    //         console.log(`➖ Removed ${recipe.filename}`);
+    //       }
     
-          sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
-          updateSelectedCount();
-        });
-      });
+    //       sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+    //       updateSelectedCount();
+    //     });
+    //   });
     
-      updateSelectedCount();
-    });
+    //   updateSelectedCount();
+    // });
 </script>
     
     
@@ -417,13 +480,144 @@ async function searchRecipes() {
       localStorage.setItem("tutorialPopupShown", "true");
     }
   
-    window.addEventListener("DOMContentLoaded", () => {
-      const seen = localStorage.getItem("tutorialPopupShown");
-      if (!seen) {
-        const popup = document.getElementById("tutorial-popup");
-        popup.style.display = "flex";
-      }
+    // window.addEventListener("DOMContentLoaded", () => {
+    //   const seen = localStorage.getItem("tutorialPopupShown");
+    //   if (!seen) {
+    //     const popup = document.getElementById("tutorial-popup");
+    //     popup.style.display = "flex";
+    //   }
+    // });
+
+// function attachCheckboxHandlers() {
+//     // const selectedRecipesKey = 'selectedRecipes';
+
+//     document.querySelectorAll('.select-recipe').forEach((box, index) => {
+//         const recipe = JSON.parse(box.dataset.recipe);
+
+//         let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+//         if (selected.some(r => r.filename === recipe.filename)) {
+//             box.checked = true;
+//         }
+
+//         box.addEventListener('change', () => {
+//             selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+//             if (box.checked) {
+//                 if (!selected.some(r => r.filename === recipe.filename)) {
+//                     selected.push(recipe);
+//                 }
+//             } else {
+//                 selected = selected.filter(r => r.filename !== recipe.filename);
+//             }
+
+//             sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+//             const countElement = document.getElementById('selected-count');
+//             if (countElement) countElement.textContent = selected.length;
+//         });
+//     });
+// }
+
+const selectedRecipesKey = 'selectedRecipes';
+// const displayedRecipesKey = 'displayedRecipes';
+// const serverSessionID = "<%= serverSessionID %>";
+
+function attachCheckboxHandlers() {
+    document.querySelectorAll('.select-recipe').forEach((box, index) => {
+        const recipe = JSON.parse(box.dataset.recipe);
+        let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+        if (selected.some(r => r.filename === recipe.filename)) {
+            box.checked = true;
+        }
+
+        box.addEventListener('change', () => {
+            selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+
+            if (box.checked) {
+                if (!selected.some(r => r.filename === recipe.filename)) {
+                    selected.push(recipe);
+                }
+            } else {
+                selected = selected.filter(r => r.filename !== recipe.filename);
+            }
+
+            sessionStorage.setItem(selectedRecipesKey, JSON.stringify(selected));
+            updateSelectedCount();
+        });
     });
+}
+
+function updateSelectedCount() {
+    const selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
+    const countElement = document.getElementById('selected-count');
+    if (countElement) countElement.textContent = selected.length;
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+    // ✅ Server restart handling
+    const lastServerSession = sessionStorage.getItem('lastServerSession');
+    if (lastServerSession !== serverSessionID) {
+        console.log("🔁 Server restarted — clearing selection cache.");
+        sessionStorage.removeItem(selectedRecipesKey);
+        sessionStorage.removeItem(displayedRecipesKey);
+        sessionStorage.setItem('lastServerSession', serverSessionID);
+    }
+
+    // ✅ Load countries on continent change
+    const continentSelect = document.getElementById('continent-select');
+    const countrySelect = document.getElementById('country-select');
+
+    continentSelect.addEventListener('change', async () => {
+        const continent = continentSelect.value;
+        if (!continent) {
+            countrySelect.innerHTML = '<option value="">Select Country</option>';
+            countrySelect.disabled = true;
+            return;
+        }
+
+        try {
+            const response = await fetch(`/getCountries?continent=${encodeURIComponent(continent)}`);
+            if (!response.ok) throw new Error(`Server responded with ${response.status}`);
+
+            const countries = await response.json();
+            countrySelect.innerHTML = '<option value="">Select Country</option>';
+            countries.forEach(country => {
+                const option = document.createElement('option');
+                option.value = country;
+                option.textContent = country;
+                countrySelect.appendChild(option);
+            });
+            countrySelect.disabled = false;
+
+        } catch (error) {
+            console.error("❌ Error loading countries:", error);
+            alert("Failed to load countries. Please try again.");
+        }
+    });
+
+    // ✅ Attach checkboxes and update count
+    attachCheckboxHandlers();
+    updateSelectedCount();
+
+    // // ✅ Track displayed recipes (used for updateUnselectedRecipes)
+    // const displayed = JSON.parse(sessionStorage.getItem(displayedRecipesKey) || '[]');
+    // const currentDisplayed = Array.from(document.querySelectorAll('.random-recipes .select-recipe')).map(box => {
+    //     const r = JSON.parse(box.dataset.recipe);
+    //     return r.filename;
+    // });
+    // const updated = Array.from(new Set([...displayed, ...currentDisplayed]));
+    // sessionStorage.setItem(displayedRecipesKey, JSON.stringify(updated));
+
+    // ✅ Show tutorial popup (only if first visit)
+    const seen = localStorage.getItem("tutorialPopupShown");
+    if (!seen) {
+        const popup = document.getElementById("tutorial-popup");
+        if (popup) popup.style.display = "flex";
+    }
+});
+
+
   </script>
   
 </body>
