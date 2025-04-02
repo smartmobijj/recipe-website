@@ -670,6 +670,8 @@ app.post('/selected-recipes/shopping-list', (req, res) => {
 
 app.post('/update-unselected', (req, res) => {
     const excludedFilenames = req.body.exclude || [];
+    console.log("🛬 Received /update-unselected request");
+    console.log("❌ Filenames to exclude:", excludedFilenames);
 
     const db = new sqlite3.Database('recipe-ingredient.db');
     const placeholders = excludedFilenames.map(() => '?').join(',');
@@ -680,12 +682,15 @@ app.post('/update-unselected', (req, res) => {
         ORDER BY RANDOM()
         LIMIT 10
     `;
+    console.log("📄 SQL Query being executed:\n" + baseQuery);
+    console.log("📌 SQL Parameters:", excludedFilenames);
 
     db.all(baseQuery, excludedFilenames, (err, rows) => {
         if (err) {
             console.error("❌ SQLite error in /update-unselected:", err);
             return res.json([]);
         }
+        console.log("✅ Raw rows returned from SQLite:", rows);
 
         const recipesDir = path.join(__dirname, 'recipes429');
         const result = [];
@@ -693,6 +698,8 @@ app.post('/update-unselected', (req, res) => {
         rows.forEach(row => {
             let baseName = row.json_path || row.recipe_name;
             if (!baseName.endsWith('.json')) baseName += '.json';
+            console.log(`📦 Processing row: ${row.json_path} (${row.recipe_name})`);
+
 
             const filePath = path.join(recipesDir, baseName);
             if (fs.existsSync(filePath)) {
@@ -723,7 +730,9 @@ app.post('/update-unselected', (req, res) => {
             
         });
 
+        console.log("📤 Sending recipes to client:", result.map(r => r.filename));
         res.json(result);
+
     });
 });
 

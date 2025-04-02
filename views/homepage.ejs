@@ -319,17 +319,49 @@
     }
     
         async function updateUnselectedRecipes() {
+            //alert("🟡 updateUnselectedRecipes() called"); // step 1 test
+
             const selected = JSON.parse(sessionStorage.getItem('selectedRecipes') || '[]');
             const selectedFilenames = selected.map(r => r.filename);
+            //alert("✅ Selected count: " + selectedFilenames.length);
     
-            const allDisplayedCheckboxes = document.querySelectorAll('.random-recipes .select-recipe');
-            const displayedFilenames = Array.from(allDisplayedCheckboxes).map(box => {
-                const recipe = JSON.parse(box.dataset.recipe);
-                return recipe.filename;
-            });
-    
+            // const allDisplayedCheckboxes = document.querySelectorAll('.random-recipes .select-recipe');
+            // const displayedFilenames = Array.from(allDisplayedCheckboxes).map(box => {
+            //     const recipe = JSON.parse(box.dataset.recipe);
+            //     return recipe.filename;
+            // });
+            // alert("🖼️ Displayed recipe filenames:", displayedFilenames);
+
+            let allDisplayedCheckboxes;
+            let displayedFilenames = [];
+
+            try {
+                //alert("🔍 Attempting to query all checkboxes...");
+                allDisplayedCheckboxes = document.querySelectorAll('.random-recipes .select-recipe');
+                //alert("✅ Found " + allDisplayedCheckboxes.length + " .select-recipe checkboxes");
+
+                displayedFilenames = Array.from(allDisplayedCheckboxes).map((box, index) => {
+                    try {
+                        const recipe = JSON.parse(decodeURIComponent(box.dataset.recipe));
+                        if (!recipe || !recipe.filename) {
+                            throw new Error("Missing recipe or filename in checkbox #" + index);
+                        }
+                        return recipe.filename;
+                    } catch (e) {
+                        //alert("❌ Error parsing data-recipe in checkbox #" + index + ": " + e.message);
+                        throw e; // Stop mapping once we hit a bad one
+                    }
+                });
+
+                //alert("🖼️ Displayed recipe filenames: " + displayedFilenames.join(', '));
+            } catch (err) {
+                //alert("🚨 Error occurred while processing displayed checkboxes: " + err.message);
+                console.error("🔴 Debug Error Trace:", err);
+            }
+
             const unselectedFilenames = displayedFilenames.filter(fn => !selectedFilenames.includes(fn));
-    
+            //alert("📤 Unselected to replace: " + unselectedFilenames.join(", "));
+   
             const response = await fetch('/update-unselected', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
@@ -337,24 +369,28 @@
             });
     
             const newRecipes = await response.json();
-    
+            console.log("📥 New recipes returned by server:", newRecipes);
+            //alert("📥 Server returned " + newRecipes.length + " recipes");
+
             // Replace unselected cards
             let i = 0;
             allDisplayedCheckboxes.forEach(box => {
                 try {
-                    const recipe = JSON.parse(box.dataset.recipe);
+                    const recipe = JSON.parse(decodeURIComponent(box.dataset.recipe));
                     if (!selectedFilenames.includes(recipe.filename) && i < newRecipes.length) {
                         const newR = newRecipes[i++];
+
                         if (!newR || !newR.filename || !newR.title || !newR.image || !newR.url) {
                             console.warn("⚠️ Skipping malformed recipe:", newR);
                             return;
                         }
+                        console.log(`🔄 Replacing [${recipe.filename}] with [${newR.filename}]`);
 
                         const card = box.closest('.recipe-card');
                         const newHTML = `
                             <div class="image-container">
                                 <input type="checkbox" class="select-recipe"
-                                    data-recipe='${JSON.stringify(newR)}' />
+                                    data-recipe="${encodeURIComponent(JSON.stringify(newR))}" />
                                 <a href="${newR.url}">
                                     <img src="${newR.image}" alt="${newR.title}" onerror="this.src='/recipes429/images/default.jpg'">
                                 </a>
@@ -362,8 +398,10 @@
                             <h3 class="recipe-title">${newR.title}</h3>
                         `;
                         card.innerHTML = newHTML;
+                        attachCheckboxHandlers(); // Rebind for each newly injected recipe
                     }
                 } catch (err) {
+                    //alert("❌ Error replacing recipe card:" + err.message)
                     console.error("❌ Error replacing recipe card:", err);
                 }
             });
@@ -524,7 +562,7 @@ const selectedRecipesKey = 'selectedRecipes';
 
 function attachCheckboxHandlers() {
     document.querySelectorAll('.select-recipe').forEach((box, index) => {
-        const recipe = JSON.parse(box.dataset.recipe);
+        const recipe = JSON.parse(decodeURIComponent(box.dataset.recipe));
         let selected = JSON.parse(sessionStorage.getItem(selectedRecipesKey) || '[]');
 
         if (selected.some(r => r.filename === recipe.filename)) {
